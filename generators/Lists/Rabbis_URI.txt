@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Category:Rabbis_by_century>
+<http://dbpedia.org/resource/Category:Rabbis_by_country>
