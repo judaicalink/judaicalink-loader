@@ -1,0 +1,279 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Baal_Shem_Tov> a foaf:Person ;
+    jl:hasLabel "Ba'al Shem Tov@it",
+        "Baal Shem Tov@en",
+        "Baal Shem Tov@fr",
+        "Israel Baal Szem Tow@pl",
+        "Israel ben Elieser@de",
+        "Israel ben Eliezer@es",
+        "Israel ben Eliezer@pt",
+        "Yisroel ben Eliezer@nl",
+        "Бааль Шем Тов@ru",
+        "بعل شيم توف@ar",
+        "イスラエル・ベン・エリエゼル@ja" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ba'al_Šem_Tov>,
+        <http://dbpedia.org/resource/Baal_Shem_Tov>,
+        <http://de.dbpedia.org/resource/Israel_ben_Elieser>,
+        <http://es.dbpedia.org/resource/Israel_ben_Eliezer>,
+        <http://eu.dbpedia.org/resource/Baal_Shem_Tov>,
+        <http://fr.dbpedia.org/resource/Baal_Shem_Tov>,
+        <http://it.dbpedia.org/resource/Ba'al_Shem_Tov>,
+        <http://ja.dbpedia.org/resource/イスラエル・ベン・エリエゼル>,
+        <http://nl.dbpedia.org/resource/Yisroel_ben_Eliezer>,
+        <http://pl.dbpedia.org/resource/Israel_Baal_Szem_Tow>,
+        <http://pt.dbpedia.org/resource/Israel_ben_Eliezer>,
+        <http://rdf.freebase.com/ns/m.0144jp>,
+        <http://viaf.org/viaf/64812822>,
+        <http://wikidata.dbpedia.org/resource/Q319062>,
+        <http://www.wikidata.org/entity/Q319062>,
+        <http://yago-knowledge.org/resource/Baal_Shem_Tov> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Max_Eichhorn> a foaf:Person ;
+    jl:hasLabel "David Max Eichhorn@en" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Max_Eichhorn>,
+        <http://rdf.freebase.com/ns/m.0h51qml>,
+        <http://wikidata.dbpedia.org/resource/Q5237242>,
+        <http://www.wikidata.org/entity/Q5237242>,
+        <http://yago-knowledge.org/resource/David_Max_Eichhorn> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Wolpe> a foaf:Person ;
+    jl:hasLabel "David Wolpe@en" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Wolpe>,
+        <http://rdf.freebase.com/ns/m.09c49_>,
+        <http://wikidata.dbpedia.org/resource/Q5241264>,
+        <http://www.wikidata.org/entity/Q5241264>,
+        <http://yago-knowledge.org/resource/David_Wolpe> .
+
+<http://data.judaicalink.org/data/dbpedia/Gunther_Plaut> a foaf:Person ;
+    jl:hasLabel "Gunther Plaut@de",
+        "Gunther Plaut@en" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/Gunther_Plaut>,
+        <http://de.dbpedia.org/resource/Gunther_Plaut>,
+        <http://rdf.freebase.com/ns/m.03djj9>,
+        <http://viaf.org/viaf/25569723>,
+        <http://wikidata.dbpedia.org/resource/Q216199>,
+        <http://www.wikidata.org/entity/Q216199>,
+        <http://yago-knowledge.org/resource/Gunther_Plaut> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Luria> a foaf:Person ;
+    jl:hasLabel "Isaac Louria@fr",
+        "Isaac Luria@en",
+        "Isaac Luria@es",
+        "Isaac Luria@pt",
+        "Isaac ben Solomon Luria@it",
+        "Isaak Luria@de",
+        "Izaak Luria@pl",
+        "Лурия, Ицхак@ru",
+        "إسحق لوريا@ar" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_Luria>,
+        <http://de.dbpedia.org/resource/Isaak_Luria>,
+        <http://es.dbpedia.org/resource/Isaac_Luria>,
+        <http://fr.dbpedia.org/resource/Isaac_Louria>,
+        <http://it.dbpedia.org/resource/Isaac_ben_Solomon_Luria>,
+        <http://pl.dbpedia.org/resource/Izaak_Luria>,
+        <http://pt.dbpedia.org/resource/Isaac_Luria>,
+        <http://rdf.freebase.com/ns/m.01gbl4>,
+        <http://wikidata.dbpedia.org/resource/Q339509>,
+        <http://www.wikidata.org/entity/Q339509>,
+        <http://yago-knowledge.org/resource/Isaac_Luria> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Mayer_Wise> a foaf:Person ;
+    jl:hasLabel "Isaac Mayer Wise@de",
+        "Isaac Mayer Wise@en",
+        "Isaac Mayer Wise@es",
+        "Isaac Mayer Wise@fr",
+        "Isaac Mayer Wise@pl",
+        "アイザック・メイアー・ワイズ@ja",
+        "艾萨克·梅耶·怀斯@zh" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Isaac_Mayer_Wise>,
+        <http://dbpedia.org/resource/Isaac_Mayer_Wise>,
+        <http://de.dbpedia.org/resource/Isaac_Mayer_Wise>,
+        <http://es.dbpedia.org/resource/Isaac_Mayer_Wise>,
+        <http://fr.dbpedia.org/resource/Isaac_Mayer_Wise>,
+        <http://ja.dbpedia.org/resource/アイザック・メイアー・ワイズ>,
+        <http://pl.dbpedia.org/resource/Isaac_Mayer_Wise>,
+        <http://rdf.freebase.com/ns/m.05d3n6>,
+        <http://wikidata.dbpedia.org/resource/Q1673434>,
+        <http://www.wikidata.org/entity/Q1673434>,
+        <http://yago-knowledge.org/resource/Isaac_Mayer_Wise> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Neusner> a foaf:Person ;
+    jl:hasLabel "Jacob Neusner@de",
+        "Jacob Neusner@en",
+        "Jacob Neusner@es",
+        "Jacob Neusner@fr",
+        "Jacob Neusner@it" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacob_Neusner>,
+        <http://de.dbpedia.org/resource/Jacob_Neusner>,
+        <http://es.dbpedia.org/resource/Jacob_Neusner>,
+        <http://fr.dbpedia.org/resource/Jacob_Neusner>,
+        <http://id.dbpedia.org/resource/Jacob_Neusner>,
+        <http://it.dbpedia.org/resource/Jacob_Neusner>,
+        <http://rdf.freebase.com/ns/m.04658>,
+        <http://viaf.org/viaf/61559556>,
+        <http://wikidata.dbpedia.org/resource/Q1384317>,
+        <http://www.wikidata.org/entity/Q1384317>,
+        <http://yago-knowledge.org/resource/Jacob_Neusner> .
+
+<http://data.judaicalink.org/data/dbpedia/Jonathan_Sacks> a foaf:Person ;
+    jl:hasLabel "Jonathan Sacks, Baron Sacks@de",
+        "Jonathan Sacks@en",
+        "Jonathan Sacks@it",
+        "Сакс, Джонатан@ru" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jonathan_Sacks>,
+        <http://data.europa.eu/euodp/jrc-names/Jonathan_Sacks>,
+        <http://dbpedia.org/resource/Jonathan_Sacks>,
+        <http://de.dbpedia.org/resource/Jonathan_Sacks,_Baron_Sacks>,
+        <http://it.dbpedia.org/resource/Jonathan_Sacks>,
+        <http://rdf.freebase.com/ns/m.0498fr>,
+        <http://viaf.org/viaf/94664209>,
+        <http://wikidata.dbpedia.org/resource/Q336766>,
+        <http://www.wikidata.org/entity/Q336766>,
+        <http://yago-knowledge.org/resource/Jonathan_Sacks> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_Hertz> a foaf:Person ;
+    jl:hasLabel "Joseph Hertz@de",
+        "Joseph Hertz@en",
+        "Герц, Йосеф Цви@ru" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Joseph_Hertz>,
+        <http://dbpedia.org/resource/Joseph_Hertz>,
+        <http://de.dbpedia.org/resource/Joseph_Hertz>,
+        <http://rdf.freebase.com/ns/m.066xlm>,
+        <http://viaf.org/viaf/72237945>,
+        <http://wikidata.dbpedia.org/resource/Q549535>,
+        <http://www.wikidata.org/entity/Q549535>,
+        <http://yago-knowledge.org/resource/Joseph_Hertz> .
+
+<http://data.judaicalink.org/data/dbpedia/Laura_Janner-Klausner> a foaf:Person ;
+    jl:hasLabel "Laura Janner-Klausner@de",
+        "Laura Janner-Klausner@en" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/Laura_Janner-Klausner>,
+        <http://de.dbpedia.org/resource/Laura_Janner-Klausner>,
+        <http://rdf.freebase.com/ns/m.0nbtp78>,
+        <http://wikidata.dbpedia.org/resource/Q6499049>,
+        <http://www.wikidata.org/entity/Q6499049>,
+        <http://yago-knowledge.org/resource/Laura_Janner-Klausner> .
+
+<http://data.judaicalink.org/data/dbpedia/Leo_Baeck> a foaf:Person ;
+    jl:hasLabel "Leo Baeck@de",
+        "Leo Baeck@en",
+        "Leo Baeck@es",
+        "Leo Baeck@fr",
+        "Leo Baeck@it",
+        "Leo Baeck@pl",
+        "Бек, Лео@ru" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Leo_Baeck>,
+        <http://dbpedia.org/resource/Leo_Baeck>,
+        <http://de.dbpedia.org/resource/Leo_Baeck>,
+        <http://es.dbpedia.org/resource/Leo_Baeck>,
+        <http://fr.dbpedia.org/resource/Leo_Baeck>,
+        <http://id.dbpedia.org/resource/Leo_Baeck>,
+        <http://it.dbpedia.org/resource/Leo_Baeck>,
+        <http://pl.dbpedia.org/resource/Leo_Baeck>,
+        <http://rdf.freebase.com/ns/m.03qzn1>,
+        <http://wikidata.dbpedia.org/resource/Q704954>,
+        <http://www.wikidata.org/entity/Q704954>,
+        <http://yago-knowledge.org/resource/Leo_Baeck> .
+
+<http://data.judaicalink.org/data/dbpedia/Louis_Ginzberg> a foaf:Person ;
+    jl:hasLabel "Louis Ginzberg@de",
+        "Louis Ginzberg@en",
+        "Louis Ginzberg@fr",
+        "Louis Ginzberg@it" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/Louis_Ginzberg>,
+        <http://de.dbpedia.org/resource/Louis_Ginzberg>,
+        <http://fr.dbpedia.org/resource/Louis_Ginzberg>,
+        <http://it.dbpedia.org/resource/Louis_Ginzberg>,
+        <http://rdf.freebase.com/ns/m.04ptf>,
+        <http://wikidata.dbpedia.org/resource/Q387826>,
+        <http://www.wikidata.org/entity/Q387826>,
+        <http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Ginzberg_Louis_1873-1953>,
+        <http://yago-knowledge.org/resource/Louis_Ginzberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Lerner_(rabbi)> a foaf:Person ;
+    jl:hasLabel "Michael Lerner (rabbi)@en" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Lerner_(rabbi)>,
+        <http://id.dbpedia.org/resource/Michael_Lerner_(rabi)>,
+        <http://rdf.freebase.com/ns/m.018lgh>,
+        <http://wikidata.dbpedia.org/resource/Q6981284>,
+        <http://www.wikidata.org/entity/Q6981284>,
+        <http://yago-knowledge.org/resource/Michael_Lerner_(rabbi)> .
+
+<http://data.judaicalink.org/data/dbpedia/Mordecai_Kaplan> a foaf:Person ;
+    jl:hasLabel "Mordecai Kaplan@en",
+        "Mordecai Kaplan@es",
+        "Mordecai Kaplan@fr",
+        "Mordecai Kaplan@it",
+        "Mordecai Kaplan@pt",
+        "Mordechai M. Kaplan@de",
+        "Mordechaj Kaplan@pl",
+        "Каплан, Мордехай@ru" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/Mordecai_Kaplan>,
+        <http://de.dbpedia.org/resource/Mordechai_M._Kaplan>,
+        <http://es.dbpedia.org/resource/Mordecai_Kaplan>,
+        <http://fr.dbpedia.org/resource/Mordecai_Kaplan>,
+        <http://it.dbpedia.org/resource/Mordecai_Kaplan>,
+        <http://pl.dbpedia.org/resource/Mordechaj_Kaplan>,
+        <http://pt.dbpedia.org/resource/Mordecai_Kaplan>,
+        <http://rdf.freebase.com/ns/m.056d_>,
+        <http://wikidata.dbpedia.org/resource/Q555541>,
+        <http://www.wikidata.org/entity/Q555541>,
+        <http://yago-knowledge.org/resource/Mordecai_Kaplan> .
+
+<http://data.judaicalink.org/data/dbpedia/Shlomo_Carlebach_(musician)> a foaf:Person ;
+    jl:hasLabel "Shlomo Carlebach (musician)@en",
+        "Shlomo Carlebach@de",
+        "Shlomo Carlebach@fr",
+        "Shlomo Carlebach@pl",
+        "Карлебах, Шломо@ru" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/Shlomo_Carlebach_(musician)>,
+        <http://de.dbpedia.org/resource/Shlomo_Carlebach>,
+        <http://fr.dbpedia.org/resource/Shlomo_Carlebach>,
+        <http://pl.dbpedia.org/resource/Shlomo_Carlebach>,
+        <http://rdf.freebase.com/ns/m.01q53gp>,
+        <http://viaf.org/viaf/10036260>,
+        <http://wikidata.dbpedia.org/resource/Q76999>,
+        <http://www.wikidata.org/entity/Q76999>,
+        <http://yago-knowledge.org/resource/Shlomo_Carlebach_(musician)> .
+
+<http://data.judaicalink.org/data/dbpedia/Stephen_Samuel_Wise> a foaf:Person ;
+    jl:hasLabel "Stephen Samuel Wise@en",
+        "Stephen Samuel Wise@es",
+        "Stephen Wise@de",
+        "Stephen Wise@fr",
+        "スティーヴン・サミュエル・ワイズ@ja",
+        "斯蒂芬·塞缪尔·怀斯@zh" ;
+    jl:occupation "Jewish religious leaders" ;
+    owl:sameAs <http://dbpedia.org/resource/Stephen_Samuel_Wise>,
+        <http://de.dbpedia.org/resource/Stephen_Wise>,
+        <http://es.dbpedia.org/resource/Stephen_Samuel_Wise>,
+        <http://fr.dbpedia.org/resource/Stephen_Wise>,
+        <http://ja.dbpedia.org/resource/スティーヴン・サミュエル・ワイズ>,
+        <http://rdf.freebase.com/ns/m.03842k>,
+        <http://viaf.org/viaf/10622689>,
+        <http://wikidata.dbpedia.org/resource/Q1636973>,
+        <http://www.wikidata.org/entity/Q1636973>,
+        <http://yago-knowledge.org/resource/Stephen_Samuel_Wise> .
+

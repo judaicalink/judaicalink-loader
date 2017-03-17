@@ -1,0 +1,3463 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Aaron_Walden> a foaf:Person ;
+    jl:hasLabel "Aaron Walden@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Aaron_Walden>,
+        <http://rdf.freebase.com/ns/m.02rd6td>,
+        <http://wikidata.dbpedia.org/resource/Q4662505>,
+        <http://www.wikidata.org/entity/Q4662505>,
+        <http://yago-knowledge.org/resource/Aaron_Walden> .
+
+<http://data.judaicalink.org/data/dbpedia/Aaron_ben_Moses_Teomim> a foaf:Person ;
+    jl:hasLabel "Aaron ben Moses Teomim@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Aaron_ben_Moses_Teomim>,
+        <http://rdf.freebase.com/ns/m.0jkzzp1>,
+        <http://wikidata.dbpedia.org/resource/Q4662591>,
+        <http://www.wikidata.org/entity/Q4662591>,
+        <http://yago-knowledge.org/resource/Aaron_ben_Moses_Teomim> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_Jacob_Paperna> a foaf:Person ;
+    jl:hasLabel "Abraham Jacob Paperna@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_Jacob_Paperna>,
+        <http://rdf.freebase.com/ns/m.02rfmz0>,
+        <http://wikidata.dbpedia.org/resource/Q4668931>,
+        <http://www.wikidata.org/entity/Q4668931>,
+        <http://yago-knowledge.org/resource/Abraham_Jacob_Paperna> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_Leon> a foaf:Person ;
+    jl:hasLabel "Abraham Leon@en",
+        "Abraham Leon@pl",
+        "Abraham León@es",
+        "Abraham Léon@de",
+        "Abraham Léon@fr",
+        "Abraham Léon@it",
+        "Abraham Wajnsztok@nl",
+        "アブラハム・レオン@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_Leon>,
+        <http://de.dbpedia.org/resource/Abraham_Léon>,
+        <http://es.dbpedia.org/resource/Abraham_León>,
+        <http://fr.dbpedia.org/resource/Abraham_Léon>,
+        <http://it.dbpedia.org/resource/Abraham_Léon>,
+        <http://ja.dbpedia.org/resource/アブラハム・レオン>,
+        <http://nl.dbpedia.org/resource/Abraham_Wajnsztok>,
+        <http://pl.dbpedia.org/resource/Abraham_Leon>,
+        <http://rdf.freebase.com/ns/m.03b407>,
+        <http://viaf.org/viaf/22933646>,
+        <http://wikidata.dbpedia.org/resource/Q330267>,
+        <http://www.wikidata.org/entity/Q330267>,
+        <http://yago-knowledge.org/resource/Abraham_Leon> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_Solomon_ben_Isaac_ben_Samuel_Catalan> a foaf:Person ;
+    jl:hasLabel "Abraham Solomon ben Isaac ben Samuel Catalan@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_Solomon_ben_Isaac_ben_Samuel_Catalan>,
+        <http://rdf.freebase.com/ns/m.02rwz_n>,
+        <http://wikidata.dbpedia.org/resource/Q4669185>,
+        <http://www.wikidata.org/entity/Q4669185>,
+        <http://yago-knowledge.org/resource/Abraham_Solomon_ben_Isaac_ben_Samuel_Catalan> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_ben_Samuel_Cohen_of_Lask> a foaf:Person ;
+    jl:hasLabel "Abraham ben Samuel Cohen of Lask@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_ben_Samuel_Cohen_of_Lask>,
+        <http://rdf.freebase.com/ns/m.027w32w>,
+        <http://wikidata.dbpedia.org/resource/Q4669265>,
+        <http://www.wikidata.org/entity/Q4669265>,
+        <http://yago-knowledge.org/resource/Abraham_ben_Samuel_Cohen_of_Lask> .
+
+<http://data.judaicalink.org/data/dbpedia/Albert_Cohen> a foaf:Person ;
+    jl:hasLabel "Albert Cohen (scrittore)@it",
+        "Albert Cohen@de",
+        "Albert Cohen@en",
+        "Albert Cohen@es",
+        "Albert Cohen@fr",
+        "Albert Cohen@nl",
+        "Albert Cohen@pl",
+        "Коэн, Альбер@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Albert_Cohen>,
+        <http://data.europa.eu/euodp/jrc-names/Albert_Cohen>,
+        <http://dbpedia.org/resource/Albert_Cohen>,
+        <http://de.dbpedia.org/resource/Albert_Cohen>,
+        <http://es.dbpedia.org/resource/Albert_Cohen>,
+        <http://fr.dbpedia.org/resource/Albert_Cohen>,
+        <http://it.dbpedia.org/resource/Albert_Cohen_(scrittore)>,
+        <http://ko.dbpedia.org/resource/알베르트_코헨>,
+        <http://nl.dbpedia.org/resource/Albert_Cohen>,
+        <http://pl.dbpedia.org/resource/Albert_Cohen>,
+        <http://rdf.freebase.com/ns/m.03j90v>,
+        <http://viaf.org/viaf/2468375>,
+        <http://wikidata.dbpedia.org/resource/Q123553>,
+        <http://www.wikidata.org/entity/Q123553>,
+        <http://yago-knowledge.org/resource/Albert_Cohen> .
+
+<http://data.judaicalink.org/data/dbpedia/Albert_Memmi> a foaf:Person ;
+    jl:hasLabel "Albert Memmi@de",
+        "Albert Memmi@en",
+        "Albert Memmi@es",
+        "Albert Memmi@fr",
+        "Albert Memmi@pl",
+        "Albert Memmi@pt",
+        "Мемми, Альбер@ru",
+        "ألبير ممي@ar" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Albert_Memmi>,
+        <http://de.dbpedia.org/resource/Albert_Memmi>,
+        <http://es.dbpedia.org/resource/Albert_Memmi>,
+        <http://fr.dbpedia.org/resource/Albert_Memmi>,
+        <http://pl.dbpedia.org/resource/Albert_Memmi>,
+        <http://pt.dbpedia.org/resource/Albert_Memmi>,
+        <http://rdf.freebase.com/ns/m.041y20>,
+        <http://viaf.org/viaf/105885902>,
+        <http://wikidata.dbpedia.org/resource/Q733225>,
+        <http://www.wikidata.org/entity/Q733225>,
+        <http://yago-knowledge.org/resource/Albert_Memmi> .
+
+<http://data.judaicalink.org/data/dbpedia/Aleksandar_Tišma> a foaf:Person ;
+    jl:hasLabel "Aleksandar Tišma@de",
+        "Aleksandar Tišma@en",
+        "Aleksandar Tišma@nl",
+        "Aleksandar Tišma@pl",
+        "Alexandre Tišma@fr",
+        "Тишма, Александр@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Aleksandar_Tišma>,
+        <http://de.dbpedia.org/resource/Aleksandar_Tišma>,
+        <http://fr.dbpedia.org/resource/Alexandre_Tišma>,
+        <http://nl.dbpedia.org/resource/Aleksandar_Tišma>,
+        <http://pl.dbpedia.org/resource/Aleksandar_Tišma>,
+        <http://rdf.freebase.com/ns/m.0drsh1>,
+        <http://wikidata.dbpedia.org/resource/Q699950>,
+        <http://www.wikidata.org/entity/Q699950>,
+        <http://yago-knowledge.org/resource/Aleksandar_Tišma> .
+
+<http://data.judaicalink.org/data/dbpedia/Aleksei_Kapler> a foaf:Person ;
+    jl:hasLabel "Aleksei Kapler@en",
+        "Aleksiej Kapler@pl",
+        "Alexeï Kapler@fr",
+        "Каплер, Алексей Яковлевич@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Aleksei_Kapler>,
+        <http://fr.dbpedia.org/resource/Alexeï_Kapler>,
+        <http://pl.dbpedia.org/resource/Aleksiej_Kapler>,
+        <http://rdf.freebase.com/ns/m.073p28>,
+        <http://viaf.org/viaf/27877081>,
+        <http://wikidata.dbpedia.org/resource/Q2834368>,
+        <http://www.wikidata.org/entity/Q2834368>,
+        <http://yago-knowledge.org/resource/Aleksei_Kapler> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Ziskind_Maimon> a foaf:Person ;
+    jl:hasLabel "Alexander Ziskind Maimon@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexander_Ziskind_Maimon>,
+        <http://rdf.freebase.com/ns/m.04f_m8c>,
+        <http://wikidata.dbpedia.org/resource/Q8804422>,
+        <http://www.wikidata.org/entity/Q8804422>,
+        <http://yago-knowledge.org/resource/Alexander_Ziskind_Maimon> .
+
+<http://data.judaicalink.org/data/dbpedia/Alfred_Hefter> a foaf:Person ;
+    jl:hasLabel "Alfred Hefter@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Alfred_Hefter>,
+        <http://rdf.freebase.com/ns/m.0nbtk8b>,
+        <http://wikidata.dbpedia.org/resource/Q4722810>,
+        <http://www.wikidata.org/entity/Q4722810>,
+        <http://yago-knowledge.org/resource/Alfred_Hefter> .
+
+<http://data.judaicalink.org/data/dbpedia/Alfredo_Seiferheld> a foaf:Person ;
+    jl:hasLabel "Alfredo Seiferheld@en",
+        "Alfredo Seiferheld@es" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Alfredo_Seiferheld>,
+        <http://es.dbpedia.org/resource/Alfredo_Seiferheld>,
+        <http://rdf.freebase.com/ns/m.04f_vsr>,
+        <http://viaf.org/viaf/67574569>,
+        <http://wikidata.dbpedia.org/resource/Q4723871>,
+        <http://www.wikidata.org/entity/Q4723871>,
+        <http://yago-knowledge.org/resource/Alfredo_Seiferheld> .
+
+<http://data.judaicalink.org/data/dbpedia/Alice_Rühle-Gerstel> a foaf:Person ;
+    jl:hasLabel "Alice Rühle-Gerstel@de",
+        "Alice Rühle-Gerstel@en",
+        "Alice Rühle-Gerstel@es",
+        "Alice Rühle-Gerstel@fr",
+        "Рюле-Герштель, Алиса@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Alice_Rühle-Gerstel>,
+        <http://de.dbpedia.org/resource/Alice_Rühle-Gerstel>,
+        <http://es.dbpedia.org/resource/Alice_Rühle-Gerstel>,
+        <http://fr.dbpedia.org/resource/Alice_Rühle-Gerstel>,
+        <http://rdf.freebase.com/ns/m.0jk_1jk>,
+        <http://viaf.org/viaf/17305652>,
+        <http://wikidata.dbpedia.org/resource/Q86289>,
+        <http://www.wikidata.org/entity/Q86289>,
+        <http://yago-knowledge.org/resource/Alice_Rühle-Gerstel> .
+
+<http://data.judaicalink.org/data/dbpedia/Alphonse_Alkan> a foaf:Person ;
+    jl:hasLabel "Alphonse Alkan@en",
+        "Alphonse Alkan@fr",
+        "Alphonse Alkan@it" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Alphonse_Alkan>,
+        <http://fr.dbpedia.org/resource/Alphonse_Alkan>,
+        <http://it.dbpedia.org/resource/Alphonse_Alkan>,
+        <http://rdf.freebase.com/ns/m.0bwjc1d>,
+        <http://wikidata.dbpedia.org/resource/Q167317>,
+        <http://www.wikidata.org/entity/Q167317>,
+        <http://yago-knowledge.org/resource/Alphonse_Alkan> .
+
+<http://data.judaicalink.org/data/dbpedia/Amos_Bar> a foaf:Person ;
+    jl:hasLabel "Amos Bar@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Amos_Bar>,
+        <http://rdf.freebase.com/ns/m.0gj9w71>,
+        <http://wikidata.dbpedia.org/resource/Q4747833>,
+        <http://www.wikidata.org/entity/Q4747833>,
+        <http://yago-knowledge.org/resource/Amos_Bar> .
+
+<http://data.judaicalink.org/data/dbpedia/Andreas_Latzko> a foaf:Person ;
+    jl:hasLabel "Andreas Latzko@de",
+        "Andreas Latzko@en",
+        "Andreas Latzko@fr",
+        "Andreas Latzko@it",
+        "Лацко, Андреас@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Andreas_Latzko>,
+        <http://de.dbpedia.org/resource/Andreas_Latzko>,
+        <http://fr.dbpedia.org/resource/Andreas_Latzko>,
+        <http://it.dbpedia.org/resource/Andreas_Latzko>,
+        <http://rdf.freebase.com/ns/m.03crvmy>,
+        <http://viaf.org/viaf/73888035>,
+        <http://wikidata.dbpedia.org/resource/Q88339>,
+        <http://www.wikidata.org/entity/Q88339>,
+        <http://yago-knowledge.org/resource/Andreas_Latzko> .
+
+<http://data.judaicalink.org/data/dbpedia/Anita_Lasker-Wallfisch> a foaf:Person ;
+    jl:hasLabel "Anita Lasker-Wallfisch@de",
+        "Anita Lasker-Wallfisch@en",
+        "Anita Lasker-Wallfisch@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Anita_Lasker-Wallfisch>,
+        <http://de.dbpedia.org/resource/Anita_Lasker-Wallfisch>,
+        <http://fr.dbpedia.org/resource/Anita_Lasker-Wallfisch>,
+        <http://rdf.freebase.com/ns/m.02rcr5v>,
+        <http://viaf.org/viaf/56769329>,
+        <http://wikidata.dbpedia.org/resource/Q214452>,
+        <http://www.wikidata.org/entity/Q214452>,
+        <http://yago-knowledge.org/resource/Anita_Lasker-Wallfisch> .
+
+<http://data.judaicalink.org/data/dbpedia/Anna_Gmeyner> a foaf:Person ;
+    jl:hasLabel "Anna Gmeyner@de",
+        "Anna Gmeyner@en",
+        "Anna Gmeyner@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Anna_Gmeyner>,
+        <http://de.dbpedia.org/resource/Anna_Gmeyner>,
+        <http://fr.dbpedia.org/resource/Anna_Gmeyner>,
+        <http://rdf.freebase.com/ns/m.0gyw19p>,
+        <http://wikidata.dbpedia.org/resource/Q89261>,
+        <http://www.wikidata.org/entity/Q89261>,
+        <http://yago-knowledge.org/resource/Anna_Gmeyner> .
+
+<http://data.judaicalink.org/data/dbpedia/Anna_Sophia_Polak> a foaf:Person ;
+    jl:hasLabel "Anna Sophia Polak@en",
+        "Anna Sophia Polak@es",
+        "Anna Sophia Polak@nl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Anna_Sophia_Polak>,
+        <http://es.dbpedia.org/resource/Anna_Sophia_Polak>,
+        <http://nl.dbpedia.org/resource/Anna_Sophia_Polak>,
+        <http://rdf.freebase.com/ns/m.0g9xntg>,
+        <http://viaf.org/viaf/282232501>,
+        <http://wikidata.dbpedia.org/resource/Q2160274>,
+        <http://www.wikidata.org/entity/Q2160274>,
+        <http://yago-knowledge.org/resource/Anna_Sophia_Polak> .
+
+<http://data.judaicalink.org/data/dbpedia/Antal_Szerb> a foaf:Person ;
+    jl:hasLabel "Antal Szerb@de",
+        "Antal Szerb@en",
+        "Antal Szerb@es",
+        "Antal Szerb@fr",
+        "Antal Szerb@pl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Antal_Szerb>,
+        <http://de.dbpedia.org/resource/Antal_Szerb>,
+        <http://es.dbpedia.org/resource/Antal_Szerb>,
+        <http://fr.dbpedia.org/resource/Antal_Szerb>,
+        <http://pl.dbpedia.org/resource/Antal_Szerb>,
+        <http://rdf.freebase.com/ns/m.03lx7w>,
+        <http://viaf.org/viaf/49264007>,
+        <http://wikidata.dbpedia.org/resource/Q570810>,
+        <http://www.wikidata.org/entity/Q570810>,
+        <http://yago-knowledge.org/resource/Antal_Szerb> .
+
+<http://data.judaicalink.org/data/dbpedia/Anton_Kuh> a foaf:Person ;
+    jl:hasLabel "Anton Kuh@de",
+        "Anton Kuh@en",
+        "Anton Kuh@pl",
+        "أنتون كوه@ar" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Anton_Kuh>,
+        <http://de.dbpedia.org/resource/Anton_Kuh>,
+        <http://pl.dbpedia.org/resource/Anton_Kuh>,
+        <http://rdf.freebase.com/ns/m.0bh8y4c>,
+        <http://viaf.org/viaf/51813371>,
+        <http://wikidata.dbpedia.org/resource/Q88062>,
+        <http://www.wikidata.org/entity/Q88062>,
+        <http://yago-knowledge.org/resource/Anton_Kuh> .
+
+<http://data.judaicalink.org/data/dbpedia/Aristeas_of_Marmora> a foaf:Person ;
+    jl:hasLabel "Aristeas of Marmora@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Aristeas_of_Marmora>,
+        <http://rdf.freebase.com/ns/m.01y9vb>,
+        <http://wikidata.dbpedia.org/resource/Q4790946>,
+        <http://www.wikidata.org/entity/Q4790946>,
+        <http://yago-knowledge.org/resource/Aristaeus_of_Marmora> .
+
+<http://data.judaicalink.org/data/dbpedia/Aryeh_Leib_Schochet> a foaf:Person ;
+    jl:hasLabel "Aryeh Leib Schochet@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Aryeh_Leib_Schochet>,
+        <http://rdf.freebase.com/ns/m.03h3l6m>,
+        <http://wikidata.dbpedia.org/resource/Q4802680>,
+        <http://www.wikidata.org/entity/Q4802680>,
+        <http://yago-knowledge.org/resource/Aryeh_Leib_Schochet> .
+
+<http://data.judaicalink.org/data/dbpedia/Auguste_Édouard_Cerfberr> a foaf:Person ;
+    jl:hasLabel "Auguste Édouard Cerfberr@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Auguste_Édouard_Cerfberr>,
+        <http://rdf.freebase.com/ns/m.02v_5fp>,
+        <http://wikidata.dbpedia.org/resource/Q4821081>,
+        <http://www.wikidata.org/entity/Q4821081>,
+        <http://yago-knowledge.org/resource/Auguste_Édouard_Cerfberr> .
+
+<http://data.judaicalink.org/data/dbpedia/Barnabas> a foaf:Person ;
+    jl:hasLabel "Barnaba apostolo@it",
+        "Barnabas (Apostel)@de",
+        "Barnabas@en",
+        "Barnabas@nl",
+        "Barnabé (Bíblia)@pt",
+        "Barnabé@fr",
+        "Bernabé apóstol@es",
+        "Święty Barnaba@pl",
+        "Варнава (апостол от 70)@ru",
+        "برنابا@ar",
+        "バルナバ@ja",
+        "巴拿巴@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Svatý_Barnabáš>,
+        <http://dbpedia.org/resource/Barnabas>,
+        <http://de.dbpedia.org/resource/Barnabas_(Apostel)>,
+        <http://el.dbpedia.org/resource/Απόστολος_Βαρνάβας>,
+        <http://es.dbpedia.org/resource/Bernabé_apóstol>,
+        <http://fr.dbpedia.org/resource/Barnabé>,
+        <http://id.dbpedia.org/resource/Barnabas>,
+        <http://it.dbpedia.org/resource/Barnaba_apostolo>,
+        <http://ja.dbpedia.org/resource/バルナバ>,
+        <http://ko.dbpedia.org/resource/바르나바>,
+        <http://nl.dbpedia.org/resource/Barnabas>,
+        <http://pl.dbpedia.org/resource/Święty_Barnaba>,
+        <http://pt.dbpedia.org/resource/Barnabé_(Bíblia)>,
+        <http://rdf.freebase.com/ns/m.01grh>,
+        <http://wikidata.dbpedia.org/resource/Q185856>,
+        <http://www.wikidata.org/entity/Q185856>,
+        <http://yago-knowledge.org/resource/Barnabas> .
+
+<http://data.judaicalink.org/data/dbpedia/Benjamin_Musaphia> a foaf:Person ;
+    jl:hasLabel "Benjamin Musaphia@en",
+        "Binjamin Mussaphia@de" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Benjamin_Musaphia>,
+        <http://de.dbpedia.org/resource/Binjamin_Mussaphia>,
+        <http://rdf.freebase.com/ns/m.04896_>,
+        <http://wikidata.dbpedia.org/resource/Q4889050>,
+        <http://www.wikidata.org/entity/Q4889050>,
+        <http://yago-knowledge.org/resource/Benjamin_Musaphia> .
+
+<http://data.judaicalink.org/data/dbpedia/Benjamin_Netanyahu> a foaf:Person ;
+    jl:hasLabel "Benjamin Netanjahu@de",
+        "Benjamin Netanyahu@en",
+        "Benjamin Netanyahu@it",
+        "Benjamin Netanyahu@nl",
+        "Benjamin Netanyahu@pt",
+        "Benjamín Netanyahu@es",
+        "Benyamin Netanyahou@fr",
+        "Binjamin Netanjahu@pl",
+        "Нетаньяху, Биньямин@ru",
+        "بنيامين نتانياهو@ar",
+        "ベンヤミン・ネタニヤフ@ja",
+        "本雅明·内塔尼亚胡@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Benjamin_Netanjahu>,
+        <http://data.europa.eu/euodp/jrc-names/Benjamin_Netanyahu>,
+        <http://data.nytimes.com/N70159954222932407833>,
+        <http://dbpedia.org/resource/Benjamin_Netanyahu>,
+        <http://de.dbpedia.org/resource/Benjamin_Netanjahu>,
+        <http://el.dbpedia.org/resource/Μπενιαμίν_Νετανιάχου>,
+        <http://es.dbpedia.org/resource/Benjamín_Netanyahu>,
+        <http://eu.dbpedia.org/resource/Benjamin_Netanyahu>,
+        <http://fr.dbpedia.org/resource/Benyamin_Netanyahou>,
+        <http://id.dbpedia.org/resource/Benjamin_Netanyahu>,
+        <http://it.dbpedia.org/resource/Benjamin_Netanyahu>,
+        <http://ja.dbpedia.org/resource/ベンヤミン・ネタニヤフ>,
+        <http://ko.dbpedia.org/resource/베냐민_네타냐후>,
+        <http://nl.dbpedia.org/resource/Benjamin_Netanyahu>,
+        <http://pl.dbpedia.org/resource/Binjamin_Netanjahu>,
+        <http://pt.dbpedia.org/resource/Benjamin_Netanyahu>,
+        <http://rdf.freebase.com/ns/m.0fm2h>,
+        <http://sw.cyc.com/concept/Mx4rwS93FpwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/114192441>,
+        <http://wikidata.dbpedia.org/resource/Q43723>,
+        <http://www.wikidata.org/entity/Q43723>,
+        <http://yago-knowledge.org/resource/Benjamin_Netanyahu> .
+
+<http://data.judaicalink.org/data/dbpedia/Bernard-Henri_Lévy> a foaf:Person ;
+    jl:hasLabel "Bernard-Henri Lévy@de",
+        "Bernard-Henri Lévy@en",
+        "Bernard-Henri Lévy@es",
+        "Bernard-Henri Lévy@fr",
+        "Bernard-Henri Lévy@it",
+        "Bernard-Henri Lévy@nl",
+        "Bernard-Henri Lévy@pl",
+        "Bernard-Henri Lévy@pt",
+        "Леви, Бернар-Анри@ru",
+        "برنار هنري ليفي@ar",
+        "ベルナール＝アンリ・レヴィ@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://data.europa.eu/euodp/jrc-names/Bernard-Henri_L%C3%A9vy>,
+        <http://dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://de.dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://es.dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://eu.dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://fr.dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://it.dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://ja.dbpedia.org/resource/ベルナール＝アンリ・レヴィ>,
+        <http://nl.dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://pl.dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://pt.dbpedia.org/resource/Bernard-Henri_Lévy>,
+        <http://rdf.freebase.com/ns/m.01z58b>,
+        <http://wikidata.dbpedia.org/resource/Q313509>,
+        <http://www.wikidata.org/entity/Q313509>,
+        <http://yago-knowledge.org/resource/Bernard-Henri_Lévy> .
+
+<http://data.judaicalink.org/data/dbpedia/Bianca_Lamblin> a foaf:Person ;
+    jl:hasLabel "Bianca Lamblin@en",
+        "Bianca Lamblin@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Bianca_Lamblin>,
+        <http://fr.dbpedia.org/resource/Bianca_Lamblin>,
+        <http://rdf.freebase.com/ns/m.0dlb28>,
+        <http://wikidata.dbpedia.org/resource/Q2900819>,
+        <http://www.wikidata.org/entity/Q2900819>,
+        <http://yago-knowledge.org/resource/Bianca_Lamblin> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Pasternak> a foaf:Person ;
+    jl:hasLabel "Boris Leonidowitsch Pasternak@de",
+        "Boris Pasternak@en",
+        "Boris Pasternak@fr",
+        "Boris Pasternak@it",
+        "Boris Pasternak@nl",
+        "Boris Pasternak@pl",
+        "Boris Pasternak@pt",
+        "Borís Pasternak@es",
+        "Пастернак, Борис Леонидович@ru",
+        "بوريس باسترناك@ar",
+        "ボリス・パステルナーク@ja",
+        "鮑里斯·帕斯捷爾納克@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Boris_Leonidovič_Pasternak>,
+        <http://data.europa.eu/euodp/jrc-names/Boris_Pasternak>,
+        <http://dbpedia.org/resource/Boris_Pasternak>,
+        <http://de.dbpedia.org/resource/Boris_Leonidowitsch_Pasternak>,
+        <http://el.dbpedia.org/resource/Μπορίς_Παστερνάκ>,
+        <http://es.dbpedia.org/resource/Borís_Pasternak>,
+        <http://eu.dbpedia.org/resource/Boris_Pasternak>,
+        <http://fr.dbpedia.org/resource/Boris_Pasternak>,
+        <http://id.dbpedia.org/resource/Boris_Leonidovich_Pasternak>,
+        <http://it.dbpedia.org/resource/Boris_Pasternak>,
+        <http://ja.dbpedia.org/resource/ボリス・パステルナーク>,
+        <http://ko.dbpedia.org/resource/보리스_파스테르나크>,
+        <http://nl.dbpedia.org/resource/Boris_Pasternak>,
+        <http://pl.dbpedia.org/resource/Boris_Pasternak>,
+        <http://pt.dbpedia.org/resource/Boris_Pasternak>,
+        <http://rdf.freebase.com/ns/m.01h73>,
+        <http://sw.cyc.com/concept/Mx4rwH5veJwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/68933968>,
+        <http://wikidata.dbpedia.org/resource/Q41223>,
+        <http://www.wikidata.org/entity/Q41223>,
+        <http://yago-knowledge.org/resource/Boris_Pasternak> .
+
+<http://data.judaicalink.org/data/dbpedia/Carl_Sternheim> a foaf:Person ;
+    jl:hasLabel "Carl Sternheim@de",
+        "Carl Sternheim@en",
+        "Carl Sternheim@es",
+        "Carl Sternheim@fr",
+        "Carl Sternheim@it",
+        "Carl Sternheim@nl",
+        "Carl Sternheim@pl",
+        "Carl Sternheim@pt",
+        "Штернхейм, Карл@ru",
+        "كارل شترنهايم@ar",
+        "カール・シュテルンハイム@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Carl_Sternheim>,
+        <http://dbpedia.org/resource/Carl_Sternheim>,
+        <http://de.dbpedia.org/resource/Carl_Sternheim>,
+        <http://es.dbpedia.org/resource/Carl_Sternheim>,
+        <http://eu.dbpedia.org/resource/Carl_Sternheim>,
+        <http://fr.dbpedia.org/resource/Carl_Sternheim>,
+        <http://it.dbpedia.org/resource/Carl_Sternheim>,
+        <http://ja.dbpedia.org/resource/カール・シュテルンハイム>,
+        <http://ko.dbpedia.org/resource/카를_슈테른하임>,
+        <http://nl.dbpedia.org/resource/Carl_Sternheim>,
+        <http://pl.dbpedia.org/resource/Carl_Sternheim>,
+        <http://pt.dbpedia.org/resource/Carl_Sternheim>,
+        <http://rdf.freebase.com/ns/m.02pygf9>,
+        <http://viaf.org/viaf/2477240>,
+        <http://wikidata.dbpedia.org/resource/Q61662>,
+        <http://www.wikidata.org/entity/Q61662>,
+        <http://yago-knowledge.org/resource/Carl_Sternheim> .
+
+<http://data.judaicalink.org/data/dbpedia/Carlo_Levi> a foaf:Person ;
+    jl:hasLabel "Carlo Levi@de",
+        "Carlo Levi@en",
+        "Carlo Levi@es",
+        "Carlo Levi@fr",
+        "Carlo Levi@it",
+        "Carlo Levi@nl",
+        "Carlo Levi@pl",
+        "Леви, Карло@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Carlo_Levi>,
+        <http://data.europa.eu/euodp/jrc-names/Carlo_Levi>,
+        <http://dbpedia.org/resource/Carlo_Levi>,
+        <http://de.dbpedia.org/resource/Carlo_Levi>,
+        <http://el.dbpedia.org/resource/Κάρλο_Λέβι>,
+        <http://es.dbpedia.org/resource/Carlo_Levi>,
+        <http://eu.dbpedia.org/resource/Carlo_Levi>,
+        <http://fr.dbpedia.org/resource/Carlo_Levi>,
+        <http://it.dbpedia.org/resource/Carlo_Levi>,
+        <http://nl.dbpedia.org/resource/Carlo_Levi>,
+        <http://pl.dbpedia.org/resource/Carlo_Levi>,
+        <http://rdf.freebase.com/ns/m.03svpk>,
+        <http://wikidata.dbpedia.org/resource/Q312628>,
+        <http://www.wikidata.org/entity/Q312628>,
+        <http://yago-knowledge.org/resource/Carlo_Levi> .
+
+<http://data.judaicalink.org/data/dbpedia/Catherine_Clément> a foaf:Person ;
+    jl:hasLabel "Catherine Clement@pt",
+        "Catherine Clément@de",
+        "Catherine Clément@en",
+        "Catherine Clément@es",
+        "Catherine Clément@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Catherine_Cl%C3%A9ment>,
+        <http://dbpedia.org/resource/Catherine_Clément>,
+        <http://de.dbpedia.org/resource/Catherine_Clément>,
+        <http://es.dbpedia.org/resource/Catherine_Clément>,
+        <http://fr.dbpedia.org/resource/Catherine_Clément>,
+        <http://pt.dbpedia.org/resource/Catherine_Clement>,
+        <http://rdf.freebase.com/ns/m.05x420x>,
+        <http://viaf.org/viaf/108288143>,
+        <http://wikidata.dbpedia.org/resource/Q452742>,
+        <http://www.wikidata.org/entity/Q452742>,
+        <http://yago-knowledge.org/resource/Catherine_Clément> .
+
+<http://data.judaicalink.org/data/dbpedia/Chaim_Yosef_David_Azulai> a foaf:Person ;
+    jl:hasLabel "Chaim Joseph David Azulai@de",
+        "Chaim Joseph David Azulai@it",
+        "Chaim Yosef David Azulai@en",
+        "Haïm Joseph David Azoulay@fr",
+        "Азулай, Хаим Йосеф Давид@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Chaim_Yosef_David_Azulai>,
+        <http://de.dbpedia.org/resource/Chaim_Joseph_David_Azulai>,
+        <http://fr.dbpedia.org/resource/Haïm_Joseph_David_Azoulay>,
+        <http://it.dbpedia.org/resource/Chaim_Joseph_David_Azulai>,
+        <http://rdf.freebase.com/ns/m.038qcx>,
+        <http://viaf.org/viaf/120726794>,
+        <http://wikidata.dbpedia.org/resource/Q1058991>,
+        <http://www.wikidata.org/entity/Q1058991>,
+        <http://yago-knowledge.org/resource/Chaim_Joseph_David_Azulai> .
+
+<http://data.judaicalink.org/data/dbpedia/Claude_Lévi-Strauss> a foaf:Person ;
+    jl:hasLabel "Claude Lévi-Strauss@de",
+        "Claude Lévi-Strauss@en",
+        "Claude Lévi-Strauss@es",
+        "Claude Lévi-Strauss@fr",
+        "Claude Lévi-Strauss@it",
+        "Claude Lévi-Strauss@nl",
+        "Claude Lévi-Strauss@pl",
+        "Claude Lévi-Strauss@pt",
+        "Леви-Стросс, Клод@ru",
+        "كلود ليفي ستروس@ar",
+        "クロード・レヴィ＝ストロース@ja",
+        "克勞德·李維-史陀@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://data.europa.eu/euodp/jrc-names/Claude_L%C3%A9vi-Strauss>,
+        <http://dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://de.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://el.dbpedia.org/resource/Κλοντ_Λεβί-Στρος>,
+        <http://es.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://eu.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://fr.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://id.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://it.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://ja.dbpedia.org/resource/クロード・レヴィ＝ストロース>,
+        <http://ko.dbpedia.org/resource/클로드_레비스트로스>,
+        <http://nl.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://pl.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://pt.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://rdf.freebase.com/ns/m.01tvt>,
+        <http://viaf.org/viaf/102346347>,
+        <http://wikidata.dbpedia.org/resource/Q128126>,
+        <http://www.wikidata.org/entity/Q128126>,
+        <http://yago-knowledge.org/resource/Claude_Lévi-Strauss> .
+
+<http://data.judaicalink.org/data/dbpedia/Curt_Siodmak> a foaf:Person ;
+    jl:hasLabel "Curt Siodmak@de",
+        "Curt Siodmak@en",
+        "Curt Siodmak@fr",
+        "Curt Siodmak@it",
+        "Curt Siodmak@nl",
+        "Curt Siodmak@pl",
+        "Сиодмак, Курт@ru",
+        "カート・シオドマク@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Curt_Siodmak>,
+        <http://de.dbpedia.org/resource/Curt_Siodmak>,
+        <http://fr.dbpedia.org/resource/Curt_Siodmak>,
+        <http://it.dbpedia.org/resource/Curt_Siodmak>,
+        <http://ja.dbpedia.org/resource/カート・シオドマク>,
+        <http://nl.dbpedia.org/resource/Curt_Siodmak>,
+        <http://pl.dbpedia.org/resource/Curt_Siodmak>,
+        <http://rdf.freebase.com/ns/m.06c049>,
+        <http://viaf.org/viaf/69015057>,
+        <http://wikidata.dbpedia.org/resource/Q77489>,
+        <http://www.wikidata.org/entity/Q77489>,
+        <http://yago-knowledge.org/resource/Curt_Siodmak> .
+
+<http://data.judaicalink.org/data/dbpedia/Daniel_(biblical_figure)> a foaf:Person ;
+    jl:hasLabel "Daniel (Prophet)@de",
+        "Daniel (biblical figure)@en",
+        "Daniel (postać biblijna)@pl",
+        "Daniel (profeta)@es",
+        "Daniel (prophète)@fr",
+        "Daniel@pt",
+        "Daniele (profeta)@it",
+        "Daniël (Hebreeuwse Bijbel)@nl",
+        "Даниил (пророк)@ru",
+        "دانيال@ar",
+        "ダニエル@ja",
+        "但以理@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Daniel_(prorok)>,
+        <http://dbpedia.org/resource/Daniel_(biblical_figure)>,
+        <http://de.dbpedia.org/resource/Daniel_(Prophet)>,
+        <http://el.dbpedia.org/resource/Δανιήλ>,
+        <http://es.dbpedia.org/resource/Daniel_(profeta)>,
+        <http://eu.dbpedia.org/resource/Daniel>,
+        <http://fr.dbpedia.org/resource/Daniel_(prophète)>,
+        <http://id.dbpedia.org/resource/Daniel>,
+        <http://it.dbpedia.org/resource/Daniele_(profeta)>,
+        <http://ja.dbpedia.org/resource/ダニエル>,
+        <http://ko.dbpedia.org/resource/다니엘>,
+        <http://nl.dbpedia.org/resource/Daniël_(Hebreeuwse_Bijbel)>,
+        <http://pl.dbpedia.org/resource/Daniel_(postać_biblijna)>,
+        <http://pt.dbpedia.org/resource/Daniel>,
+        <http://rdf.freebase.com/ns/m.02cts>,
+        <http://wikidata.dbpedia.org/resource/Q171724>,
+        <http://www.wikidata.org/entity/Q171724> .
+
+<http://data.judaicalink.org/data/dbpedia/Daniel_Ivin> a foaf:Person ;
+    jl:hasLabel "Daniel Ivin@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Ivin>,
+        <http://rdf.freebase.com/ns/m.0r3ttd4>,
+        <http://wikidata.dbpedia.org/resource/Q4562142>,
+        <http://www.wikidata.org/entity/Q4562142>,
+        <http://yago-knowledge.org/resource/Daniel_Ivin> .
+
+<http://data.judaicalink.org/data/dbpedia/Daniel_Kluger> a foaf:Person ;
+    jl:hasLabel "Daniel Kluger@en",
+        "Daniel Kluger@es",
+        "Клугер, Даниил Мусеевич@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Kluger>,
+        <http://es.dbpedia.org/resource/Daniel_Kluger>,
+        <http://rdf.freebase.com/ns/m.03mgmzw>,
+        <http://viaf.org/viaf/295272807>,
+        <http://wikidata.dbpedia.org/resource/Q4224237>,
+        <http://www.wikidata.org/entity/Q4224237>,
+        <http://yago-knowledge.org/resource/Daniel_Kluger> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Kaufmann> a foaf:Person ;
+    jl:hasLabel "David Kaufmann@de",
+        "David Kaufmann@en",
+        "David Kaufmann@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Kaufmann>,
+        <http://de.dbpedia.org/resource/David_Kaufmann>,
+        <http://fr.dbpedia.org/resource/David_Kaufmann>,
+        <http://rdf.freebase.com/ns/m.027f_7b>,
+        <http://viaf.org/viaf/59072606>,
+        <http://wikidata.dbpedia.org/resource/Q351593>,
+        <http://www.wikidata.org/entity/Q351593>,
+        <http://yago-knowledge.org/resource/David_Kaufmann> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Marcus> a foaf:Person ;
+    jl:hasLabel "David Marcus@en",
+        "David Marcus@nl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/David_Marcus>,
+        <http://dbpedia.org/resource/David_Marcus>,
+        <http://nl.dbpedia.org/resource/David_Marcus>,
+        <http://rdf.freebase.com/ns/m.05wn9y_>,
+        <http://wikidata.dbpedia.org/resource/Q2282289>,
+        <http://www.wikidata.org/entity/Q2282289>,
+        <http://yago-knowledge.org/resource/David_Marcus> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Najar> a foaf:Person ;
+    jl:hasLabel "David Najar@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Najar>,
+        <http://rdf.freebase.com/ns/m.026_jvq>,
+        <http://wikidata.dbpedia.org/resource/Q5237911>,
+        <http://www.wikidata.org/entity/Q5237911>,
+        <http://yago-knowledge.org/resource/David_Najar> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Samuel_Carasso> a foaf:Person ;
+    jl:hasLabel "David Samuel Carasso@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Samuel_Carasso>,
+        <http://rdf.freebase.com/ns/m.02qhvl1>,
+        <http://wikidata.dbpedia.org/resource/Q5239449>,
+        <http://www.wikidata.org/entity/Q5239449>,
+        <http://yago-knowledge.org/resource/David_Samuel_Carasso> .
+
+<http://data.judaicalink.org/data/dbpedia/Denis_Guedj> a foaf:Person ;
+    jl:hasLabel "Denis Guedj@de",
+        "Denis Guedj@en",
+        "Denis Guedj@es",
+        "Denis Guedj@fr",
+        "Denis Guedj@it",
+        "Denis Guedj@pl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Denis_Guedj>,
+        <http://de.dbpedia.org/resource/Denis_Guedj>,
+        <http://es.dbpedia.org/resource/Denis_Guedj>,
+        <http://fr.dbpedia.org/resource/Denis_Guedj>,
+        <http://it.dbpedia.org/resource/Denis_Guedj>,
+        <http://pl.dbpedia.org/resource/Denis_Guedj>,
+        <http://rdf.freebase.com/ns/m.07v1wc>,
+        <http://viaf.org/viaf/61574062>,
+        <http://wikidata.dbpedia.org/resource/Q981997>,
+        <http://www.wikidata.org/entity/Q981997>,
+        <http://yago-knowledge.org/resource/Denis_Guedj> .
+
+<http://data.judaicalink.org/data/dbpedia/Ed_van_Thijn> a foaf:Person ;
+    jl:hasLabel "Ed van Thijn@en",
+        "Ed van Thijn@fr",
+        "Ed van Thijn@nl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Ed_van_Thijn>,
+        <http://dbpedia.org/resource/Ed_van_Thijn>,
+        <http://fr.dbpedia.org/resource/Ed_van_Thijn>,
+        <http://nl.dbpedia.org/resource/Ed_van_Thijn>,
+        <http://rdf.freebase.com/ns/m.02q74zf>,
+        <http://wikidata.dbpedia.org/resource/Q607189>,
+        <http://www.wikidata.org/entity/Q607189>,
+        <http://yago-knowledge.org/resource/Ed_van_Thijn> .
+
+<http://data.judaicalink.org/data/dbpedia/Edgar_Wind> a foaf:Person ;
+    jl:hasLabel "Edgar Wind@de",
+        "Edgar Wind@en",
+        "Edgar Wind@es",
+        "Edgar Wind@fr",
+        "Edgar Wind@it",
+        "Edgar Wind@nl",
+        "Edgar Wind@pt" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Edgar_Wind>,
+        <http://de.dbpedia.org/resource/Edgar_Wind>,
+        <http://es.dbpedia.org/resource/Edgar_Wind>,
+        <http://fr.dbpedia.org/resource/Edgar_Wind>,
+        <http://it.dbpedia.org/resource/Edgar_Wind>,
+        <http://nl.dbpedia.org/resource/Edgar_Wind>,
+        <http://pt.dbpedia.org/resource/Edgar_Wind>,
+        <http://rdf.freebase.com/ns/m.0d9h_l>,
+        <http://viaf.org/viaf/9871141>,
+        <http://wikidata.dbpedia.org/resource/Q72294>,
+        <http://www.wikidata.org/entity/Q72294>,
+        <http://yago-knowledge.org/resource/Edgar_Wind> .
+
+<http://data.judaicalink.org/data/dbpedia/Edmund_Blum> a foaf:Person ;
+    jl:hasLabel "Edmund Blum@de",
+        "Edmund Blum@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Edmund_Blum>,
+        <http://dbpedia.org/resource/Edmund_Blum>,
+        <http://de.dbpedia.org/resource/Edmund_Blum>,
+        <http://rdf.freebase.com/ns/m.09v448b>,
+        <http://viaf.org/viaf/47747039>,
+        <http://wikidata.dbpedia.org/resource/Q87790>,
+        <http://www.wikidata.org/entity/Q87790>,
+        <http://yago-knowledge.org/resource/Edmund_Blum> .
+
+<http://data.judaicalink.org/data/dbpedia/Eliezer_Dob_Liebermann> a foaf:Person ;
+    jl:hasLabel "Eliezer Dob Liebermann@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Eliezer_Dob_Liebermann>,
+        <http://rdf.freebase.com/ns/m.074x4k>,
+        <http://viaf.org/viaf/20889718>,
+        <http://wikidata.dbpedia.org/resource/Q5360751>,
+        <http://www.wikidata.org/entity/Q5360751>,
+        <http://yago-knowledge.org/resource/Eliezer_Dob_Liebermann> .
+
+<http://data.judaicalink.org/data/dbpedia/Else_Feldmann> a foaf:Person ;
+    jl:hasLabel "Else Feldmann@de",
+        "Else Feldmann@en",
+        "Else Feldmann@es" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Else_Feldmann>,
+        <http://de.dbpedia.org/resource/Else_Feldmann>,
+        <http://es.dbpedia.org/resource/Else_Feldmann>,
+        <http://rdf.freebase.com/ns/m.0cqyhv>,
+        <http://wikidata.dbpedia.org/resource/Q151576>,
+        <http://www.wikidata.org/entity/Q151576>,
+        <http://yago-knowledge.org/resource/Else_Feldmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Else_Ury> a foaf:Person ;
+    jl:hasLabel "Else Ury@de",
+        "Else Ury@en",
+        "Else Ury@es",
+        "Else Ury@pl",
+        "Ури, Эльза@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Else_Ury>,
+        <http://de.dbpedia.org/resource/Else_Ury>,
+        <http://es.dbpedia.org/resource/Else_Ury>,
+        <http://pl.dbpedia.org/resource/Else_Ury>,
+        <http://rdf.freebase.com/ns/m.03m6bwx>,
+        <http://viaf.org/viaf/45103492>,
+        <http://wikidata.dbpedia.org/resource/Q316818>,
+        <http://www.wikidata.org/entity/Q316818>,
+        <http://yago-knowledge.org/resource/Else_Ury> .
+
+<http://data.judaicalink.org/data/dbpedia/Erich_Neumann_(psychologist)> a foaf:Person ;
+    jl:hasLabel "Erich Neumann (Psychologe)@de",
+        "Erich Neumann (psicologo)@it",
+        "Erich Neumann (psychologist)@en",
+        "Erich Neumann (psychologue)@fr",
+        "Erich Neumann (psycholoog)@nl",
+        "Erich Neumann@es",
+        "Erich Neumann@pt",
+        "Нойманн, Эрих@ru",
+        "エーリッヒ・ノイマン@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Erich_Neumann_(psychologist)>,
+        <http://de.dbpedia.org/resource/Erich_Neumann_(Psychologe)>,
+        <http://es.dbpedia.org/resource/Erich_Neumann>,
+        <http://fr.dbpedia.org/resource/Erich_Neumann_(psychologue)>,
+        <http://it.dbpedia.org/resource/Erich_Neumann_(psicologo)>,
+        <http://ja.dbpedia.org/resource/エーリッヒ・ノイマン>,
+        <http://nl.dbpedia.org/resource/Erich_Neumann_(psycholoog)>,
+        <http://pt.dbpedia.org/resource/Erich_Neumann>,
+        <http://rdf.freebase.com/ns/m.033tl9>,
+        <http://viaf.org/viaf/32115134>,
+        <http://wikidata.dbpedia.org/resource/Q61171>,
+        <http://www.wikidata.org/entity/Q61171>,
+        <http://yago-knowledge.org/resource/Erich_Neumann_(psychologist)> .
+
+<http://data.judaicalink.org/data/dbpedia/Ernst_Kaiser> a foaf:Person ;
+    jl:hasLabel "Ernst Kaiser (Autor)@de",
+        "Ernst Kaiser@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Ernst_Kaiser>,
+        <http://de.dbpedia.org/resource/Ernst_Kaiser_(Autor)>,
+        <http://rdf.freebase.com/ns/m.0lq4pbq>,
+        <http://viaf.org/viaf/47169615>,
+        <http://wikidata.dbpedia.org/resource/Q88682>,
+        <http://www.wikidata.org/entity/Q88682>,
+        <http://yago-knowledge.org/resource/Ernst_Kaiser> .
+
+<http://data.judaicalink.org/data/dbpedia/Ernst_Toller> a foaf:Person ;
+    jl:hasLabel "Ernst Toller@de",
+        "Ernst Toller@en",
+        "Ernst Toller@es",
+        "Ernst Toller@fr",
+        "Ernst Toller@it",
+        "Ernst Toller@nl",
+        "Ernst Toller@pl",
+        "Ernst Toller@pt",
+        "Толлер, Эрнст@ru",
+        "إرنست توللر@ar",
+        "恩斯特·托勒爾@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ernst_Toller>,
+        <http://data.europa.eu/euodp/jrc-names/Ernst_Toller>,
+        <http://dbpedia.org/resource/Ernst_Toller>,
+        <http://de.dbpedia.org/resource/Ernst_Toller>,
+        <http://es.dbpedia.org/resource/Ernst_Toller>,
+        <http://eu.dbpedia.org/resource/Ernst_Toller>,
+        <http://fr.dbpedia.org/resource/Ernst_Toller>,
+        <http://it.dbpedia.org/resource/Ernst_Toller>,
+        <http://ko.dbpedia.org/resource/에른스트_톨러>,
+        <http://nl.dbpedia.org/resource/Ernst_Toller>,
+        <http://pl.dbpedia.org/resource/Ernst_Toller>,
+        <http://pt.dbpedia.org/resource/Ernst_Toller>,
+        <http://rdf.freebase.com/ns/m.05n6ll>,
+        <http://viaf.org/viaf/32003575>,
+        <http://wikidata.dbpedia.org/resource/Q57266>,
+        <http://www.wikidata.org/entity/Q57266>,
+        <http://yago-knowledge.org/resource/Ernst_Toller> .
+
+<http://data.judaicalink.org/data/dbpedia/Ervin_Šinko> a foaf:Person ;
+    jl:hasLabel "Ervin Šinko@de",
+        "Ervin Šinko@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Ervin_Šinko>,
+        <http://de.dbpedia.org/resource/Ervin_Šinko>,
+        <http://rdf.freebase.com/ns/m.0ryvy2z>,
+        <http://wikidata.dbpedia.org/resource/Q832642>,
+        <http://www.wikidata.org/entity/Q832642>,
+        <http://yago-knowledge.org/resource/Ervin_Šinko> .
+
+<http://data.judaicalink.org/data/dbpedia/Esther_Bendahan> a foaf:Person ;
+    jl:hasLabel "Esther Bendahan@de",
+        "Esther Bendahan@en",
+        "Esther Bendahan@es",
+        "Esther Bendahan@fr",
+        "Esther Bendahan@it",
+        "Esther Bendahan@pt" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Esther_Bendahan>,
+        <http://de.dbpedia.org/resource/Esther_Bendahan>,
+        <http://es.dbpedia.org/resource/Esther_Bendahan>,
+        <http://fr.dbpedia.org/resource/Esther_Bendahan>,
+        <http://it.dbpedia.org/resource/Esther_Bendahan>,
+        <http://pt.dbpedia.org/resource/Esther_Bendahan>,
+        <http://rdf.freebase.com/ns/m.07s3qmk>,
+        <http://viaf.org/viaf/97666506>,
+        <http://wikidata.dbpedia.org/resource/Q291206>,
+        <http://www.wikidata.org/entity/Q291206>,
+        <http://yago-knowledge.org/resource/Esther_Bendahan> .
+
+<http://data.judaicalink.org/data/dbpedia/Eva_Grlić> a foaf:Person ;
+    jl:hasLabel "Eva Grlić@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Eva_Grlić>,
+        <http://rdf.freebase.com/ns/m.0jwbvdv>,
+        <http://viaf.org/viaf/79183035>,
+        <http://wikidata.dbpedia.org/resource/Q5415058>,
+        <http://www.wikidata.org/entity/Q5415058>,
+        <http://yago-knowledge.org/resource/Eva_Grlić> .
+
+<http://data.judaicalink.org/data/dbpedia/Ferdinand_Bruckner> a foaf:Person ;
+    jl:hasLabel "Ferdinand Bruckner@de",
+        "Ferdinand Bruckner@en",
+        "Ferdinand Bruckner@es",
+        "Ferdinand Bruckner@fr",
+        "Ferdinand Bruckner@it",
+        "Ferdinand Bruckner@nl",
+        "Ferdinand Bruckner@pt",
+        "Фердинанд Брукнер@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Ferdinand_Bruckner>,
+        <http://de.dbpedia.org/resource/Ferdinand_Bruckner>,
+        <http://es.dbpedia.org/resource/Ferdinand_Bruckner>,
+        <http://fr.dbpedia.org/resource/Ferdinand_Bruckner>,
+        <http://it.dbpedia.org/resource/Ferdinand_Bruckner>,
+        <http://ko.dbpedia.org/resource/페르디난트_브루크너>,
+        <http://nl.dbpedia.org/resource/Ferdinand_Bruckner>,
+        <http://pt.dbpedia.org/resource/Ferdinand_Bruckner>,
+        <http://rdf.freebase.com/ns/m.08189s>,
+        <http://viaf.org/viaf/61588796>,
+        <http://wikidata.dbpedia.org/resource/Q112057>,
+        <http://www.wikidata.org/entity/Q112057>,
+        <http://yago-knowledge.org/resource/Ferdinand_Bruckner> .
+
+<http://data.judaicalink.org/data/dbpedia/Fernando_de_Rojas> a foaf:Person ;
+    jl:hasLabel "Fernando de Rojas@de",
+        "Fernando de Rojas@en",
+        "Fernando de Rojas@es",
+        "Fernando de Rojas@fr",
+        "Fernando de Rojas@it",
+        "Fernando de Rojas@pl",
+        "Fernando de Rojas@pt",
+        "Рохас, Фернандо де@ru",
+        "فرناندو دي روخاس@ar" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Fernando_de_Rojas>,
+        <http://dbpedia.org/resource/Fernando_de_Rojas>,
+        <http://de.dbpedia.org/resource/Fernando_de_Rojas>,
+        <http://es.dbpedia.org/resource/Fernando_de_Rojas>,
+        <http://eu.dbpedia.org/resource/Fernando_de_Rojas>,
+        <http://fr.dbpedia.org/resource/Fernando_de_Rojas>,
+        <http://it.dbpedia.org/resource/Fernando_de_Rojas>,
+        <http://pl.dbpedia.org/resource/Fernando_de_Rojas>,
+        <http://pt.dbpedia.org/resource/Fernando_de_Rojas>,
+        <http://rdf.freebase.com/ns/m.07v4ql>,
+        <http://wikidata.dbpedia.org/resource/Q353841>,
+        <http://www.wikidata.org/entity/Q353841>,
+        <http://yago-knowledge.org/resource/Fernando_de_Rojas> .
+
+<http://data.judaicalink.org/data/dbpedia/Franz_Borkenau> a foaf:Person ;
+    jl:hasLabel "Franz Borkenau@de",
+        "Franz Borkenau@en",
+        "Franz Borkenau@es",
+        "Franz Borkenau@fr",
+        "フランツ・ボルケナウ@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Franz_Borkenau>,
+        <http://de.dbpedia.org/resource/Franz_Borkenau>,
+        <http://es.dbpedia.org/resource/Franz_Borkenau>,
+        <http://fr.dbpedia.org/resource/Franz_Borkenau>,
+        <http://ja.dbpedia.org/resource/フランツ・ボルケナウ>,
+        <http://rdf.freebase.com/ns/m.0fs7qk>,
+        <http://wikidata.dbpedia.org/resource/Q86635>,
+        <http://www.wikidata.org/entity/Q86635>,
+        <http://yago-knowledge.org/resource/Franz_Borkenau> .
+
+<http://data.judaicalink.org/data/dbpedia/Franz_Carl_Weiskopf> a foaf:Person ;
+    jl:hasLabel "Franz Carl Weiskopf@de",
+        "Franz Carl Weiskopf@en",
+        "Franz Carl Weiskopf@fr",
+        "Вайскопф, Франц Карл@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Franz_Carl_Weiskopf>,
+        <http://dbpedia.org/resource/Franz_Carl_Weiskopf>,
+        <http://de.dbpedia.org/resource/Franz_Carl_Weiskopf>,
+        <http://fr.dbpedia.org/resource/Franz_Carl_Weiskopf>,
+        <http://rdf.freebase.com/ns/m.0frvjw>,
+        <http://viaf.org/viaf/59126097>,
+        <http://wikidata.dbpedia.org/resource/Q216060>,
+        <http://www.wikidata.org/entity/Q216060>,
+        <http://yago-knowledge.org/resource/Franz_Carl_Weiskopf> .
+
+<http://data.judaicalink.org/data/dbpedia/Friedrich_Torberg> a foaf:Person ;
+    jl:hasLabel "Friedrich Torberg@de",
+        "Friedrich Torberg@en",
+        "Friedrich Torberg@es",
+        "Friedrich Torberg@fr",
+        "Friedrich Torberg@pl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Friedrich_Torberg>,
+        <http://data.europa.eu/euodp/jrc-names/Friedrich_Torberg>,
+        <http://dbpedia.org/resource/Friedrich_Torberg>,
+        <http://de.dbpedia.org/resource/Friedrich_Torberg>,
+        <http://es.dbpedia.org/resource/Friedrich_Torberg>,
+        <http://fr.dbpedia.org/resource/Friedrich_Torberg>,
+        <http://pl.dbpedia.org/resource/Friedrich_Torberg>,
+        <http://rdf.freebase.com/ns/m.0221tp>,
+        <http://viaf.org/viaf/39391045>,
+        <http://wikidata.dbpedia.org/resource/Q112880>,
+        <http://www.wikidata.org/entity/Q112880>,
+        <http://yago-knowledge.org/resource/Friedrich_Torberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Gail_Louw> a foaf:Person ;
+    jl:hasLabel "Gail Louw@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Gail_Louw>,
+        <http://rdf.freebase.com/ns/m.012z8kmv>,
+        <http://wikidata.dbpedia.org/resource/Q19662147>,
+        <http://www.wikidata.org/entity/Q19662147> .
+
+<http://data.judaicalink.org/data/dbpedia/Gedaliah_Finkel> a foaf:Person ;
+    jl:hasLabel "Gedaliah Finkel@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Gedaliah_Finkel>,
+        <http://rdf.freebase.com/ns/m.05s__4p>,
+        <http://wikidata.dbpedia.org/resource/Q5529641>,
+        <http://www.wikidata.org/entity/Q5529641>,
+        <http://yago-knowledge.org/resource/Gedaliah_Finkel> .
+
+<http://data.judaicalink.org/data/dbpedia/Gennady_Gor> a foaf:Person ;
+    jl:hasLabel "Gennadi Samoilowitsch Gor@de",
+        "Gennady Gor@en",
+        "Guennadi Gor@fr",
+        "Гор, Геннадий Самойлович@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Gennadij_Samojlovič_Gor>,
+        <http://dbpedia.org/resource/Gennady_Gor>,
+        <http://de.dbpedia.org/resource/Gennadi_Samoilowitsch_Gor>,
+        <http://fr.dbpedia.org/resource/Guennadi_Gor>,
+        <http://rdf.freebase.com/ns/m.0h_c70v>,
+        <http://wikidata.dbpedia.org/resource/Q461336>,
+        <http://www.wikidata.org/entity/Q461336>,
+        <http://yago-knowledge.org/resource/Gennady_Gor> .
+
+<http://data.judaicalink.org/data/dbpedia/Genrikh_Sapgir> a foaf:Person ;
+    jl:hasLabel "Genrich Sapgir@nl",
+        "Genrich Veniaminovič Sapgir@it",
+        "Genrikh Sapgir@en",
+        "Guenrikh Sapguir@fr",
+        "Сапгир, Генрих Вениаминович@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Genrikh_Sapgir>,
+        <http://fr.dbpedia.org/resource/Guenrikh_Sapguir>,
+        <http://it.dbpedia.org/resource/Genrich_Veniaminovič_Sapgir>,
+        <http://nl.dbpedia.org/resource/Genrich_Sapgir>,
+        <http://rdf.freebase.com/ns/m.02q85hs>,
+        <http://wikidata.dbpedia.org/resource/Q2166641>,
+        <http://www.wikidata.org/entity/Q2166641>,
+        <http://yago-knowledge.org/resource/Genrikh_Sapgir> .
+
+<http://data.judaicalink.org/data/dbpedia/Georg_Kreisler> a foaf:Person ;
+    jl:hasLabel "Georg Kreisler@de",
+        "Georg Kreisler@en",
+        "Georg Kreisler@es",
+        "Georg Kreisler@fr",
+        "Крайслер, Георг@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Georg_Kreisler>,
+        <http://data.europa.eu/euodp/jrc-names/Georg_Kreisler>,
+        <http://dbpedia.org/resource/Georg_Kreisler>,
+        <http://de.dbpedia.org/resource/Georg_Kreisler>,
+        <http://es.dbpedia.org/resource/Georg_Kreisler>,
+        <http://fr.dbpedia.org/resource/Georg_Kreisler>,
+        <http://rdf.freebase.com/ns/m.02rmf_1>,
+        <http://viaf.org/viaf/49451744>,
+        <http://wikidata.dbpedia.org/resource/Q45275>,
+        <http://www.wikidata.org/entity/Q45275>,
+        <http://yago-knowledge.org/resource/Georg_Kreisler> .
+
+<http://data.judaicalink.org/data/dbpedia/George_Lichtheim> a foaf:Person ;
+    jl:hasLabel "George Lichtheim@de",
+        "George Lichtheim@en",
+        "George Lichtheim@es",
+        "George Lichtheim@it",
+        "George Lichtheim@pl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/George_Lichtheim>,
+        <http://de.dbpedia.org/resource/George_Lichtheim>,
+        <http://es.dbpedia.org/resource/George_Lichtheim>,
+        <http://it.dbpedia.org/resource/George_Lichtheim>,
+        <http://pl.dbpedia.org/resource/George_Lichtheim>,
+        <http://rdf.freebase.com/ns/m.05zp57k>,
+        <http://viaf.org/viaf/108254684>,
+        <http://wikidata.dbpedia.org/resource/Q693613>,
+        <http://www.wikidata.org/entity/Q693613>,
+        <http://yago-knowledge.org/resource/George_Lichtheim> .
+
+<http://data.judaicalink.org/data/dbpedia/Gerson_ben_Solomon_Catalan> a foaf:Person ;
+    jl:hasLabel "Gerson ben Solomon Catalan@en",
+        "Gerson ben Solomon Catalan@it",
+        "جرسون بن سلمون@ar" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Gerson_ben_Solomon_Catalan>,
+        <http://it.dbpedia.org/resource/Gerson_ben_Solomon_Catalan>,
+        <http://rdf.freebase.com/ns/m.02rxh9k>,
+        <http://wikidata.dbpedia.org/resource/Q3761313>,
+        <http://www.wikidata.org/entity/Q3761313>,
+        <http://yago-knowledge.org/resource/Gerson_ben_Solomon_Catalan> .
+
+<http://data.judaicalink.org/data/dbpedia/Graeme_Friedman> a foaf:Person ;
+    jl:hasLabel "Graeme Friedman@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Graeme_Friedman>,
+        <http://rdf.freebase.com/ns/m.0gg79yr>,
+        <http://wikidata.dbpedia.org/resource/Q5592263>,
+        <http://www.wikidata.org/entity/Q5592263>,
+        <http://yago-knowledge.org/resource/Graeme_Friedman> .
+
+<http://data.judaicalink.org/data/dbpedia/Grete_Weil> a foaf:Person ;
+    jl:hasLabel "Grete Weil@de",
+        "Grete Weil@en",
+        "Grete Weil@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Grete_Weil>,
+        <http://de.dbpedia.org/resource/Grete_Weil>,
+        <http://fr.dbpedia.org/resource/Grete_Weil>,
+        <http://rdf.freebase.com/ns/m.05y3s9j>,
+        <http://wikidata.dbpedia.org/resource/Q103488>,
+        <http://www.wikidata.org/entity/Q103488>,
+        <http://yago-knowledge.org/resource/Grete_Weil> .
+
+<http://data.judaicalink.org/data/dbpedia/Gustav_Karpeles> a foaf:Person ;
+    jl:hasLabel "Gustav Karpeles@de",
+        "Gustav Karpeles@en",
+        "Карпелес, Густав@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Gustav_Karpeles>,
+        <http://de.dbpedia.org/resource/Gustav_Karpeles>,
+        <http://rdf.freebase.com/ns/m.02rgkpm>,
+        <http://viaf.org/viaf/35198309>,
+        <http://wikidata.dbpedia.org/resource/Q1556063>,
+        <http://www.wikidata.org/entity/Q1556063>,
+        <http://yago-knowledge.org/resource/Gustav_Karpeles> .
+
+<http://data.judaicalink.org/data/dbpedia/Haim_Sabato> a foaf:Person ;
+    jl:hasLabel "Haim Sabato@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Haim_Sabato>,
+        <http://rdf.freebase.com/ns/m.047p3n0>,
+        <http://viaf.org/viaf/42995454>,
+        <http://wikidata.dbpedia.org/resource/Q2910481>,
+        <http://www.wikidata.org/entity/Q2910481>,
+        <http://yago-knowledge.org/resource/Haim_Sabato> .
+
+<http://data.judaicalink.org/data/dbpedia/Halina_Górska> a foaf:Person ;
+    jl:hasLabel "Halina Górska@en",
+        "Halina Górska@pl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Halina_Górska>,
+        <http://pl.dbpedia.org/resource/Halina_Górska>,
+        <http://rdf.freebase.com/ns/m.064mmv6>,
+        <http://wikidata.dbpedia.org/resource/Q5642363>,
+        <http://www.wikidata.org/entity/Q5642363>,
+        <http://yago-knowledge.org/resource/Halina_Górska> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_Ehrenbaum-Degele> a foaf:Person ;
+    jl:hasLabel "Hans Ehrenbaum-Degele@de",
+        "Hans Ehrenbaum-Degele@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Hans_Ehrenbaum-Degele>,
+        <http://de.dbpedia.org/resource/Hans_Ehrenbaum-Degele>,
+        <http://rdf.freebase.com/ns/m.0f74yg>,
+        <http://wikidata.dbpedia.org/resource/Q108274>,
+        <http://www.wikidata.org/entity/Q108274>,
+        <http://yago-knowledge.org/resource/Hans_Ehrenbaum-Degele> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_Frankenthal> a foaf:Person ;
+    jl:hasLabel "Hans Frankenthal@de",
+        "Hans Frankenthal@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Hans_Frankenthal>,
+        <http://de.dbpedia.org/resource/Hans_Frankenthal>,
+        <http://rdf.freebase.com/ns/m.067xb3>,
+        <http://viaf.org/viaf/236713081>,
+        <http://wikidata.dbpedia.org/resource/Q92443>,
+        <http://www.wikidata.org/entity/Q92443>,
+        <http://yago-knowledge.org/resource/Hans_Frankenthal> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_G._Helms> a foaf:Person ;
+    jl:hasLabel "Hans G Helms@de",
+        "Hans G. Helms@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Hans_G._Helms>,
+        <http://de.dbpedia.org/resource/Hans_G_Helms>,
+        <http://rdf.freebase.com/ns/m.02q9q9m>,
+        <http://viaf.org/viaf/61719073>,
+        <http://wikidata.dbpedia.org/resource/Q108544>,
+        <http://www.wikidata.org/entity/Q108544>,
+        <http://yago-knowledge.org/resource/Hans_G._Helms> .
+
+<http://data.judaicalink.org/data/dbpedia/Harry_Schein> a foaf:Person ;
+    jl:hasLabel "Harry Schein@de",
+        "Harry Schein@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Harry_Schein>,
+        <http://dbpedia.org/resource/Harry_Schein>,
+        <http://de.dbpedia.org/resource/Harry_Schein>,
+        <http://rdf.freebase.com/ns/m.0g2351>,
+        <http://viaf.org/viaf/29585920>,
+        <http://wikidata.dbpedia.org/resource/Q1586766>,
+        <http://www.wikidata.org/entity/Q1586766>,
+        <http://yago-knowledge.org/resource/Harry_Schein> .
+
+<http://data.judaicalink.org/data/dbpedia/Hayim_Nahman_Bialik> a foaf:Person ;
+    jl:hasLabel "Chaim Nachman Bialik@de",
+        "Chaim Nachman Bialik@nl",
+        "Chaim Nachman Bialik@pt",
+        "Chajim Nachman Bialik@pl",
+        "Haim Nachman Bialik@it",
+        "Hayim Nahman Bialik@en",
+        "Haïm Nahman Bialik@fr",
+        "Jaim Najman Biálik@es",
+        "Бялик, Хаим Нахман@ru",
+        "ハイム・ナフマン・ビアリク@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Chajim_Nachman_Bialik>,
+        <http://dbpedia.org/resource/Hayim_Nahman_Bialik>,
+        <http://de.dbpedia.org/resource/Chaim_Nachman_Bialik>,
+        <http://es.dbpedia.org/resource/Jaim_Najman_Biálik>,
+        <http://fr.dbpedia.org/resource/Haïm_Nahman_Bialik>,
+        <http://it.dbpedia.org/resource/Haim_Nachman_Bialik>,
+        <http://ja.dbpedia.org/resource/ハイム・ナフマン・ビアリク>,
+        <http://nl.dbpedia.org/resource/Chaim_Nachman_Bialik>,
+        <http://pl.dbpedia.org/resource/Chajim_Nachman_Bialik>,
+        <http://pt.dbpedia.org/resource/Chaim_Nachman_Bialik>,
+        <http://rdf.freebase.com/ns/m.032fkh>,
+        <http://viaf.org/viaf/41958361>,
+        <http://wikidata.dbpedia.org/resource/Q359705>,
+        <http://www.wikidata.org/entity/Q359705>,
+        <http://yago-knowledge.org/resource/Hayim_Nahman_Bialik> .
+
+<http://data.judaicalink.org/data/dbpedia/Hayyim_Selig_Slonimski> a foaf:Person ;
+    jl:hasLabel "Chaim Zelig Słonimski@pl",
+        "Chajim Slonimski@de",
+        "Hayyim Selig Slonimski@en",
+        "Слонимский, Зиновий Яковлевич@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Hayyim_Selig_Slonimski>,
+        <http://de.dbpedia.org/resource/Chajim_Slonimski>,
+        <http://pl.dbpedia.org/resource/Chaim_Zelig_Słonimski>,
+        <http://rdf.freebase.com/ns/m.0465_jh>,
+        <http://viaf.org/viaf/29714508>,
+        <http://wikidata.dbpedia.org/resource/Q976296>,
+        <http://www.wikidata.org/entity/Q976296>,
+        <http://yago-knowledge.org/resource/Chaim_Zelig_Slonimsky>,
+        <http://yago-knowledge.org/resource/Hayyim_Selig_Slonimski> .
+
+<http://data.judaicalink.org/data/dbpedia/Henric_Streitman> a foaf:Person ;
+    jl:hasLabel "Henric Streitman@en",
+        "Штрайтман, Хенрик@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Henric_Streitman>,
+        <http://rdf.freebase.com/ns/m.0n48p7q>,
+        <http://wikidata.dbpedia.org/resource/Q5715813>,
+        <http://www.wikidata.org/entity/Q5715813>,
+        <http://yago-knowledge.org/resource/Henric_Streitman> .
+
+<http://data.judaicalink.org/data/dbpedia/Herman_Kruk> a foaf:Person ;
+    jl:hasLabel "Herman Kruk@de",
+        "Herman Kruk@en",
+        "Herman Kruk@pt",
+        "Hermann Kruk@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Herman_Kruk>,
+        <http://de.dbpedia.org/resource/Herman_Kruk>,
+        <http://fr.dbpedia.org/resource/Hermann_Kruk>,
+        <http://pt.dbpedia.org/resource/Herman_Kruk>,
+        <http://rdf.freebase.com/ns/m.0n4ckk0>,
+        <http://viaf.org/viaf/51933940>,
+        <http://wikidata.dbpedia.org/resource/Q5739952>,
+        <http://www.wikidata.org/entity/Q5739952>,
+        <http://yago-knowledge.org/resource/Herman_Kruk> .
+
+<http://data.judaicalink.org/data/dbpedia/Hermann_Broch> a foaf:Person ;
+    jl:hasLabel "Hermann Broch@de",
+        "Hermann Broch@en",
+        "Hermann Broch@es",
+        "Hermann Broch@fr",
+        "Hermann Broch@it",
+        "Hermann Broch@nl",
+        "Hermann Broch@pl",
+        "Hermann Broch@pt",
+        "Брох, Герман@ru",
+        "هرمان بروخ@ar",
+        "ヘルマン・ブロッホ@ja",
+        "赫尔曼·布洛赫@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Hermann_Broch>,
+        <http://data.europa.eu/euodp/jrc-names/Hermann_Broch>,
+        <http://dbpedia.org/resource/Hermann_Broch>,
+        <http://de.dbpedia.org/resource/Hermann_Broch>,
+        <http://es.dbpedia.org/resource/Hermann_Broch>,
+        <http://eu.dbpedia.org/resource/Hermann_Broch>,
+        <http://fr.dbpedia.org/resource/Hermann_Broch>,
+        <http://it.dbpedia.org/resource/Hermann_Broch>,
+        <http://ja.dbpedia.org/resource/ヘルマン・ブロッホ>,
+        <http://nl.dbpedia.org/resource/Hermann_Broch>,
+        <http://pl.dbpedia.org/resource/Hermann_Broch>,
+        <http://pt.dbpedia.org/resource/Hermann_Broch>,
+        <http://rdf.freebase.com/ns/m.03tfxb>,
+        <http://wikidata.dbpedia.org/resource/Q84150>,
+        <http://www.wikidata.org/entity/Q84150>,
+        <http://yago-knowledge.org/resource/Hermann_Broch> .
+
+<http://data.judaicalink.org/data/dbpedia/Hermann_Grab> a foaf:Person ;
+    jl:hasLabel "Hermann Grab@de",
+        "Hermann Grab@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Hermann_Grab>,
+        <http://dbpedia.org/resource/Hermann_Grab>,
+        <http://de.dbpedia.org/resource/Hermann_Grab>,
+        <http://rdf.freebase.com/ns/m.04gsvs>,
+        <http://viaf.org/viaf/54164755>,
+        <http://wikidata.dbpedia.org/resource/Q59909>,
+        <http://www.wikidata.org/entity/Q59909>,
+        <http://yago-knowledge.org/resource/Hermann_Grab> .
+
+<http://data.judaicalink.org/data/dbpedia/Hermann_Kesten> a foaf:Person ;
+    jl:hasLabel "Hermann Kesten@de",
+        "Hermann Kesten@en",
+        "Hermann Kesten@es",
+        "Hermann Kesten@fr",
+        "Hermann Kesten@it",
+        "Hermann Kesten@nl",
+        "Hermann Kesten@pl",
+        "Hermann Kesten@pt",
+        "Кестен, Герман@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Hermann_Kesten>,
+        <http://de.dbpedia.org/resource/Hermann_Kesten>,
+        <http://es.dbpedia.org/resource/Hermann_Kesten>,
+        <http://eu.dbpedia.org/resource/Hermann_Kesten>,
+        <http://fr.dbpedia.org/resource/Hermann_Kesten>,
+        <http://it.dbpedia.org/resource/Hermann_Kesten>,
+        <http://nl.dbpedia.org/resource/Hermann_Kesten>,
+        <http://pl.dbpedia.org/resource/Hermann_Kesten>,
+        <http://pt.dbpedia.org/resource/Hermann_Kesten>,
+        <http://rdf.freebase.com/ns/m.064rc0z>,
+        <http://wikidata.dbpedia.org/resource/Q65504>,
+        <http://www.wikidata.org/entity/Q65504>,
+        <http://yago-knowledge.org/resource/Hermann_Kesten> .
+
+<http://data.judaicalink.org/data/dbpedia/Herwarth_Walden> a foaf:Person ;
+    jl:hasLabel "Herwarth Walden@de",
+        "Herwarth Walden@en",
+        "Herwarth Walden@es",
+        "Herwarth Walden@fr",
+        "Herwarth Walden@nl",
+        "Herwarth Walden@pl",
+        "Herwarth Walden@pt",
+        "Вальден, Герварт@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Herwarth_Walden>,
+        <http://de.dbpedia.org/resource/Herwarth_Walden>,
+        <http://es.dbpedia.org/resource/Herwarth_Walden>,
+        <http://fr.dbpedia.org/resource/Herwarth_Walden>,
+        <http://nl.dbpedia.org/resource/Herwarth_Walden>,
+        <http://pl.dbpedia.org/resource/Herwarth_Walden>,
+        <http://pt.dbpedia.org/resource/Herwarth_Walden>,
+        <http://rdf.freebase.com/ns/m.0d797w>,
+        <http://wikidata.dbpedia.org/resource/Q62661>,
+        <http://www.wikidata.org/entity/Q62661>,
+        <http://yago-knowledge.org/resource/Herwarth_Walden> .
+
+<http://data.judaicalink.org/data/dbpedia/Hirsch_Edelmann> a foaf:Person ;
+    jl:hasLabel "Hirsch Edelmann@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Hirsch_Edelmann>,
+        <http://rdf.freebase.com/ns/m.02rcq5t>,
+        <http://viaf.org/viaf/73742118>,
+        <http://wikidata.dbpedia.org/resource/Q15457919>,
+        <http://www.wikidata.org/entity/Q15457919>,
+        <http://yago-knowledge.org/resource/Hirsch_Edelmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Hizgil_Avshalumov> a foaf:Person ;
+    jl:hasLabel "Hizgil Avshalumov@en",
+        "Авшалумов, Хизгил Давидович@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Hizgil_Avshalumov>,
+        <http://rdf.freebase.com/ns/m.0wzs0y2>,
+        <http://wikidata.dbpedia.org/resource/Q4056488>,
+        <http://www.wikidata.org/entity/Q4056488>,
+        <http://yago-knowledge.org/resource/Hizgil_Avshalumov> .
+
+<http://data.judaicalink.org/data/dbpedia/Hélène_Cixous> a foaf:Person ;
+    jl:hasLabel "Hélène Cixous@de",
+        "Hélène Cixous@en",
+        "Hélène Cixous@es",
+        "Hélène Cixous@fr",
+        "Hélène Cixous@nl",
+        "Hélène Cixous@pl",
+        "Hélène Cixous@pt",
+        "Сиксу, Элен@ru",
+        "エレーヌ・シクスー@ja",
+        "愛蓮·西蘇@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Hélène_Cixous>,
+        <http://dbpedia.org/resource/Hélène_Cixous>,
+        <http://de.dbpedia.org/resource/Hélène_Cixous>,
+        <http://es.dbpedia.org/resource/Hélène_Cixous>,
+        <http://fr.dbpedia.org/resource/Hélène_Cixous>,
+        <http://ja.dbpedia.org/resource/エレーヌ・シクスー>,
+        <http://nl.dbpedia.org/resource/Hélène_Cixous>,
+        <http://pl.dbpedia.org/resource/Hélène_Cixous>,
+        <http://pt.dbpedia.org/resource/Hélène_Cixous>,
+        <http://rdf.freebase.com/ns/m.016k0j>,
+        <http://viaf.org/viaf/49223428>,
+        <http://wikidata.dbpedia.org/resource/Q234964>,
+        <http://www.wikidata.org/entity/Q234964>,
+        <http://yago-knowledge.org/resource/Hélène_Cixous> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Alexander> a foaf:Person ;
+    jl:hasLabel "Isaac Alexander@en",
+        "Isaak Alexander@de" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_Alexander>,
+        <http://de.dbpedia.org/resource/Isaak_Alexander>,
+        <http://rdf.freebase.com/ns/m.0bwg75w>,
+        <http://wikidata.dbpedia.org/resource/Q6075824>,
+        <http://www.wikidata.org/entity/Q6075824>,
+        <http://yago-knowledge.org/resource/Isaac_Alexander> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Babel> a foaf:Person ;
+    jl:hasLabel "Isaac Babel@en",
+        "Isaac Babel@fr",
+        "Isaac Babel@pt",
+        "Isaak Babel@nl",
+        "Isaak Babel@pl",
+        "Isaak Bábel@es",
+        "Isaak Emmanuilowitsch Babel@de",
+        "Isaak Ėmmanuilovič Babel'@it",
+        "Бабель, Исаак Эммануилович@ru",
+        "イサーク・バーベリ@ja",
+        "伊扎克·巴别尔@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Isaak_Babel>,
+        <http://dbpedia.org/resource/Isaac_Babel>,
+        <http://de.dbpedia.org/resource/Isaak_Emmanuilowitsch_Babel>,
+        <http://es.dbpedia.org/resource/Isaak_Bábel>,
+        <http://eu.dbpedia.org/resource/Isaak_Babel>,
+        <http://fr.dbpedia.org/resource/Isaac_Babel>,
+        <http://it.dbpedia.org/resource/Isaak_Ėmmanuilovič_Babel'>,
+        <http://ja.dbpedia.org/resource/イサーク・バーベリ>,
+        <http://nl.dbpedia.org/resource/Isaak_Babel>,
+        <http://pl.dbpedia.org/resource/Isaak_Babel>,
+        <http://pt.dbpedia.org/resource/Isaac_Babel>,
+        <http://rdf.freebase.com/ns/m.018gsl>,
+        <http://viaf.org/viaf/245879517>,
+        <http://wikidata.dbpedia.org/resource/Q49080>,
+        <http://www.wikidata.org/entity/Q49080>,
+        <http://yago-knowledge.org/resource/Isaak_Babel> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Baer_Levinsohn> a foaf:Person ;
+    jl:hasLabel "Isaac Baer Levinsohn@en",
+        "Isaac Bär Levinsohn@fr",
+        "Isaak Bär Levinsohn@de",
+        "Левинзон, Исаак Бер@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_Baer_Levinsohn>,
+        <http://de.dbpedia.org/resource/Isaak_Bär_Levinsohn>,
+        <http://fr.dbpedia.org/resource/Isaac_Bär_Levinsohn>,
+        <http://rdf.freebase.com/ns/m.027hd0r>,
+        <http://wikidata.dbpedia.org/resource/Q1390040>,
+        <http://www.wikidata.org/entity/Q1390040>,
+        <http://yago-knowledge.org/resource/Isaac_Baer_Levinsohn> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Cardoso> a foaf:Person ;
+    jl:hasLabel "Isaac Cardoso@en",
+        "Isaac Cardoso@es",
+        "Isaac Cardoso@pt",
+        "Исаак Кардозо@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_Cardoso>,
+        <http://es.dbpedia.org/resource/Isaac_Cardoso>,
+        <http://pt.dbpedia.org/resource/Isaac_Cardoso>,
+        <http://rdf.freebase.com/ns/m.02qr2jz>,
+        <http://viaf.org/viaf/59921100>,
+        <http://wikidata.dbpedia.org/resource/Q4203493>,
+        <http://www.wikidata.org/entity/Q4203493>,
+        <http://yago-knowledge.org/resource/Isaac_Cardoso> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_of_Troki> a foaf:Person ;
+    jl:hasLabel "Isaac de Troki@fr",
+        "Isaac of Troki@en",
+        "Isaak Troki@de",
+        "Исаак Трокский@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_of_Troki>,
+        <http://de.dbpedia.org/resource/Isaak_Troki>,
+        <http://fr.dbpedia.org/resource/Isaac_de_Troki>,
+        <http://rdf.freebase.com/ns/m.03m73lw>,
+        <http://wikidata.dbpedia.org/resource/Q168171>,
+        <http://www.wikidata.org/entity/Q168171>,
+        <http://yago-knowledge.org/resource/Isaac_of_Troki> .
+
+<http://data.judaicalink.org/data/dbpedia/Ischa_Meijer> a foaf:Person ;
+    jl:hasLabel "Ischa Meijer@de",
+        "Ischa Meijer@en",
+        "Ischa Meijer@nl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Ischa_Meijer>,
+        <http://de.dbpedia.org/resource/Ischa_Meijer>,
+        <http://nl.dbpedia.org/resource/Ischa_Meijer>,
+        <http://rdf.freebase.com/ns/m.02qlpgv>,
+        <http://wikidata.dbpedia.org/resource/Q896193>,
+        <http://www.wikidata.org/entity/Q896193>,
+        <http://yago-knowledge.org/resource/Ischa_Meijer> .
+
+<http://data.judaicalink.org/data/dbpedia/Israel_Alnaqua> a foaf:Person ;
+    jl:hasLabel "Israel Alnaqua@en",
+        "Israel Ibn al-Naqawa@de",
+        "Israël Al-Naqawa@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Israel_Alnaqua>,
+        <http://de.dbpedia.org/resource/Israel_Ibn_al-Naqawa>,
+        <http://fr.dbpedia.org/resource/Israël_Al-Naqawa>,
+        <http://rdf.freebase.com/ns/m.026f1mv>,
+        <http://wikidata.dbpedia.org/resource/Q1674606>,
+        <http://www.wikidata.org/entity/Q1674606>,
+        <http://yago-knowledge.org/resource/Israel_Alnaqua> .
+
+<http://data.judaicalink.org/data/dbpedia/Israel_Panner> a foaf:Person ;
+    jl:hasLabel "Israel Panner@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Israel_Panner>,
+        <http://rdf.freebase.com/ns/m.0463xkt>,
+        <http://wikidata.dbpedia.org/resource/Q6087102>,
+        <http://www.wikidata.org/entity/Q6087102>,
+        <http://yago-knowledge.org/resource/Israel_Panner> .
+
+<http://data.judaicalink.org/data/dbpedia/Ivan_Elagin_(poet)> a foaf:Person ;
+    jl:hasLabel "Ivan Elagin (poet)@en",
+        "Елагин, Иван Венедиктович@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Ivan_Elagin_(poet)>,
+        <http://rdf.freebase.com/ns/m.0s8w8h_>,
+        <http://wikidata.dbpedia.org/resource/Q4174514>,
+        <http://www.wikidata.org/entity/Q4174514>,
+        <http://yago-knowledge.org/resource/Ivan_Elagin_(poet)> .
+
+<http://data.judaicalink.org/data/dbpedia/Izrail_Metter> a foaf:Person ;
+    jl:hasLabel "Izrail Metter@en",
+        "Izrail Métter@es",
+        "Izrail' Moiseevič Metter@it",
+        "Меттер, Израиль Моисеевич@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Izrail_Metter>,
+        <http://es.dbpedia.org/resource/Izrail_Métter>,
+        <http://it.dbpedia.org/resource/Izrail'_Moiseevič_Metter>,
+        <http://rdf.freebase.com/ns/m.0105ljhf>,
+        <http://wikidata.dbpedia.org/resource/Q3803406>,
+        <http://www.wikidata.org/entity/Q3803406>,
+        <http://yago-knowledge.org/resource/Izrail_Metter> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Immanuel_Schochet> a foaf:Person ;
+    jl:hasLabel "Jacob Immanuel Schochet@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacob_Immanuel_Schochet>,
+        <http://rdf.freebase.com/ns/m.043lry7>,
+        <http://wikidata.dbpedia.org/resource/Q6118784>,
+        <http://www.wikidata.org/entity/Q6118784>,
+        <http://yago-knowledge.org/resource/Jacob_Immanuel_Schochet> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Talmon> a foaf:Person ;
+    jl:hasLabel "Jacob Leib Talmon@pl",
+        "Jacob Talmon@de",
+        "Jacob Talmon@en",
+        "Jacob Talmon@fr",
+        "Yaakov Talmón@es",
+        "雅各布·托曼@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ja'akov_Talmon>,
+        <http://dbpedia.org/resource/Jacob_Talmon>,
+        <http://de.dbpedia.org/resource/Jacob_Talmon>,
+        <http://es.dbpedia.org/resource/Yaakov_Talmón>,
+        <http://fr.dbpedia.org/resource/Jacob_Talmon>,
+        <http://pl.dbpedia.org/resource/Jacob_Leib_Talmon>,
+        <http://rdf.freebase.com/ns/m.05wm77v>,
+        <http://wikidata.dbpedia.org/resource/Q939379>,
+        <http://www.wikidata.org/entity/Q939379>,
+        <http://yago-knowledge.org/resource/Jacob_Talmon> .
+
+<http://data.judaicalink.org/data/dbpedia/Jakob_Bettelheim> a foaf:Person ;
+    jl:hasLabel "Jakob Bettelheim@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Jakob_Bettelheim>,
+        <http://rdf.freebase.com/ns/m.09gm3fv>,
+        <http://wikidata.dbpedia.org/resource/Q6125238>,
+        <http://www.wikidata.org/entity/Q6125238>,
+        <http://yago-knowledge.org/resource/Jakob_Bettelheim> .
+
+<http://data.judaicalink.org/data/dbpedia/Jakob_Wassermann> a foaf:Person ;
+    jl:hasLabel "Jakob Wassermann@de",
+        "Jakob Wassermann@en",
+        "Jakob Wassermann@es",
+        "Jakob Wassermann@fr",
+        "Jakob Wassermann@it",
+        "Jakob Wassermann@nl",
+        "Jakob Wassermann@pl",
+        "Jakob Wassermann@pt",
+        "Вассерман, Якоб@ru",
+        "ヤーコプ・ヴァッサーマン@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Jakob_Wassermann>,
+        <http://de.dbpedia.org/resource/Jakob_Wassermann>,
+        <http://el.dbpedia.org/resource/Γιάκομπ_Βάσερμαν>,
+        <http://es.dbpedia.org/resource/Jakob_Wassermann>,
+        <http://eu.dbpedia.org/resource/Jakob_Wassermann>,
+        <http://fr.dbpedia.org/resource/Jakob_Wassermann>,
+        <http://it.dbpedia.org/resource/Jakob_Wassermann>,
+        <http://ja.dbpedia.org/resource/ヤーコプ・ヴァッサーマン>,
+        <http://ko.dbpedia.org/resource/야코프_바서만>,
+        <http://nl.dbpedia.org/resource/Jakob_Wassermann>,
+        <http://pl.dbpedia.org/resource/Jakob_Wassermann>,
+        <http://pt.dbpedia.org/resource/Jakob_Wassermann>,
+        <http://rdf.freebase.com/ns/m.077fcj>,
+        <http://wikidata.dbpedia.org/resource/Q60369>,
+        <http://www.wikidata.org/entity/Q60369>,
+        <http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Wassermann_Jakob_1873-1934>,
+        <http://yago-knowledge.org/resource/Jakob_Wassermann> .
+
+<http://data.judaicalink.org/data/dbpedia/Jan_Kott> a foaf:Person ;
+    jl:hasLabel "Jan Kott@de",
+        "Jan Kott@en",
+        "Jan Kott@es",
+        "Jan Kott@fr",
+        "Jan Kott@pl",
+        "Jan Kott@pt",
+        "Котт, Ян@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Jan_Kott>,
+        <http://de.dbpedia.org/resource/Jan_Kott>,
+        <http://es.dbpedia.org/resource/Jan_Kott>,
+        <http://fr.dbpedia.org/resource/Jan_Kott>,
+        <http://pl.dbpedia.org/resource/Jan_Kott>,
+        <http://pt.dbpedia.org/resource/Jan_Kott>,
+        <http://rdf.freebase.com/ns/m.05wd50w>,
+        <http://viaf.org/viaf/66586118>,
+        <http://wikidata.dbpedia.org/resource/Q516786>,
+        <http://www.wikidata.org/entity/Q516786>,
+        <http://yago-knowledge.org/resource/Jan_Kott> .
+
+<http://data.judaicalink.org/data/dbpedia/Janusz_Korczak> a foaf:Person ;
+    jl:hasLabel "Janusz Korczak@de",
+        "Janusz Korczak@en",
+        "Janusz Korczak@es",
+        "Janusz Korczak@fr",
+        "Janusz Korczak@it",
+        "Janusz Korczak@nl",
+        "Janusz Korczak@pl",
+        "Janusz Korczak@pt",
+        "Януш Корчак@ru",
+        "ヤヌシュ・コルチャック@ja",
+        "雅努什·科扎克@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Janusz_Korczak>,
+        <http://data.europa.eu/euodp/jrc-names/Janusz_Korczak>,
+        <http://dbpedia.org/resource/Janusz_Korczak>,
+        <http://de.dbpedia.org/resource/Janusz_Korczak>,
+        <http://el.dbpedia.org/resource/Γιάνους_Κόρτσακ>,
+        <http://es.dbpedia.org/resource/Janusz_Korczak>,
+        <http://fr.dbpedia.org/resource/Janusz_Korczak>,
+        <http://id.dbpedia.org/resource/Janusz_Korczak>,
+        <http://it.dbpedia.org/resource/Janusz_Korczak>,
+        <http://ja.dbpedia.org/resource/ヤヌシュ・コルチャック>,
+        <http://ko.dbpedia.org/resource/야누쉬_코르챡>,
+        <http://nl.dbpedia.org/resource/Janusz_Korczak>,
+        <http://pl.dbpedia.org/resource/Janusz_Korczak>,
+        <http://pt.dbpedia.org/resource/Janusz_Korczak>,
+        <http://rdf.freebase.com/ns/m.01fvm2>,
+        <http://viaf.org/viaf/100899665>,
+        <http://wikidata.dbpedia.org/resource/Q152441>,
+        <http://www.wikidata.org/entity/Q152441>,
+        <http://yago-knowledge.org/resource/Janusz_Korczak> .
+
+<http://data.judaicalink.org/data/dbpedia/Jasminka_Domaš> a foaf:Person ;
+    jl:hasLabel "Jasminka Domaš@de",
+        "Jasminka Domaš@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Jasminka_Domaš>,
+        <http://de.dbpedia.org/resource/Jasminka_Domaš>,
+        <http://rdf.freebase.com/ns/m.07cwml>,
+        <http://viaf.org/viaf/30664844>,
+        <http://wikidata.dbpedia.org/resource/Q543856>,
+        <http://www.wikidata.org/entity/Q543856>,
+        <http://yago-knowledge.org/resource/Jasminka_Domaš> .
+
+<http://data.judaicalink.org/data/dbpedia/Jiří_Langer> a foaf:Person ;
+    jl:hasLabel "Jiří Langer@en",
+        "Jiří Mordechai Langer@de",
+        "Лангер, Иржи@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jiří_Langer>,
+        <http://dbpedia.org/resource/Jiří_Langer>,
+        <http://de.dbpedia.org/resource/Jiří_Mordechai_Langer>,
+        <http://rdf.freebase.com/ns/m.0j7jz4y>,
+        <http://viaf.org/viaf/79081562>,
+        <http://wikidata.dbpedia.org/resource/Q451369>,
+        <http://www.wikidata.org/entity/Q451369>,
+        <http://yago-knowledge.org/resource/Jiří_Langer> .
+
+<http://data.judaicalink.org/data/dbpedia/John_Chillag> a foaf:Person ;
+    jl:hasLabel "John Chillag@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/John_Chillag>,
+        <http://rdf.freebase.com/ns/m.0hn9sqz>,
+        <http://viaf.org/viaf/14911316>,
+        <http://wikidata.dbpedia.org/resource/Q6225952>,
+        <http://www.wikidata.org/entity/Q6225952>,
+        <http://yago-knowledge.org/resource/John_Chillag> .
+
+<http://data.judaicalink.org/data/dbpedia/Jon_Juaristi> a foaf:Person ;
+    jl:hasLabel "Jon Juaristi@en",
+        "Jon Juaristi@es",
+        "Хуаристи, Хон@ru",
+        "ホン・フアリスティ@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Jon_Juaristi>,
+        <http://dbpedia.org/resource/Jon_Juaristi>,
+        <http://el.dbpedia.org/resource/Γιον_Χουαρίστι>,
+        <http://es.dbpedia.org/resource/Jon_Juaristi>,
+        <http://eu.dbpedia.org/resource/Jon_Juaristi>,
+        <http://ja.dbpedia.org/resource/ホン・フアリスティ>,
+        <http://rdf.freebase.com/ns/m.02654bq>,
+        <http://wikidata.dbpedia.org/resource/Q2669380>,
+        <http://www.wikidata.org/entity/Q2669380>,
+        <http://yago-knowledge.org/resource/Jon_Juaristi> .
+
+<http://data.judaicalink.org/data/dbpedia/Jonah_Frankel> a foaf:Person ;
+    jl:hasLabel "Jonah Frankel@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Jonah_Frankel>,
+        <http://rdf.freebase.com/ns/m.0_ym_vx>,
+        <http://wikidata.dbpedia.org/resource/Q15958767>,
+        <http://www.wikidata.org/entity/Q15958767>,
+        <http://yago-knowledge.org/resource/Jonah_Frankel> .
+
+<http://data.judaicalink.org/data/dbpedia/Josef_Burg_(writer)> a foaf:Person ;
+    jl:hasLabel "Josef Burg (Schriftsteller)@de",
+        "Josef Burg (pisarz)@pl",
+        "Josef Burg (writer)@en",
+        "Josef Burg@nl",
+        "Бург, Иосиф Кунович@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Josef_Burg_(writer)>,
+        <http://de.dbpedia.org/resource/Josef_Burg_(Schriftsteller)>,
+        <http://nl.dbpedia.org/resource/Josef_Burg>,
+        <http://pl.dbpedia.org/resource/Josef_Burg_(pisarz)>,
+        <http://rdf.freebase.com/ns/m.07kfdzk>,
+        <http://viaf.org/viaf/97164971>,
+        <http://wikidata.dbpedia.org/resource/Q84520>,
+        <http://www.wikidata.org/entity/Q84520>,
+        <http://yago-knowledge.org/resource/Josef_Burg_(writer)> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_Bergel> a foaf:Person ;
+    jl:hasLabel "Joseph Bergel@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_Bergel>,
+        <http://rdf.freebase.com/ns/m.0280trd>,
+        <http://wikidata.dbpedia.org/resource/Q6281467>,
+        <http://www.wikidata.org/entity/Q6281467>,
+        <http://yago-knowledge.org/resource/Joseph_Bergel> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_Ginat> a foaf:Person ;
+    jl:hasLabel "Joseph Ginat@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_Ginat>,
+        <http://rdf.freebase.com/ns/m.0gff9j0>,
+        <http://viaf.org/viaf/9872053>,
+        <http://wikidata.dbpedia.org/resource/Q6283460>,
+        <http://www.wikidata.org/entity/Q6283460>,
+        <http://yago-knowledge.org/resource/Joseph_Ginat> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_Perl> a foaf:Person ;
+    jl:hasLabel "Josef Perl@de",
+        "Joseph Perl@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_Perl>,
+        <http://de.dbpedia.org/resource/Josef_Perl>,
+        <http://rdf.freebase.com/ns/m.02pl221>,
+        <http://wikidata.dbpedia.org/resource/Q973263>,
+        <http://www.wikidata.org/entity/Q973263>,
+        <http://yago-knowledge.org/resource/Joseph_Perl> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_Zedner> a foaf:Person ;
+    jl:hasLabel "Joseph Zedner@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_Zedner>,
+        <http://rdf.freebase.com/ns/m.02rd3j4>,
+        <http://wikidata.dbpedia.org/resource/Q6288143>,
+        <http://www.wikidata.org/entity/Q6288143>,
+        <http://yago-knowledge.org/resource/Joseph_Zedner> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_ben_Judah_ibn_Aknin> a foaf:Person ;
+    jl:hasLabel "Josef ben Juda ibn Aknin@de",
+        "Joseph ben Judah ibn Aknin@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_ben_Judah_ibn_Aknin>,
+        <http://de.dbpedia.org/resource/Josef_ben_Juda_ibn_Aknin>,
+        <http://rdf.freebase.com/ns/m.03cccp3>,
+        <http://wikidata.dbpedia.org/resource/Q1706130>,
+        <http://www.wikidata.org/entity/Q1706130>,
+        <http://yago-knowledge.org/resource/Joseph_ben_Judah_ibn_Aknin> .
+
+<http://data.judaicalink.org/data/dbpedia/Joshua_Lewinsohn> a foaf:Person ;
+    jl:hasLabel "Joshua Lewinsohn@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Joshua_Lewinsohn>,
+        <http://rdf.freebase.com/ns/m.0gndym>,
+        <http://wikidata.dbpedia.org/resource/Q6290018>,
+        <http://www.wikidata.org/entity/Q6290018>,
+        <http://yago-knowledge.org/resource/Joshua_Lewinsohn> .
+
+<http://data.judaicalink.org/data/dbpedia/Joshua_Lorki> a foaf:Person ;
+    jl:hasLabel "Jerónimo de Santa Fe@es",
+        "Joshua Lorki@en",
+        "Josua ben Josef Lorki@de" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Joshua_Lorki>,
+        <http://de.dbpedia.org/resource/Josua_ben_Josef_Lorki>,
+        <http://es.dbpedia.org/resource/Jerónimo_de_Santa_Fe>,
+        <http://rdf.freebase.com/ns/m.0277wp8>,
+        <http://wikidata.dbpedia.org/resource/Q462009>,
+        <http://www.wikidata.org/entity/Q462009>,
+        <http://yago-knowledge.org/resource/Joshua_Lorki> .
+
+<http://data.judaicalink.org/data/dbpedia/Judah_Alkalai> a foaf:Person ;
+    jl:hasLabel "Judah Alkalai@de",
+        "Judah Alkalai@en",
+        "Yehouda Hay Alkalay@fr",
+        "Yehuda Hay Alkalai@es",
+        "Yehudá Ben Shelomo Hay Alkalay@pt",
+        "Алкалай, Иехуда@ru",
+        "يهوذا الكالاي@ar",
+        "イェフダー・アルカライ@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Judah_Alkalai>,
+        <http://de.dbpedia.org/resource/Judah_Alkalai>,
+        <http://es.dbpedia.org/resource/Yehuda_Hay_Alkalai>,
+        <http://fr.dbpedia.org/resource/Yehouda_Hay_Alkalay>,
+        <http://ja.dbpedia.org/resource/イェフダー・アルカライ>,
+        <http://pt.dbpedia.org/resource/Yehudá_Ben_Shelomo_Hay_Alkalay>,
+        <http://rdf.freebase.com/ns/m.05sxkz>,
+        <http://viaf.org/viaf/76206041>,
+        <http://wikidata.dbpedia.org/resource/Q929251>,
+        <http://www.wikidata.org/entity/Q929251>,
+        <http://yago-knowledge.org/resource/Judah_Alkalai> .
+
+<http://data.judaicalink.org/data/dbpedia/Judah_ben_Nissim> a foaf:Person ;
+    jl:hasLabel "Judah ben Nissim@en",
+        "Judah ibn Nissim ibn Malkah@it" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Judah_ben_Nissim>,
+        <http://it.dbpedia.org/resource/Judah_ibn_Nissim_ibn_Malkah>,
+        <http://rdf.freebase.com/ns/m.0g9stdp>,
+        <http://wikidata.dbpedia.org/resource/Q6302172>,
+        <http://www.wikidata.org/entity/Q6302172>,
+        <http://yago-knowledge.org/resource/Judah_ben_Nissim> .
+
+<http://data.judaicalink.org/data/dbpedia/Julian_Kornhauser> a foaf:Person ;
+    jl:hasLabel "Julian Kornhauser@de",
+        "Julian Kornhauser@en",
+        "Julian Kornhauser@fr",
+        "Julian Kornhauser@pl",
+        "Корнхаусер, Юлиан@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Julian_Kornhauser>,
+        <http://de.dbpedia.org/resource/Julian_Kornhauser>,
+        <http://fr.dbpedia.org/resource/Julian_Kornhauser>,
+        <http://pl.dbpedia.org/resource/Julian_Kornhauser>,
+        <http://rdf.freebase.com/ns/m.05p1f0y>,
+        <http://wikidata.dbpedia.org/resource/Q6307323>,
+        <http://www.wikidata.org/entity/Q6307323>,
+        <http://yago-knowledge.org/resource/Julian_Kornhauser> .
+
+<http://data.judaicalink.org/data/dbpedia/Julian_Stryjkowski> a foaf:Person ;
+    jl:hasLabel "Julian Stryjkowski@de",
+        "Julian Stryjkowski@en",
+        "Julian Stryjkowski@pl",
+        "Стрыйковский, Юлиан@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Julian_Stryjkowski>,
+        <http://de.dbpedia.org/resource/Julian_Stryjkowski>,
+        <http://pl.dbpedia.org/resource/Julian_Stryjkowski>,
+        <http://rdf.freebase.com/ns/m.09gc6c>,
+        <http://viaf.org/viaf/19694158>,
+        <http://wikidata.dbpedia.org/resource/Q960370>,
+        <http://www.wikidata.org/entity/Q960370>,
+        <http://yago-knowledge.org/resource/Julian_Stryjkowski> .
+
+<http://data.judaicalink.org/data/dbpedia/Justine_Lévy> a foaf:Person ;
+    jl:hasLabel "Justine Lévy@de",
+        "Justine Lévy@en",
+        "Justine Lévy@fr",
+        "Justine Lévy@it" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Justine_L%C3%A9vy>,
+        <http://dbpedia.org/resource/Justine_Lévy>,
+        <http://de.dbpedia.org/resource/Justine_Lévy>,
+        <http://fr.dbpedia.org/resource/Justine_Lévy>,
+        <http://it.dbpedia.org/resource/Justine_Lévy>,
+        <http://rdf.freebase.com/ns/m.08bpl9>,
+        <http://viaf.org/viaf/51791085>,
+        <http://wikidata.dbpedia.org/resource/Q540461>,
+        <http://www.wikidata.org/entity/Q540461>,
+        <http://yago-knowledge.org/resource/Justine_Lévy> .
+
+<http://data.judaicalink.org/data/dbpedia/Kerry_Olitzky> a foaf:Person ;
+    jl:hasLabel "Kerry Olitzky@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Kerry_Olitzky>,
+        <http://rdf.freebase.com/ns/m.02rj44w>,
+        <http://wikidata.dbpedia.org/resource/Q6394616>,
+        <http://www.wikidata.org/entity/Q6394616>,
+        <http://yago-knowledge.org/resource/Kerry_Olitzky> .
+
+<http://data.judaicalink.org/data/dbpedia/Kliph_Nesteroff> a foaf:Person ;
+    jl:hasLabel "Kliph Nesteroff@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Kliph_Nesteroff>,
+        <http://rdf.freebase.com/ns/m.05p8svf>,
+        <http://wikidata.dbpedia.org/resource/Q6421113>,
+        <http://www.wikidata.org/entity/Q6421113>,
+        <http://yago-knowledge.org/resource/Kliph_Nesteroff> .
+
+<http://data.judaicalink.org/data/dbpedia/Kurt_Tucholsky> a foaf:Person ;
+    jl:hasLabel "Kurt Tucholsky@de",
+        "Kurt Tucholsky@en",
+        "Kurt Tucholsky@es",
+        "Kurt Tucholsky@fr",
+        "Kurt Tucholsky@it",
+        "Kurt Tucholsky@nl",
+        "Kurt Tucholsky@pl",
+        "Kurt Tucholsky@pt",
+        "Тухольский, Курт@ru",
+        "كورت توخولسكي@ar",
+        "クルト・トゥホルスキー@ja",
+        "库尔特·图霍夫斯基@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://data.europa.eu/euodp/jrc-names/Kurt_Tucholsky>,
+        <http://dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://de.dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://el.dbpedia.org/resource/Κουρτ_Τουχόλσκυ>,
+        <http://es.dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://eu.dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://fr.dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://it.dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://ja.dbpedia.org/resource/クルト・トゥホルスキー>,
+        <http://nl.dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://pl.dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://pt.dbpedia.org/resource/Kurt_Tucholsky>,
+        <http://rdf.freebase.com/ns/m.0135g_>,
+        <http://wikidata.dbpedia.org/resource/Q57386>,
+        <http://www.wikidata.org/entity/Q57386>,
+        <http://yago-knowledge.org/resource/Kurt_Tucholsky>,
+        <http://zitgist.com/music/artist/fde3d706-7202-476f-be60-8ef4567dc6ed> .
+
+<http://data.judaicalink.org/data/dbpedia/Laureen_Nussbaum> a foaf:Person ;
+    jl:hasLabel "Laureen Nussbaum@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Laureen_Nussbaum>,
+        <http://rdf.freebase.com/ns/m.063tldj>,
+        <http://wikidata.dbpedia.org/resource/Q16733524>,
+        <http://www.wikidata.org/entity/Q16733524>,
+        <http://yago-knowledge.org/resource/Laureen_Nussbaum> .
+
+<http://data.judaicalink.org/data/dbpedia/Laurent_Binet> a foaf:Person ;
+    jl:hasLabel "Laurent Binet@de",
+        "Laurent Binet@en",
+        "Laurent Binet@es",
+        "Laurent Binet@fr",
+        "Laurent Binet@it",
+        "Laurent Binet@nl",
+        "Бине, Лоран@ru",
+        "ローラン・ビネ@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Laurent_Binet>,
+        <http://data.europa.eu/euodp/jrc-names/Laurent_Binet>,
+        <http://dbpedia.org/resource/Laurent_Binet>,
+        <http://de.dbpedia.org/resource/Laurent_Binet>,
+        <http://es.dbpedia.org/resource/Laurent_Binet>,
+        <http://fr.dbpedia.org/resource/Laurent_Binet>,
+        <http://it.dbpedia.org/resource/Laurent_Binet>,
+        <http://ja.dbpedia.org/resource/ローラン・ビネ>,
+        <http://nl.dbpedia.org/resource/Laurent_Binet>,
+        <http://rdf.freebase.com/ns/m.0c3y2zw>,
+        <http://wikidata.dbpedia.org/resource/Q768318>,
+        <http://www.wikidata.org/entity/Q768318>,
+        <http://yago-knowledge.org/resource/Laurent_Binet> .
+
+<http://data.judaicalink.org/data/dbpedia/Leo_Feld> a foaf:Person ;
+    jl:hasLabel "Leo Feld@de",
+        "Leo Feld@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Leo_Feld>,
+        <http://de.dbpedia.org/resource/Leo_Feld>,
+        <http://rdf.freebase.com/ns/m.0czb3fz>,
+        <http://viaf.org/viaf/57368260>,
+        <http://wikidata.dbpedia.org/resource/Q89341>,
+        <http://www.wikidata.org/entity/Q89341>,
+        <http://yago-knowledge.org/resource/Leo_Feld> .
+
+<http://data.judaicalink.org/data/dbpedia/Leo_Schaya> a foaf:Person ;
+    jl:hasLabel "Leo Schaya@en",
+        "Léo Schaya@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Leo_Schaya>,
+        <http://fr.dbpedia.org/resource/Léo_Schaya>,
+        <http://rdf.freebase.com/ns/m.047plsp>,
+        <http://wikidata.dbpedia.org/resource/Q3270559>,
+        <http://www.wikidata.org/entity/Q3270559>,
+        <http://yago-knowledge.org/resource/Leo_Schaya> .
+
+<http://data.judaicalink.org/data/dbpedia/Leon_de_Winter> a foaf:Person ;
+    jl:hasLabel "Leon de Winter@de",
+        "Leon de Winter@en",
+        "Leon de Winter@it",
+        "Leon de Winter@nl",
+        "Leon de Winter@pt" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Leon_de_Winter>,
+        <http://dbpedia.org/resource/Leon_de_Winter>,
+        <http://de.dbpedia.org/resource/Leon_de_Winter>,
+        <http://it.dbpedia.org/resource/Leon_de_Winter>,
+        <http://nl.dbpedia.org/resource/Leon_de_Winter>,
+        <http://pt.dbpedia.org/resource/Leon_de_Winter>,
+        <http://rdf.freebase.com/ns/m.05c53l>,
+        <http://viaf.org/viaf/95163748>,
+        <http://wikidata.dbpedia.org/resource/Q559012>,
+        <http://www.wikidata.org/entity/Q559012>,
+        <http://yago-knowledge.org/resource/Leon_de_Winter> .
+
+<http://data.judaicalink.org/data/dbpedia/Leopoldo_Franchetti> a foaf:Person ;
+    jl:hasLabel "Leopoldo Franchetti@en",
+        "Leopoldo Franchetti@it" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Leopoldo_Franchetti>,
+        <http://it.dbpedia.org/resource/Leopoldo_Franchetti>,
+        <http://rdf.freebase.com/ns/m.03c87hf>,
+        <http://viaf.org/viaf/14794584>,
+        <http://wikidata.dbpedia.org/resource/Q3830696>,
+        <http://www.wikidata.org/entity/Q3830696>,
+        <http://yago-knowledge.org/resource/Leopoldo_Franchetti> .
+
+<http://data.judaicalink.org/data/dbpedia/Lev_Kopelev> a foaf:Person ;
+    jl:hasLabel "Lev Kopelev@en",
+        "Lev Kopelev@fr",
+        "Lev Kopelev@nl",
+        "Lev Kópelev@es",
+        "Lew Kopielew@pl",
+        "Lew Sinowjewitsch Kopelew@de",
+        "Копелев, Лев Зиновьевич@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Lev_Kopelev>,
+        <http://data.europa.eu/euodp/jrc-names/Lew_Kopelew>,
+        <http://dbpedia.org/resource/Lev_Kopelev>,
+        <http://de.dbpedia.org/resource/Lew_Sinowjewitsch_Kopelew>,
+        <http://es.dbpedia.org/resource/Lev_Kópelev>,
+        <http://fr.dbpedia.org/resource/Lev_Kopelev>,
+        <http://nl.dbpedia.org/resource/Lev_Kopelev>,
+        <http://pl.dbpedia.org/resource/Lew_Kopielew>,
+        <http://rdf.freebase.com/ns/m.02hvw1>,
+        <http://viaf.org/viaf/108384722>,
+        <http://wikidata.dbpedia.org/resource/Q706829>,
+        <http://www.wikidata.org/entity/Q706829>,
+        <http://yago-knowledge.org/resource/Lev_Kopelev> .
+
+<http://data.judaicalink.org/data/dbpedia/Lily_Tobias> a foaf:Person ;
+    jl:hasLabel "Lily Tobias@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Lily_Tobias>,
+        <http://wikidata.dbpedia.org/resource/Q22958000>,
+        <http://www.wikidata.org/entity/Q22958000> .
+
+<http://data.judaicalink.org/data/dbpedia/Lion_Feuchtwanger> a foaf:Person ;
+    jl:hasLabel "Lion Feuchtwanger@de",
+        "Lion Feuchtwanger@en",
+        "Lion Feuchtwanger@es",
+        "Lion Feuchtwanger@fr",
+        "Lion Feuchtwanger@it",
+        "Lion Feuchtwanger@nl",
+        "Lion Feuchtwanger@pl",
+        "Lion Feuchtwanger@pt",
+        "Фейхтвангер, Лион@ru",
+        "ليون فويشتفانغر@ar",
+        "リオン・フォイヒトヴァンガー@ja",
+        "利翁·福伊希特万格@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Lion_Feuchtwanger>,
+        <http://data.europa.eu/euodp/jrc-names/Lion_Feuchtwanger>,
+        <http://dbpedia.org/resource/Lion_Feuchtwanger>,
+        <http://de.dbpedia.org/resource/Lion_Feuchtwanger>,
+        <http://es.dbpedia.org/resource/Lion_Feuchtwanger>,
+        <http://fr.dbpedia.org/resource/Lion_Feuchtwanger>,
+        <http://it.dbpedia.org/resource/Lion_Feuchtwanger>,
+        <http://ja.dbpedia.org/resource/リオン・フォイヒトヴァンガー>,
+        <http://nl.dbpedia.org/resource/Lion_Feuchtwanger>,
+        <http://pl.dbpedia.org/resource/Lion_Feuchtwanger>,
+        <http://pt.dbpedia.org/resource/Lion_Feuchtwanger>,
+        <http://rdf.freebase.com/ns/m.02qs_5>,
+        <http://viaf.org/viaf/54208418>,
+        <http://wikidata.dbpedia.org/resource/Q77024>,
+        <http://www.wikidata.org/entity/Q77024>,
+        <http://yago-knowledge.org/resource/Lion_Feuchtwanger> .
+
+<http://data.judaicalink.org/data/dbpedia/Lionel_Abrahams> a foaf:Person ;
+    jl:hasLabel "Lionel Abrahams@en",
+        "ليونيل أبراهامز@ar" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Lionel_Abrahams>,
+        <http://rdf.freebase.com/ns/m.035k02>,
+        <http://viaf.org/viaf/93291135>,
+        <http://wikidata.dbpedia.org/resource/Q4120389>,
+        <http://www.wikidata.org/entity/Q4120389>,
+        <http://yago-knowledge.org/resource/Lionel_Abrahams> .
+
+<http://data.judaicalink.org/data/dbpedia/Lucjan_Wolanowski> a foaf:Person ;
+    jl:hasLabel "Lucjan Wolanowski@de",
+        "Lucjan Wolanowski@en",
+        "Lucjan Wolanowski@fr",
+        "Lucjan Wolanowski@pl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Lucjan_Wolanowski>,
+        <http://de.dbpedia.org/resource/Lucjan_Wolanowski>,
+        <http://fr.dbpedia.org/resource/Lucjan_Wolanowski>,
+        <http://pl.dbpedia.org/resource/Lucjan_Wolanowski>,
+        <http://rdf.freebase.com/ns/m.026dkf7>,
+        <http://wikidata.dbpedia.org/resource/Q436416>,
+        <http://www.wikidata.org/entity/Q436416>,
+        <http://yago-knowledge.org/resource/Lucjan_Wolanowski> .
+
+<http://data.judaicalink.org/data/dbpedia/Ludwig_Börne> a foaf:Person ;
+    jl:hasLabel "Carl Ludwig Börne@nl",
+        "Karl Ludwig Börne@it",
+        "Ludwig Börne@de",
+        "Ludwig Börne@en",
+        "Ludwig Börne@es",
+        "Ludwig Börne@fr",
+        "Ludwig Börne@pl",
+        "Бёрне, Людвиг@ru",
+        "لودفيج بورنه@ar",
+        "ルートヴィヒ・ベルネ@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Ludwig_B%C3%B6rne>,
+        <http://dbpedia.org/resource/Ludwig_Börne>,
+        <http://de.dbpedia.org/resource/Ludwig_Börne>,
+        <http://es.dbpedia.org/resource/Ludwig_Börne>,
+        <http://fr.dbpedia.org/resource/Ludwig_Börne>,
+        <http://it.dbpedia.org/resource/Karl_Ludwig_Börne>,
+        <http://ja.dbpedia.org/resource/ルートヴィヒ・ベルネ>,
+        <http://nl.dbpedia.org/resource/Carl_Ludwig_Börne>,
+        <http://pl.dbpedia.org/resource/Ludwig_Börne>,
+        <http://rdf.freebase.com/ns/m.058s2n>,
+        <http://viaf.org/viaf/71406556>,
+        <http://wikidata.dbpedia.org/resource/Q213595>,
+        <http://www.wikidata.org/entity/Q213595>,
+        <http://yago-knowledge.org/resource/Ludwig_Börne> .
+
+<http://data.judaicalink.org/data/dbpedia/Ludwik_Kowalski> a foaf:Person ;
+    jl:hasLabel "Ludwik Kowalski@en",
+        "Ludwik Kowalski@pl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Ludwik_Kowalski>,
+        <http://pl.dbpedia.org/resource/Ludwik_Kowalski>,
+        <http://rdf.freebase.com/ns/m.0dlmj88>,
+        <http://wikidata.dbpedia.org/resource/Q6699451>,
+        <http://www.wikidata.org/entity/Q6699451>,
+        <http://yago-knowledge.org/resource/Ludwik_Kowalski> .
+
+<http://data.judaicalink.org/data/dbpedia/László_Radványi> a foaf:Person ;
+    jl:hasLabel "Johann Lorenz Schmidt@de",
+        "László Radványi@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/László_Radványi>,
+        <http://de.dbpedia.org/resource/Johann_Lorenz_Schmidt>,
+        <http://rdf.freebase.com/ns/m.0b7hng4>,
+        <http://wikidata.dbpedia.org/resource/Q1608348>,
+        <http://www.wikidata.org/entity/Q1608348>,
+        <http://yago-knowledge.org/resource/László_Radványi> .
+
+<http://data.judaicalink.org/data/dbpedia/Léon_Halévy> a foaf:Person ;
+    jl:hasLabel "Léon Halévy@de",
+        "Léon Halévy@en",
+        "Léon Halévy@fr",
+        "Галеви, Леон@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Léon_Halévy>,
+        <http://de.dbpedia.org/resource/Léon_Halévy>,
+        <http://fr.dbpedia.org/resource/Léon_Halévy>,
+        <http://rdf.freebase.com/ns/m.09kdwf>,
+        <http://viaf.org/viaf/27186619>,
+        <http://wikidata.dbpedia.org/resource/Q346091>,
+        <http://www.wikidata.org/entity/Q346091>,
+        <http://yago-knowledge.org/resource/Léon_Halévy> .
+
+<http://data.judaicalink.org/data/dbpedia/Machir_ben_Abba_Mari> a foaf:Person ;
+    jl:hasLabel "Machir ben Abba Mari@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Machir_ben_Abba_Mari>,
+        <http://rdf.freebase.com/ns/m.0282hvd>,
+        <http://wikidata.dbpedia.org/resource/Q6723783>,
+        <http://www.wikidata.org/entity/Q6723783>,
+        <http://yago-knowledge.org/resource/Machir_ben_Abba_Mari> .
+
+<http://data.judaicalink.org/data/dbpedia/Magnus_Hirschfeld> a foaf:Person ;
+    jl:hasLabel "Magnus Hirschfeld@de",
+        "Magnus Hirschfeld@en",
+        "Magnus Hirschfeld@es",
+        "Magnus Hirschfeld@fr",
+        "Magnus Hirschfeld@it",
+        "Magnus Hirschfeld@nl",
+        "Magnus Hirschfeld@pl",
+        "Magnus Hirschfeld@pt",
+        "Хиршфельд, Магнус@ru",
+        "マグヌス・ヒルシュフェルト@ja",
+        "马格努斯·赫希菲尔德@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://de.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://es.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://fr.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://it.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://ja.dbpedia.org/resource/マグヌス・ヒルシュフェルト>,
+        <http://nl.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://pl.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://pt.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://rdf.freebase.com/ns/m.01j141>,
+        <http://viaf.org/viaf/24616710>,
+        <http://wikidata.dbpedia.org/resource/Q57592>,
+        <http://www.wikidata.org/entity/Q57592>,
+        <http://yago-knowledge.org/resource/Magnus_Hirschfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Marga_Spiegel> a foaf:Person ;
+    jl:hasLabel "Marga Spiegel@de",
+        "Marga Spiegel@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Marga_Spiegel>,
+        <http://de.dbpedia.org/resource/Marga_Spiegel>,
+        <http://rdf.freebase.com/ns/m.0gm7s0w>,
+        <http://wikidata.dbpedia.org/resource/Q1894776>,
+        <http://www.wikidata.org/entity/Q1894776>,
+        <http://yago-knowledge.org/resource/Marga_Spiegel> .
+
+<http://data.judaicalink.org/data/dbpedia/Margret_Rey> a foaf:Person ;
+    jl:hasLabel "Margret Rey@de",
+        "Margret Rey@en",
+        "Рей, Маргрет@ru",
+        "マーグレット・レイ@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Margret_Rey>,
+        <http://de.dbpedia.org/resource/Margret_Rey>,
+        <http://ja.dbpedia.org/resource/マーグレット・レイ>,
+        <http://rdf.freebase.com/ns/m.0gyn6>,
+        <http://viaf.org/viaf/24766312>,
+        <http://wikidata.dbpedia.org/resource/Q2604208>,
+        <http://www.wikidata.org/entity/Q2604208>,
+        <http://yago-knowledge.org/resource/Margret_Rey> .
+
+<http://data.judaicalink.org/data/dbpedia/Mark_Aldanov> a foaf:Person ;
+    jl:hasLabel "Mark Aldanov@en",
+        "Mark Aldanov@es",
+        "Mark Aldanov@fr",
+        "Mark Aldanov@it",
+        "Mark Aldanov@nl",
+        "Mark Alexandrowitsch Aldanow@de",
+        "Mark Ałdanow@pl",
+        "Алданов, Марк Александрович@ru",
+        "マルク・アルダーノフ@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Aldanov>,
+        <http://de.dbpedia.org/resource/Mark_Alexandrowitsch_Aldanow>,
+        <http://es.dbpedia.org/resource/Mark_Aldanov>,
+        <http://fr.dbpedia.org/resource/Mark_Aldanov>,
+        <http://it.dbpedia.org/resource/Mark_Aldanov>,
+        <http://ja.dbpedia.org/resource/マルク・アルダーノフ>,
+        <http://nl.dbpedia.org/resource/Mark_Aldanov>,
+        <http://pl.dbpedia.org/resource/Mark_Ałdanow>,
+        <http://rdf.freebase.com/ns/m.03zqz3>,
+        <http://viaf.org/viaf/100256052>,
+        <http://wikidata.dbpedia.org/resource/Q932891>,
+        <http://www.wikidata.org/entity/Q932891>,
+        <http://yago-knowledge.org/resource/Mark_Aldanov> .
+
+<http://data.judaicalink.org/data/dbpedia/Mark_Glanville> a foaf:Person ;
+    jl:hasLabel "Mark Glanville@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Glanville>,
+        <http://rdf.freebase.com/ns/m.0j6440h>,
+        <http://viaf.org/viaf/51279827>,
+        <http://wikidata.dbpedia.org/resource/Q6767758>,
+        <http://www.wikidata.org/entity/Q6767758>,
+        <http://yago-knowledge.org/resource/Mark_Glanville> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Mannheimer> a foaf:Person ;
+    jl:hasLabel "Max Mannheimer@de",
+        "Max Mannheimer@en",
+        "Max Mannheimer@it" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Max_Mannheimer>,
+        <http://dbpedia.org/resource/Max_Mannheimer>,
+        <http://de.dbpedia.org/resource/Max_Mannheimer>,
+        <http://it.dbpedia.org/resource/Max_Mannheimer>,
+        <http://rdf.freebase.com/ns/m.0bwmcks>,
+        <http://viaf.org/viaf/98030772>,
+        <http://wikidata.dbpedia.org/resource/Q872108>,
+        <http://www.wikidata.org/entity/Q872108>,
+        <http://yago-knowledge.org/resource/Max_Mannheimer> .
+
+<http://data.judaicalink.org/data/dbpedia/Meir_Shalev> a foaf:Person ;
+    jl:hasLabel "Meir Shalev@de",
+        "Meir Shalev@en",
+        "Meir Shalev@fr",
+        "Meir Shalev@it",
+        "Meir Shalev@nl",
+        "Meir Shalev@pl",
+        "Meir Shalev@pt",
+        "Шалев, Меир@ru",
+        "مائير شاليف@ar" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Me'ir_Šalev>,
+        <http://data.europa.eu/euodp/jrc-names/Meir_Shalev>,
+        <http://dbpedia.org/resource/Meir_Shalev>,
+        <http://de.dbpedia.org/resource/Meir_Shalev>,
+        <http://fr.dbpedia.org/resource/Meir_Shalev>,
+        <http://it.dbpedia.org/resource/Meir_Shalev>,
+        <http://nl.dbpedia.org/resource/Meir_Shalev>,
+        <http://pl.dbpedia.org/resource/Meir_Shalev>,
+        <http://pt.dbpedia.org/resource/Meir_Shalev>,
+        <http://rdf.freebase.com/ns/m.056q3l>,
+        <http://viaf.org/viaf/79067211>,
+        <http://wikidata.dbpedia.org/resource/Q265855>,
+        <http://www.wikidata.org/entity/Q265855>,
+        <http://yago-knowledge.org/resource/Meir_Shalev> .
+
+<http://data.judaicalink.org/data/dbpedia/Meir_Zlotowitz> a foaf:Person ;
+    jl:hasLabel "Meir Zlotowitz@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Meir_Zlotowitz>,
+        <http://rdf.freebase.com/ns/m.0chwqg>,
+        <http://wikidata.dbpedia.org/resource/Q6810270>,
+        <http://www.wikidata.org/entity/Q6810270>,
+        <http://yago-knowledge.org/resource/Meir_Zlotowitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_H._Hart> a foaf:Person ;
+    jl:hasLabel "Michael H. Hart@de",
+        "Michael H. Hart@en",
+        "Michael H. Hart@es",
+        "Michael H. Hart@fr",
+        "Michael H. Hart@pt",
+        "مايكل هارت@ar",
+        "迈克尔·H·哈特@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_H._Hart>,
+        <http://de.dbpedia.org/resource/Michael_H._Hart>,
+        <http://es.dbpedia.org/resource/Michael_H._Hart>,
+        <http://fr.dbpedia.org/resource/Michael_H._Hart>,
+        <http://id.dbpedia.org/resource/Michael_H._Hart>,
+        <http://ko.dbpedia.org/resource/마이클_H._하트>,
+        <http://pt.dbpedia.org/resource/Michael_H._Hart>,
+        <http://rdf.freebase.com/ns/m.03242h>,
+        <http://rdf.freebase.com/ns/m.03243k>,
+        <http://wikidata.dbpedia.org/resource/Q937063>,
+        <http://www.wikidata.org/entity/Q937063>,
+        <http://yago-knowledge.org/resource/Michael_H._Hart> .
+
+<http://data.judaicalink.org/data/dbpedia/Miroslav_Feldman> a foaf:Person ;
+    jl:hasLabel "Miroslav Feldman@en",
+        "Miroslav Feldman@it",
+        "Фельдман, Мирослав@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Miroslav_Feldman>,
+        <http://it.dbpedia.org/resource/Miroslav_Feldman>,
+        <http://rdf.freebase.com/ns/m.0k0kxgd>,
+        <http://wikidata.dbpedia.org/resource/Q1278330>,
+        <http://www.wikidata.org/entity/Q1278330>,
+        <http://yago-knowledge.org/resource/Miroslav_Feldman> .
+
+<http://data.judaicalink.org/data/dbpedia/Mnachem_Risikoff> a foaf:Person ;
+    jl:hasLabel "Mnachem Risikoff@en",
+        "Mnachem Risikoff@it" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Mnachem_Risikoff>,
+        <http://it.dbpedia.org/resource/Mnachem_Risikoff>,
+        <http://rdf.freebase.com/ns/m.0b6fz4k>,
+        <http://wikidata.dbpedia.org/resource/Q3859681>,
+        <http://www.wikidata.org/entity/Q3859681>,
+        <http://yago-knowledge.org/resource/Mnachem_Risikoff> .
+
+<http://data.judaicalink.org/data/dbpedia/Moacyr_Scliar> a foaf:Person ;
+    jl:hasLabel "Moacyr Scliar@de",
+        "Moacyr Scliar@en",
+        "Moacyr Scliar@es",
+        "Moacyr Scliar@fr",
+        "Moacyr Scliar@it",
+        "Moacyr Scliar@pt",
+        "Скляр, Моасир@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Moacyr_Scliar>,
+        <http://de.dbpedia.org/resource/Moacyr_Scliar>,
+        <http://es.dbpedia.org/resource/Moacyr_Scliar>,
+        <http://eu.dbpedia.org/resource/Moacyr_Scliar>,
+        <http://fr.dbpedia.org/resource/Moacyr_Scliar>,
+        <http://it.dbpedia.org/resource/Moacyr_Scliar>,
+        <http://pt.dbpedia.org/resource/Moacyr_Scliar>,
+        <http://rdf.freebase.com/ns/m.05w5j6v>,
+        <http://viaf.org/viaf/79041870>,
+        <http://wikidata.dbpedia.org/resource/Q956187>,
+        <http://www.wikidata.org/entity/Q956187>,
+        <http://yago-knowledge.org/resource/Moacyr_Scliar> .
+
+<http://data.judaicalink.org/data/dbpedia/Mordecai_Paldiel> a foaf:Person ;
+    jl:hasLabel "Mordecai Paldiel@en",
+        "Mordecai Paldiel@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Mordecai_Paldiel>,
+        <http://fr.dbpedia.org/resource/Mordecai_Paldiel>,
+        <http://rdf.freebase.com/ns/m.05xl_qp>,
+        <http://wikidata.dbpedia.org/resource/Q17097457>,
+        <http://www.wikidata.org/entity/Q17097457>,
+        <http://yago-knowledge.org/resource/Mordecai_Paldiel> .
+
+<http://data.judaicalink.org/data/dbpedia/Moses_Chayyim_Catalan> a foaf:Person ;
+    jl:hasLabel "Moses Chayyim Catalan@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Moses_Chayyim_Catalan>,
+        <http://rdf.freebase.com/ns/m.02rxvpf>,
+        <http://wikidata.dbpedia.org/resource/Q6915736>,
+        <http://www.wikidata.org/entity/Q6915736>,
+        <http://yago-knowledge.org/resource/Moses_Chayyim_Catalan> .
+
+<http://data.judaicalink.org/data/dbpedia/Moses_ibn_Tibbon> a foaf:Person ;
+    jl:hasLabel "Moisés ibn Tibbon@es",
+        "Moses ibn Tibbon@de",
+        "Moses ibn Tibbon@en",
+        "Moses ibn Tibbon@it",
+        "Moshe ibn Tibbon@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Moses_ibn_Tibbon>,
+        <http://de.dbpedia.org/resource/Moses_ibn_Tibbon>,
+        <http://es.dbpedia.org/resource/Moisés_ibn_Tibbon>,
+        <http://fr.dbpedia.org/resource/Moshe_ibn_Tibbon>,
+        <http://it.dbpedia.org/resource/Moses_ibn_Tibbon>,
+        <http://rdf.freebase.com/ns/m.02r8sqm>,
+        <http://wikidata.dbpedia.org/resource/Q181498>,
+        <http://www.wikidata.org/entity/Q181498>,
+        <http://yago-knowledge.org/resource/Moses_ibn_Tibbon> .
+
+<http://data.judaicalink.org/data/dbpedia/Moshe_Bar_(investor)> a foaf:Person ;
+    jl:hasLabel "Moshe Bar (investor)@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Moshe_Bar_(investor)>,
+        <http://rdf.freebase.com/ns/m.04wbq7>,
+        <http://wikidata.dbpedia.org/resource/Q6916081>,
+        <http://www.wikidata.org/entity/Q6916081>,
+        <http://yago-knowledge.org/resource/Moshe_Bar_(investor)> .
+
+<http://data.judaicalink.org/data/dbpedia/Nahum_Slouschz> a foaf:Person ;
+    jl:hasLabel "Nahum Slouschz@en",
+        "Nahum Slouschz@fr",
+        "Слущ, Нахум@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Nahum_Slouschz>,
+        <http://fr.dbpedia.org/resource/Nahum_Slouschz>,
+        <http://rdf.freebase.com/ns/m.04jq4x5>,
+        <http://viaf.org/viaf/9998574>,
+        <http://wikidata.dbpedia.org/resource/Q2901139>,
+        <http://www.wikidata.org/entity/Q2901139>,
+        <http://yago-knowledge.org/resource/Nahum_Slouschz> .
+
+<http://data.judaicalink.org/data/dbpedia/Naphtali_Keller> a foaf:Person ;
+    jl:hasLabel "Naphtali Keller@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Naphtali_Keller>,
+        <http://rdf.freebase.com/ns/m.06w18r4>,
+        <http://viaf.org/viaf/34410760>,
+        <http://wikidata.dbpedia.org/resource/Q6964873>,
+        <http://www.wikidata.org/entity/Q6964873>,
+        <http://yago-knowledge.org/resource/Naphtali_Keller> .
+
+<http://data.judaicalink.org/data/dbpedia/Natan_Sharansky> a foaf:Person ;
+    jl:hasLabel "Natan Scharanski@de",
+        "Natan Sharanski@es",
+        "Natan Sharansky@en",
+        "Natan Sharansky@fr",
+        "Natan Sharansky@it",
+        "Natan Sharansky@nl",
+        "Natan Sharansky@pt",
+        "Natan Szaranski@pl",
+        "Щаранский, Натан@ru",
+        "ناتان شارانسكي@ar",
+        "ナタン・シャランスキー@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Natan_Šaransky>,
+        <http://data.europa.eu/euodp/jrc-names/Anatoly_Sharansky>,
+        <http://data.europa.eu/euodp/jrc-names/Natan_Sharansky>,
+        <http://data.europa.eu/euodp/jrc-names/Nathan_Sharansky>,
+        <http://data.nytimes.com/N62321410794991832293>,
+        <http://dbpedia.org/resource/Natan_Sharansky>,
+        <http://de.dbpedia.org/resource/Natan_Scharanski>,
+        <http://es.dbpedia.org/resource/Natan_Sharanski>,
+        <http://fr.dbpedia.org/resource/Natan_Sharansky>,
+        <http://it.dbpedia.org/resource/Natan_Sharansky>,
+        <http://ja.dbpedia.org/resource/ナタン・シャランスキー>,
+        <http://nl.dbpedia.org/resource/Natan_Sharansky>,
+        <http://pl.dbpedia.org/resource/Natan_Szaranski>,
+        <http://pt.dbpedia.org/resource/Natan_Sharansky>,
+        <http://rdf.freebase.com/ns/m.03dtsb>,
+        <http://viaf.org/viaf/97284810>,
+        <http://wikidata.dbpedia.org/resource/Q360961>,
+        <http://www.wikidata.org/entity/Q360961>,
+        <http://yago-knowledge.org/resource/Natan_Sharansky> .
+
+<http://data.judaicalink.org/data/dbpedia/Netiva_Ben-Yehuda> a foaf:Person ;
+    jl:hasLabel "Netiva Ben-Yehuda@en",
+        "Netiva Ben-Yehuda@it" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Netiva_Ben-Yehuda>,
+        <http://it.dbpedia.org/resource/Netiva_Ben-Yehuda>,
+        <http://rdf.freebase.com/ns/m.03nvrx9>,
+        <http://wikidata.dbpedia.org/resource/Q2911163>,
+        <http://www.wikidata.org/entity/Q2911163>,
+        <http://yago-knowledge.org/resource/Netiva_Ben-Yehuda> .
+
+<http://data.judaicalink.org/data/dbpedia/Norene_Gilletz> a foaf:Person ;
+    jl:hasLabel "Norene Gilletz@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Norene_Gilletz>,
+        <http://rdf.freebase.com/ns/m.03c694x>,
+        <http://wikidata.dbpedia.org/resource/Q7050949>,
+        <http://www.wikidata.org/entity/Q7050949>,
+        <http://yago-knowledge.org/resource/Norene_Gilletz> .
+
+<http://data.judaicalink.org/data/dbpedia/Nosson_Scherman> a foaf:Person ;
+    jl:hasLabel "Nosson Scherman@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Nosson_Scherman>,
+        <http://rdf.freebase.com/ns/m.05wz7vg>,
+        <http://wikidata.dbpedia.org/resource/Q7061930>,
+        <http://www.wikidata.org/entity/Q7061930>,
+        <http://yago-knowledge.org/resource/Nosson_Scherman> .
+
+<http://data.judaicalink.org/data/dbpedia/Nyanaponika_Thera> a foaf:Person ;
+    jl:hasLabel "Nyanaponika Thera@en",
+        "Nyanaponika Thera@pl",
+        "Nyanaponika@de",
+        "Nyanaponika@fr",
+        "Ньянапоника Тхера@ru",
+        "向智@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Nyánaponika_Maháthera>,
+        <http://dbpedia.org/resource/Nyanaponika_Thera>,
+        <http://de.dbpedia.org/resource/Nyanaponika>,
+        <http://fr.dbpedia.org/resource/Nyanaponika>,
+        <http://pl.dbpedia.org/resource/Nyanaponika_Thera>,
+        <http://rdf.freebase.com/ns/m.05w71d5>,
+        <http://wikidata.dbpedia.org/resource/Q74771>,
+        <http://www.wikidata.org/entity/Q74771>,
+        <http://yago-knowledge.org/resource/Nyanaponika_Thera> .
+
+<http://data.judaicalink.org/data/dbpedia/Oscar_Levy> a foaf:Person ;
+    jl:hasLabel "Oscar Levy@de",
+        "Oscar Levy@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Oscar_Levy>,
+        <http://de.dbpedia.org/resource/Oscar_Levy>,
+        <http://rdf.freebase.com/ns/m.08dpph>,
+        <http://viaf.org/viaf/100051291>,
+        <http://wikidata.dbpedia.org/resource/Q101732>,
+        <http://www.wikidata.org/entity/Q101732>,
+        <http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Levy_Oscar_1867-1946>,
+        <http://yago-knowledge.org/resource/Oscar_Levy> .
+
+<http://data.judaicalink.org/data/dbpedia/Osip_Brik> a foaf:Person ;
+    jl:hasLabel "Osip Brik@en",
+        "Osip Brik@nl",
+        "Osip Maksimovič Brik@it",
+        "Ossip Brik@fr",
+        "Ossip Maximowitsch Brik@de",
+        "Ósip Brik@es",
+        "Брик, Осип Максимович@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Osip_Brik>,
+        <http://de.dbpedia.org/resource/Ossip_Maximowitsch_Brik>,
+        <http://es.dbpedia.org/resource/Ósip_Brik>,
+        <http://fr.dbpedia.org/resource/Ossip_Brik>,
+        <http://it.dbpedia.org/resource/Osip_Maksimovič_Brik>,
+        <http://nl.dbpedia.org/resource/Osip_Brik>,
+        <http://rdf.freebase.com/ns/m.01qvmw>,
+        <http://viaf.org/viaf/97096911>,
+        <http://wikidata.dbpedia.org/resource/Q738721>,
+        <http://www.wikidata.org/entity/Q738721>,
+        <http://yago-knowledge.org/resource/Osip_Brik> .
+
+<http://data.judaicalink.org/data/dbpedia/Oskar_Rosenfeld> a foaf:Person ;
+    jl:hasLabel "Oskar Rosenfeld@de",
+        "Oskar Rosenfeld@en",
+        "Oskar Rosenfeld@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Oskar_Rosenfeld>,
+        <http://dbpedia.org/resource/Oskar_Rosenfeld>,
+        <http://de.dbpedia.org/resource/Oskar_Rosenfeld>,
+        <http://fr.dbpedia.org/resource/Oskar_Rosenfeld>,
+        <http://rdf.freebase.com/ns/m.03d6gl_>,
+        <http://wikidata.dbpedia.org/resource/Q90346>,
+        <http://www.wikidata.org/entity/Q90346>,
+        <http://yago-knowledge.org/resource/Oskar_Rosenfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Ota_Pavel> a foaf:Person ;
+    jl:hasLabel "Ota Pavel@de",
+        "Ota Pavel@en",
+        "Ota Pavel@pl",
+        "オタ・パヴェル@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ota_Pavel>,
+        <http://dbpedia.org/resource/Ota_Pavel>,
+        <http://de.dbpedia.org/resource/Ota_Pavel>,
+        <http://ja.dbpedia.org/resource/オタ・パヴェル>,
+        <http://ko.dbpedia.org/resource/오타_파벨>,
+        <http://pl.dbpedia.org/resource/Ota_Pavel>,
+        <http://rdf.freebase.com/ns/m.05zzc1w>,
+        <http://wikidata.dbpedia.org/resource/Q1322576>,
+        <http://www.wikidata.org/entity/Q1322576>,
+        <http://yago-knowledge.org/resource/Ota_Pavel> .
+
+<http://data.judaicalink.org/data/dbpedia/Paulus_Aemilius_(Hebrew_scholar)> a foaf:Person ;
+    jl:hasLabel "Paulus Aemilius (Hebrew scholar)@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Paulus_Aemilius_(Hebrew_scholar)>,
+        <http://rdf.freebase.com/ns/m.0b1chl>,
+        <http://viaf.org/viaf/13104866>,
+        <http://wikidata.dbpedia.org/resource/Q7155382>,
+        <http://www.wikidata.org/entity/Q7155382>,
+        <http://yago-knowledge.org/resource/Paulus_Aemilius_(Hebrew_scholar)> .
+
+<http://data.judaicalink.org/data/dbpedia/Peter_Weiss> a foaf:Person ;
+    jl:hasLabel "Peter Weiss (pisarz)@pl",
+        "Peter Weiss@de",
+        "Peter Weiss@en",
+        "Peter Weiss@es",
+        "Peter Weiss@fr",
+        "Peter Weiss@it",
+        "Peter Weiss@nl",
+        "Peter Weiss@pt",
+        "Вайс, Петер@ru",
+        "بيتر فايس@ar",
+        "ペーター・ヴァイス@ja",
+        "彼得·魏斯@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Peter_Weiss_(spisovatel)>,
+        <http://data.europa.eu/euodp/jrc-names/Peter_Weiss>,
+        <http://dbpedia.org/resource/Peter_Weiss>,
+        <http://de.dbpedia.org/resource/Peter_Weiss>,
+        <http://es.dbpedia.org/resource/Peter_Weiss>,
+        <http://eu.dbpedia.org/resource/Peter_Weiss>,
+        <http://fr.dbpedia.org/resource/Peter_Weiss>,
+        <http://it.dbpedia.org/resource/Peter_Weiss>,
+        <http://ja.dbpedia.org/resource/ペーター・ヴァイス>,
+        <http://ko.dbpedia.org/resource/페터_바이스>,
+        <http://nl.dbpedia.org/resource/Peter_Weiss>,
+        <http://pl.dbpedia.org/resource/Peter_Weiss_(pisarz)>,
+        <http://pt.dbpedia.org/resource/Peter_Weiss>,
+        <http://rdf.freebase.com/ns/m.03flxt>,
+        <http://wikidata.dbpedia.org/resource/Q57312>,
+        <http://www.wikidata.org/entity/Q57312>,
+        <http://yago-knowledge.org/resource/Peter_Weiss> .
+
+<http://data.judaicalink.org/data/dbpedia/Primo_Levi> a foaf:Person ;
+    jl:hasLabel "Primo Levi@de",
+        "Primo Levi@en",
+        "Primo Levi@es",
+        "Primo Levi@fr",
+        "Primo Levi@it",
+        "Primo Levi@nl",
+        "Primo Levi@pl",
+        "Primo Levi@pt",
+        "Леви, Примо@ru",
+        "بريمو ليفي@ar",
+        "プリーモ・レーヴィ@ja",
+        "普里莫·莱维@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Primo_Levi>,
+        <http://data.europa.eu/euodp/jrc-names/Primo_Levi>,
+        <http://data.nytimes.com/14826090272028254943>,
+        <http://dbpedia.org/resource/Primo_Levi>,
+        <http://de.dbpedia.org/resource/Primo_Levi>,
+        <http://el.dbpedia.org/resource/Πρίμο_Λέβι>,
+        <http://es.dbpedia.org/resource/Primo_Levi>,
+        <http://eu.dbpedia.org/resource/Primo_Levi>,
+        <http://fr.dbpedia.org/resource/Primo_Levi>,
+        <http://id.dbpedia.org/resource/Primo_Levi>,
+        <http://it.dbpedia.org/resource/Primo_Levi>,
+        <http://ja.dbpedia.org/resource/プリーモ・レーヴィ>,
+        <http://ko.dbpedia.org/resource/프리모_레비>,
+        <http://nl.dbpedia.org/resource/Primo_Levi>,
+        <http://pl.dbpedia.org/resource/Primo_Levi>,
+        <http://pt.dbpedia.org/resource/Primo_Levi>,
+        <http://rdf.freebase.com/ns/m.09t9l>,
+        <http://sw.cyc.com/concept/Mx4rwKTNiJwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/76319000>,
+        <http://wikidata.dbpedia.org/resource/Q153670>,
+        <http://www.wikidata.org/entity/Q153670>,
+        <http://yago-knowledge.org/resource/Primo_Levi> .
+
+<http://data.judaicalink.org/data/dbpedia/Raanan_Gissin> a foaf:Person ;
+    jl:hasLabel "Raanan Gissin@en",
+        "Гисин, Раанан@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Raanan_Gissin>,
+        <http://dbpedia.org/resource/Raanan_Gissin>,
+        <http://rdf.freebase.com/ns/m.0fsw93>,
+        <http://wikidata.dbpedia.org/resource/Q4138989>,
+        <http://www.wikidata.org/entity/Q4138989>,
+        <http://yago-knowledge.org/resource/Raanan_Gissin> .
+
+<http://data.judaicalink.org/data/dbpedia/Raphael_Israeli> a foaf:Person ;
+    jl:hasLabel "Raphael Israeli@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Raphael_Israeli>,
+        <http://rdf.freebase.com/ns/m.05wzwz1>,
+        <http://wikidata.dbpedia.org/resource/Q7293977>,
+        <http://www.wikidata.org/entity/Q7293977>,
+        <http://yago-knowledge.org/resource/Raphael_Israeli> .
+
+<http://data.judaicalink.org/data/dbpedia/Reuben_Brainin> a foaf:Person ;
+    jl:hasLabel "Reuben Brainin@en",
+        "Ruben Brainin@de",
+        "Ruben Brajnin@pl",
+        "Брайнин, Рувим@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Reuben_Brainin>,
+        <http://de.dbpedia.org/resource/Ruben_Brainin>,
+        <http://pl.dbpedia.org/resource/Ruben_Brajnin>,
+        <http://rdf.freebase.com/ns/m.0dxhrd>,
+        <http://wikidata.dbpedia.org/resource/Q356423>,
+        <http://www.wikidata.org/entity/Q356423>,
+        <http://yago-knowledge.org/resource/Reuben_Brainin> .
+
+<http://data.judaicalink.org/data/dbpedia/Riccardo_Calimani> a foaf:Person ;
+    jl:hasLabel "Riccardo Calimani@de",
+        "Riccardo Calimani@en",
+        "Riccardo Calimani@it" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Riccardo_Calimani>,
+        <http://de.dbpedia.org/resource/Riccardo_Calimani>,
+        <http://it.dbpedia.org/resource/Riccardo_Calimani>,
+        <http://rdf.freebase.com/ns/m.04z__p7>,
+        <http://wikidata.dbpedia.org/resource/Q1705082>,
+        <http://www.wikidata.org/entity/Q1705082>,
+        <http://yago-knowledge.org/resource/Riccardo_Calimani> .
+
+<http://data.judaicalink.org/data/dbpedia/Richard_Beer-Hofmann> a foaf:Person ;
+    jl:hasLabel "Richard Beer-Hofmann@de",
+        "Richard Beer-Hofmann@en",
+        "Richard Beer-Hofmann@fr",
+        "Richard Beer-Hofmann@it",
+        "Бер-Гофман, Рихард@ru",
+        "リヒャルト・ベーア＝ホフマン@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Richard_Beer-Hofmann>,
+        <http://de.dbpedia.org/resource/Richard_Beer-Hofmann>,
+        <http://fr.dbpedia.org/resource/Richard_Beer-Hofmann>,
+        <http://it.dbpedia.org/resource/Richard_Beer-Hofmann>,
+        <http://ja.dbpedia.org/resource/リヒャルト・ベーア＝ホフマン>,
+        <http://rdf.freebase.com/ns/m.08bvjd>,
+        <http://viaf.org/viaf/51730797>,
+        <http://wikidata.dbpedia.org/resource/Q213750>,
+        <http://www.wikidata.org/entity/Q213750>,
+        <http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Beer-Hofmann_Richard_1866-1945>,
+        <http://yago-knowledge.org/resource/Richard_Beer-Hofmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Assaraf> a foaf:Person ;
+    jl:hasLabel "Robert Assaraf@en",
+        "Robert Assaraf@fr",
+        "Robert Assaraf@pl" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Robert_Assaraf>,
+        <http://fr.dbpedia.org/resource/Robert_Assaraf>,
+        <http://pl.dbpedia.org/resource/Robert_Assaraf>,
+        <http://rdf.freebase.com/ns/m.0261g1s>,
+        <http://viaf.org/viaf/14911476>,
+        <http://wikidata.dbpedia.org/resource/Q2919987>,
+        <http://www.wikidata.org/entity/Q2919987>,
+        <http://yago-knowledge.org/resource/Robert_Assaraf> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Berold> a foaf:Person ;
+    jl:hasLabel "Robert Berold@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Robert_Berold>,
+        <http://rdf.freebase.com/ns/m.079z3y>,
+        <http://viaf.org/viaf/34510373>,
+        <http://wikidata.dbpedia.org/resource/Q7342067>,
+        <http://www.wikidata.org/entity/Q7342067>,
+        <http://yago-knowledge.org/resource/Robert_Berold> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Menasse> a foaf:Person ;
+    jl:hasLabel "Robert Menasse@de",
+        "Robert Menasse@en",
+        "Robert Menasse@es",
+        "Robert Menasse@fr",
+        "Robert Menasse@pl",
+        "Robert Menasse@pt",
+        "Менассе, Роберт@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Robert_Menasse>,
+        <http://dbpedia.org/resource/Robert_Menasse>,
+        <http://de.dbpedia.org/resource/Robert_Menasse>,
+        <http://es.dbpedia.org/resource/Robert_Menasse>,
+        <http://fr.dbpedia.org/resource/Robert_Menasse>,
+        <http://pl.dbpedia.org/resource/Robert_Menasse>,
+        <http://pt.dbpedia.org/resource/Robert_Menasse>,
+        <http://rdf.freebase.com/ns/m.0421g3>,
+        <http://viaf.org/viaf/14830842>,
+        <http://wikidata.dbpedia.org/resource/Q78772>,
+        <http://www.wikidata.org/entity/Q78772>,
+        <http://yago-knowledge.org/resource/Robert_Menasse> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Weltsch> a foaf:Person ;
+    jl:hasLabel "Robert Weltsch@de",
+        "Robert Weltsch@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Robert_Weltsch>,
+        <http://de.dbpedia.org/resource/Robert_Weltsch>,
+        <http://rdf.freebase.com/ns/m.02q59k1>,
+        <http://wikidata.dbpedia.org/resource/Q216501>,
+        <http://www.wikidata.org/entity/Q216501>,
+        <http://yago-knowledge.org/resource/Robert_Weltsch> .
+
+<http://data.judaicalink.org/data/dbpedia/Ron_Prosor> a foaf:Person ;
+    jl:hasLabel "Ron Prosor@en",
+        "Просор, Рон@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ron_Prosor>,
+        <http://data.europa.eu/euodp/jrc-names/Ron_Prosor>,
+        <http://dbpedia.org/resource/Ron_Prosor>,
+        <http://rdf.freebase.com/ns/m.0bh9fp7>,
+        <http://wikidata.dbpedia.org/resource/Q2897588>,
+        <http://www.wikidata.org/entity/Q2897588>,
+        <http://yago-knowledge.org/resource/Ron_Prosor> .
+
+<http://data.judaicalink.org/data/dbpedia/Salcia_Landmann> a foaf:Person ;
+    jl:hasLabel "Salcia Landmann@de",
+        "Salcia Landmann@en",
+        "Salcia Landmann@pl",
+        "ザルツィア・ラントマン@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Salcia_Landmann>,
+        <http://de.dbpedia.org/resource/Salcia_Landmann>,
+        <http://ja.dbpedia.org/resource/ザルツィア・ラントマン>,
+        <http://pl.dbpedia.org/resource/Salcia_Landmann>,
+        <http://rdf.freebase.com/ns/m.0bzd3t>,
+        <http://viaf.org/viaf/9860404>,
+        <http://wikidata.dbpedia.org/resource/Q124442>,
+        <http://www.wikidata.org/entity/Q124442>,
+        <http://yago-knowledge.org/resource/Salcia_Landmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Salomon_Isacovici> a foaf:Person ;
+    jl:hasLabel "Salomon Isacovici@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Salomon_Isacovici>,
+        <http://rdf.freebase.com/ns/m.05v4xt>,
+        <http://viaf.org/viaf/97924729>,
+        <http://wikidata.dbpedia.org/resource/Q279518>,
+        <http://www.wikidata.org/entity/Q279518>,
+        <http://yago-knowledge.org/resource/Salomon_Isacovici> .
+
+<http://data.judaicalink.org/data/dbpedia/Semyon_Altov> a foaf:Person ;
+    jl:hasLabel "Semyon Altov@en",
+        "Альтов, Семён@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Semyon_Altov>,
+        <http://wikidata.dbpedia.org/resource/Q4063620>,
+        <http://www.wikidata.org/entity/Q4063620> .
+
+<http://data.judaicalink.org/data/dbpedia/Semyon_Yushkevich> a foaf:Person ;
+    jl:hasLabel "Semyon Yushkevich@en",
+        "Юшкевич, Семён Соломонович@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Semyon_Yushkevich>,
+        <http://rdf.freebase.com/ns/m.0ddb7ty>,
+        <http://viaf.org/viaf/10769910>,
+        <http://wikidata.dbpedia.org/resource/Q4535566>,
+        <http://www.wikidata.org/entity/Q4535566>,
+        <http://yago-knowledge.org/resource/Semyon_Yushkevich> .
+
+<http://data.judaicalink.org/data/dbpedia/Senior_Sachs> a foaf:Person ;
+    jl:hasLabel "Senior Sachs@en",
+        "Закс, Шнеер (Сениор)@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Senior_Sachs>,
+        <http://rdf.freebase.com/ns/m.0279cj9>,
+        <http://viaf.org/viaf/36799422>,
+        <http://wikidata.dbpedia.org/resource/Q2903055>,
+        <http://www.wikidata.org/entity/Q2903055>,
+        <http://yago-knowledge.org/resource/Senior_Sachs> .
+
+<http://data.judaicalink.org/data/dbpedia/Sheizaf_Rafaeli> a foaf:Person ;
+    jl:hasLabel "Sheizaf Rafaeli@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Sheizaf_Rafaeli>,
+        <http://rdf.freebase.com/ns/m.0f_qnn>,
+        <http://viaf.org/viaf/69088390>,
+        <http://wikidata.dbpedia.org/resource/Q7493196>,
+        <http://www.wikidata.org/entity/Q7493196>,
+        <http://yago-knowledge.org/resource/Sheizaf_Rafaeli> .
+
+<http://data.judaicalink.org/data/dbpedia/Shimon_Peres> a foaf:Person ;
+    jl:hasLabel "Schimon Peres@de",
+        "Shimon Peres@en",
+        "Shimon Peres@es",
+        "Shimon Peres@fr",
+        "Shimon Peres@it",
+        "Shimon Peres@nl",
+        "Shimon Peres@pt",
+        "Szimon Peres@pl",
+        "Перес, Шимон@ru",
+        "شمعون بيريز@ar",
+        "シモン・ペレス@ja",
+        "希蒙·佩雷斯@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Šimon_Peres>,
+        <http://data.europa.eu/euodp/jrc-names/Shimon_Peres>,
+        <http://data.europa.eu/euodp/jrc-names/Sonia_Peres>,
+        <http://data.nytimes.com/57964481496003313253>,
+        <http://dbpedia.org/resource/Shimon_Peres>,
+        <http://de.dbpedia.org/resource/Schimon_Peres>,
+        <http://el.dbpedia.org/resource/Σιμόν_Πέρες>,
+        <http://es.dbpedia.org/resource/Shimon_Peres>,
+        <http://eu.dbpedia.org/resource/Shimon_Peres>,
+        <http://fr.dbpedia.org/resource/Shimon_Peres>,
+        <http://id.dbpedia.org/resource/Shimon_Peres>,
+        <http://it.dbpedia.org/resource/Shimon_Peres>,
+        <http://ja.dbpedia.org/resource/シモン・ペレス>,
+        <http://ko.dbpedia.org/resource/시몬_페레스>,
+        <http://nl.dbpedia.org/resource/Shimon_Peres>,
+        <http://pl.dbpedia.org/resource/Szimon_Peres>,
+        <http://pt.dbpedia.org/resource/Shimon_Peres>,
+        <http://rdf.freebase.com/ns/m.0c_8s>,
+        <http://sw.cyc.com/concept/Mx4rvVjqIpwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/78770379>,
+        <http://wikidata.dbpedia.org/resource/Q57410>,
+        <http://www.wikidata.org/entity/Q57410>,
+        <http://yago-knowledge.org/resource/Shimon_Peres> .
+
+<http://data.judaicalink.org/data/dbpedia/Shlomo_Carlebach_(scholar)> a foaf:Person ;
+    jl:hasLabel "Shlomo Carlebach (scholar)@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Shlomo_Carlebach_(scholar)>,
+        <http://rdf.freebase.com/ns/m.011b97yg>,
+        <http://wikidata.dbpedia.org/resource/Q7499572>,
+        <http://www.wikidata.org/entity/Q7499572>,
+        <http://yago-knowledge.org/resource/Shlomo_Carlebach_(scholar)> .
+
+<http://data.judaicalink.org/data/dbpedia/Shmuel_Ben-Artzi> a foaf:Person ;
+    jl:hasLabel "Shmuel Ben-Artzi@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Shmuel_Ben-Artzi>,
+        <http://rdf.freebase.com/ns/m.0hhqvnz>,
+        <http://viaf.org/viaf/230036765>,
+        <http://wikidata.dbpedia.org/resource/Q7499639>,
+        <http://www.wikidata.org/entity/Q7499639>,
+        <http://yago-knowledge.org/resource/Shmuel_Ben-Artzi> .
+
+<http://data.judaicalink.org/data/dbpedia/Shmuel_Yosef_Agnon> a foaf:Person ;
+    jl:hasLabel "Samuel Agnon@de",
+        "Samuel Agnon@pl",
+        "Samuel Joseph Agnon@fr",
+        "Shmuel Yosef Agnon@en",
+        "Shmuel Yosef Agnon@it",
+        "Shmuel Yosef Agnon@pt",
+        "Shmuel Yosef Agnón@es",
+        "Sjmoeël Joseef Agnon@nl",
+        "Агнон, Шмуэль Йосеф@ru",
+        "شموئيل يوسف عجنون@ar",
+        "シュムエル・アグノン@ja",
+        "萨缪尔·约瑟夫·阿格农@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Šmu'el_Josef_Agnon>,
+        <http://dbpedia.org/resource/Shmuel_Yosef_Agnon>,
+        <http://de.dbpedia.org/resource/Samuel_Agnon>,
+        <http://el.dbpedia.org/resource/Σαμουήλ_Ιωσήφ_Άγκνον>,
+        <http://es.dbpedia.org/resource/Shmuel_Yosef_Agnón>,
+        <http://eu.dbpedia.org/resource/Shmuel_Yosef_Agnon>,
+        <http://fr.dbpedia.org/resource/Samuel_Joseph_Agnon>,
+        <http://id.dbpedia.org/resource/Samuel_Agnon>,
+        <http://it.dbpedia.org/resource/Shmuel_Yosef_Agnon>,
+        <http://ja.dbpedia.org/resource/シュムエル・アグノン>,
+        <http://ko.dbpedia.org/resource/슈무엘_요세프_아그논>,
+        <http://nl.dbpedia.org/resource/Sjmoeël_Joseef_Agnon>,
+        <http://pl.dbpedia.org/resource/Samuel_Agnon>,
+        <http://pt.dbpedia.org/resource/Shmuel_Yosef_Agnon>,
+        <http://rdf.freebase.com/ns/m.079w8>,
+        <http://sw.cyc.com/concept/Mx4rvkttU5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/14765267>,
+        <http://wikidata.dbpedia.org/resource/Q133042>,
+        <http://www.wikidata.org/entity/Q133042>,
+        <http://yago-knowledge.org/resource/Shmuel_Yosef_Agnon> .
+
+<http://data.judaicalink.org/data/dbpedia/Simon_Wiesenthal> a foaf:Person ;
+    jl:hasLabel "Simon Wiesenthal@de",
+        "Simon Wiesenthal@en",
+        "Simon Wiesenthal@es",
+        "Simon Wiesenthal@fr",
+        "Simon Wiesenthal@it",
+        "Simon Wiesenthal@nl",
+        "Simon Wiesenthal@pt",
+        "Szymon Wiesenthal@pl",
+        "Визенталь, Симон@ru",
+        "サイモン・ヴィーゼンタール@ja",
+        "西蒙·维森塔尔@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://data.europa.eu/euodp/jrc-names/Simon_Wiesenthal>,
+        <http://dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://de.dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://el.dbpedia.org/resource/Σίμον_Βίζενταλ>,
+        <http://es.dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://eu.dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://fr.dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://id.dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://it.dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://ja.dbpedia.org/resource/サイモン・ヴィーゼンタール>,
+        <http://ko.dbpedia.org/resource/시몬_비젠탈>,
+        <http://nl.dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://pl.dbpedia.org/resource/Szymon_Wiesenthal>,
+        <http://pt.dbpedia.org/resource/Simon_Wiesenthal>,
+        <http://rdf.freebase.com/ns/m.07zzl9>,
+        <http://wikidata.dbpedia.org/resource/Q49086>,
+        <http://www.wikidata.org/entity/Q49086>,
+        <http://yago-knowledge.org/resource/Simon_Wiesenthal> .
+
+<http://data.judaicalink.org/data/dbpedia/Simone_Weil> a foaf:Person ;
+    jl:hasLabel "Simone Weil@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Simone_Weil>,
+        <http://dbpedia.org/resource/Simone_Weil>,
+        <http://de.dbpedia.org/resource/Simone_Weil>,
+        <http://es.dbpedia.org/resource/Simone_Weil>,
+        <http://eu.dbpedia.org/resource/Simone_Weil>,
+        <http://fr.dbpedia.org/resource/Simone_Weil>,
+        <http://id.dbpedia.org/resource/Simone_Weil>,
+        <http://it.dbpedia.org/resource/Simone_Weil>,
+        <http://ja.dbpedia.org/resource/シモーヌ・ヴェイユ_(哲学者)>,
+        <http://ko.dbpedia.org/resource/시몬_베유>,
+        <http://nl.dbpedia.org/resource/Simone_Weil>,
+        <http://pl.dbpedia.org/resource/Simone_Weil>,
+        <http://www.wikidata.org/entity/Q157309> .
+
+<http://data.judaicalink.org/data/dbpedia/Solomon_Rubin> a foaf:Person ;
+    jl:hasLabel "Salomon Rubin@de",
+        "Solomon Rubin@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Solomon_Rubin>,
+        <http://de.dbpedia.org/resource/Salomon_Rubin>,
+        <http://rdf.freebase.com/ns/m.0bhp_jt>,
+        <http://viaf.org/viaf/57372716>,
+        <http://wikidata.dbpedia.org/resource/Q2215049>,
+        <http://www.wikidata.org/entity/Q2215049>,
+        <http://yago-knowledge.org/resource/Solomon_Rubin> .
+
+<http://data.judaicalink.org/data/dbpedia/Stanley_Ralph_Ross> a foaf:Person ;
+    jl:hasLabel "Stanley Ralph Ross@en",
+        "Stanley Ralph Ross@es",
+        "Stanley Ralph Ross@fr",
+        "スタンリー・ラルフ・ロス@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Stanley_Ralph_Ross>,
+        <http://es.dbpedia.org/resource/Stanley_Ralph_Ross>,
+        <http://fr.dbpedia.org/resource/Stanley_Ralph_Ross>,
+        <http://ja.dbpedia.org/resource/スタンリー・ラルフ・ロス>,
+        <http://rdf.freebase.com/ns/m.08p2q8>,
+        <http://viaf.org/viaf/59292034>,
+        <http://wikidata.dbpedia.org/resource/Q2590913>,
+        <http://www.wikidata.org/entity/Q2590913>,
+        <http://yago-knowledge.org/resource/Stanley_Ralph_Ross> .
+
+<http://data.judaicalink.org/data/dbpedia/Stephan_Hermlin> a foaf:Person ;
+    jl:hasLabel "Stephan Hermlin@de",
+        "Stephan Hermlin@en",
+        "Stephan Hermlin@es",
+        "Stephan Hermlin@it",
+        "Хермлин, Стефан@ru",
+        "シュテファン・ヘルムリン@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Stephan_Hermlin>,
+        <http://dbpedia.org/resource/Stephan_Hermlin>,
+        <http://de.dbpedia.org/resource/Stephan_Hermlin>,
+        <http://es.dbpedia.org/resource/Stephan_Hermlin>,
+        <http://eu.dbpedia.org/resource/Stephan_Hermlin>,
+        <http://it.dbpedia.org/resource/Stephan_Hermlin>,
+        <http://ja.dbpedia.org/resource/シュテファン・ヘルムリン>,
+        <http://rdf.freebase.com/ns/m.0f77ps>,
+        <http://wikidata.dbpedia.org/resource/Q77744>,
+        <http://www.wikidata.org/entity/Q77744>,
+        <http://yago-knowledge.org/resource/Stephan_Hermlin> .
+
+<http://data.judaicalink.org/data/dbpedia/Stéphane_Zagdanski> a foaf:Person ;
+    jl:hasLabel "Stéphane Zagdanski@en",
+        "Stéphane Zagdanski@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Stéphane_Zagdanski>,
+        <http://fr.dbpedia.org/resource/Stéphane_Zagdanski>,
+        <http://rdf.freebase.com/ns/m.0zrn_0x>,
+        <http://wikidata.dbpedia.org/resource/Q3502134>,
+        <http://www.wikidata.org/entity/Q3502134>,
+        <http://yago-knowledge.org/resource/Stéphane_Zagdanski> .
+
+<http://data.judaicalink.org/data/dbpedia/Theodor_Herzl> a foaf:Person ;
+    jl:hasLabel "Theodor Herzl@de",
+        "Theodor Herzl@en",
+        "Theodor Herzl@es",
+        "Theodor Herzl@fr",
+        "Theodor Herzl@it",
+        "Theodor Herzl@nl",
+        "Theodor Herzl@pl",
+        "Theodor Herzl@pt",
+        "Герцль, Теодор@ru",
+        "تيودور هرتزل@ar",
+        "テオドール・ヘルツル@ja",
+        "西奥多·赫茨尔@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Theodor_Herzl>,
+        <http://data.europa.eu/euodp/jrc-names/Theodor_Herzl>,
+        <http://data.europa.eu/euodp/jrc-names/Theodore_Herzl>,
+        <http://dbpedia.org/resource/Theodor_Herzl>,
+        <http://de.dbpedia.org/resource/Theodor_Herzl>,
+        <http://el.dbpedia.org/resource/Τέοντορ_Χερτσλ>,
+        <http://es.dbpedia.org/resource/Theodor_Herzl>,
+        <http://eu.dbpedia.org/resource/Theodor_Herzl>,
+        <http://fr.dbpedia.org/resource/Theodor_Herzl>,
+        <http://id.dbpedia.org/resource/Theodor_Herzl>,
+        <http://it.dbpedia.org/resource/Theodor_Herzl>,
+        <http://ja.dbpedia.org/resource/テオドール・ヘルツル>,
+        <http://ko.dbpedia.org/resource/테오도어_헤르츨>,
+        <http://nl.dbpedia.org/resource/Theodor_Herzl>,
+        <http://pl.dbpedia.org/resource/Theodor_Herzl>,
+        <http://pt.dbpedia.org/resource/Theodor_Herzl>,
+        <http://rdf.freebase.com/ns/m.0qlp_>,
+        <http://viaf.org/viaf/76317061>,
+        <http://wikidata.dbpedia.org/resource/Q44003>,
+        <http://www.wikidata.org/entity/Q44003>,
+        <http://yago-knowledge.org/resource/Theodor_Herzl> .
+
+<http://data.judaicalink.org/data/dbpedia/Tsvi_Misinai> a foaf:Person ;
+    jl:hasLabel "Tsvi Misinai@en",
+        "Tsvi Misinai@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Tsvi_Misinai>,
+        <http://fr.dbpedia.org/resource/Tsvi_Misinai>,
+        <http://rdf.freebase.com/ns/m.07s48td>,
+        <http://wikidata.dbpedia.org/resource/Q3541697>,
+        <http://www.wikidata.org/entity/Q3541697>,
+        <http://yago-knowledge.org/resource/Tsvi_Misinai> .
+
+<http://data.judaicalink.org/data/dbpedia/Uri_Nissan_Gnessin> a foaf:Person ;
+    jl:hasLabel "Uri Nissan Gnessin@de",
+        "Uri Nissan Gnessin@en",
+        "Uri Nissan Gnessin@pl",
+        "Гнесин, Ури Нисон@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Uri_Nissan_Gnessin>,
+        <http://de.dbpedia.org/resource/Uri_Nissan_Gnessin>,
+        <http://pl.dbpedia.org/resource/Uri_Nissan_Gnessin>,
+        <http://rdf.freebase.com/ns/m.025vm6b>,
+        <http://wikidata.dbpedia.org/resource/Q514289>,
+        <http://www.wikidata.org/entity/Q514289>,
+        <http://yago-knowledge.org/resource/Uri_Nissan_Gnessin> .
+
+<http://data.judaicalink.org/data/dbpedia/Veniamin_Kaverin> a foaf:Person ;
+    jl:hasLabel "Benjamin Kaverine@fr",
+        "Veniamin Aleksandrovič Kaverin@it",
+        "Veniamin Kaverin@en",
+        "Veniamin Kaverin@es",
+        "Veniamin Kaverin@nl",
+        "Weniamin Alexandrowitsch Kawerin@de",
+        "Wieniamin Kawierin@pl",
+        "Каверин, Вениамин Александрович@ru",
+        "ヴェニアミン・カヴェーリン@ja",
+        "韦尼阿明·亚历山德罗维奇·卡维林@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Veniamin_Kaverin>,
+        <http://de.dbpedia.org/resource/Weniamin_Alexandrowitsch_Kawerin>,
+        <http://es.dbpedia.org/resource/Veniamin_Kaverin>,
+        <http://fr.dbpedia.org/resource/Benjamin_Kaverine>,
+        <http://it.dbpedia.org/resource/Veniamin_Aleksandrovič_Kaverin>,
+        <http://ja.dbpedia.org/resource/ヴェニアミン・カヴェーリン>,
+        <http://nl.dbpedia.org/resource/Veniamin_Kaverin>,
+        <http://pl.dbpedia.org/resource/Wieniamin_Kawierin>,
+        <http://rdf.freebase.com/ns/m.0887c4>,
+        <http://viaf.org/viaf/76317723>,
+        <http://wikidata.dbpedia.org/resource/Q467741>,
+        <http://www.wikidata.org/entity/Q467741>,
+        <http://yago-knowledge.org/resource/Veniamin_Kaverin> .
+
+<http://data.judaicalink.org/data/dbpedia/Vitaly_Chekhover> a foaf:Person ;
+    jl:hasLabel "Vitali Tchekhover@fr",
+        "Vitalij Aleksandrovič Čechover@it",
+        "Vitaly Chekhover@en",
+        "Witali Alexandrowitsch Tschechower@de",
+        "Чеховер, Виталий Александрович@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Vitaly_Chekhover>,
+        <http://de.dbpedia.org/resource/Witali_Alexandrowitsch_Tschechower>,
+        <http://fr.dbpedia.org/resource/Vitali_Tchekhover>,
+        <http://it.dbpedia.org/resource/Vitalij_Aleksandrovič_Čechover>,
+        <http://rdf.freebase.com/ns/m.0404m0q>,
+        <http://wikidata.dbpedia.org/resource/Q363772>,
+        <http://www.wikidata.org/entity/Q363772>,
+        <http://yago-knowledge.org/resource/Vitaly_Chekhover> .
+
+<http://data.judaicalink.org/data/dbpedia/Vladimir_Gelfand> a foaf:Person ;
+    jl:hasLabel "Vladimir Gelfand@en",
+        "Vladimir Gelfand@fr",
+        "Vladimir Gelfand@pt",
+        "Vladimir Natanovič Gel'fand@it",
+        "Wladimir Gelfand@de",
+        "Wladímir Gélfand@es",
+        "Władimir Gelfand@pl",
+        "Гельфанд, Владимир Натанович@ru",
+        "فلاديمير غيلفاند@ar",
+        "ウラジーミル・ゲルファント@ja",
+        "弗拉基米尔·盖尔芬德@zh" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Vladimir_Natanovič_Gelfand>,
+        <http://dbpedia.org/resource/Vladimir_Gelfand>,
+        <http://de.dbpedia.org/resource/Wladimir_Gelfand>,
+        <http://es.dbpedia.org/resource/Wladímir_Gélfand>,
+        <http://fr.dbpedia.org/resource/Vladimir_Gelfand>,
+        <http://it.dbpedia.org/resource/Vladimir_Natanovič_Gel'fand>,
+        <http://ja.dbpedia.org/resource/ウラジーミル・ゲルファント>,
+        <http://pl.dbpedia.org/resource/Władimir_Gelfand>,
+        <http://pt.dbpedia.org/resource/Vladimir_Gelfand>,
+        <http://rdf.freebase.com/ns/m.02x2zhm>,
+        <http://wikidata.dbpedia.org/resource/Q463412>,
+        <http://www.wikidata.org/entity/Q463412>,
+        <http://yago-knowledge.org/resource/Vladimir_Gelfand> .
+
+<http://data.judaicalink.org/data/dbpedia/Vladimir_Slepian> a foaf:Person ;
+    jl:hasLabel "Vladimir Slepian@en",
+        "Слепян, Владимир Львович@ru" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Vladimir_Slepian>,
+        <http://rdf.freebase.com/ns/m.0421jyz>,
+        <http://wikidata.dbpedia.org/resource/Q13361258>,
+        <http://www.wikidata.org/entity/Q13361258>,
+        <http://yago-knowledge.org/resource/Vladimir_Slepian> .
+
+<http://data.judaicalink.org/data/dbpedia/Walter_Hasenclever> a foaf:Person ;
+    jl:hasLabel "Walter Hasenclever@de",
+        "Walter Hasenclever@en",
+        "Walter Hasenclever@es",
+        "Walter Hasenclever@fr",
+        "Walter Hasenclever@it",
+        "Walter Hasenclever@nl",
+        "Walter Hasenclever@pt",
+        "Газенклевер, Вальтер@ru",
+        "فالتر هازنكليفر@ar" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Walter_Hasenclever>,
+        <http://de.dbpedia.org/resource/Walter_Hasenclever>,
+        <http://es.dbpedia.org/resource/Walter_Hasenclever>,
+        <http://fr.dbpedia.org/resource/Walter_Hasenclever>,
+        <http://it.dbpedia.org/resource/Walter_Hasenclever>,
+        <http://ko.dbpedia.org/resource/발터_하젠클레버>,
+        <http://nl.dbpedia.org/resource/Walter_Hasenclever>,
+        <http://pt.dbpedia.org/resource/Walter_Hasenclever>,
+        <http://rdf.freebase.com/ns/m.06hl7z>,
+        <http://viaf.org/viaf/44340243>,
+        <http://wikidata.dbpedia.org/resource/Q62628>,
+        <http://www.wikidata.org/entity/Q62628>,
+        <http://yago-knowledge.org/resource/Walter_Hasenclever> .
+
+<http://data.judaicalink.org/data/dbpedia/Wolf_Heidenheim> a foaf:Person ;
+    jl:hasLabel "Wolf Heidenheim@de",
+        "Wolf Heidenheim@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Wolf_Heidenheim>,
+        <http://de.dbpedia.org/resource/Wolf_Heidenheim>,
+        <http://rdf.freebase.com/ns/m.026sqj8>,
+        <http://viaf.org/viaf/69817285>,
+        <http://wikidata.dbpedia.org/resource/Q96519>,
+        <http://www.wikidata.org/entity/Q96519>,
+        <http://yago-knowledge.org/resource/Wolf_Heidenheim> .
+
+<http://data.judaicalink.org/data/dbpedia/Yaffa_Eliach> a foaf:Person ;
+    jl:hasLabel "Yaffa Eliach@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Yaffa_Eliach>,
+        <http://rdf.freebase.com/ns/m.080502h>,
+        <http://wikidata.dbpedia.org/resource/Q8046662>,
+        <http://www.wikidata.org/entity/Q8046662>,
+        <http://yago-knowledge.org/resource/Yaffa_Eliach> .
+
+<http://data.judaicalink.org/data/dbpedia/Yanki_Tauber> a foaf:Person ;
+    jl:hasLabel "Yanki Tauber@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Yanki_Tauber>,
+        <http://rdf.freebase.com/ns/m.0138k409>,
+        <http://wikidata.dbpedia.org/resource/Q20203163>,
+        <http://www.wikidata.org/entity/Q20203163> .
+
+<http://data.judaicalink.org/data/dbpedia/Yehezkel_Kaufmann> a foaf:Person ;
+    jl:hasLabel "Yehezkel Kaufmann@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Yehezkel_Kaufmann>,
+        <http://rdf.freebase.com/ns/m.026305f>,
+        <http://viaf.org/viaf/22267701>,
+        <http://wikidata.dbpedia.org/resource/Q8051240>,
+        <http://www.wikidata.org/entity/Q8051240>,
+        <http://yago-knowledge.org/resource/Yehezkel_Kaufmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Yehiel_De-Nur> a foaf:Person ;
+    jl:hasLabel "Yehiel De-Nur@en",
+        "Yehiel De-Nur@fr",
+        "Yehiel De-Nur@it",
+        "Yehiel De-Nur@pl",
+        "Yehiel De-Nur@pt",
+        "Yehiel Feiner@de",
+        "イェヒエル・デ・ヌール@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Yehiel_De-Nur>,
+        <http://de.dbpedia.org/resource/Yehiel_Feiner>,
+        <http://fr.dbpedia.org/resource/Yehiel_De-Nur>,
+        <http://it.dbpedia.org/resource/Yehiel_De-Nur>,
+        <http://ja.dbpedia.org/resource/イェヒエル・デ・ヌール>,
+        <http://pl.dbpedia.org/resource/Yehiel_De-Nur>,
+        <http://pt.dbpedia.org/resource/Yehiel_De-Nur>,
+        <http://rdf.freebase.com/ns/m.017rx_>,
+        <http://wikidata.dbpedia.org/resource/Q706341>,
+        <http://www.wikidata.org/entity/Q706341>,
+        <http://yago-knowledge.org/resource/Yehiel_De-Nur> .
+
+<http://data.judaicalink.org/data/dbpedia/Yitzhaq_Shami> a foaf:Person ;
+    jl:hasLabel "Yitzhaq Shami@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Yitzhaq_Shami>,
+        <http://rdf.freebase.com/ns/m.0c39t6s>,
+        <http://wikidata.dbpedia.org/resource/Q8053938>,
+        <http://www.wikidata.org/entity/Q8053938>,
+        <http://yago-knowledge.org/resource/Yitzhaq_Shami> .
+
+<http://data.judaicalink.org/data/dbpedia/Yuly_Aykhenvald> a foaf:Person ;
+    jl:hasLabel "Julij Aichenwal'd@it",
+        "Yuly Aykhenvald@en",
+        "Айхенвальд, Юлий Исаевич@ru",
+        "ユーリー・アイヘンワリド@ja" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Yuly_Aykhenvald>,
+        <http://it.dbpedia.org/resource/Julij_Aichenwal'd>,
+        <http://ja.dbpedia.org/resource/ユーリー・アイヘンワリド>,
+        <http://rdf.freebase.com/ns/m.0fp321>,
+        <http://wikidata.dbpedia.org/resource/Q1957978>,
+        <http://www.wikidata.org/entity/Q1957978>,
+        <http://yago-knowledge.org/resource/Yuly_Aykhenvald> .
+
+<http://data.judaicalink.org/data/dbpedia/Zev_Leff> a foaf:Person ;
+    jl:hasLabel "Zev Leff@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Zev_Leff>,
+        <http://rdf.freebase.com/ns/m.02qj1gw>,
+        <http://wikidata.dbpedia.org/resource/Q8069853>,
+        <http://www.wikidata.org/entity/Q8069853>,
+        <http://yago-knowledge.org/resource/Zev_Leff> .
+
+<http://data.judaicalink.org/data/dbpedia/Zora_Dirnbach> a foaf:Person ;
+    jl:hasLabel "Zora Dirnbach@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Zora_Dirnbach>,
+        <http://rdf.freebase.com/ns/m.0ndjvxq>,
+        <http://wikidata.dbpedia.org/resource/Q8074297>,
+        <http://www.wikidata.org/entity/Q8074297>,
+        <http://yago-knowledge.org/resource/Zora_Dirnbach> .
+
+<http://data.judaicalink.org/data/dbpedia/Émile_Brami> a foaf:Person ;
+    jl:hasLabel "Émile Brami@en",
+        "Émile Brami@fr" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Émile_Brami>,
+        <http://fr.dbpedia.org/resource/Émile_Brami>,
+        <http://rdf.freebase.com/ns/m.0g9t_dv>,
+        <http://wikidata.dbpedia.org/resource/Q3588376>,
+        <http://www.wikidata.org/entity/Q3588376>,
+        <http://yago-knowledge.org/resource/Émile_Brami> .
+
+<http://data.judaicalink.org/data/dbpedia/Üzeyir_Garih> a foaf:Person ;
+    jl:hasLabel "Üzeyir Garih@en" ;
+    jl:occupation "Jewish writers" ;
+    owl:sameAs <http://dbpedia.org/resource/Üzeyir_Garih>,
+        <http://rdf.freebase.com/ns/m.027vx14>,
+        <http://wikidata.dbpedia.org/resource/Q8079499>,
+        <http://www.wikidata.org/entity/Q8079499>,
+        <http://yago-knowledge.org/resource/Üzeyir_Garih> .
+
