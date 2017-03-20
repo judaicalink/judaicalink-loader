@@ -1,0 +1,3813 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/A._Feinstein_(chess_player)> a foaf:Person ;
+    jl:hasLabel "A. Feinstein (chess player)@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/A._Feinstein_(chess_player)>,
+        <http://rdf.freebase.com/ns/m.04grtr5>,
+        <http://wikidata.dbpedia.org/resource/Q4647764>,
+        <http://www.wikidata.org/entity/Q4647764>,
+        <http://yago-knowledge.org/resource/A._Feinstein_(chess_player)> .
+
+<http://data.judaicalink.org/data/dbpedia/A._Polak_Daniels> a foaf:Person ;
+    jl:hasLabel "A. Polak Daniels@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/A._Polak_Daniels>,
+        <http://rdf.freebase.com/ns/m.03yjddk>,
+        <http://wikidata.dbpedia.org/resource/Q4648268>,
+        <http://www.wikidata.org/entity/Q4648268>,
+        <http://yago-knowledge.org/resource/A._Polak_Daniels> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_Baratz> a foaf:Person ;
+    jl:hasLabel "Abraham Baratz@en",
+        "Abraham Baratz@fr",
+        "Барац, Абрам@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_Baratz>,
+        <http://fr.dbpedia.org/resource/Abraham_Baratz>,
+        <http://rdf.freebase.com/ns/m.0h6cg7>,
+        <http://viaf.org/viaf/283250625>,
+        <http://wikidata.dbpedia.org/resource/Q2821807>,
+        <http://www.wikidata.org/entity/Q2821807>,
+        <http://yago-knowledge.org/resource/Abraham_Baratz> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_Kupchik> a foaf:Person ;
+    jl:hasLabel "Abraham Kupchik@de",
+        "Abraham Kupchik@en",
+        "Abraham Kupchik@es",
+        "Abraham Kupchik@fr",
+        "Abraham Kupchik@pl",
+        "Купчик, Абрам@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_Kupchik>,
+        <http://de.dbpedia.org/resource/Abraham_Kupchik>,
+        <http://es.dbpedia.org/resource/Abraham_Kupchik>,
+        <http://fr.dbpedia.org/resource/Abraham_Kupchik>,
+        <http://pl.dbpedia.org/resource/Abraham_Kupchik>,
+        <http://rdf.freebase.com/ns/m.0krvvv>,
+        <http://wikidata.dbpedia.org/resource/Q330194>,
+        <http://www.wikidata.org/entity/Q330194>,
+        <http://yago-knowledge.org/resource/Abraham_Kupchik> .
+
+<http://data.judaicalink.org/data/dbpedia/Abram_Blass> a foaf:Person ;
+    jl:hasLabel "Abram Blass@en",
+        "Abram Blass@pl",
+        "Бласс, Абрам@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Abram_Blass>,
+        <http://pl.dbpedia.org/resource/Abram_Blass>,
+        <http://rdf.freebase.com/ns/m.0ggfbr>,
+        <http://wikidata.dbpedia.org/resource/Q743972>,
+        <http://www.wikidata.org/entity/Q743972>,
+        <http://yago-knowledge.org/resource/Abram_Blass> .
+
+<http://data.judaicalink.org/data/dbpedia/Abram_Khavin> a foaf:Person ;
+    jl:hasLabel "Abram Khavin@en",
+        "Хавин, Абрам Леонидович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Abram_Khavin>,
+        <http://rdf.freebase.com/ns/m.02x5_b1>,
+        <http://wikidata.dbpedia.org/resource/Q4494452>,
+        <http://www.wikidata.org/entity/Q4494452>,
+        <http://yago-knowledge.org/resource/Abram_Khavin> .
+
+<http://data.judaicalink.org/data/dbpedia/Abram_Rabinovich> a foaf:Person ;
+    jl:hasLabel "Abram Rabinovich@en",
+        "Abram Rabinovich@es",
+        "Рабинович, Абрам Исаакович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Abram_Rabinovich>,
+        <http://es.dbpedia.org/resource/Abram_Rabinovich>,
+        <http://rdf.freebase.com/ns/m.026d434>,
+        <http://wikidata.dbpedia.org/resource/Q2916052>,
+        <http://www.wikidata.org/entity/Q2916052>,
+        <http://yago-knowledge.org/resource/Abram_Rabinovich> .
+
+<http://data.judaicalink.org/data/dbpedia/Abram_Szpiro> a foaf:Person ;
+    jl:hasLabel "Abram Szpiro@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Abram_Szpiro>,
+        <http://rdf.freebase.com/ns/m.04q72pg>,
+        <http://wikidata.dbpedia.org/resource/Q4669387>,
+        <http://www.wikidata.org/entity/Q4669387>,
+        <http://yago-knowledge.org/resource/Abram_Szpiro> .
+
+<http://data.judaicalink.org/data/dbpedia/Abram_Zamikhovsky> a foaf:Person ;
+    jl:hasLabel "Abram Zamikhovsky@en",
+        "Замиховский, Абрам Давидович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Abram_Zamikhovsky>,
+        <http://rdf.freebase.com/ns/m.02x5_79>,
+        <http://wikidata.dbpedia.org/resource/Q1994876>,
+        <http://www.wikidata.org/entity/Q1994876>,
+        <http://yago-knowledge.org/resource/Abram_Zamikhovsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Achilles_Frydman> a foaf:Person ;
+    jl:hasLabel "Achilles Frydman@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Achilles_Frydman>,
+        <http://rdf.freebase.com/ns/m.0krxkn>,
+        <http://wikidata.dbpedia.org/resource/Q4673743>,
+        <http://www.wikidata.org/entity/Q4673743>,
+        <http://yago-knowledge.org/resource/Achilles_Frydman> .
+
+<http://data.judaicalink.org/data/dbpedia/Adolf_Stern_(chess_player)> a foaf:Person ;
+    jl:hasLabel "Adolf Stern (Schachspieler)@de",
+        "Adolf Stern (chess player)@en",
+        "Adolf Stern@pt" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Adolf_Stern_(chess_player)>,
+        <http://de.dbpedia.org/resource/Adolf_Stern_(Schachspieler)>,
+        <http://pt.dbpedia.org/resource/Adolf_Stern>,
+        <http://rdf.freebase.com/ns/m.04dyzf0>,
+        <http://viaf.org/viaf/72535772>,
+        <http://wikidata.dbpedia.org/resource/Q108371>,
+        <http://www.wikidata.org/entity/Q108371>,
+        <http://yago-knowledge.org/resource/Adolf_Stern_(chess_player)> .
+
+<http://data.judaicalink.org/data/dbpedia/Akiba_Rubinstein> a foaf:Person ;
+    jl:hasLabel "Akiba Rubinstein@de",
+        "Akiba Rubinstein@en",
+        "Akiba Rubinstein@es",
+        "Akiba Rubinstein@fr",
+        "Akiba Rubinstein@it",
+        "Akiba Rubinstein@nl",
+        "Akiba Rubinstein@pl",
+        "Akiba Rubinstein@pt",
+        "Рубинштейн, Акиба Кивелевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Akiba_Rubinstein>,
+        <http://dbpedia.org/resource/Akiba_Rubinstein>,
+        <http://de.dbpedia.org/resource/Akiba_Rubinstein>,
+        <http://es.dbpedia.org/resource/Akiba_Rubinstein>,
+        <http://fr.dbpedia.org/resource/Akiba_Rubinstein>,
+        <http://it.dbpedia.org/resource/Akiba_Rubinstein>,
+        <http://nl.dbpedia.org/resource/Akiba_Rubinstein>,
+        <http://pl.dbpedia.org/resource/Akiba_Rubinstein>,
+        <http://pt.dbpedia.org/resource/Akiba_Rubinstein>,
+        <http://rdf.freebase.com/ns/m.02gwxz>,
+        <http://viaf.org/viaf/32789118>,
+        <http://wikidata.dbpedia.org/resource/Q318597>,
+        <http://www.wikidata.org/entity/Q318597>,
+        <http://yago-knowledge.org/resource/Akiba_Rubinstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Albert_Simonson> a foaf:Person ;
+    jl:hasLabel "Albert Simonson@en",
+        "Albert Simonson@fr",
+        "Albert Simonson@pl",
+        "Симонсон, Альберт@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Albert_Simonson>,
+        <http://fr.dbpedia.org/resource/Albert_Simonson>,
+        <http://pl.dbpedia.org/resource/Albert_Simonson>,
+        <http://rdf.freebase.com/ns/m.02qt7ys>,
+        <http://wikidata.dbpedia.org/resource/Q4419803>,
+        <http://www.wikidata.org/entity/Q4419803>,
+        <http://yago-knowledge.org/resource/Albert_Simonson> .
+
+<http://data.judaicalink.org/data/dbpedia/Aleksandr_Mitrofanovich_Levin> a foaf:Person ;
+    jl:hasLabel "Aleksandr Mitrofanovich Levin@en",
+        "Alexander Mitrofanowitsch Lewin@de",
+        "Левин, Александр Митрофанович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Aleksandr_Mitrofanovich_Levin>,
+        <http://de.dbpedia.org/resource/Alexander_Mitrofanowitsch_Lewin>,
+        <http://rdf.freebase.com/ns/m.05mz2y0>,
+        <http://wikidata.dbpedia.org/resource/Q194888>,
+        <http://www.wikidata.org/entity/Q194888>,
+        <http://yago-knowledge.org/resource/Aleksandr_Mitrofanovich_Levin> .
+
+<http://data.judaicalink.org/data/dbpedia/Aleksandras_Machtas> a foaf:Person ;
+    jl:hasLabel "Aleksandras Machtas@de",
+        "Aleksandras Machtas@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Aleksandras_Machtas>,
+        <http://de.dbpedia.org/resource/Aleksandras_Machtas>,
+        <http://rdf.freebase.com/ns/m.03cfh5b>,
+        <http://wikidata.dbpedia.org/resource/Q2905544>,
+        <http://www.wikidata.org/entity/Q2905544>,
+        <http://yago-knowledge.org/resource/Aleksandras_Machtas> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Beliavsky> a foaf:Person ;
+    jl:hasLabel "Aleksandr Beliavski@es",
+        "Aleksandr Beliavski@fr",
+        "Aleksandr Genrichovič Beljavskij@it",
+        "Alexander Beliavsky@de",
+        "Alexander Beliavsky@en",
+        "Alexander Beliavsky@pt",
+        "Oleksandr Beljavsky@nl",
+        "Ołeksandr Bielawski@pl",
+        "Белявский, Александр Генрихович@ru",
+        "ألكسندر بليافسكي@ar" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Alexandr_Beljavskij>,
+        <http://dbpedia.org/resource/Alexander_Beliavsky>,
+        <http://de.dbpedia.org/resource/Alexander_Beliavsky>,
+        <http://es.dbpedia.org/resource/Aleksandr_Beliavski>,
+        <http://fr.dbpedia.org/resource/Aleksandr_Beliavski>,
+        <http://it.dbpedia.org/resource/Aleksandr_Genrichovič_Beljavskij>,
+        <http://nl.dbpedia.org/resource/Oleksandr_Beljavsky>,
+        <http://pl.dbpedia.org/resource/Ołeksandr_Bielawski>,
+        <http://pt.dbpedia.org/resource/Alexander_Beliavsky>,
+        <http://rdf.freebase.com/ns/m.0156rh>,
+        <http://viaf.org/viaf/59790542>,
+        <http://wikidata.dbpedia.org/resource/Q352413>,
+        <http://www.wikidata.org/entity/Q352413>,
+        <http://yago-knowledge.org/resource/Alexander_Beliavsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Chernin> a foaf:Person ;
+    jl:hasLabel "Aleksander Czernin@pl",
+        "Aleksandr Tchernine@fr",
+        "Aleksandr Černin@it",
+        "Alexander Chernin@en",
+        "Alexander Chernin@nl",
+        "Alexander Csernyin@de",
+        "Чернин, Александр Михайлович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexander_Chernin>,
+        <http://de.dbpedia.org/resource/Alexander_Csernyin>,
+        <http://fr.dbpedia.org/resource/Aleksandr_Tchernine>,
+        <http://it.dbpedia.org/resource/Aleksandr_Černin>,
+        <http://nl.dbpedia.org/resource/Alexander_Chernin>,
+        <http://pl.dbpedia.org/resource/Aleksander_Czernin>,
+        <http://rdf.freebase.com/ns/m.03ccpdy>,
+        <http://wikidata.dbpedia.org/resource/Q957014>,
+        <http://www.wikidata.org/entity/Q957014>,
+        <http://yago-knowledge.org/resource/Alexander_Chernin> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Evenson> a foaf:Person ;
+    jl:hasLabel "Aleksandr Evensohn@es",
+        "Alexander Evenson@en",
+        "Эвенсон, Александр Моисеевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexander_Evenson>,
+        <http://es.dbpedia.org/resource/Aleksandr_Evensohn>,
+        <http://rdf.freebase.com/ns/m.0f2s97>,
+        <http://wikidata.dbpedia.org/resource/Q2656175>,
+        <http://www.wikidata.org/entity/Q2656175>,
+        <http://yago-knowledge.org/resource/Alexander_Evenson> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Flamberg> a foaf:Person ;
+    jl:hasLabel "Aleksander Flamberg@pl",
+        "Alexander Flamberg@de",
+        "Alexander Flamberg@en",
+        "Alexander Flamberg@es",
+        "Флямберг, Александр@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexander_Flamberg>,
+        <http://de.dbpedia.org/resource/Alexander_Flamberg>,
+        <http://es.dbpedia.org/resource/Alexander_Flamberg>,
+        <http://pl.dbpedia.org/resource/Aleksander_Flamberg>,
+        <http://rdf.freebase.com/ns/m.0269q2z>,
+        <http://viaf.org/viaf/284650018>,
+        <http://wikidata.dbpedia.org/resource/Q681066>,
+        <http://www.wikidata.org/entity/Q681066>,
+        <http://yago-knowledge.org/resource/Alexander_Flamberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Halprin> a foaf:Person ;
+    jl:hasLabel "Alexander Halprin@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexander_Halprin>,
+        <http://rdf.freebase.com/ns/m.04f_2gq>,
+        <http://viaf.org/viaf/290596294>,
+        <http://wikidata.dbpedia.org/resource/Q4719053>,
+        <http://www.wikidata.org/entity/Q4719053>,
+        <http://yago-knowledge.org/resource/Alexander_Halprin> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Kevitz> a foaf:Person ;
+    jl:hasLabel "Alexander Kevitz@de",
+        "Alexander Kevitz@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexander_Kevitz>,
+        <http://de.dbpedia.org/resource/Alexander_Kevitz>,
+        <http://rdf.freebase.com/ns/m.03qd5n9>,
+        <http://wikidata.dbpedia.org/resource/Q2642440>,
+        <http://www.wikidata.org/entity/Q2642440>,
+        <http://yago-knowledge.org/resource/Alexander_Kevitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Khalifman> a foaf:Person ;
+    jl:hasLabel "Aleksander Chalifman@pl",
+        "Aleksandr Chalifman@nl",
+        "Aleksandr Jálifman@es",
+        "Aleksandr Khalifman@fr",
+        "Aleksandr Valer'evič Chalifman@it",
+        "Alexander Khalifman@en",
+        "Alexander Khalifman@pt",
+        "Alexander Walerjewitsch Chalifman@de",
+        "Халифман, Александр Валерьевич@ru",
+        "ألكسندر خليفمان@ar",
+        "アレクサンドル・カリフマン@ja" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Alexandr_Chalifman>,
+        <http://dbpedia.org/resource/Alexander_Khalifman>,
+        <http://de.dbpedia.org/resource/Alexander_Walerjewitsch_Chalifman>,
+        <http://el.dbpedia.org/resource/Αλεξάντερ_Χάλιφμαν>,
+        <http://es.dbpedia.org/resource/Aleksandr_Jálifman>,
+        <http://eu.dbpedia.org/resource/Aleksandr_Khalifman>,
+        <http://fr.dbpedia.org/resource/Aleksandr_Khalifman>,
+        <http://it.dbpedia.org/resource/Aleksandr_Valer'evič_Chalifman>,
+        <http://ja.dbpedia.org/resource/アレクサンドル・カリフマン>,
+        <http://nl.dbpedia.org/resource/Aleksandr_Chalifman>,
+        <http://pl.dbpedia.org/resource/Aleksander_Chalifman>,
+        <http://pt.dbpedia.org/resource/Alexander_Khalifman>,
+        <http://rdf.freebase.com/ns/m.03df8n>,
+        <http://wikidata.dbpedia.org/resource/Q106374>,
+        <http://www.wikidata.org/entity/Q106374>,
+        <http://yago-knowledge.org/resource/Alexander_Khalifman> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexandru_Tyroler> a foaf:Person ;
+    jl:hasLabel "Alexandru Tyroler@de",
+        "Alexandru Tyroler@en",
+        "Alexandru Tyroler@pl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexandru_Tyroler>,
+        <http://de.dbpedia.org/resource/Alexandru_Tyroler>,
+        <http://pl.dbpedia.org/resource/Alexandru_Tyroler>,
+        <http://rdf.freebase.com/ns/m.02qt_5b>,
+        <http://wikidata.dbpedia.org/resource/Q727125>,
+        <http://www.wikidata.org/entity/Q727125>,
+        <http://yago-knowledge.org/resource/Alexandru_Tyroler> .
+
+<http://data.judaicalink.org/data/dbpedia/Alik_Gershon> a foaf:Person ;
+    jl:hasLabel "Alik Gershon@de",
+        "Alik Gershon@en",
+        "Alik Gershon@nl",
+        "Alik Gershon@pl",
+        "Гершон, Алик@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Alik_Gershon>,
+        <http://de.dbpedia.org/resource/Alik_Gershon>,
+        <http://nl.dbpedia.org/resource/Alik_Gershon>,
+        <http://pl.dbpedia.org/resource/Alik_Gershon>,
+        <http://rdf.freebase.com/ns/m.0ds2dt5>,
+        <http://viaf.org/viaf/280128010>,
+        <http://wikidata.dbpedia.org/resource/Q2063393>,
+        <http://www.wikidata.org/entity/Q2063393>,
+        <http://yago-knowledge.org/resource/Alik_Gershon> .
+
+<http://data.judaicalink.org/data/dbpedia/Alla_Kushnir> a foaf:Person ;
+    jl:hasLabel "Ala Kushnir@es",
+        "Alla Koesjnir@nl",
+        "Alla Kuschnir@de",
+        "Alla Kushnir@en",
+        "Alla Kushnir@fr",
+        "Alla Kushnir@pt",
+        "Alla Kušnir@it",
+        "Ałła Kusznir@pl",
+        "Кушнир, Алла Шулимовна@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Alla_Kushnir>,
+        <http://de.dbpedia.org/resource/Alla_Kuschnir>,
+        <http://es.dbpedia.org/resource/Ala_Kushnir>,
+        <http://fr.dbpedia.org/resource/Alla_Kushnir>,
+        <http://it.dbpedia.org/resource/Alla_Kušnir>,
+        <http://nl.dbpedia.org/resource/Alla_Koesjnir>,
+        <http://pl.dbpedia.org/resource/Ałła_Kusznir>,
+        <http://pt.dbpedia.org/resource/Alla_Kushnir>,
+        <http://rdf.freebase.com/ns/m.026k4_s>,
+        <http://wikidata.dbpedia.org/resource/Q269098>,
+        <http://www.wikidata.org/entity/Q269098>,
+        <http://yago-knowledge.org/resource/Alla_Kushnir> .
+
+<http://data.judaicalink.org/data/dbpedia/Alon_Greenfeld> a foaf:Person ;
+    jl:hasLabel "Alon Greenfeld@de",
+        "Alon Greenfeld@en",
+        "Alon Greenfeld@nl",
+        "Alon Greenfeld@pl",
+        "Гринфельд, Алон@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Alon_Greenfeld>,
+        <http://de.dbpedia.org/resource/Alon_Greenfeld>,
+        <http://nl.dbpedia.org/resource/Alon_Greenfeld>,
+        <http://pl.dbpedia.org/resource/Alon_Greenfeld>,
+        <http://rdf.freebase.com/ns/m.027y4kr>,
+        <http://wikidata.dbpedia.org/resource/Q486592>,
+        <http://www.wikidata.org/entity/Q486592>,
+        <http://yago-knowledge.org/resource/Alon_Greenfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Anatoly_Lein> a foaf:Person ;
+    jl:hasLabel "Anatoli Jakowlewitsch Lein@de",
+        "Anatoli Lein@fr",
+        "Anatolij Lein@it",
+        "Anatolij Lejn@pl",
+        "Anatoly Lein@en",
+        "Лейн, Анатолий Яковлевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Anatoly_Lein>,
+        <http://de.dbpedia.org/resource/Anatoli_Jakowlewitsch_Lein>,
+        <http://fr.dbpedia.org/resource/Anatoli_Lein>,
+        <http://it.dbpedia.org/resource/Anatolij_Lein>,
+        <http://pl.dbpedia.org/resource/Anatolij_Lejn>,
+        <http://rdf.freebase.com/ns/m.0kt467>,
+        <http://wikidata.dbpedia.org/resource/Q487793>,
+        <http://www.wikidata.org/entity/Q487793>,
+        <http://yago-knowledge.org/resource/Anatoly_Lein> .
+
+<http://data.judaicalink.org/data/dbpedia/Andor_Lilienthal> a foaf:Person ;
+    jl:hasLabel "Andor Lilienthal@de",
+        "Andor Lilienthal@en",
+        "Andor Lilienthal@es",
+        "Andor Lilienthal@fr",
+        "Andor Lilienthal@it",
+        "Andor Lilienthal@nl",
+        "Andor Lilienthal@pl",
+        "Andor Lilienthal@pt",
+        "Лилиенталь, Андрэ Арнольдович@ru",
+        "アンドール・リリエンタール@ja" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Andor_Lilienthal>,
+        <http://dbpedia.org/resource/Andor_Lilienthal>,
+        <http://de.dbpedia.org/resource/Andor_Lilienthal>,
+        <http://es.dbpedia.org/resource/Andor_Lilienthal>,
+        <http://fr.dbpedia.org/resource/Andor_Lilienthal>,
+        <http://it.dbpedia.org/resource/Andor_Lilienthal>,
+        <http://ja.dbpedia.org/resource/アンドール・リリエンタール>,
+        <http://nl.dbpedia.org/resource/Andor_Lilienthal>,
+        <http://pl.dbpedia.org/resource/Andor_Lilienthal>,
+        <http://pt.dbpedia.org/resource/Andor_Lilienthal>,
+        <http://rdf.freebase.com/ns/m.069wb_>,
+        <http://wikidata.dbpedia.org/resource/Q113167>,
+        <http://www.wikidata.org/entity/Q113167>,
+        <http://yago-knowledge.org/resource/Andor_Lilienthal> .
+
+<http://data.judaicalink.org/data/dbpedia/Andreas_Dückstein> a foaf:Person ;
+    jl:hasLabel "Andreas Dückstein@de",
+        "Andreas Dückstein@en",
+        "Andreas Dückstein@it",
+        "Andreas Dückstein@pl",
+        "Andreas Dückstein@pt",
+        "Дюкштейн, Андреас@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Andreas_Dückstein>,
+        <http://de.dbpedia.org/resource/Andreas_Dückstein>,
+        <http://it.dbpedia.org/resource/Andreas_Dückstein>,
+        <http://pl.dbpedia.org/resource/Andreas_Dückstein>,
+        <http://pt.dbpedia.org/resource/Andreas_Dückstein>,
+        <http://rdf.freebase.com/ns/m.03cbmz5>,
+        <http://viaf.org/viaf/290483938>,
+        <http://wikidata.dbpedia.org/resource/Q496958>,
+        <http://www.wikidata.org/entity/Q496958>,
+        <http://yago-knowledge.org/resource/Andreas_Dückstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Aron_Nimzowitsch> a foaf:Person ;
+    jl:hasLabel "Aaron Nimzowitsch@de",
+        "Aaron Nimzowitsch@fr",
+        "Aaron Nimzowitsch@it",
+        "Aaron Nimzowitsch@nl",
+        "Aaron Nimzowitsch@pt",
+        "Aron Nimzowitsch@en",
+        "Aron Nimzowitsch@es",
+        "Aron Nimzowitsch@pl",
+        "Нимцович, Арон Исаевич@ru",
+        "アロン・ニムゾヴィッチ@ja" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Aaron_Nimcovič>,
+        <http://dbpedia.org/resource/Aron_Nimzowitsch>,
+        <http://de.dbpedia.org/resource/Aaron_Nimzowitsch>,
+        <http://el.dbpedia.org/resource/Άρον_Νίμζοβιτς>,
+        <http://es.dbpedia.org/resource/Aron_Nimzowitsch>,
+        <http://fr.dbpedia.org/resource/Aaron_Nimzowitsch>,
+        <http://id.dbpedia.org/resource/Aaron_Nimzowitsch>,
+        <http://it.dbpedia.org/resource/Aaron_Nimzowitsch>,
+        <http://ja.dbpedia.org/resource/アロン・ニムゾヴィッチ>,
+        <http://nl.dbpedia.org/resource/Aaron_Nimzowitsch>,
+        <http://pl.dbpedia.org/resource/Aron_Nimzowitsch>,
+        <http://pt.dbpedia.org/resource/Aaron_Nimzowitsch>,
+        <http://rdf.freebase.com/ns/m.011ct>,
+        <http://viaf.org/viaf/27069553>,
+        <http://wikidata.dbpedia.org/resource/Q295114>,
+        <http://www.wikidata.org/entity/Q295114>,
+        <http://yago-knowledge.org/resource/Aaron_Nimzovich>,
+        <http://yago-knowledge.org/resource/Aron_Nimzowitsch> .
+
+<http://data.judaicalink.org/data/dbpedia/Aron_Schvartzman> a foaf:Person ;
+    jl:hasLabel "Aaron Schwartzman@de",
+        "Aron Schvartzman@en",
+        "Arón Schvartzman@es" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Aron_Schvartzman>,
+        <http://de.dbpedia.org/resource/Aaron_Schwartzman>,
+        <http://es.dbpedia.org/resource/Arón_Schvartzman>,
+        <http://rdf.freebase.com/ns/m.027jxkj>,
+        <http://wikidata.dbpedia.org/resource/Q302663>,
+        <http://www.wikidata.org/entity/Q302663>,
+        <http://yago-knowledge.org/resource/Aron_Schvartzman> .
+
+<http://data.judaicalink.org/data/dbpedia/Arthur_Bisguier> a foaf:Person ;
+    jl:hasLabel "Arthur Bisguier@de",
+        "Arthur Bisguier@en",
+        "Arthur Bisguier@fr",
+        "Arthur Bisguier@it",
+        "Arthur Bisguier@pl",
+        "Arthur Bisguier@pt",
+        "Бисгайер, Артур@ru",
+        "آرثر بزكوير@ar" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Arthur_Bisguier>,
+        <http://de.dbpedia.org/resource/Arthur_Bisguier>,
+        <http://fr.dbpedia.org/resource/Arthur_Bisguier>,
+        <http://id.dbpedia.org/resource/Arthur_Bisguier>,
+        <http://it.dbpedia.org/resource/Arthur_Bisguier>,
+        <http://pl.dbpedia.org/resource/Arthur_Bisguier>,
+        <http://pt.dbpedia.org/resource/Arthur_Bisguier>,
+        <http://rdf.freebase.com/ns/m.05z9r1>,
+        <http://wikidata.dbpedia.org/resource/Q708680>,
+        <http://www.wikidata.org/entity/Q708680>,
+        <http://yago-knowledge.org/resource/Arthur_Bisguier> .
+
+<http://data.judaicalink.org/data/dbpedia/Arthur_Dunkelblum> a foaf:Person ;
+    jl:hasLabel "Arthur Dunkelblum@en",
+        "Arthur Dunkelblum@nl",
+        "Дункельблюм, Артур@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Arthur_Dunkelblum>,
+        <http://id.dbpedia.org/resource/Arthur_Dunkelblum>,
+        <http://nl.dbpedia.org/resource/Arthur_Dunkelblum>,
+        <http://rdf.freebase.com/ns/m.026cqgp>,
+        <http://wikidata.dbpedia.org/resource/Q260265>,
+        <http://www.wikidata.org/entity/Q260265>,
+        <http://yago-knowledge.org/resource/Arthur_Dunkelblum> .
+
+<http://data.judaicalink.org/data/dbpedia/Arthur_Feuerstein> a foaf:Person ;
+    jl:hasLabel "Arthur Feuerstein@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Arthur_Feuerstein>,
+        <http://rdf.freebase.com/ns/m.03wgglm>,
+        <http://wikidata.dbpedia.org/resource/Q4798685>,
+        <http://www.wikidata.org/entity/Q4798685>,
+        <http://yago-knowledge.org/resource/Arthur_Feuerstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Artur_Kogan> a foaf:Person ;
+    jl:hasLabel "Artur Kogan@en",
+        "Artur Kogan@nl",
+        "Artur Kogan@pl",
+        "Коган, Артур@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Artur_Kogan>,
+        <http://nl.dbpedia.org/resource/Artur_Kogan>,
+        <http://pl.dbpedia.org/resource/Artur_Kogan>,
+        <http://rdf.freebase.com/ns/m.027z_n3>,
+        <http://wikidata.dbpedia.org/resource/Q936073>,
+        <http://www.wikidata.org/entity/Q936073>,
+        <http://yago-knowledge.org/resource/Artur_Kogan> .
+
+<http://data.judaicalink.org/data/dbpedia/Arturo_Liebstein> a foaf:Person ;
+    jl:hasLabel "Arturo Liebstein@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Arturo_Liebstein>,
+        <http://rdf.freebase.com/ns/m.0b7588v>,
+        <http://wikidata.dbpedia.org/resource/Q4801758>,
+        <http://www.wikidata.org/entity/Q4801758>,
+        <http://yago-knowledge.org/resource/Arturo_Liebstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Benjamin_Blumenfeld> a foaf:Person ;
+    jl:hasLabel "Beniamín Bliumenfeld@es",
+        "Benjamin Blumenfeld@en",
+        "Benjamin Blumenfeld@fr",
+        "Benjamin Blumenfeld@pl",
+        "Benjamin Markowitsch Blumenfeld@de",
+        "Блюменфельд, Бениамин Маркович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Benjamin_Blumenfeld>,
+        <http://de.dbpedia.org/resource/Benjamin_Markowitsch_Blumenfeld>,
+        <http://es.dbpedia.org/resource/Beniamín_Bliumenfeld>,
+        <http://fr.dbpedia.org/resource/Benjamin_Blumenfeld>,
+        <http://pl.dbpedia.org/resource/Benjamin_Blumenfeld>,
+        <http://rdf.freebase.com/ns/m.026dprw>,
+        <http://wikidata.dbpedia.org/resource/Q817619>,
+        <http://www.wikidata.org/entity/Q817619>,
+        <http://yago-knowledge.org/resource/Benjamin_Blumenfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Bernardo_Wexler> a foaf:Person ;
+    jl:hasLabel "Bernardo Wexler@en",
+        "Bernardo Wexler@es",
+        "Векслер, Бернардо@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Bernardo_Wexler>,
+        <http://es.dbpedia.org/resource/Bernardo_Wexler>,
+        <http://rdf.freebase.com/ns/m.026y_h_>,
+        <http://wikidata.dbpedia.org/resource/Q2091062>,
+        <http://www.wikidata.org/entity/Q2091062>,
+        <http://yago-knowledge.org/resource/Bernardo_Wexler> .
+
+<http://data.judaicalink.org/data/dbpedia/Bernhard_Horwitz> a foaf:Person ;
+    jl:hasLabel "Bernhard Horwitz@de",
+        "Bernhard Horwitz@en",
+        "Bernhard Horwitz@es",
+        "Bernhard Horwitz@fr",
+        "Bernhard Horwitz@it",
+        "Bernhard Horwitz@pl",
+        "Bernhard Horwitz@pt",
+        "Горвиц, Бернхард@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Bernhard_Horwitz>,
+        <http://dbpedia.org/resource/Bernhard_Horwitz>,
+        <http://de.dbpedia.org/resource/Bernhard_Horwitz>,
+        <http://es.dbpedia.org/resource/Bernhard_Horwitz>,
+        <http://fr.dbpedia.org/resource/Bernhard_Horwitz>,
+        <http://it.dbpedia.org/resource/Bernhard_Horwitz>,
+        <http://pl.dbpedia.org/resource/Bernhard_Horwitz>,
+        <http://pt.dbpedia.org/resource/Bernhard_Horwitz>,
+        <http://rdf.freebase.com/ns/m.02hkmv>,
+        <http://viaf.org/viaf/169599333>,
+        <http://wikidata.dbpedia.org/resource/Q62031>,
+        <http://www.wikidata.org/entity/Q62031>,
+        <http://yago-knowledge.org/resource/Bernhard_Horwitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Berthold_Englisch> a foaf:Person ;
+    jl:hasLabel "Berthold Englisch@de",
+        "Berthold Englisch@en",
+        "Berthold Englisch@es",
+        "Berthold Englisch@fr",
+        "Berthold Englisch@pt",
+        "Энглиш, Бертольд@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Berthold_Englisch>,
+        <http://dbpedia.org/resource/Berthold_Englisch>,
+        <http://de.dbpedia.org/resource/Berthold_Englisch>,
+        <http://es.dbpedia.org/resource/Berthold_Englisch>,
+        <http://fr.dbpedia.org/resource/Berthold_Englisch>,
+        <http://pt.dbpedia.org/resource/Berthold_Englisch>,
+        <http://rdf.freebase.com/ns/m.0bddth>,
+        <http://wikidata.dbpedia.org/resource/Q495444>,
+        <http://www.wikidata.org/entity/Q495444>,
+        <http://yago-knowledge.org/resource/Berthold_Englisch> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Alterman> a foaf:Person ;
+    jl:hasLabel "Boris Alterman@de",
+        "Boris Alterman@en",
+        "Boris Alterman@fr",
+        "Boris Alterman@nl",
+        "Borys Alterman@pl",
+        "Альтерман, Борис@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Boris_Alterman>,
+        <http://de.dbpedia.org/resource/Boris_Alterman>,
+        <http://fr.dbpedia.org/resource/Boris_Alterman>,
+        <http://nl.dbpedia.org/resource/Boris_Alterman>,
+        <http://pl.dbpedia.org/resource/Borys_Alterman>,
+        <http://rdf.freebase.com/ns/m.03f406>,
+        <http://wikidata.dbpedia.org/resource/Q893618>,
+        <http://www.wikidata.org/entity/Q893618>,
+        <http://yago-knowledge.org/resource/Boris_Alterman> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Blumin> a foaf:Person ;
+    jl:hasLabel "Boris Blumin@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Boris_Blumin>,
+        <http://rdf.freebase.com/ns/m.02vnv_n>,
+        <http://wikidata.dbpedia.org/resource/Q4945213>,
+        <http://www.wikidata.org/entity/Q4945213>,
+        <http://yago-knowledge.org/resource/Boris_Blumin> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Gelfand> a foaf:Person ;
+    jl:hasLabel "Boris Gelfand@de",
+        "Boris Gelfand@en",
+        "Boris Gelfand@it",
+        "Boris Gelfand@nl",
+        "Boris Gelfand@pl",
+        "Boris Gelfand@pt",
+        "Boris Guelfand@fr",
+        "Borís Gélfand@es",
+        "Гельфанд, Борис Абрамович@ru",
+        "鲍里斯·格尔凡德@zh" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Boris_Gelfand>,
+        <http://data.europa.eu/euodp/jrc-names/Boris_Gelfand>,
+        <http://dbpedia.org/resource/Boris_Gelfand>,
+        <http://de.dbpedia.org/resource/Boris_Gelfand>,
+        <http://es.dbpedia.org/resource/Borís_Gélfand>,
+        <http://fr.dbpedia.org/resource/Boris_Guelfand>,
+        <http://id.dbpedia.org/resource/Boris_Gelfand>,
+        <http://it.dbpedia.org/resource/Boris_Gelfand>,
+        <http://ko.dbpedia.org/resource/보리스_겔판드>,
+        <http://nl.dbpedia.org/resource/Boris_Gelfand>,
+        <http://pl.dbpedia.org/resource/Boris_Gelfand>,
+        <http://pt.dbpedia.org/resource/Boris_Gelfand>,
+        <http://rdf.freebase.com/ns/m.06ltpl>,
+        <http://wikidata.dbpedia.org/resource/Q486778>,
+        <http://www.wikidata.org/entity/Q486778>,
+        <http://yago-knowledge.org/resource/Boris_Gelfand> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Gulko> a foaf:Person ;
+    jl:hasLabel "Boris Francevič Gul'ko@it",
+        "Boris Franzewitsch Gulko@de",
+        "Boris Gulko@en",
+        "Boris Gulko@fr",
+        "Boris Gulko@nl",
+        "Boris Gulko@pt",
+        "Borys Gulko@pl",
+        "Гулько, Борис Францевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Boris_Gulko>,
+        <http://de.dbpedia.org/resource/Boris_Franzewitsch_Gulko>,
+        <http://fr.dbpedia.org/resource/Boris_Gulko>,
+        <http://it.dbpedia.org/resource/Boris_Francevič_Gul'ko>,
+        <http://nl.dbpedia.org/resource/Boris_Gulko>,
+        <http://pl.dbpedia.org/resource/Borys_Gulko>,
+        <http://pt.dbpedia.org/resource/Boris_Gulko>,
+        <http://rdf.freebase.com/ns/m.04qpp_>,
+        <http://wikidata.dbpedia.org/resource/Q893658>,
+        <http://www.wikidata.org/entity/Q893658>,
+        <http://yago-knowledge.org/resource/Boris_Gulko> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Kogan> a foaf:Person ;
+    jl:hasLabel "Boris Kogan@de",
+        "Boris Kogan@en",
+        "Коган, Борис Маркович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Boris_Kogan>,
+        <http://de.dbpedia.org/resource/Boris_Kogan>,
+        <http://rdf.freebase.com/ns/m.026krkr>,
+        <http://wikidata.dbpedia.org/resource/Q4225977>,
+        <http://www.wikidata.org/entity/Q4225977>,
+        <http://yago-knowledge.org/resource/Boris_Kogan> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Verlinsky> a foaf:Person ;
+    jl:hasLabel "Boris Markowitsch Werlinski@de",
+        "Boris Verlinski@fr",
+        "Boris Verlinskij@it",
+        "Boris Verlinsky@en",
+        "Borys Wierliński@pl",
+        "Borís Verlinski@es",
+        "Верлинский, Борис Маркович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Boris_Verlinsky>,
+        <http://de.dbpedia.org/resource/Boris_Markowitsch_Werlinski>,
+        <http://es.dbpedia.org/resource/Borís_Verlinski>,
+        <http://fr.dbpedia.org/resource/Boris_Verlinski>,
+        <http://it.dbpedia.org/resource/Boris_Verlinskij>,
+        <http://pl.dbpedia.org/resource/Borys_Wierliński>,
+        <http://rdf.freebase.com/ns/m.0h10d8>,
+        <http://wikidata.dbpedia.org/resource/Q498426>,
+        <http://www.wikidata.org/entity/Q498426>,
+        <http://yago-knowledge.org/resource/Boris_Verlinsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Boruch_Israel_Dyner> a foaf:Person ;
+    jl:hasLabel "Boruch Israel Dyner@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Boruch_Israel_Dyner>,
+        <http://rdf.freebase.com/ns/m.0408dq8>,
+        <http://wikidata.dbpedia.org/resource/Q4946777>,
+        <http://www.wikidata.org/entity/Q4946777>,
+        <http://yago-knowledge.org/resource/Boruch_Israel_Dyner> .
+
+<http://data.judaicalink.org/data/dbpedia/Bruno_Moritz> a foaf:Person ;
+    jl:hasLabel "Bruno Moritz@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Bruno_Moritz>,
+        <http://rdf.freebase.com/ns/m.04gqklf>,
+        <http://wikidata.dbpedia.org/resource/Q4979328>,
+        <http://www.wikidata.org/entity/Q4979328>,
+        <http://yago-knowledge.org/resource/Bruno_Moritz> .
+
+<http://data.judaicalink.org/data/dbpedia/Chaim_Janowski> a foaf:Person ;
+    jl:hasLabel "Chaim Janowski@en",
+        "Chaim Janowski@pl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Chaim_Janowski>,
+        <http://pl.dbpedia.org/resource/Chaim_Janowski>,
+        <http://rdf.freebase.com/ns/m.05mxrb3>,
+        <http://wikidata.dbpedia.org/resource/Q5067813>,
+        <http://www.wikidata.org/entity/Q5067813>,
+        <http://yago-knowledge.org/resource/Chaim_Janowski> .
+
+<http://data.judaicalink.org/data/dbpedia/Charles_Jaffe> a foaf:Person ;
+    jl:hasLabel "Charles Jaffe@en",
+        "Charles Jaffe@it",
+        "Charles Jaffé@es",
+        "Яффе, Чарльз@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Charles_Jaffe>,
+        <http://es.dbpedia.org/resource/Charles_Jaffé>,
+        <http://it.dbpedia.org/resource/Charles_Jaffe>,
+        <http://rdf.freebase.com/ns/m.027dmmv>,
+        <http://viaf.org/viaf/286397391>,
+        <http://wikidata.dbpedia.org/resource/Q2918888>,
+        <http://www.wikidata.org/entity/Q2918888>,
+        <http://yago-knowledge.org/resource/Charles_Jaffe> .
+
+<http://data.judaicalink.org/data/dbpedia/Daniel_Fridman> a foaf:Person ;
+    jl:hasLabel "Daniel Fridman@de",
+        "Daniel Fridman@en",
+        "Daniel Fridman@fr",
+        "Daniel Fridman@it",
+        "Daniel Fridman@pl",
+        "Daniël Fridman@nl",
+        "Фридман, Даниэль (шахматист)@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Fridman>,
+        <http://de.dbpedia.org/resource/Daniel_Fridman>,
+        <http://fr.dbpedia.org/resource/Daniel_Fridman>,
+        <http://it.dbpedia.org/resource/Daniel_Fridman>,
+        <http://nl.dbpedia.org/resource/Daniël_Fridman>,
+        <http://pl.dbpedia.org/resource/Daniel_Fridman>,
+        <http://rdf.freebase.com/ns/m.04zy10b>,
+        <http://wikidata.dbpedia.org/resource/Q72463>,
+        <http://www.wikidata.org/entity/Q72463>,
+        <http://yago-knowledge.org/resource/Daniel_Fridman> .
+
+<http://data.judaicalink.org/data/dbpedia/Daniel_Harrwitz> a foaf:Person ;
+    jl:hasLabel "Daniel Harrwitz@de",
+        "Daniel Harrwitz@en",
+        "Daniel Harrwitz@es",
+        "Daniel Harrwitz@fr",
+        "Daniel Harrwitz@it",
+        "Daniel Harrwitz@pl",
+        "Daniel Harrwitz@pt",
+        "Гарвиц, Даниель@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Daniel_Harrwitz>,
+        <http://dbpedia.org/resource/Daniel_Harrwitz>,
+        <http://de.dbpedia.org/resource/Daniel_Harrwitz>,
+        <http://es.dbpedia.org/resource/Daniel_Harrwitz>,
+        <http://fr.dbpedia.org/resource/Daniel_Harrwitz>,
+        <http://it.dbpedia.org/resource/Daniel_Harrwitz>,
+        <http://pl.dbpedia.org/resource/Daniel_Harrwitz>,
+        <http://pt.dbpedia.org/resource/Daniel_Harrwitz>,
+        <http://rdf.freebase.com/ns/m.02hrn0>,
+        <http://viaf.org/viaf/286688686>,
+        <http://wikidata.dbpedia.org/resource/Q62035>,
+        <http://www.wikidata.org/entity/Q62035>,
+        <http://yago-knowledge.org/resource/Daniel_Harrwitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Daniel_Naroditsky> a foaf:Person ;
+    jl:hasLabel "Daniel Naroditsky@en",
+        "Daniel Naroditsky@fr",
+        "Daniel Naroditsky@it",
+        "Daniel Naroditsky@pl",
+        "Народицкий, Дэниэл@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Naroditsky>,
+        <http://fr.dbpedia.org/resource/Daniel_Naroditsky>,
+        <http://it.dbpedia.org/resource/Daniel_Naroditsky>,
+        <http://pl.dbpedia.org/resource/Daniel_Naroditsky>,
+        <http://rdf.freebase.com/ns/m.03wfhx6>,
+        <http://wikidata.dbpedia.org/resource/Q5218240>,
+        <http://www.wikidata.org/entity/Q5218240>,
+        <http://yago-knowledge.org/resource/Daniel_Naroditsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Daniel_Yanofsky> a foaf:Person ;
+    jl:hasLabel "Daniel Abraham Yanofsky@de",
+        "Daniel Yanofsky@en",
+        "Daniel Yanofsky@es",
+        "Daniel Yanofsky@fr",
+        "Daniel Yanofsky@it",
+        "Daniel Yanofsky@pl",
+        "Яновский, Даниел Абрахам@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Yanofsky>,
+        <http://de.dbpedia.org/resource/Daniel_Abraham_Yanofsky>,
+        <http://es.dbpedia.org/resource/Daniel_Yanofsky>,
+        <http://fr.dbpedia.org/resource/Daniel_Yanofsky>,
+        <http://it.dbpedia.org/resource/Daniel_Yanofsky>,
+        <http://pl.dbpedia.org/resource/Daniel_Yanofsky>,
+        <http://rdf.freebase.com/ns/m.02hrq9>,
+        <http://wikidata.dbpedia.org/resource/Q665695>,
+        <http://www.wikidata.org/entity/Q665695>,
+        <http://yago-knowledge.org/resource/Daniel_Yanofsky> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Bronstein> a foaf:Person ;
+    jl:hasLabel "David Bronstein@en",
+        "David Bronstein@es",
+        "David Bronstein@fr",
+        "David Bronstein@nl",
+        "David Bronstein@pt",
+        "David Ionovič Bronštejn@it",
+        "Dawid Bronstein@pl",
+        "Dawid Ionowitsch Bronstein@de",
+        "Бронштейн, Давид Ионович@ru",
+        "ديفيد برونستاين@ar" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/David_Bronštejn>,
+        <http://dbpedia.org/resource/David_Bronstein>,
+        <http://de.dbpedia.org/resource/Dawid_Ionowitsch_Bronstein>,
+        <http://es.dbpedia.org/resource/David_Bronstein>,
+        <http://fr.dbpedia.org/resource/David_Bronstein>,
+        <http://it.dbpedia.org/resource/David_Ionovič_Bronštejn>,
+        <http://nl.dbpedia.org/resource/David_Bronstein>,
+        <http://pl.dbpedia.org/resource/Dawid_Bronstein>,
+        <http://pt.dbpedia.org/resource/David_Bronstein>,
+        <http://rdf.freebase.com/ns/m.01hz53>,
+        <http://viaf.org/viaf/56734195>,
+        <http://wikidata.dbpedia.org/resource/Q312908>,
+        <http://www.wikidata.org/entity/Q312908>,
+        <http://yago-knowledge.org/resource/David_Bronstein> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Friedgood> a foaf:Person ;
+    jl:hasLabel "David Friedgood@en",
+        "David Friedgood@pl",
+        "Фридгуд, Дэвид@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Friedgood>,
+        <http://pl.dbpedia.org/resource/David_Friedgood>,
+        <http://rdf.freebase.com/ns/m.04mxtzs>,
+        <http://wikidata.dbpedia.org/resource/Q4492710>,
+        <http://www.wikidata.org/entity/Q4492710>,
+        <http://yago-knowledge.org/resource/David_Friedgood> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Podhorzer> a foaf:Person ;
+    jl:hasLabel "David Podhorzer@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Podhorzer>,
+        <http://rdf.freebase.com/ns/m.03c8682>,
+        <http://wikidata.dbpedia.org/resource/Q5238621>,
+        <http://www.wikidata.org/entity/Q5238621>,
+        <http://yago-knowledge.org/resource/David_Podhorzer> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Polland> a foaf:Person ;
+    jl:hasLabel "David Polland@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Polland>,
+        <http://rdf.freebase.com/ns/m.0412x99>,
+        <http://wikidata.dbpedia.org/resource/Q5238632>,
+        <http://www.wikidata.org/entity/Q5238632>,
+        <http://yago-knowledge.org/resource/David_Polland> .
+
+<http://data.judaicalink.org/data/dbpedia/Dawid_Janowski> a foaf:Person ;
+    jl:hasLabel "David Janowski@fr",
+        "David Janowski@it",
+        "David Janowski@nl",
+        "David Janowsky@es",
+        "Dawid Janowski@de",
+        "Dawid Janowski@en",
+        "Dawid Janowski@pl",
+        "Dawid Janowski@pt",
+        "Яновский, Давид Маркелович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/David_Janowski>,
+        <http://dbpedia.org/resource/Dawid_Janowski>,
+        <http://de.dbpedia.org/resource/Dawid_Janowski>,
+        <http://es.dbpedia.org/resource/David_Janowsky>,
+        <http://fr.dbpedia.org/resource/David_Janowski>,
+        <http://it.dbpedia.org/resource/David_Janowski>,
+        <http://nl.dbpedia.org/resource/David_Janowski>,
+        <http://pl.dbpedia.org/resource/Dawid_Janowski>,
+        <http://pt.dbpedia.org/resource/Dawid_Janowski>,
+        <http://rdf.freebase.com/ns/m.02hjjm>,
+        <http://wikidata.dbpedia.org/resource/Q378839>,
+        <http://www.wikidata.org/entity/Q378839>,
+        <http://yago-knowledge.org/resource/Dawid_Janowski> .
+
+<http://data.judaicalink.org/data/dbpedia/Dmitry_Gurevich> a foaf:Person ;
+    jl:hasLabel "Dmitrij Gurewicz@pl",
+        "Dmitry Gurevich@en",
+        "Гуревич, Дмитрий Борисович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Dmitry_Gurevich>,
+        <http://pl.dbpedia.org/resource/Dmitrij_Gurewicz>,
+        <http://rdf.freebase.com/ns/m.02rhkxs>,
+        <http://wikidata.dbpedia.org/resource/Q2074839>,
+        <http://www.wikidata.org/entity/Q2074839>,
+        <http://yago-knowledge.org/resource/Dmitry_Gurevich> .
+
+<http://data.judaicalink.org/data/dbpedia/Eduard_Gufeld> a foaf:Person ;
+    jl:hasLabel "Edouard Goufeld@fr",
+        "Eduard Gufeld@de",
+        "Eduard Gufeld@en",
+        "Eduard Gufeld@es",
+        "Eduard Gufeld@nl",
+        "Eduard Gufeld@pl",
+        "Ėduard Gufeld@it",
+        "Гуфельд, Эдуард Ефимович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Eduard_Gufeld>,
+        <http://de.dbpedia.org/resource/Eduard_Gufeld>,
+        <http://es.dbpedia.org/resource/Eduard_Gufeld>,
+        <http://fr.dbpedia.org/resource/Edouard_Goufeld>,
+        <http://it.dbpedia.org/resource/Ėduard_Gufeld>,
+        <http://nl.dbpedia.org/resource/Eduard_Gufeld>,
+        <http://pl.dbpedia.org/resource/Eduard_Gufeld>,
+        <http://rdf.freebase.com/ns/m.07pcb2>,
+        <http://viaf.org/viaf/40183778>,
+        <http://wikidata.dbpedia.org/resource/Q1288525>,
+        <http://www.wikidata.org/entity/Q1288525>,
+        <http://yago-knowledge.org/resource/Eduard_Gufeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Edward_Lasker> a foaf:Person ;
+    jl:hasLabel "Edward Lasker@de",
+        "Edward Lasker@en",
+        "Edward Lasker@es",
+        "Edward Lasker@fr",
+        "Edward Lasker@it",
+        "Edward Lasker@pl",
+        "Edward Lasker@pt",
+        "Ласкер, Эдуард@ru",
+        "エドワード・ラスカー@ja" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Edward_Lasker>,
+        <http://de.dbpedia.org/resource/Edward_Lasker>,
+        <http://es.dbpedia.org/resource/Edward_Lasker>,
+        <http://fr.dbpedia.org/resource/Edward_Lasker>,
+        <http://it.dbpedia.org/resource/Edward_Lasker>,
+        <http://ja.dbpedia.org/resource/エドワード・ラスカー>,
+        <http://pl.dbpedia.org/resource/Edward_Lasker>,
+        <http://pt.dbpedia.org/resource/Edward_Lasker>,
+        <http://rdf.freebase.com/ns/m.02kyt_>,
+        <http://wikidata.dbpedia.org/resource/Q60752>,
+        <http://www.wikidata.org/entity/Q60752>,
+        <http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Lasker_Edward_1885-1981>,
+        <http://yago-knowledge.org/resource/Edward_Lasker> .
+
+<http://data.judaicalink.org/data/dbpedia/Edward_Löwe> a foaf:Person ;
+    jl:hasLabel "Edward Löwe@de",
+        "Edward Löwe@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Eduard_Löwe>,
+        <http://dbpedia.org/resource/Edward_Löwe>,
+        <http://de.dbpedia.org/resource/Edward_Löwe>,
+        <http://rdf.freebase.com/ns/m.03ylw97>,
+        <http://viaf.org/viaf/283809982>,
+        <http://wikidata.dbpedia.org/resource/Q629211>,
+        <http://www.wikidata.org/entity/Q629211>,
+        <http://yago-knowledge.org/resource/Edward_Löwe> .
+
+<http://data.judaicalink.org/data/dbpedia/Efim_Geller> a foaf:Person ;
+    jl:hasLabel "Efim Geller@de",
+        "Efim Geller@en",
+        "Efim Geller@fr",
+        "Efim Geller@pt",
+        "Efim Petrovič Geller@it",
+        "Jefim Geller@nl",
+        "Jefim Geller@pl",
+        "Yefim Géler@es",
+        "Геллер, Ефим Петрович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jefim_Geller>,
+        <http://dbpedia.org/resource/Efim_Geller>,
+        <http://de.dbpedia.org/resource/Efim_Geller>,
+        <http://es.dbpedia.org/resource/Yefim_Géler>,
+        <http://fr.dbpedia.org/resource/Efim_Geller>,
+        <http://it.dbpedia.org/resource/Efim_Petrovič_Geller>,
+        <http://nl.dbpedia.org/resource/Jefim_Geller>,
+        <http://pl.dbpedia.org/resource/Jefim_Geller>,
+        <http://pt.dbpedia.org/resource/Efim_Geller>,
+        <http://rdf.freebase.com/ns/m.04x2hz>,
+        <http://viaf.org/viaf/29654540>,
+        <http://wikidata.dbpedia.org/resource/Q352495>,
+        <http://www.wikidata.org/entity/Q352495>,
+        <http://yago-knowledge.org/resource/Efim_Geller> .
+
+<http://data.judaicalink.org/data/dbpedia/Elias_Stein_(chess_player)> a foaf:Person ;
+    jl:hasLabel "Elias Stein (Schachspieler)@de",
+        "Elias Stein (chess player)@en",
+        "Elias Stein (joueur d'échecs)@fr",
+        "Elias Stein (scacchista)@it",
+        "Elias Stein@nl",
+        "Стейн, Элиас@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Elias_Stein_(chess_player)>,
+        <http://de.dbpedia.org/resource/Elias_Stein_(Schachspieler)>,
+        <http://fr.dbpedia.org/resource/Elias_Stein_(joueur_d'échecs)>,
+        <http://it.dbpedia.org/resource/Elias_Stein_(scacchista)>,
+        <http://nl.dbpedia.org/resource/Elias_Stein>,
+        <http://rdf.freebase.com/ns/m.04069sz>,
+        <http://wikidata.dbpedia.org/resource/Q2603755>,
+        <http://www.wikidata.org/entity/Q2603755>,
+        <http://yago-knowledge.org/resource/Elias_Stein_(chess_player)> .
+
+<http://data.judaicalink.org/data/dbpedia/Emanuel_Lasker> a foaf:Person ;
+    jl:hasLabel "Emanuel Lasker@de",
+        "Emanuel Lasker@en",
+        "Emanuel Lasker@es",
+        "Emanuel Lasker@fr",
+        "Emanuel Lasker@it",
+        "Emanuel Lasker@nl",
+        "Emanuel Lasker@pl",
+        "Emanuel Lasker@pt",
+        "Ласкер, Эмануэль@ru",
+        "إيمانويل لاسكر@ar",
+        "エマーヌエール・ラスカー@ja",
+        "伊曼紐·拉斯克@zh" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Emanuel_Lasker>,
+        <http://dbpedia.org/resource/Emanuel_Lasker>,
+        <http://de.dbpedia.org/resource/Emanuel_Lasker>,
+        <http://el.dbpedia.org/resource/Εμάνουελ_Λάσκερ>,
+        <http://es.dbpedia.org/resource/Emanuel_Lasker>,
+        <http://eu.dbpedia.org/resource/Emanuel_Lasker>,
+        <http://fr.dbpedia.org/resource/Emanuel_Lasker>,
+        <http://it.dbpedia.org/resource/Emanuel_Lasker>,
+        <http://ja.dbpedia.org/resource/エマーヌエール・ラスカー>,
+        <http://ko.dbpedia.org/resource/에마누엘_라스커>,
+        <http://nl.dbpedia.org/resource/Emanuel_Lasker>,
+        <http://pl.dbpedia.org/resource/Emanuel_Lasker>,
+        <http://pt.dbpedia.org/resource/Emanuel_Lasker>,
+        <http://rdf.freebase.com/ns/m.01kfm7>,
+        <http://viaf.org/viaf/46742602>,
+        <http://wikidata.dbpedia.org/resource/Q57095>,
+        <http://www.wikidata.org/entity/Q57095>,
+        <http://yago-knowledge.org/resource/Emanuel_Lasker> .
+
+<http://data.judaicalink.org/data/dbpedia/Emil_Zinner> a foaf:Person ;
+    jl:hasLabel "Emil Zinner@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Emil_Zinner>,
+        <http://rdf.freebase.com/ns/m.03qhmwp>,
+        <http://wikidata.dbpedia.org/resource/Q5371503>,
+        <http://www.wikidata.org/entity/Q5371503>,
+        <http://yago-knowledge.org/resource/Emil_Zinner> .
+
+<http://data.judaicalink.org/data/dbpedia/Emmanuel_Sapira> a foaf:Person ;
+    jl:hasLabel "Emmanuel Sapira@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Emmanuel_Sapira>,
+        <http://rdf.freebase.com/ns/m.0408wfj>,
+        <http://wikidata.dbpedia.org/resource/Q5373342>,
+        <http://www.wikidata.org/entity/Q5373342>,
+        <http://yago-knowledge.org/resource/Emmanuel_Sapira> .
+
+<http://data.judaicalink.org/data/dbpedia/Endre_Steiner> a foaf:Person ;
+    jl:hasLabel "Endre Steiner@de",
+        "Endre Steiner@en",
+        "Endre Steiner@es",
+        "Endre Steiner@fr",
+        "Endre Steiner@pl",
+        "Endre Steiner@pt",
+        "Штейнер, Эндре@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Endre_Steiner>,
+        <http://de.dbpedia.org/resource/Endre_Steiner>,
+        <http://es.dbpedia.org/resource/Endre_Steiner>,
+        <http://fr.dbpedia.org/resource/Endre_Steiner>,
+        <http://pl.dbpedia.org/resource/Endre_Steiner>,
+        <http://pt.dbpedia.org/resource/Endre_Steiner>,
+        <http://rdf.freebase.com/ns/m.0gcdtt>,
+        <http://wikidata.dbpedia.org/resource/Q1340915>,
+        <http://www.wikidata.org/entity/Q1340915>,
+        <http://yago-knowledge.org/resource/Endre_Steiner> .
+
+<http://data.judaicalink.org/data/dbpedia/Erich_Cohn> a foaf:Person ;
+    jl:hasLabel "Erich Cohn@de",
+        "Erich Cohn@en",
+        "Erich Cohn@it",
+        "Кон, Эрих@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Erich_Cohn>,
+        <http://de.dbpedia.org/resource/Erich_Cohn>,
+        <http://it.dbpedia.org/resource/Erich_Cohn>,
+        <http://rdf.freebase.com/ns/m.0284ttz>,
+        <http://viaf.org/viaf/284351219>,
+        <http://wikidata.dbpedia.org/resource/Q72161>,
+        <http://www.wikidata.org/entity/Q72161>,
+        <http://yago-knowledge.org/resource/Erich_Cohn> .
+
+<http://data.judaicalink.org/data/dbpedia/Ernest_Klein_(chess_player)> a foaf:Person ;
+    jl:hasLabel "Ernest Klein (chess player)@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Ernest_Klein_(chess_player)>,
+        <http://rdf.freebase.com/ns/m.05zgv1>,
+        <http://wikidata.dbpedia.org/resource/Q12404288>,
+        <http://www.wikidata.org/entity/Q12404288>,
+        <http://yago-knowledge.org/resource/Ernest_Klein_(chess_player)> .
+
+<http://data.judaicalink.org/data/dbpedia/Ernst_Falkbeer> a foaf:Person ;
+    jl:hasLabel "Ernst Falkbeer@de",
+        "Ernst Falkbeer@en",
+        "Ernst Falkbeer@fr",
+        "Ernst Falkbeer@it",
+        "Ernst Falkbeer@nl",
+        "Ernst Falkbeer@pl",
+        "Ernst Falkbeer@pt",
+        "Фалькбеер, Эрнст Карл@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ernst_Falkbeer>,
+        <http://dbpedia.org/resource/Ernst_Falkbeer>,
+        <http://de.dbpedia.org/resource/Ernst_Falkbeer>,
+        <http://fr.dbpedia.org/resource/Ernst_Falkbeer>,
+        <http://it.dbpedia.org/resource/Ernst_Falkbeer>,
+        <http://nl.dbpedia.org/resource/Ernst_Falkbeer>,
+        <http://pl.dbpedia.org/resource/Ernst_Falkbeer>,
+        <http://pt.dbpedia.org/resource/Ernst_Falkbeer>,
+        <http://rdf.freebase.com/ns/m.0dng03>,
+        <http://wikidata.dbpedia.org/resource/Q442552>,
+        <http://www.wikidata.org/entity/Q442552>,
+        <http://yago-knowledge.org/resource/Ernst_Falkbeer> .
+
+<http://data.judaicalink.org/data/dbpedia/Eugene_Delmar> a foaf:Person ;
+    jl:hasLabel "Eugene Delmar@de",
+        "Eugene Delmar@en",
+        "Eugene Delmar@es",
+        "Eugene Delmar@it",
+        "Делмар, Юджин@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Eugene_Delmar>,
+        <http://de.dbpedia.org/resource/Eugene_Delmar>,
+        <http://es.dbpedia.org/resource/Eugene_Delmar>,
+        <http://it.dbpedia.org/resource/Eugene_Delmar>,
+        <http://rdf.freebase.com/ns/m.0gys00>,
+        <http://wikidata.dbpedia.org/resource/Q1373091>,
+        <http://www.wikidata.org/entity/Q1373091>,
+        <http://yago-knowledge.org/resource/Eugene_Delmar> .
+
+<http://data.judaicalink.org/data/dbpedia/Evgeniy_Najer> a foaf:Person ;
+    jl:hasLabel "Evgenij Najer@it",
+        "Evgeniy Najer@en",
+        "Ievgueni Naïer@fr",
+        "Jevgeni Najer@nl",
+        "Jewgeni Jurjewitsch Najer@de",
+        "Jewgienij Najer@pl",
+        "Наер, Евгений Юрьевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Evgeniy_Najer>,
+        <http://de.dbpedia.org/resource/Jewgeni_Jurjewitsch_Najer>,
+        <http://fr.dbpedia.org/resource/Ievgueni_Naïer>,
+        <http://it.dbpedia.org/resource/Evgenij_Najer>,
+        <http://nl.dbpedia.org/resource/Jevgeni_Najer>,
+        <http://pl.dbpedia.org/resource/Jewgienij_Najer>,
+        <http://rdf.freebase.com/ns/m.04d_lfc>,
+        <http://wikidata.dbpedia.org/resource/Q490636>,
+        <http://www.wikidata.org/entity/Q490636>,
+        <http://yago-knowledge.org/resource/Evgeniy_Najer> .
+
+<http://data.judaicalink.org/data/dbpedia/Francisco_Benkö> a foaf:Person ;
+    jl:hasLabel "Francisco Benkö@de",
+        "Francisco Benkö@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Francisco_Benkö>,
+        <http://de.dbpedia.org/resource/Francisco_Benkö>,
+        <http://rdf.freebase.com/ns/m.0462sqn>,
+        <http://wikidata.dbpedia.org/resource/Q107792>,
+        <http://www.wikidata.org/entity/Q107792>,
+        <http://yago-knowledge.org/resource/Francisco_Benkö> .
+
+<http://data.judaicalink.org/data/dbpedia/Franz_G._Jacob> a foaf:Person ;
+    jl:hasLabel "Franz G. Jacob@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Franz_G._Jacob>,
+        <http://rdf.freebase.com/ns/m.04y8bhd>,
+        <http://wikidata.dbpedia.org/resource/Q5492763>,
+        <http://www.wikidata.org/entity/Q5492763>,
+        <http://yago-knowledge.org/resource/Franz_G._Jacob> .
+
+<http://data.judaicalink.org/data/dbpedia/Fred_Reinfeld> a foaf:Person ;
+    jl:hasLabel "Fred Reinfeld@en",
+        "Fred Reinfeld@fr",
+        "Fred Reinfeld@it" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Fred_Reinfeld>,
+        <http://fr.dbpedia.org/resource/Fred_Reinfeld>,
+        <http://it.dbpedia.org/resource/Fred_Reinfeld>,
+        <http://rdf.freebase.com/ns/m.05xvtn>,
+        <http://wikidata.dbpedia.org/resource/Q5496132>,
+        <http://www.wikidata.org/entity/Q5496132>,
+        <http://yago-knowledge.org/resource/Fred_Reinfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Gabriel_Schoenfeld> a foaf:Person ;
+    jl:hasLabel "Gabriel Schoenfeld@de",
+        "Gabriel Schoenfeld@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Gabriel_Schoenfeld>,
+        <http://de.dbpedia.org/resource/Gabriel_Schoenfeld>,
+        <http://rdf.freebase.com/ns/m.02rv0kx>,
+        <http://wikidata.dbpedia.org/resource/Q1489648>,
+        <http://www.wikidata.org/entity/Q1489648>,
+        <http://yago-knowledge.org/resource/Gabriel_Schoenfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/George_Koltanowski> a foaf:Person ;
+    jl:hasLabel "George Koltanowski@de",
+        "George Koltanowski@en",
+        "George Koltanowski@it",
+        "George Koltanowski@nl",
+        "George Koltanowski@pl",
+        "George Koltanowski@pt",
+        "George Koltanowsky@es",
+        "Georges Koltanowski@fr",
+        "Колтановский, Джордж@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/George_Koltanowski>,
+        <http://de.dbpedia.org/resource/George_Koltanowski>,
+        <http://es.dbpedia.org/resource/George_Koltanowsky>,
+        <http://fr.dbpedia.org/resource/Georges_Koltanowski>,
+        <http://it.dbpedia.org/resource/George_Koltanowski>,
+        <http://nl.dbpedia.org/resource/George_Koltanowski>,
+        <http://pl.dbpedia.org/resource/George_Koltanowski>,
+        <http://pt.dbpedia.org/resource/George_Koltanowski>,
+        <http://rdf.freebase.com/ns/m.07wsj4>,
+        <http://wikidata.dbpedia.org/resource/Q553179>,
+        <http://www.wikidata.org/entity/Q553179>,
+        <http://yago-knowledge.org/resource/George_Koltanowski> .
+
+<http://data.judaicalink.org/data/dbpedia/Gerald_Abrahams> a foaf:Person ;
+    jl:hasLabel "Gerald Abrahams@de",
+        "Gerald Abrahams@en",
+        "Gerald Abrahams@fr",
+        "Gerald Abrahams@it",
+        "Gerald Abrahams@pt" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Gerald_Abrahams>,
+        <http://de.dbpedia.org/resource/Gerald_Abrahams>,
+        <http://fr.dbpedia.org/resource/Gerald_Abrahams>,
+        <http://it.dbpedia.org/resource/Gerald_Abrahams>,
+        <http://pt.dbpedia.org/resource/Gerald_Abrahams>,
+        <http://rdf.freebase.com/ns/m.05zhkz>,
+        <http://wikidata.dbpedia.org/resource/Q1393295>,
+        <http://www.wikidata.org/entity/Q1393295>,
+        <http://yago-knowledge.org/resource/Gerald_Abrahams> .
+
+<http://data.judaicalink.org/data/dbpedia/Gersz_Rotlewi> a foaf:Person ;
+    jl:hasLabel "Gersz Rotlewi@en",
+        "Gersz Rotlewi@fr",
+        "Gersz Rotlewi@pl",
+        "Ротлеви, Герш@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Gersz_Rotlewi>,
+        <http://fr.dbpedia.org/resource/Gersz_Rotlewi>,
+        <http://pl.dbpedia.org/resource/Gersz_Rotlewi>,
+        <http://rdf.freebase.com/ns/m.0h17x8>,
+        <http://wikidata.dbpedia.org/resource/Q2470049>,
+        <http://www.wikidata.org/entity/Q2470049>,
+        <http://yago-knowledge.org/resource/Gersz_Rotlewi> .
+
+<http://data.judaicalink.org/data/dbpedia/Gersz_Salwe> a foaf:Person ;
+    jl:hasLabel "Georg Salwe@it",
+        "Gersz Salwe@en",
+        "Gersz Salwe@es",
+        "Henryk Jerzy Salwe@fr",
+        "Henryk Salwe@pl",
+        "Hersz Salwe@de",
+        "Сальве, Георг Хенрик@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Gersz_Salwe>,
+        <http://de.dbpedia.org/resource/Hersz_Salwe>,
+        <http://es.dbpedia.org/resource/Gersz_Salwe>,
+        <http://fr.dbpedia.org/resource/Henryk_Jerzy_Salwe>,
+        <http://it.dbpedia.org/resource/Georg_Salwe>,
+        <http://pl.dbpedia.org/resource/Henryk_Salwe>,
+        <http://rdf.freebase.com/ns/m.0fy46r>,
+        <http://viaf.org/viaf/290657434>,
+        <http://wikidata.dbpedia.org/resource/Q1398192>,
+        <http://www.wikidata.org/entity/Q1398192>,
+        <http://yago-knowledge.org/resource/Gersz_Salwe> .
+
+<http://data.judaicalink.org/data/dbpedia/Grigory_Helbach> a foaf:Person ;
+    jl:hasLabel "Grigori Alexandrowitsch Helbach@de",
+        "Grigory Helbach@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Grigory_Helbach>,
+        <http://de.dbpedia.org/resource/Grigori_Alexandrowitsch_Helbach>,
+        <http://rdf.freebase.com/ns/m.05msff9>,
+        <http://wikidata.dbpedia.org/resource/Q799547>,
+        <http://www.wikidata.org/entity/Q799547>,
+        <http://yago-knowledge.org/resource/Grigory_Helbach> .
+
+<http://data.judaicalink.org/data/dbpedia/Grigory_Levenfish> a foaf:Person ;
+    jl:hasLabel "Grigori Jakowlewitsch Löwenfisch@de",
+        "Grigori Levenfish@es",
+        "Grigori Löwenfisch@nl",
+        "Grigorij Jakovlevič Levenfiš@it",
+        "Grigorij Lewenfisz@pl",
+        "Grigory Levenfish@en",
+        "Grigory Levenfish@fr",
+        "Левенфиш, Григорий Яковлевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Grigory_Levenfish>,
+        <http://de.dbpedia.org/resource/Grigori_Jakowlewitsch_Löwenfisch>,
+        <http://es.dbpedia.org/resource/Grigori_Levenfish>,
+        <http://fr.dbpedia.org/resource/Grigory_Levenfish>,
+        <http://it.dbpedia.org/resource/Grigorij_Jakovlevič_Levenfiš>,
+        <http://nl.dbpedia.org/resource/Grigori_Löwenfisch>,
+        <http://pl.dbpedia.org/resource/Grigorij_Lewenfisz>,
+        <http://rdf.freebase.com/ns/m.0bth0l>,
+        <http://wikidata.dbpedia.org/resource/Q585366>,
+        <http://www.wikidata.org/entity/Q585366>,
+        <http://yago-knowledge.org/resource/Grigory_Levenfish> .
+
+<http://data.judaicalink.org/data/dbpedia/Gustave_Lazard> a foaf:Person ;
+    jl:hasLabel "Gustave Lazard@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Gustave_Lazard>,
+        <http://rdf.freebase.com/ns/m.04y6g_9>,
+        <http://wikidata.dbpedia.org/resource/Q5621304>,
+        <http://www.wikidata.org/entity/Q5621304>,
+        <http://yago-knowledge.org/resource/Gustave_Lazard> .
+
+<http://data.judaicalink.org/data/dbpedia/Gyula_Kluger> a foaf:Person ;
+    jl:hasLabel "Gyula Kluger@de",
+        "Gyula Kluger@en",
+        "Клюгер, Дьюла@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Gyula_Kluger>,
+        <http://de.dbpedia.org/resource/Gyula_Kluger>,
+        <http://rdf.freebase.com/ns/m.026qfgx>,
+        <http://wikidata.dbpedia.org/resource/Q1558567>,
+        <http://www.wikidata.org/entity/Q1558567>,
+        <http://yago-knowledge.org/resource/Gyula_Kluger> .
+
+<http://data.judaicalink.org/data/dbpedia/Győző_Exner> a foaf:Person ;
+    jl:hasLabel "Győző Exner@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Győző_Exner>,
+        <http://rdf.freebase.com/ns/m.05f661s>,
+        <http://wikidata.dbpedia.org/resource/Q5625691>,
+        <http://www.wikidata.org/entity/Q5625691>,
+        <http://yago-knowledge.org/resource/Győző_Exner> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_Berliner> a foaf:Person ;
+    jl:hasLabel "Hans Berliner@de",
+        "Hans Berliner@en",
+        "Hans Berliner@fr",
+        "Hans Berliner@it",
+        "Hans Berliner@nl",
+        "Hans Berliner@pt",
+        "Берлинер, Ханс@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Hans_Berliner>,
+        <http://de.dbpedia.org/resource/Hans_Berliner>,
+        <http://fr.dbpedia.org/resource/Hans_Berliner>,
+        <http://it.dbpedia.org/resource/Hans_Berliner>,
+        <http://nl.dbpedia.org/resource/Hans_Berliner>,
+        <http://pt.dbpedia.org/resource/Hans_Berliner>,
+        <http://rdf.freebase.com/ns/m.04bzpz>,
+        <http://wikidata.dbpedia.org/resource/Q1578694>,
+        <http://www.wikidata.org/entity/Q1578694>,
+        <http://yago-knowledge.org/resource/Hans_Berliner> .
+
+<http://data.judaicalink.org/data/dbpedia/Hartwig_Cassel> a foaf:Person ;
+    jl:hasLabel "Hartwig Cassel@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Hartwig_Cassel>,
+        <http://rdf.freebase.com/ns/m.02rmbn6>,
+        <http://viaf.org/viaf/286309156>,
+        <http://wikidata.dbpedia.org/resource/Q5675455>,
+        <http://www.wikidata.org/entity/Q5675455>,
+        <http://yago-knowledge.org/resource/Hartwig_Cassel> .
+
+<http://data.judaicalink.org/data/dbpedia/Herbert_Seidman> a foaf:Person ;
+    jl:hasLabel "Herbert Seidman@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Herbert_Seidman>,
+        <http://rdf.freebase.com/ns/m.07mv4t>,
+        <http://wikidata.dbpedia.org/resource/Q3884293>,
+        <http://www.wikidata.org/entity/Q3884293>,
+        <http://yago-knowledge.org/resource/Herbert_Seidman> .
+
+<http://data.judaicalink.org/data/dbpedia/Houshang_Mashian> a foaf:Person ;
+    jl:hasLabel "Houshang Mashian@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Houshang_Mashian>,
+        <http://rdf.freebase.com/ns/m.05p0hrg>,
+        <http://wikidata.dbpedia.org/resource/Q5916033>,
+        <http://www.wikidata.org/entity/Q5916033>,
+        <http://yago-knowledge.org/resource/Houshang_Mashian> .
+
+<http://data.judaicalink.org/data/dbpedia/Ignatz_Kolisch> a foaf:Person ;
+    jl:hasLabel "Ignac Kolisch@pt",
+        "Ignatz Kolisch@en",
+        "Ignatz von Kolisch@it",
+        "Ignatz von Kolisch@pl",
+        "Ignaz von Kolisch@de",
+        "Ignác Kolisch@es",
+        "Ignác Kolisch@fr",
+        "Колиш, Игнац@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ignaz_Kolisch>,
+        <http://dbpedia.org/resource/Ignatz_Kolisch>,
+        <http://de.dbpedia.org/resource/Ignaz_von_Kolisch>,
+        <http://es.dbpedia.org/resource/Ignác_Kolisch>,
+        <http://fr.dbpedia.org/resource/Ignác_Kolisch>,
+        <http://it.dbpedia.org/resource/Ignatz_von_Kolisch>,
+        <http://pl.dbpedia.org/resource/Ignatz_von_Kolisch>,
+        <http://pt.dbpedia.org/resource/Ignac_Kolisch>,
+        <http://rdf.freebase.com/ns/m.0fbhkk>,
+        <http://viaf.org/viaf/61172632>,
+        <http://wikidata.dbpedia.org/resource/Q281046>,
+        <http://www.wikidata.org/entity/Q281046>,
+        <http://yago-knowledge.org/resource/Ignatz_Kolisch> .
+
+<http://data.judaicalink.org/data/dbpedia/Ilse_Guggenberger> a foaf:Person ;
+    jl:hasLabel "Ilse Guggenberger@en",
+        "Гуггенбергер, Ильзе@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Ilse_Guggenberger>,
+        <http://rdf.freebase.com/ns/m.03cn_f2>,
+        <http://wikidata.dbpedia.org/resource/Q16105934>,
+        <http://www.wikidata.org/entity/Q16105934>,
+        <http://yago-knowledge.org/resource/Ilse_Guggenberger> .
+
+<http://data.judaicalink.org/data/dbpedia/Ilya_Gurevich> a foaf:Person ;
+    jl:hasLabel "Ilia Gourevitch@fr",
+        "Ilja Gurewicz@pl",
+        "Ilya Gurevich@de",
+        "Ilya Gurevich@en",
+        "Гуревич, Илья@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Ilya_Gurevich>,
+        <http://de.dbpedia.org/resource/Ilya_Gurevich>,
+        <http://fr.dbpedia.org/resource/Ilia_Gourevitch>,
+        <http://pl.dbpedia.org/resource/Ilja_Gurewicz>,
+        <http://rdf.freebase.com/ns/m.02qsvds>,
+        <http://wikidata.dbpedia.org/resource/Q723135>,
+        <http://www.wikidata.org/entity/Q723135>,
+        <http://yago-knowledge.org/resource/Ilya_Gurevich> .
+
+<http://data.judaicalink.org/data/dbpedia/Ilya_Kan> a foaf:Person ;
+    jl:hasLabel "Il'ja Abramovič Kan@it",
+        "Ilia Kan@fr",
+        "Ilya Kan@en",
+        "Кан, Илья Абрамович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Ilya_Kan>,
+        <http://fr.dbpedia.org/resource/Ilia_Kan>,
+        <http://it.dbpedia.org/resource/Il'ja_Abramovič_Kan>,
+        <http://rdf.freebase.com/ns/m.027dsy5>,
+        <http://viaf.org/viaf/13913073>,
+        <http://wikidata.dbpedia.org/resource/Q2348754>,
+        <http://www.wikidata.org/entity/Q2348754>,
+        <http://yago-knowledge.org/resource/Ilya_Kan> .
+
+<http://data.judaicalink.org/data/dbpedia/Ilya_Rabinovich> a foaf:Person ;
+    jl:hasLabel "Il'ja Leont'evič Rabinovič@it",
+        "Ilia Rabinovitch@fr",
+        "Iliá Rabinóvich@es",
+        "Ilja Leontjewitsch Rabinowitsch@de",
+        "Ilja Rabinowicz@pl",
+        "Ilya Rabinovich@en",
+        "Рабинович, Илья Леонтьевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Ilya_Rabinovich>,
+        <http://de.dbpedia.org/resource/Ilja_Leontjewitsch_Rabinowitsch>,
+        <http://es.dbpedia.org/resource/Iliá_Rabinóvich>,
+        <http://fr.dbpedia.org/resource/Ilia_Rabinovitch>,
+        <http://it.dbpedia.org/resource/Il'ja_Leont'evič_Rabinovič>,
+        <http://pl.dbpedia.org/resource/Ilja_Rabinowicz>,
+        <http://rdf.freebase.com/ns/m.026d4hw>,
+        <http://viaf.org/viaf/282575363>,
+        <http://wikidata.dbpedia.org/resource/Q162520>,
+        <http://www.wikidata.org/entity/Q162520>,
+        <http://yago-knowledge.org/resource/Ilya_Rabinovich> .
+
+<http://data.judaicalink.org/data/dbpedia/Ilya_Smirin> a foaf:Person ;
+    jl:hasLabel "Ilia Smirin@de",
+        "Ilia Smirin@it",
+        "Iliá Smirin@es",
+        "Ilja Smirin@pl",
+        "Ilya Smirin@en",
+        "Ilya Smirin@fr",
+        "Ilya Smirin@nl",
+        "Смирин, Илья Юльевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Ilya_Smirin>,
+        <http://de.dbpedia.org/resource/Ilia_Smirin>,
+        <http://es.dbpedia.org/resource/Iliá_Smirin>,
+        <http://fr.dbpedia.org/resource/Ilya_Smirin>,
+        <http://it.dbpedia.org/resource/Ilia_Smirin>,
+        <http://nl.dbpedia.org/resource/Ilya_Smirin>,
+        <http://pl.dbpedia.org/resource/Ilja_Smirin>,
+        <http://rdf.freebase.com/ns/m.0kspzk>,
+        <http://wikidata.dbpedia.org/resource/Q535460>,
+        <http://www.wikidata.org/entity/Q535460>,
+        <http://yago-knowledge.org/resource/Ilya_Smirin> .
+
+<http://data.judaicalink.org/data/dbpedia/Iosif_Mendelssohn> a foaf:Person ;
+    jl:hasLabel "Iosif Mendelssohn@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Iosif_Mendelssohn>,
+        <http://rdf.freebase.com/ns/m.04669c_>,
+        <http://wikidata.dbpedia.org/resource/Q16225590>,
+        <http://www.wikidata.org/entity/Q16225590>,
+        <http://yago-knowledge.org/resource/Iosif_Mendelssohn> .
+
+<http://data.judaicalink.org/data/dbpedia/Iosif_Pogrebyssky> a foaf:Person ;
+    jl:hasLabel "Iosif Pogrebyssky@en",
+        "Погребысский, Иосиф Бенедиктович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Iosif_Pogrebyssky>,
+        <http://rdf.freebase.com/ns/m.043qtdq>,
+        <http://wikidata.dbpedia.org/resource/Q4366908>,
+        <http://www.wikidata.org/entity/Q4366908>,
+        <http://yago-knowledge.org/resource/Iosif_Pogrebyssky> .
+
+<http://data.judaicalink.org/data/dbpedia/Irina_Levitina> a foaf:Person ;
+    jl:hasLabel "Irina Levitina@de",
+        "Irina Levitina@en",
+        "Irina Levitina@it",
+        "Irina Levitina@nl",
+        "Irina Levitina@pt",
+        "Irina Lewitina@pl",
+        "Левитина, Ирина Соломоновна@ru",
+        "列莉娜·列维蒂娜@zh" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Irina_Levitina>,
+        <http://de.dbpedia.org/resource/Irina_Levitina>,
+        <http://it.dbpedia.org/resource/Irina_Levitina>,
+        <http://nl.dbpedia.org/resource/Irina_Levitina>,
+        <http://pl.dbpedia.org/resource/Irina_Lewitina>,
+        <http://pt.dbpedia.org/resource/Irina_Levitina>,
+        <http://rdf.freebase.com/ns/m.02pkrjk>,
+        <http://wikidata.dbpedia.org/resource/Q265770>,
+        <http://www.wikidata.org/entity/Q265770>,
+        <http://yago-knowledge.org/resource/Irina_Levitina> .
+
+<http://data.judaicalink.org/data/dbpedia/Irving_Chernev> a foaf:Person ;
+    jl:hasLabel "Irving Chernev@de",
+        "Irving Chernev@en",
+        "Irving Chernev@es",
+        "Irving Chernev@fr",
+        "Irving Chernev@pt" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Irving_Chernev>,
+        <http://de.dbpedia.org/resource/Irving_Chernev>,
+        <http://es.dbpedia.org/resource/Irving_Chernev>,
+        <http://fr.dbpedia.org/resource/Irving_Chernev>,
+        <http://pt.dbpedia.org/resource/Irving_Chernev>,
+        <http://rdf.freebase.com/ns/m.02_6v_>,
+        <http://viaf.org/viaf/1256634>,
+        <http://wikidata.dbpedia.org/resource/Q326266>,
+        <http://www.wikidata.org/entity/Q326266>,
+        <http://yago-knowledge.org/resource/Irving_Chernev> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Boleslavsky> a foaf:Person ;
+    jl:hasLabel "Isaac Boleslavsky@en",
+        "Isaac Boleslavsky@pt",
+        "Isaak Boleslavski@es",
+        "Isaak Boleslavski@nl",
+        "Isaak Efremovič Boleslavskij@it",
+        "Isaak Efremowitsch Boleslawski@de",
+        "Issaak Boleslavski@fr",
+        "Izaak Bolesławski@pl",
+        "Болеславский, Исаак Ефремович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_Boleslavsky>,
+        <http://de.dbpedia.org/resource/Isaak_Efremowitsch_Boleslawski>,
+        <http://es.dbpedia.org/resource/Isaak_Boleslavski>,
+        <http://fr.dbpedia.org/resource/Issaak_Boleslavski>,
+        <http://it.dbpedia.org/resource/Isaak_Efremovič_Boleslavskij>,
+        <http://nl.dbpedia.org/resource/Isaak_Boleslavski>,
+        <http://pl.dbpedia.org/resource/Izaak_Bolesławski>,
+        <http://pt.dbpedia.org/resource/Isaac_Boleslavsky>,
+        <http://rdf.freebase.com/ns/m.05yy3g>,
+        <http://wikidata.dbpedia.org/resource/Q357815>,
+        <http://www.wikidata.org/entity/Q357815>,
+        <http://yago-knowledge.org/resource/Isaac_Boleslavsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Lipnitsky> a foaf:Person ;
+    jl:hasLabel "Isaac Lipnitsky@en",
+        "Isaak Lipnitski@fr",
+        "Isaak Lipnitzky@de",
+        "Липницкий, Исаак Оскарович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_Lipnitsky>,
+        <http://de.dbpedia.org/resource/Isaak_Lipnitzky>,
+        <http://fr.dbpedia.org/resource/Isaak_Lipnitski>,
+        <http://rdf.freebase.com/ns/m.02qx_hw>,
+        <http://wikidata.dbpedia.org/resource/Q4262666>,
+        <http://www.wikidata.org/entity/Q4262666>,
+        <http://yago-knowledge.org/resource/Isaac_Lipnitsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Rice> a foaf:Person ;
+    jl:hasLabel "Isaac Rice@de",
+        "Isaac Rice@en",
+        "Isaac Rice@nl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_Rice>,
+        <http://de.dbpedia.org/resource/Isaac_Rice>,
+        <http://nl.dbpedia.org/resource/Isaac_Rice>,
+        <http://rdf.freebase.com/ns/m.0bmjhn>,
+        <http://wikidata.dbpedia.org/resource/Q473770>,
+        <http://www.wikidata.org/entity/Q473770>,
+        <http://yago-knowledge.org/resource/Isaac_Rice> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaak_Mazel> a foaf:Person ;
+    jl:hasLabel "Isaak Jakowlewitsch Masel@de",
+        "Isaak Mazel@en",
+        "Мазель, Исаак Яковлевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaak_Mazel>,
+        <http://de.dbpedia.org/resource/Isaak_Jakowlewitsch_Masel>,
+        <http://rdf.freebase.com/ns/m.04q6ttk>,
+        <http://wikidata.dbpedia.org/resource/Q1673499>,
+        <http://www.wikidata.org/entity/Q1673499>,
+        <http://yago-knowledge.org/resource/Isaak_Mazel> .
+
+<http://data.judaicalink.org/data/dbpedia/Isidor_Gunsberg> a foaf:Person ;
+    jl:hasLabel "Isidor Gunsberg@de",
+        "Isidor Gunsberg@en",
+        "Isidor Gunsberg@es",
+        "Isidor Gunsberg@fr",
+        "Isidor Gunsberg@it",
+        "Isidor Gunsberg@nl",
+        "Isidor Gunsberg@pl",
+        "Isidor Gunsberg@pt",
+        "Гунсберг, Исидор@ru",
+        "إيزيدور غانسبيرغ@ar" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Isidor_Gunsberg>,
+        <http://dbpedia.org/resource/Isidor_Gunsberg>,
+        <http://de.dbpedia.org/resource/Isidor_Gunsberg>,
+        <http://es.dbpedia.org/resource/Isidor_Gunsberg>,
+        <http://fr.dbpedia.org/resource/Isidor_Gunsberg>,
+        <http://it.dbpedia.org/resource/Isidor_Gunsberg>,
+        <http://nl.dbpedia.org/resource/Isidor_Gunsberg>,
+        <http://pl.dbpedia.org/resource/Isidor_Gunsberg>,
+        <http://pt.dbpedia.org/resource/Isidor_Gunsberg>,
+        <http://rdf.freebase.com/ns/m.01lvzr>,
+        <http://wikidata.dbpedia.org/resource/Q357796>,
+        <http://www.wikidata.org/entity/Q357796>,
+        <http://yago-knowledge.org/resource/Isidor_Gunsberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Israel_Albert_Horowitz> a foaf:Person ;
+    jl:hasLabel "Al Horowitz@fr",
+        "Al Horowitz@it",
+        "Israel Albert Horowitz@de",
+        "Israel Albert Horowitz@en",
+        "Israel Albert Horowitz@es",
+        "Israel Horowitz@pl",
+        "Israel Horowitz@pt",
+        "Горовиц, Изрейел Алберт@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Israel_Albert_Horowitz>,
+        <http://de.dbpedia.org/resource/Israel_Albert_Horowitz>,
+        <http://es.dbpedia.org/resource/Israel_Albert_Horowitz>,
+        <http://fr.dbpedia.org/resource/Al_Horowitz>,
+        <http://it.dbpedia.org/resource/Al_Horowitz>,
+        <http://pl.dbpedia.org/resource/Israel_Horowitz>,
+        <http://pt.dbpedia.org/resource/Israel_Horowitz>,
+        <http://rdf.freebase.com/ns/m.0787tt>,
+        <http://wikidata.dbpedia.org/resource/Q921736>,
+        <http://www.wikidata.org/entity/Q921736>,
+        <http://yago-knowledge.org/resource/Israel_Albert_Horowitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Izaak_Appel> a foaf:Person ;
+    jl:hasLabel "Izaak Appel@en",
+        "Izaak Appel@pl",
+        "Аппель, Исаак@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Izaak_Appel>,
+        <http://pl.dbpedia.org/resource/Izaak_Appel>,
+        <http://rdf.freebase.com/ns/m.0gpzz5>,
+        <http://wikidata.dbpedia.org/resource/Q2343776>,
+        <http://www.wikidata.org/entity/Q2343776>,
+        <http://yago-knowledge.org/resource/Izaak_Appel> .
+
+<http://data.judaicalink.org/data/dbpedia/Izaak_Towbin> a foaf:Person ;
+    jl:hasLabel "Izaak Towbin@en",
+        "Izaak Towbin@pl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Izaak_Towbin>,
+        <http://pl.dbpedia.org/resource/Izaak_Towbin>,
+        <http://rdf.freebase.com/ns/m.043jmt2>,
+        <http://wikidata.dbpedia.org/resource/Q11714649>,
+        <http://www.wikidata.org/entity/Q11714649>,
+        <http://yago-knowledge.org/resource/Izaak_Towbin> .
+
+<http://data.judaicalink.org/data/dbpedia/Izak_Aloni> a foaf:Person ;
+    jl:hasLabel "Izak Aloni@en",
+        "Алони, Ицхак@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Izak_Aloni>,
+        <http://rdf.freebase.com/ns/m.026cj42>,
+        <http://wikidata.dbpedia.org/resource/Q4062831>,
+        <http://www.wikidata.org/entity/Q4062831>,
+        <http://yago-knowledge.org/resource/Izak_Aloni> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Ascher> a foaf:Person ;
+    jl:hasLabel "Jacob Ascher@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacob_Ascher>,
+        <http://rdf.freebase.com/ns/m.04gntc3>,
+        <http://wikidata.dbpedia.org/resource/Q6118306>,
+        <http://www.wikidata.org/entity/Q6118306>,
+        <http://yago-knowledge.org/resource/Jacob_Ascher> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Bernstein> a foaf:Person ;
+    jl:hasLabel "Jacob Bernstein@en",
+        "Jacob Bernstein@es" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Jacob_Bernstein>,
+        <http://dbpedia.org/resource/Jacob_Bernstein>,
+        <http://es.dbpedia.org/resource/Jacob_Bernstein>,
+        <http://rdf.freebase.com/ns/m.04myjxk>,
+        <http://wikidata.dbpedia.org/resource/Q6118370>,
+        <http://www.wikidata.org/entity/Q6118370>,
+        <http://yago-knowledge.org/resource/Jacob_Bernstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Levin_(chess_player)> a foaf:Person ;
+    jl:hasLabel "Jacob Levin (chess player)@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacob_Levin_(chess_player)>,
+        <http://rdf.freebase.com/ns/m.04jnb8h>,
+        <http://wikidata.dbpedia.org/resource/Q15316005>,
+        <http://www.wikidata.org/entity/Q15316005>,
+        <http://yago-knowledge.org/resource/Jacob_Levin_(chess_player)> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Murey> a foaf:Person ;
+    jl:hasLabel "Jacob Murey@de",
+        "Jacob Murey@en",
+        "Jacob Murey@fr",
+        "Jacob Murey@nl",
+        "Jakow Murej@pl",
+        "Мурей, Яков Исаакович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacob_Murey>,
+        <http://de.dbpedia.org/resource/Jacob_Murey>,
+        <http://fr.dbpedia.org/resource/Jacob_Murey>,
+        <http://nl.dbpedia.org/resource/Jacob_Murey>,
+        <http://pl.dbpedia.org/resource/Jakow_Murej>,
+        <http://rdf.freebase.com/ns/m.0274yrr>,
+        <http://wikidata.dbpedia.org/resource/Q716593>,
+        <http://www.wikidata.org/entity/Q716593>,
+        <http://yago-knowledge.org/resource/Jacob_Murey> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacobo_Bolbochán> a foaf:Person ;
+    jl:hasLabel "Jacobo Bolbochán@en",
+        "Jacobo Bolbochán@es",
+        "Jacobo Bolbochán@pt",
+        "Болбочан, Хакобо@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacobo_Bolbochán>,
+        <http://es.dbpedia.org/resource/Jacobo_Bolbochán>,
+        <http://pt.dbpedia.org/resource/Jacobo_Bolbochán>,
+        <http://rdf.freebase.com/ns/m.026f9kl>,
+        <http://wikidata.dbpedia.org/resource/Q1584860>,
+        <http://www.wikidata.org/entity/Q1584860>,
+        <http://yago-knowledge.org/resource/Jacobo_Bolbochán> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacqueline_Piatigorsky> a foaf:Person ;
+    jl:hasLabel "Jacqueline Piatigorsky@de",
+        "Jacqueline Piatigorsky@en",
+        "Jacqueline Piatigorsky@fr",
+        "Jacqueline Piatigorsky@nl",
+        "Jacqueline Piatigorsky@pt",
+        "Пятигорски, Жаклин@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacqueline_Piatigorsky>,
+        <http://de.dbpedia.org/resource/Jacqueline_Piatigorsky>,
+        <http://fr.dbpedia.org/resource/Jacqueline_Piatigorsky>,
+        <http://nl.dbpedia.org/resource/Jacqueline_Piatigorsky>,
+        <http://pt.dbpedia.org/resource/Jacqueline_Piatigorsky>,
+        <http://rdf.freebase.com/ns/m.0cs9t6>,
+        <http://wikidata.dbpedia.org/resource/Q462310>,
+        <http://www.wikidata.org/entity/Q462310>,
+        <http://yago-knowledge.org/resource/Jacqueline_Piatigorsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacques_Mieses> a foaf:Person ;
+    jl:hasLabel "Jacques Mieses@de",
+        "Jacques Mieses@en",
+        "Jacques Mieses@es",
+        "Jacques Mieses@fr",
+        "Jacques Mieses@it",
+        "Jacques Mieses@nl",
+        "Jacques Mieses@pl",
+        "Jacques Mieses@pt",
+        "Мизес, Жак@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacques_Mieses>,
+        <http://de.dbpedia.org/resource/Jacques_Mieses>,
+        <http://es.dbpedia.org/resource/Jacques_Mieses>,
+        <http://fr.dbpedia.org/resource/Jacques_Mieses>,
+        <http://it.dbpedia.org/resource/Jacques_Mieses>,
+        <http://nl.dbpedia.org/resource/Jacques_Mieses>,
+        <http://pl.dbpedia.org/resource/Jacques_Mieses>,
+        <http://pt.dbpedia.org/resource/Jacques_Mieses>,
+        <http://rdf.freebase.com/ns/m.06kypc>,
+        <http://wikidata.dbpedia.org/resource/Q77379>,
+        <http://www.wikidata.org/entity/Q77379>,
+        <http://yago-knowledge.org/resource/Jacques_Mieses> .
+
+<http://data.judaicalink.org/data/dbpedia/Jakob_Rosanes> a foaf:Person ;
+    jl:hasLabel "Jacob Rosanes@de",
+        "Jakob Rosanes@en",
+        "Jakob Rosanes@pt",
+        "Розанес, Якоб@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jakob_Rosanes>,
+        <http://de.dbpedia.org/resource/Jacob_Rosanes>,
+        <http://pt.dbpedia.org/resource/Jakob_Rosanes>,
+        <http://rdf.freebase.com/ns/m.02kr8n>,
+        <http://viaf.org/viaf/45058541>,
+        <http://wikidata.dbpedia.org/resource/Q72988>,
+        <http://www.wikidata.org/entity/Q72988>,
+        <http://yago-knowledge.org/resource/Jakob_Rosanes> .
+
+<http://data.judaicalink.org/data/dbpedia/Jakub_Heilpern> a foaf:Person ;
+    jl:hasLabel "Jakub Heilpern@en",
+        "Jakub Heilpern@pl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jakub_Heilpern>,
+        <http://pl.dbpedia.org/resource/Jakub_Heilpern>,
+        <http://rdf.freebase.com/ns/m.04gsq18>,
+        <http://wikidata.dbpedia.org/resource/Q6125525>,
+        <http://www.wikidata.org/entity/Q6125525>,
+        <http://yago-knowledge.org/resource/Jakub_Heilpern> .
+
+<http://data.judaicalink.org/data/dbpedia/Jan_F._Esser> a foaf:Person ;
+    jl:hasLabel "Jan F. Esser@en",
+        "Johannes Esser@de",
+        "Johannes Esser@nl",
+        "Johannes Esser@pl",
+        "Эссер, Йоханнес@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jan_F._Esser>,
+        <http://de.dbpedia.org/resource/Johannes_Esser>,
+        <http://nl.dbpedia.org/resource/Johannes_Esser>,
+        <http://pl.dbpedia.org/resource/Johannes_Esser>,
+        <http://rdf.freebase.com/ns/m.026y_dk>,
+        <http://wikidata.dbpedia.org/resource/Q542255>,
+        <http://www.wikidata.org/entity/Q542255>,
+        <http://yago-knowledge.org/resource/Jan_F._Esser> .
+
+<http://data.judaicalink.org/data/dbpedia/Jean_Dufresne> a foaf:Person ;
+    jl:hasLabel "Jean Dufresne@de",
+        "Jean Dufresne@en",
+        "Jean Dufresne@fr",
+        "Jean Dufresne@it",
+        "Jean Dufresne@nl",
+        "Jean Dufresne@pl",
+        "Jean Dufresne@pt",
+        "Дюфрень, Жан@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jean_Dufresne>,
+        <http://dbpedia.org/resource/Jean_Dufresne>,
+        <http://de.dbpedia.org/resource/Jean_Dufresne>,
+        <http://fr.dbpedia.org/resource/Jean_Dufresne>,
+        <http://it.dbpedia.org/resource/Jean_Dufresne>,
+        <http://nl.dbpedia.org/resource/Jean_Dufresne>,
+        <http://pl.dbpedia.org/resource/Jean_Dufresne>,
+        <http://pt.dbpedia.org/resource/Jean_Dufresne>,
+        <http://rdf.freebase.com/ns/m.02sfjb>,
+        <http://viaf.org/viaf/39501780>,
+        <http://wikidata.dbpedia.org/resource/Q62040>,
+        <http://www.wikidata.org/entity/Q62040>,
+        <http://yago-knowledge.org/resource/Jean_Dufresne> .
+
+<http://data.judaicalink.org/data/dbpedia/Jean_Taubenhaus> a foaf:Person ;
+    jl:hasLabel "Jan Taubenhaus@pl",
+        "Jean Taubenhaus@en",
+        "Jean Taubenhaus@es",
+        "Jean Taubenhaus@fr",
+        "Таубенгауз, Жан@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jean_Taubenhaus>,
+        <http://es.dbpedia.org/resource/Jean_Taubenhaus>,
+        <http://fr.dbpedia.org/resource/Jean_Taubenhaus>,
+        <http://pl.dbpedia.org/resource/Jan_Taubenhaus>,
+        <http://rdf.freebase.com/ns/m.0fwgxc>,
+        <http://viaf.org/viaf/289293317>,
+        <http://wikidata.dbpedia.org/resource/Q2916049>,
+        <http://www.wikidata.org/entity/Q2916049>,
+        <http://yago-knowledge.org/resource/Jean_Taubenhaus> .
+
+<http://data.judaicalink.org/data/dbpedia/Jerzy_Lewi> a foaf:Person ;
+    jl:hasLabel "Jerzy Lewi@de",
+        "Jerzy Lewi@en",
+        "Jerzy Lewi@pl",
+        "Леви, Ежи@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jerzy_Lewi>,
+        <http://de.dbpedia.org/resource/Jerzy_Lewi>,
+        <http://pl.dbpedia.org/resource/Jerzy_Lewi>,
+        <http://rdf.freebase.com/ns/m.027wrgx>,
+        <http://wikidata.dbpedia.org/resource/Q328041>,
+        <http://www.wikidata.org/entity/Q328041>,
+        <http://yago-knowledge.org/resource/Jerzy_Lewi> .
+
+<http://data.judaicalink.org/data/dbpedia/Johann_Löwenthal> a foaf:Person ;
+    jl:hasLabel "Johann Jacob Löwenthal@de",
+        "Johann Jakob Lówental@es",
+        "Johann Löwenthal@en",
+        "Johann Löwenthal@fr",
+        "Johann Löwenthal@it",
+        "Johann Löwenthal@pl",
+        "Johann Löwenthal@pt",
+        "Лёвенталь, Иоганн Якоб@ru",
+        "جوهان وينثال@ar" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Johann_Jacob_Löwenthal>,
+        <http://dbpedia.org/resource/Johann_Löwenthal>,
+        <http://de.dbpedia.org/resource/Johann_Jacob_Löwenthal>,
+        <http://es.dbpedia.org/resource/Johann_Jakob_Lówental>,
+        <http://fr.dbpedia.org/resource/Johann_Löwenthal>,
+        <http://it.dbpedia.org/resource/Johann_Löwenthal>,
+        <http://pl.dbpedia.org/resource/Johann_Löwenthal>,
+        <http://pt.dbpedia.org/resource/Johann_Löwenthal>,
+        <http://rdf.freebase.com/ns/m.02gvnl>,
+        <http://viaf.org/viaf/18708700>,
+        <http://wikidata.dbpedia.org/resource/Q93683>,
+        <http://www.wikidata.org/entity/Q93683>,
+        <http://yago-knowledge.org/resource/Johann_Löwenthal> .
+
+<http://data.judaicalink.org/data/dbpedia/Johannes_Zukertort> a foaf:Person ;
+    jl:hasLabel "Johann Zukertort@nl",
+        "Johannes Hermann Zukertort@de",
+        "Johannes Zukertort@en",
+        "Johannes Zukertort@es",
+        "Johannes Zukertort@fr",
+        "Johannes Zukertort@it",
+        "Johannes Zukertort@pl",
+        "Johannes Zukertort@pt",
+        "Цукерторт, Иоганн Герман@ru",
+        "جوهانس زوكيرتور@ar" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Johannes_Zukertort>,
+        <http://dbpedia.org/resource/Johannes_Zukertort>,
+        <http://de.dbpedia.org/resource/Johannes_Hermann_Zukertort>,
+        <http://el.dbpedia.org/resource/Γιόχαν_Τσούκερτορτ>,
+        <http://es.dbpedia.org/resource/Johannes_Zukertort>,
+        <http://fr.dbpedia.org/resource/Johannes_Zukertort>,
+        <http://it.dbpedia.org/resource/Johannes_Zukertort>,
+        <http://nl.dbpedia.org/resource/Johann_Zukertort>,
+        <http://pl.dbpedia.org/resource/Johannes_Zukertort>,
+        <http://pt.dbpedia.org/resource/Johannes_Zukertort>,
+        <http://rdf.freebase.com/ns/m.02hdph>,
+        <http://viaf.org/viaf/65113685>,
+        <http://wikidata.dbpedia.org/resource/Q60182>,
+        <http://www.wikidata.org/entity/Q60182>,
+        <http://yago-knowledge.org/resource/Johannes_Zukertort> .
+
+<http://data.judaicalink.org/data/dbpedia/Jonathan_Sarfati> a foaf:Person ;
+    jl:hasLabel "Jonathan Sarfati@en",
+        "Jonathan Sarfati@pt",
+        "Сарфатти, Джонатан@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Jonathan_Sarfati>,
+        <http://pt.dbpedia.org/resource/Jonathan_Sarfati>,
+        <http://rdf.freebase.com/ns/m.05738w>,
+        <http://viaf.org/viaf/77244400>,
+        <http://wikidata.dbpedia.org/resource/Q2341119>,
+        <http://www.wikidata.org/entity/Q2341119>,
+        <http://yago-knowledge.org/resource/Jonathan_Sarfati> .
+
+<http://data.judaicalink.org/data/dbpedia/Josef_Cukierman> a foaf:Person ;
+    jl:hasLabel "Josef Cukierman@en",
+        "Josef Cukierman@fr" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Josef_Cukierman>,
+        <http://fr.dbpedia.org/resource/Josef_Cukierman>,
+        <http://rdf.freebase.com/ns/m.0gfgz6>,
+        <http://wikidata.dbpedia.org/resource/Q2920699>,
+        <http://www.wikidata.org/entity/Q2920699>,
+        <http://yago-knowledge.org/resource/Josef_Cukierman> .
+
+<http://data.judaicalink.org/data/dbpedia/Josef_Noa> a foaf:Person ;
+    jl:hasLabel "Josef Noa@de",
+        "Josef Noa@en",
+        "József Noa@pl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Josef_Noa>,
+        <http://de.dbpedia.org/resource/Josef_Noa>,
+        <http://pl.dbpedia.org/resource/József_Noa>,
+        <http://rdf.freebase.com/ns/m.027qm4y>,
+        <http://wikidata.dbpedia.org/resource/Q872302>,
+        <http://www.wikidata.org/entity/Q872302>,
+        <http://yago-knowledge.org/resource/Josef_Noa> .
+
+<http://data.judaicalink.org/data/dbpedia/Joshua_Waitzkin> a foaf:Person ;
+    jl:hasLabel "Josh Waitzkin@pt",
+        "Joshua Waitzkin@de",
+        "Joshua Waitzkin@en",
+        "Joshua Waitzkin@es",
+        "Joshua Waitzkin@fr",
+        "Joshua Waitzkin@it",
+        "Joshua Waitzkin@pl",
+        "Вайцкин, Джошуа@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Joshua_Waitzkin>,
+        <http://de.dbpedia.org/resource/Joshua_Waitzkin>,
+        <http://es.dbpedia.org/resource/Joshua_Waitzkin>,
+        <http://fr.dbpedia.org/resource/Joshua_Waitzkin>,
+        <http://it.dbpedia.org/resource/Joshua_Waitzkin>,
+        <http://pl.dbpedia.org/resource/Joshua_Waitzkin>,
+        <http://pt.dbpedia.org/resource/Josh_Waitzkin>,
+        <http://rdf.freebase.com/ns/m.01fdkr>,
+        <http://viaf.org/viaf/77853382>,
+        <http://wikidata.dbpedia.org/resource/Q766789>,
+        <http://www.wikidata.org/entity/Q766789>,
+        <http://yago-knowledge.org/resource/Joshua_Waitzkin> .
+
+<http://data.judaicalink.org/data/dbpedia/Josif_Dorfman> a foaf:Person ;
+    jl:hasLabel "Iosif Dorfman@it",
+        "Iossif Dorfman@fr",
+        "Josif Dorfman@de",
+        "Josif Dorfman@en",
+        "Josif Dorfman@nl",
+        "Josif Dorfman@pl",
+        "Дорфман, Иосиф Давидович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Josif_Dorfman>,
+        <http://de.dbpedia.org/resource/Josif_Dorfman>,
+        <http://fr.dbpedia.org/resource/Iossif_Dorfman>,
+        <http://it.dbpedia.org/resource/Iosif_Dorfman>,
+        <http://nl.dbpedia.org/resource/Josif_Dorfman>,
+        <http://pl.dbpedia.org/resource/Josif_Dorfman>,
+        <http://rdf.freebase.com/ns/m.026dtxx>,
+        <http://wikidata.dbpedia.org/resource/Q1385250>,
+        <http://www.wikidata.org/entity/Q1385250>,
+        <http://yago-knowledge.org/resource/Josif_Dorfman> .
+
+<http://data.judaicalink.org/data/dbpedia/Judit_Polgár> a foaf:Person ;
+    jl:hasLabel "Judit Polgár@de",
+        "Judit Polgár@en",
+        "Judit Polgár@es",
+        "Judit Polgár@fr",
+        "Judit Polgár@it",
+        "Judit Polgár@nl",
+        "Judit Polgár@pl",
+        "Judit Polgár@pt",
+        "Полгар, Юдит@ru",
+        "جوديت بولغار@ar",
+        "ユディット・ポルガー@ja",
+        "波爾加·朱迪@zh" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Judit_Polgárová>,
+        <http://data.europa.eu/euodp/jrc-names/Judit_Polg%C3%A1r>,
+        <http://data.nytimes.com/72992455829617533463>,
+        <http://dbpedia.org/resource/Judit_Polgár>,
+        <http://de.dbpedia.org/resource/Judit_Polgár>,
+        <http://es.dbpedia.org/resource/Judit_Polgár>,
+        <http://eu.dbpedia.org/resource/Judit_Polgár>,
+        <http://fr.dbpedia.org/resource/Judit_Polgár>,
+        <http://it.dbpedia.org/resource/Judit_Polgár>,
+        <http://ja.dbpedia.org/resource/ユディット・ポルガー>,
+        <http://ko.dbpedia.org/resource/유디트_폴가>,
+        <http://nl.dbpedia.org/resource/Judit_Polgár>,
+        <http://pl.dbpedia.org/resource/Judit_Polgár>,
+        <http://pt.dbpedia.org/resource/Judit_Polgár>,
+        <http://rdf.freebase.com/ns/m.041_g>,
+        <http://viaf.org/viaf/13943230>,
+        <http://wikidata.dbpedia.org/resource/Q183250>,
+        <http://www.wikidata.org/entity/Q183250>,
+        <http://yago-knowledge.org/resource/Judit_Polgár> .
+
+<http://data.judaicalink.org/data/dbpedia/Julio_Kaplan> a foaf:Person ;
+    jl:hasLabel "Julio Kaplan@de",
+        "Julio Kaplan@en",
+        "Julio Kaplan@es",
+        "Julio Kaplan@pl",
+        "Каплан, Хулио@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Julio_Kaplan>,
+        <http://de.dbpedia.org/resource/Julio_Kaplan>,
+        <http://es.dbpedia.org/resource/Julio_Kaplan>,
+        <http://pl.dbpedia.org/resource/Julio_Kaplan>,
+        <http://rdf.freebase.com/ns/m.026jhck>,
+        <http://wikidata.dbpedia.org/resource/Q1480373>,
+        <http://www.wikidata.org/entity/Q1480373>,
+        <http://yago-knowledge.org/resource/Julio_Kaplan> .
+
+<http://data.judaicalink.org/data/dbpedia/Julius_Mendheim> a foaf:Person ;
+    jl:hasLabel "Julius Mendheim@de",
+        "Julius Mendheim@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Julius_Mendheim>,
+        <http://de.dbpedia.org/resource/Julius_Mendheim>,
+        <http://rdf.freebase.com/ns/m.05q6szy>,
+        <http://wikidata.dbpedia.org/resource/Q121369>,
+        <http://www.wikidata.org/entity/Q121369>,
+        <http://yago-knowledge.org/resource/Julius_Mendheim> .
+
+<http://data.judaicalink.org/data/dbpedia/Julius_Perlis> a foaf:Person ;
+    jl:hasLabel "Julius Perlis (Schachspieler)@de",
+        "Julius Perlis@en",
+        "Julius Perlis@es",
+        "Julius Perlis@fr",
+        "Перлис, Юлиус@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Julius_Perlis>,
+        <http://de.dbpedia.org/resource/Julius_Perlis_(Schachspieler)>,
+        <http://es.dbpedia.org/resource/Julius_Perlis>,
+        <http://fr.dbpedia.org/resource/Julius_Perlis>,
+        <http://rdf.freebase.com/ns/m.025x1gc>,
+        <http://wikidata.dbpedia.org/resource/Q670452>,
+        <http://www.wikidata.org/entity/Q670452>,
+        <http://yago-knowledge.org/resource/Julius_Perlis> .
+
+<http://data.judaicalink.org/data/dbpedia/Karl_Ruben> a foaf:Person ;
+    jl:hasLabel "Karl Ruben@en",
+        "Рубен, Карл@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Karl_Ruben>,
+        <http://rdf.freebase.com/ns/m.03ymfl_>,
+        <http://viaf.org/viaf/290779987>,
+        <http://wikidata.dbpedia.org/resource/Q2899717>,
+        <http://www.wikidata.org/entity/Q2899717>,
+        <http://yago-knowledge.org/resource/Karl_Ruben> .
+
+<http://data.judaicalink.org/data/dbpedia/Kenneth_Rogoff> a foaf:Person ;
+    jl:hasLabel "Kenneth Rogoff@en",
+        "Kenneth Rogoff@es",
+        "Kenneth Rogoff@fr",
+        "Kenneth Rogoff@it",
+        "Kenneth Rogoff@pl",
+        "Kenneth S. Rogoff@de",
+        "Рогофф, Кеннет@ru",
+        "ケネス・ロゴフ@ja" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Ken_Rogoff>,
+        <http://data.europa.eu/euodp/jrc-names/Kenneth_Rogoff>,
+        <http://dbpedia.org/resource/Kenneth_Rogoff>,
+        <http://de.dbpedia.org/resource/Kenneth_S._Rogoff>,
+        <http://es.dbpedia.org/resource/Kenneth_Rogoff>,
+        <http://fr.dbpedia.org/resource/Kenneth_Rogoff>,
+        <http://it.dbpedia.org/resource/Kenneth_Rogoff>,
+        <http://ja.dbpedia.org/resource/ケネス・ロゴフ>,
+        <http://pl.dbpedia.org/resource/Kenneth_Rogoff>,
+        <http://rdf.freebase.com/ns/m.05v6zz>,
+        <http://wikidata.dbpedia.org/resource/Q955794>,
+        <http://www.wikidata.org/entity/Q955794>,
+        <http://yago-knowledge.org/resource/Kenneth_Rogoff> .
+
+<http://data.judaicalink.org/data/dbpedia/Konstantin_Lerner> a foaf:Person ;
+    jl:hasLabel "Konstantin Lerner@en",
+        "Konstantin Lerner@fr",
+        "Kostiantyn Łerner@pl",
+        "Kostjantyn Lerner@de",
+        "Лернер, Константин Зайвелевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Konstantin_Lerner>,
+        <http://de.dbpedia.org/resource/Kostjantyn_Lerner>,
+        <http://fr.dbpedia.org/resource/Konstantin_Lerner>,
+        <http://pl.dbpedia.org/resource/Kostiantyn_Łerner>,
+        <http://rdf.freebase.com/ns/m.02q8qpg>,
+        <http://wikidata.dbpedia.org/resource/Q489555>,
+        <http://www.wikidata.org/entity/Q489555>,
+        <http://yago-knowledge.org/resource/Konstantin_Lerner> .
+
+<http://data.judaicalink.org/data/dbpedia/Konstantin_Vygodchikov> a foaf:Person ;
+    jl:hasLabel "Konstantin Vygodchikov@en",
+        "Выгодчиков, Константин Алексеевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Konstantin_Vygodchikov>,
+        <http://rdf.freebase.com/ns/m.03ckcss>,
+        <http://wikidata.dbpedia.org/resource/Q2027511>,
+        <http://www.wikidata.org/entity/Q2027511>,
+        <http://yago-knowledge.org/resource/Konstantin_Vygodchikov> .
+
+<http://data.judaicalink.org/data/dbpedia/Larissa_Volpert> a foaf:Person ;
+    jl:hasLabel "Larisa Il'inična Vol'pert@it",
+        "Larissa Volpert@de",
+        "Larissa Volpert@en",
+        "Łarisa Wolpert@pl",
+        "Вольперт, Лариса Ильинична@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Larissa_Volpert>,
+        <http://de.dbpedia.org/resource/Larissa_Volpert>,
+        <http://it.dbpedia.org/resource/Larisa_Il'inična_Vol'pert>,
+        <http://pl.dbpedia.org/resource/Łarisa_Wolpert>,
+        <http://rdf.freebase.com/ns/m.0cb1yf>,
+        <http://viaf.org/viaf/22315612>,
+        <http://wikidata.dbpedia.org/resource/Q2393163>,
+        <http://www.wikidata.org/entity/Q2393163>,
+        <http://yago-knowledge.org/resource/Larissa_Volpert> .
+
+<http://data.judaicalink.org/data/dbpedia/Leon_Schorr> a foaf:Person ;
+    jl:hasLabel "Leon Schorr@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Leon_Schorr>,
+        <http://rdf.freebase.com/ns/m.04jq34v>,
+        <http://wikidata.dbpedia.org/resource/Q6524879>,
+        <http://www.wikidata.org/entity/Q6524879>,
+        <http://yago-knowledge.org/resource/Leon_Schorr> .
+
+<http://data.judaicalink.org/data/dbpedia/Leon_Schwartzmann> a foaf:Person ;
+    jl:hasLabel "Leon Schwartzmann@en",
+        "Leon Schwartzmann@fr" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Leon_Schwartzmann>,
+        <http://fr.dbpedia.org/resource/Leon_Schwartzmann>,
+        <http://rdf.freebase.com/ns/m.027l5w7>,
+        <http://wikidata.dbpedia.org/resource/Q2899247>,
+        <http://www.wikidata.org/entity/Q2899247>,
+        <http://yago-knowledge.org/resource/Leon_Schwartzmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Leon_Stolzenberg> a foaf:Person ;
+    jl:hasLabel "Leon Stolzenberg@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Leon_Stolzenberg>,
+        <http://rdf.freebase.com/ns/m.02qsg61>,
+        <http://wikidata.dbpedia.org/resource/Q6524907>,
+        <http://www.wikidata.org/entity/Q6524907>,
+        <http://yago-knowledge.org/resource/Leon_Stolzenberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Leonid_Gofshtein> a foaf:Person ;
+    jl:hasLabel "Leonid Gofshtein@en",
+        "Leonid Gofshtein@pl",
+        "Zvulon Gofshtein@nl",
+        "Гофштейн, Леонид@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Leonid_Gofshtein>,
+        <http://nl.dbpedia.org/resource/Zvulon_Gofshtein>,
+        <http://pl.dbpedia.org/resource/Leonid_Gofshtein>,
+        <http://rdf.freebase.com/ns/m.0c00kmz>,
+        <http://wikidata.dbpedia.org/resource/Q2036425>,
+        <http://www.wikidata.org/entity/Q2036425>,
+        <http://yago-knowledge.org/resource/Leonid_Gofshtein> .
+
+<http://data.judaicalink.org/data/dbpedia/Leonid_Stein> a foaf:Person ;
+    jl:hasLabel "Leonid Stein@de",
+        "Leonid Stein@en",
+        "Leonid Stein@fr",
+        "Leonid Stein@pl",
+        "Leonid Stein@pt",
+        "Leonid Štejn@it",
+        "Штейн, Леонид Захарович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Leonid_Stein>,
+        <http://de.dbpedia.org/resource/Leonid_Stein>,
+        <http://fr.dbpedia.org/resource/Leonid_Stein>,
+        <http://it.dbpedia.org/resource/Leonid_Štejn>,
+        <http://pl.dbpedia.org/resource/Leonid_Stein>,
+        <http://pt.dbpedia.org/resource/Leonid_Stein>,
+        <http://rdf.freebase.com/ns/m.01rl5v>,
+        <http://wikidata.dbpedia.org/resource/Q304083>,
+        <http://www.wikidata.org/entity/Q304083>,
+        <http://yago-knowledge.org/resource/Leonid_Stein> .
+
+<http://data.judaicalink.org/data/dbpedia/Leonid_Yudasin> a foaf:Person ;
+    jl:hasLabel "Leonid Grigor'evič Judasin@it",
+        "Leonid Grigorjewitsch Judassin@de",
+        "Leonid Judasin@pl",
+        "Leonid Youdassine@fr",
+        "Leonid Yudasin@en",
+        "Leonid Yudasin@es",
+        "Leonid Yudasin@nl",
+        "Юдасин, Леонид Григорьевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Leonid_Yudasin>,
+        <http://de.dbpedia.org/resource/Leonid_Grigorjewitsch_Judassin>,
+        <http://es.dbpedia.org/resource/Leonid_Yudasin>,
+        <http://fr.dbpedia.org/resource/Leonid_Youdassine>,
+        <http://it.dbpedia.org/resource/Leonid_Grigor'evič_Judasin>,
+        <http://nl.dbpedia.org/resource/Leonid_Yudasin>,
+        <http://pl.dbpedia.org/resource/Leonid_Judasin>,
+        <http://rdf.freebase.com/ns/m.0f5cfp>,
+        <http://wikidata.dbpedia.org/resource/Q948740>,
+        <http://www.wikidata.org/entity/Q948740>,
+        <http://yago-knowledge.org/resource/Leonid_Yudasin> .
+
+<http://data.judaicalink.org/data/dbpedia/Leopold_Hoffer> a foaf:Person ;
+    jl:hasLabel "Leopold Hoffer@en",
+        "Leopold Hoffer@it" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Leopold_Hoffer>,
+        <http://it.dbpedia.org/resource/Leopold_Hoffer>,
+        <http://rdf.freebase.com/ns/m.02rhfny>,
+        <http://wikidata.dbpedia.org/resource/Q3810128>,
+        <http://www.wikidata.org/entity/Q3810128>,
+        <http://yago-knowledge.org/resource/Leopold_Hoffer> .
+
+<http://data.judaicalink.org/data/dbpedia/Lessing_J._Rosenwald> a foaf:Person ;
+    jl:hasLabel "Lessing J. Rosenwald@en",
+        "Lessing Julius Rosenwald@de" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Lessing_J._Rosenwald>,
+        <http://de.dbpedia.org/resource/Lessing_Julius_Rosenwald>,
+        <http://rdf.freebase.com/ns/m.0b_k7p>,
+        <http://viaf.org/viaf/66475544>,
+        <http://wikidata.dbpedia.org/resource/Q6531687>,
+        <http://www.wikidata.org/entity/Q6531687>,
+        <http://yago-knowledge.org/resource/Lessing_J._Rosenwald> .
+
+<http://data.judaicalink.org/data/dbpedia/Lev_Aptekar> a foaf:Person ;
+    jl:hasLabel "Lev Aptekar@en",
+        "Аптекарь, Лев Исаакович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Lev_Aptekar>,
+        <http://rdf.freebase.com/ns/m.02x2w4q>,
+        <http://wikidata.dbpedia.org/resource/Q4068281>,
+        <http://www.wikidata.org/entity/Q4068281>,
+        <http://yago-knowledge.org/resource/Lev_Aptekar> .
+
+<http://data.judaicalink.org/data/dbpedia/Lev_Aronin> a foaf:Person ;
+    jl:hasLabel "Lev Aronin@en",
+        "Lev Aronin@it",
+        "Lev Aronine@fr",
+        "Аронин, Лев Соломонович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Lev_Aronin>,
+        <http://fr.dbpedia.org/resource/Lev_Aronine>,
+        <http://it.dbpedia.org/resource/Lev_Aronin>,
+        <http://rdf.freebase.com/ns/m.02qjhr9>,
+        <http://wikidata.dbpedia.org/resource/Q2445185>,
+        <http://www.wikidata.org/entity/Q2445185>,
+        <http://yago-knowledge.org/resource/Lev_Aronin> .
+
+<http://data.judaicalink.org/data/dbpedia/Lev_Gutman> a foaf:Person ;
+    jl:hasLabel "Lev Gutman@de",
+        "Lev Gutman@en",
+        "Lev Gutman@nl",
+        "Lew Gutman@pl",
+        "Гутман, Лев@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Lev_Gutman>,
+        <http://de.dbpedia.org/resource/Lev_Gutman>,
+        <http://nl.dbpedia.org/resource/Lev_Gutman>,
+        <http://pl.dbpedia.org/resource/Lew_Gutman>,
+        <http://rdf.freebase.com/ns/m.02758_y>,
+        <http://wikidata.dbpedia.org/resource/Q72473>,
+        <http://www.wikidata.org/entity/Q72473>,
+        <http://yago-knowledge.org/resource/Lev_Gutman> .
+
+<http://data.judaicalink.org/data/dbpedia/Lev_Psakhis> a foaf:Person ;
+    jl:hasLabel "Lev Borisovič Psachis@it",
+        "Lev Psakhis@en",
+        "Lev Psakhis@fr",
+        "Lev Psakhis@nl",
+        "Lew Psachis@de",
+        "Lew Psachis@pl",
+        "Псахис, Лев Борисович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Lev_Psakhis>,
+        <http://de.dbpedia.org/resource/Lew_Psachis>,
+        <http://fr.dbpedia.org/resource/Lev_Psakhis>,
+        <http://it.dbpedia.org/resource/Lev_Borisovič_Psachis>,
+        <http://nl.dbpedia.org/resource/Lev_Psakhis>,
+        <http://pl.dbpedia.org/resource/Lew_Psachis>,
+        <http://rdf.freebase.com/ns/m.0dnrf4>,
+        <http://wikidata.dbpedia.org/resource/Q723552>,
+        <http://www.wikidata.org/entity/Q723552>,
+        <http://yago-knowledge.org/resource/Lev_Psakhis> .
+
+<http://data.judaicalink.org/data/dbpedia/Liudmila_Belavenets> a foaf:Person ;
+    jl:hasLabel "Liudmila Belavenets@en",
+        "Белавенец, Людмила Сергеевна@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Liudmila_Belavenets>,
+        <http://rdf.freebase.com/ns/m.0cwx9r>,
+        <http://wikidata.dbpedia.org/resource/Q3821648>,
+        <http://www.wikidata.org/entity/Q3821648>,
+        <http://yago-knowledge.org/resource/Liudmila_Belavenets> .
+
+<http://data.judaicalink.org/data/dbpedia/Ljuba_Kristol> a foaf:Person ;
+    jl:hasLabel "Ljuba Kristol@en",
+        "Luba Kristol@nl",
+        "Luba Kristoł@pl",
+        "Кристол, Любовь Даниэловна@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Ljuba_Kristol>,
+        <http://nl.dbpedia.org/resource/Luba_Kristol>,
+        <http://pl.dbpedia.org/resource/Luba_Kristoł>,
+        <http://rdf.freebase.com/ns/m.0cwwqf>,
+        <http://wikidata.dbpedia.org/resource/Q2424437>,
+        <http://www.wikidata.org/entity/Q2424437>,
+        <http://yago-knowledge.org/resource/Ljuba_Kristol> .
+
+<http://data.judaicalink.org/data/dbpedia/Lodewijk_Prins> a foaf:Person ;
+    jl:hasLabel "Lodewijk Prins@de",
+        "Lodewijk Prins@en",
+        "Lodewijk Prins@fr",
+        "Lodewijk Prins@it",
+        "Lodewijk Prins@nl",
+        "Lodewijk Prins@pl",
+        "Lodewijk Prins@pt",
+        "Принс, Лодевейк@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Lodewijk_Prins>,
+        <http://de.dbpedia.org/resource/Lodewijk_Prins>,
+        <http://fr.dbpedia.org/resource/Lodewijk_Prins>,
+        <http://it.dbpedia.org/resource/Lodewijk_Prins>,
+        <http://nl.dbpedia.org/resource/Lodewijk_Prins>,
+        <http://pl.dbpedia.org/resource/Lodewijk_Prins>,
+        <http://pt.dbpedia.org/resource/Lodewijk_Prins>,
+        <http://rdf.freebase.com/ns/m.02rnj98>,
+        <http://viaf.org/viaf/16809536>,
+        <http://wikidata.dbpedia.org/resource/Q1388022>,
+        <http://www.wikidata.org/entity/Q1388022>,
+        <http://yago-knowledge.org/resource/Lodewijk_Prins> .
+
+<http://data.judaicalink.org/data/dbpedia/Louis_Eisenberg> a foaf:Person ;
+    jl:hasLabel "Louis Eisenberg@en",
+        "Айзенберг, Луис@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Louis_Eisenberg>,
+        <http://rdf.freebase.com/ns/m.0414828>,
+        <http://wikidata.dbpedia.org/resource/Q2063513>,
+        <http://www.wikidata.org/entity/Q2063513>,
+        <http://yago-knowledge.org/resource/Louis_Eisenberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Léon_Monosson> a foaf:Person ;
+    jl:hasLabel "Léon Monosson@en",
+        "Léon Monosson@fr" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Léon_Monosson>,
+        <http://fr.dbpedia.org/resource/Léon_Monosson>,
+        <http://rdf.freebase.com/ns/m.03wbsl_>,
+        <http://wikidata.dbpedia.org/resource/Q2898361>,
+        <http://www.wikidata.org/entity/Q2898361>,
+        <http://yago-knowledge.org/resource/Léon_Monosson> .
+
+<http://data.judaicalink.org/data/dbpedia/Mark_Stolberg> a foaf:Person ;
+    jl:hasLabel "Mark Moissejewitsch Stolberg@de",
+        "Mark Stolberg@en",
+        "Стольберг, Марк Моисеевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Stolberg>,
+        <http://de.dbpedia.org/resource/Mark_Moissejewitsch_Stolberg>,
+        <http://rdf.freebase.com/ns/m.0b6ftn3>,
+        <http://wikidata.dbpedia.org/resource/Q559138>,
+        <http://www.wikidata.org/entity/Q559138>,
+        <http://yago-knowledge.org/resource/Mark_Stolberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Mark_Taimanov> a foaf:Person ;
+    jl:hasLabel "Mark Taimanov@en",
+        "مارك تيمانوف@ar" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Taimanov>,
+        <http://de.dbpedia.org/resource/Mark_Jewgenjewitsch_Taimanow>,
+        <http://es.dbpedia.org/resource/Mark_Taimánov>,
+        <http://fr.dbpedia.org/resource/Mark_Taïmanov>,
+        <http://it.dbpedia.org/resource/Mark_Evgenovič_Tajmanov>,
+        <http://nl.dbpedia.org/resource/Mark_Tajmanov>,
+        <http://pl.dbpedia.org/resource/Mark_Tajmanow>,
+        <http://pt.dbpedia.org/resource/Mark_Taimanov>,
+        <http://rdf.freebase.com/ns/m.02nrpl>,
+        <http://viaf.org/viaf/85082198>,
+        <http://wikidata.dbpedia.org/resource/Q348037>,
+        <http://www.wikidata.org/entity/Q348037>,
+        <http://yago-knowledge.org/resource/Mark_Taimanov> .
+
+<http://data.judaicalink.org/data/dbpedia/Maurice_Raizman> a foaf:Person ;
+    jl:hasLabel "Maurice Raizman@en",
+        "Maurice Raizman@fr",
+        "Maurice Raizman@it",
+        "Maurice Raizman@pl",
+        "Райзман, Морис@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Maurice_Raizman>,
+        <http://fr.dbpedia.org/resource/Maurice_Raizman>,
+        <http://it.dbpedia.org/resource/Maurice_Raizman>,
+        <http://pl.dbpedia.org/resource/Maurice_Raizman>,
+        <http://rdf.freebase.com/ns/m.03ch67k>,
+        <http://wikidata.dbpedia.org/resource/Q2453368>,
+        <http://www.wikidata.org/entity/Q2453368>,
+        <http://yago-knowledge.org/resource/Maurice_Raizman> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Fleissig> a foaf:Person ;
+    jl:hasLabel "Max Fleissig@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Max_Fleissig>,
+        <http://rdf.freebase.com/ns/m.0405v5x>,
+        <http://wikidata.dbpedia.org/resource/Q2902571>,
+        <http://www.wikidata.org/entity/Q2902571>,
+        <http://yago-knowledge.org/resource/Max_Fleissig> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Judd> a foaf:Person ;
+    jl:hasLabel "Max Judd@en",
+        "Max Judd@fr",
+        "Max Judd@it",
+        "Max Judd@pl",
+        "Джадд, Макс@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Max_Judd>,
+        <http://dbpedia.org/resource/Max_Judd>,
+        <http://fr.dbpedia.org/resource/Max_Judd>,
+        <http://it.dbpedia.org/resource/Max_Judd>,
+        <http://pl.dbpedia.org/resource/Max_Judd>,
+        <http://rdf.freebase.com/ns/m.0287sts>,
+        <http://wikidata.dbpedia.org/resource/Q2357374>,
+        <http://www.wikidata.org/entity/Q2357374>,
+        <http://yago-knowledge.org/resource/Max_Judd> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Pomeranc> a foaf:Person ;
+    jl:hasLabel "Max Pomeranc@en",
+        "Max Pomeranc@fr",
+        "Max Pomeranc@it",
+        "Max Pomeranc@pl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Max_Pomeranc>,
+        <http://fr.dbpedia.org/resource/Max_Pomeranc>,
+        <http://id.dbpedia.org/resource/Max_Pomeranc>,
+        <http://it.dbpedia.org/resource/Max_Pomeranc>,
+        <http://pl.dbpedia.org/resource/Max_Pomeranc>,
+        <http://rdf.freebase.com/ns/m.0341bh>,
+        <http://wikidata.dbpedia.org/resource/Q2307628>,
+        <http://www.wikidata.org/entity/Q2307628>,
+        <http://yago-knowledge.org/resource/Max_Pomeranc> .
+
+<http://data.judaicalink.org/data/dbpedia/Maxim_Dlugy> a foaf:Person ;
+    jl:hasLabel "Maxim Dlugy@de",
+        "Maxim Dlugy@en",
+        "Maxim Dlugy@fr",
+        "Maxim Dlugy@it",
+        "Maxim Dlugy@pl",
+        "Длуги, Максим@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Maxim_Dlugy>,
+        <http://de.dbpedia.org/resource/Maxim_Dlugy>,
+        <http://fr.dbpedia.org/resource/Maxim_Dlugy>,
+        <http://it.dbpedia.org/resource/Maxim_Dlugy>,
+        <http://pl.dbpedia.org/resource/Maxim_Dlugy>,
+        <http://rdf.freebase.com/ns/m.07s7d6>,
+        <http://viaf.org/viaf/285069353>,
+        <http://wikidata.dbpedia.org/resource/Q735208>,
+        <http://www.wikidata.org/entity/Q735208>,
+        <http://yago-knowledge.org/resource/Maxim_Dlugy> .
+
+<http://data.judaicalink.org/data/dbpedia/Maxim_Rodshtein> a foaf:Person ;
+    jl:hasLabel "Maxim Rodshtein@de",
+        "Maxim Rodshtein@en",
+        "Maxim Rodshtein@fr",
+        "Maxim Rodshtein@it",
+        "Maxim Rodshtein@pl",
+        "Родштейн, Максим Эдуардович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Maxim_Rodshtein>,
+        <http://de.dbpedia.org/resource/Maxim_Rodshtein>,
+        <http://fr.dbpedia.org/resource/Maxim_Rodshtein>,
+        <http://id.dbpedia.org/resource/Maxim_Rodshtein>,
+        <http://it.dbpedia.org/resource/Maxim_Rodshtein>,
+        <http://pl.dbpedia.org/resource/Maxim_Rodshtein>,
+        <http://rdf.freebase.com/ns/m.02qtn9m>,
+        <http://wikidata.dbpedia.org/resource/Q1335244>,
+        <http://www.wikidata.org/entity/Q1335244>,
+        <http://yago-knowledge.org/resource/Maxim_Rodshtein> .
+
+<http://data.judaicalink.org/data/dbpedia/Meir_Rauch> a foaf:Person ;
+    jl:hasLabel "Meir Rauch@en",
+        "Раух, Меир@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Meir_Rauch>,
+        <http://rdf.freebase.com/ns/m.0h146k>,
+        <http://viaf.org/viaf/285713207>,
+        <http://wikidata.dbpedia.org/resource/Q6810258>,
+        <http://www.wikidata.org/entity/Q6810258>,
+        <http://yago-knowledge.org/resource/Meir_Rauch> .
+
+<http://data.judaicalink.org/data/dbpedia/Menachem_Oren> a foaf:Person ;
+    jl:hasLabel "Menachem Oren@en",
+        "Mieczysław Chwojnik@pl",
+        "Орен, Менахем@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Menachem_Oren>,
+        <http://pl.dbpedia.org/resource/Mieczysław_Chwojnik>,
+        <http://rdf.freebase.com/ns/m.0gfqgt>,
+        <http://viaf.org/viaf/281942499>,
+        <http://wikidata.dbpedia.org/resource/Q4336157>,
+        <http://www.wikidata.org/entity/Q4336157>,
+        <http://yago-knowledge.org/resource/Menachem_Oren> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Rohde_(chess_player)> a foaf:Person ;
+    jl:hasLabel "Michael Rohde (chess player)@en",
+        "Michael Rohde (szachista)@pl",
+        "Роде, Майкл@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Rohde_(chess_player)>,
+        <http://pl.dbpedia.org/resource/Michael_Rohde_(szachista)>,
+        <http://rdf.freebase.com/ns/m.02qtnlx>,
+        <http://viaf.org/viaf/20502167>,
+        <http://wikidata.dbpedia.org/resource/Q4395681>,
+        <http://www.wikidata.org/entity/Q4395681>,
+        <http://yago-knowledge.org/resource/Michael_Rohde_(chess_player)> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Roiz> a foaf:Person ;
+    jl:hasLabel "Michael Roiz@de",
+        "Michael Roiz@en",
+        "Michael Roiz@fr",
+        "Michael Roiz@nl",
+        "Michael Roiz@pl",
+        "Ройз, Михаил Владимирович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Roiz>,
+        <http://de.dbpedia.org/resource/Michael_Roiz>,
+        <http://fr.dbpedia.org/resource/Michael_Roiz>,
+        <http://nl.dbpedia.org/resource/Michael_Roiz>,
+        <http://pl.dbpedia.org/resource/Michael_Roiz>,
+        <http://rdf.freebase.com/ns/m.027zz1x>,
+        <http://wikidata.dbpedia.org/resource/Q1857837>,
+        <http://www.wikidata.org/entity/Q1857837>,
+        <http://yago-knowledge.org/resource/Michael_Roiz> .
+
+<http://data.judaicalink.org/data/dbpedia/Mihai-Lucian_Grünberg> a foaf:Person ;
+    jl:hasLabel "Mihai-Lucian Grünberg@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Mihai-Lucian_Grünberg>,
+        <http://rdf.freebase.com/ns/m.0dgphpr>,
+        <http://wikidata.dbpedia.org/resource/Q2900812>,
+        <http://www.wikidata.org/entity/Q2900812>,
+        <http://yago-knowledge.org/resource/Mihai-Lucian_Grünberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Mikhail_Botvinnik> a foaf:Person ;
+    jl:hasLabel "Michail Botvinnik@nl",
+        "Michail Moiseevič Botvinnik@it",
+        "Michail Moissejewitsch Botwinnik@de",
+        "Michaił Botwinnik@pl",
+        "Mijaíl Botvínnik@es",
+        "Mikhail Botvinnik@en",
+        "Mikhail Botvinnik@pt",
+        "Mikhaïl Botvinnik@fr",
+        "Ботвинник, Михаил Моисеевич@ru",
+        "ميخائيل بوتفنيك@ar",
+        "ミハイル・ボトヴィニク@ja",
+        "米哈伊尔·莫伊谢耶维奇·博特温尼克@zh" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Michail_Botvinnik>,
+        <http://data.europa.eu/euodp/jrc-names/Mikhail_Botvinnik>,
+        <http://dbpedia.org/resource/Mikhail_Botvinnik>,
+        <http://de.dbpedia.org/resource/Michail_Moissejewitsch_Botwinnik>,
+        <http://el.dbpedia.org/resource/Μιχαήλ_Μποτβίνικ>,
+        <http://es.dbpedia.org/resource/Mijaíl_Botvínnik>,
+        <http://eu.dbpedia.org/resource/Mikhail_Botvinnik>,
+        <http://fr.dbpedia.org/resource/Mikhaïl_Botvinnik>,
+        <http://id.dbpedia.org/resource/Mikhail_Botvinnik>,
+        <http://it.dbpedia.org/resource/Michail_Moiseevič_Botvinnik>,
+        <http://ja.dbpedia.org/resource/ミハイル・ボトヴィニク>,
+        <http://nl.dbpedia.org/resource/Michail_Botvinnik>,
+        <http://pl.dbpedia.org/resource/Michaił_Botwinnik>,
+        <http://pt.dbpedia.org/resource/Mikhail_Botvinnik>,
+        <http://rdf.freebase.com/ns/m.01k5kd>,
+        <http://viaf.org/viaf/59176477>,
+        <http://wikidata.dbpedia.org/resource/Q178865>,
+        <http://www.wikidata.org/entity/Q178865>,
+        <http://yago-knowledge.org/resource/Mikhail_Botvinnik> .
+
+<http://data.judaicalink.org/data/dbpedia/Mikhail_Gurevich_(chess_player)> a foaf:Person ;
+    jl:hasLabel "Michail Goerevitsj@nl",
+        "Michail Naumovič Gurevič@it",
+        "Michail Naumowitsch Gurewitsch@de",
+        "Michaił Gurewicz@pl",
+        "Mijaíl Naumóvich Gurévich@es",
+        "Mikhail Gurevich (chess player)@en",
+        "Mikhail Gurevich@pt",
+        "Mikhaïl Gourevitch (joueur d'échecs)@fr",
+        "Гуревич, Михаил Наумович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Mikhail_Gurevich_(chess_player)>,
+        <http://de.dbpedia.org/resource/Michail_Naumowitsch_Gurewitsch>,
+        <http://es.dbpedia.org/resource/Mijaíl_Naumóvich_Gurévich>,
+        <http://fr.dbpedia.org/resource/Mikhaïl_Gourevitch_(joueur_d'échecs)>,
+        <http://it.dbpedia.org/resource/Michail_Naumovič_Gurevič>,
+        <http://nl.dbpedia.org/resource/Michail_Goerevitsj>,
+        <http://pl.dbpedia.org/resource/Michaił_Gurewicz>,
+        <http://pt.dbpedia.org/resource/Mikhail_Gurevich>,
+        <http://rdf.freebase.com/ns/m.0262s5p>,
+        <http://wikidata.dbpedia.org/resource/Q506493>,
+        <http://www.wikidata.org/entity/Q506493>,
+        <http://yago-knowledge.org/resource/Mikhail_Gurevich_(chess_player)> .
+
+<http://data.judaicalink.org/data/dbpedia/Mikhail_Yudovich> a foaf:Person ;
+    jl:hasLabel "Mikhail Yudovich@en",
+        "Mikhaïl Ioudovitch@fr",
+        "Юдович, Михаил Михайлович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Mikhail_Yudovich>,
+        <http://fr.dbpedia.org/resource/Mikhaïl_Ioudovitch>,
+        <http://rdf.freebase.com/ns/m.03ckwm0>,
+        <http://viaf.org/viaf/70344574>,
+        <http://wikidata.dbpedia.org/resource/Q3821634>,
+        <http://www.wikidata.org/entity/Q3821634>,
+        <http://yago-knowledge.org/resource/Mikhail_Yudovich> .
+
+<http://data.judaicalink.org/data/dbpedia/Milton_Hanauer> a foaf:Person ;
+    jl:hasLabel "Milton Hanauer@en",
+        "Ханауэр, Милтон@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Milton_Hanauer>,
+        <http://rdf.freebase.com/ns/m.04gqclm>,
+        <http://wikidata.dbpedia.org/resource/Q4495397>,
+        <http://www.wikidata.org/entity/Q4495397>,
+        <http://yago-knowledge.org/resource/Milton_Hanauer> .
+
+<http://data.judaicalink.org/data/dbpedia/Mirko_Bröder> a foaf:Person ;
+    jl:hasLabel "Mirko Bröder@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Mirko_Bröder>,
+        <http://rdf.freebase.com/ns/m.04qb7n8>,
+        <http://wikidata.dbpedia.org/resource/Q6873661>,
+        <http://www.wikidata.org/entity/Q6873661>,
+        <http://yago-knowledge.org/resource/Mirko_Bröder> .
+
+<http://data.judaicalink.org/data/dbpedia/Moritz_Lewitt> a foaf:Person ;
+    jl:hasLabel "Moritz Lewitt@de",
+        "Moritz Lewitt@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Moritz_Lewitt>,
+        <http://de.dbpedia.org/resource/Moritz_Lewitt>,
+        <http://rdf.freebase.com/ns/m.03wh081>,
+        <http://wikidata.dbpedia.org/resource/Q75302>,
+        <http://www.wikidata.org/entity/Q75302>,
+        <http://yago-knowledge.org/resource/Moritz_Lewitt> .
+
+<http://data.judaicalink.org/data/dbpedia/Morris_Schapiro> a foaf:Person ;
+    jl:hasLabel "Morris Schapiro@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Morris_Schapiro>,
+        <http://rdf.freebase.com/ns/m.043kljl>,
+        <http://wikidata.dbpedia.org/resource/Q16013742>,
+        <http://www.wikidata.org/entity/Q16013742>,
+        <http://yago-knowledge.org/resource/Morris_Schapiro> .
+
+<http://data.judaicalink.org/data/dbpedia/Moshe_Czerniak> a foaf:Person ;
+    jl:hasLabel "Moshe Czerniak@de",
+        "Moshe Czerniak@en",
+        "Moshe Czerniak@fr",
+        "Moshe Czerniak@nl",
+        "Mosze Czerniak@pl",
+        "Черняк, Моше@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Moshe_Czerniak>,
+        <http://de.dbpedia.org/resource/Moshe_Czerniak>,
+        <http://fr.dbpedia.org/resource/Moshe_Czerniak>,
+        <http://nl.dbpedia.org/resource/Moshe_Czerniak>,
+        <http://pl.dbpedia.org/resource/Mosze_Czerniak>,
+        <http://rdf.freebase.com/ns/m.0ds0gt>,
+        <http://wikidata.dbpedia.org/resource/Q1591784>,
+        <http://www.wikidata.org/entity/Q1591784>,
+        <http://yago-knowledge.org/resource/Moshe_Czerniak> .
+
+<http://data.judaicalink.org/data/dbpedia/Movsas_Feigins> a foaf:Person ;
+    jl:hasLabel "Movsas Feigins@en",
+        "Фейгин, Мовша@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Movsas_Feigins>,
+        <http://rdf.freebase.com/ns/m.0fjh92>,
+        <http://wikidata.dbpedia.org/resource/Q2026419>,
+        <http://www.wikidata.org/entity/Q2026419>,
+        <http://yago-knowledge.org/resource/Movsas_Feigins> .
+
+<http://data.judaicalink.org/data/dbpedia/N._Koppelman> a foaf:Person ;
+    jl:hasLabel "N. Koppelman@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/N._Koppelman>,
+        <http://rdf.freebase.com/ns/m.04fzy6j>,
+        <http://wikidata.dbpedia.org/resource/Q6951689>,
+        <http://www.wikidata.org/entity/Q6951689>,
+        <http://yago-knowledge.org/resource/N._Koppelman> .
+
+<http://data.judaicalink.org/data/dbpedia/Nathan_Divinsky> a foaf:Person ;
+    jl:hasLabel "Nathan Divinsky@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Nathan_Divinsky>,
+        <http://rdf.freebase.com/ns/m.0389p4>,
+        <http://wikidata.dbpedia.org/resource/Q719802>,
+        <http://www.wikidata.org/entity/Q719802>,
+        <http://yago-knowledge.org/resource/Nathan_Divinsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Naum_Levin> a foaf:Person ;
+    jl:hasLabel "Naum Levin@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Naum_Levin>,
+        <http://rdf.freebase.com/ns/m.05c3vjr>,
+        <http://wikidata.dbpedia.org/resource/Q16093921>,
+        <http://www.wikidata.org/entity/Q16093921>,
+        <http://yago-knowledge.org/resource/Naum_Levin> .
+
+<http://data.judaicalink.org/data/dbpedia/Nava_Starr> a foaf:Person ;
+    jl:hasLabel "Nava Starr@de",
+        "Nava Starr@en",
+        "Nava Starr@pl",
+        "Старр, Нава@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Nava_Starr>,
+        <http://de.dbpedia.org/resource/Nava_Starr>,
+        <http://pl.dbpedia.org/resource/Nava_Starr>,
+        <http://rdf.freebase.com/ns/m.03w8pm>,
+        <http://wikidata.dbpedia.org/resource/Q520615>,
+        <http://www.wikidata.org/entity/Q520615>,
+        <http://yago-knowledge.org/resource/Nava_Starr> .
+
+<http://data.judaicalink.org/data/dbpedia/Nicolai_Jasnogrodsky> a foaf:Person ;
+    jl:hasLabel "Nicolai Jasnogrodsky@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Nicolai_Jasnogrodsky>,
+        <http://rdf.freebase.com/ns/m.0406clc>,
+        <http://wikidata.dbpedia.org/resource/Q12409875>,
+        <http://www.wikidata.org/entity/Q12409875>,
+        <http://yago-knowledge.org/resource/Nicolai_Jasnogrodsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Oscar_Chajes> a foaf:Person ;
+    jl:hasLabel "Oscar Chajes@de",
+        "Oscar Chajes@en",
+        "Oscar Chajes@es" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Oscar_Chajes>,
+        <http://de.dbpedia.org/resource/Oscar_Chajes>,
+        <http://es.dbpedia.org/resource/Oscar_Chajes>,
+        <http://rdf.freebase.com/ns/m.0b4xf1>,
+        <http://wikidata.dbpedia.org/resource/Q428396>,
+        <http://www.wikidata.org/entity/Q428396>,
+        <http://yago-knowledge.org/resource/Oscar_Chajes> .
+
+<http://data.judaicalink.org/data/dbpedia/Oskar_Piotrowski_(chess_player)> a foaf:Person ;
+    jl:hasLabel "Oskar Piotrowski (chess player)@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Oskar_Piotrowski_(chess_player)>,
+        <http://rdf.freebase.com/ns/m.0b7682g>,
+        <http://wikidata.dbpedia.org/resource/Q7106935>,
+        <http://www.wikidata.org/entity/Q7106935> .
+
+<http://data.judaicalink.org/data/dbpedia/Ossip_Bernstein> a foaf:Person ;
+    jl:hasLabel "Ossip Bernstein@de",
+        "Ossip Bernstein@en",
+        "Ossip Bernstein@es",
+        "Ossip Bernstein@fr",
+        "Ossip Bernstein@it",
+        "Ossip Bernstein@nl",
+        "Ossip Bernstein@pl",
+        "Ossip Bernstein@pt",
+        "Бернштейн, Осип Самойлович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Ossip_Bernstein>,
+        <http://de.dbpedia.org/resource/Ossip_Bernstein>,
+        <http://es.dbpedia.org/resource/Ossip_Bernstein>,
+        <http://fr.dbpedia.org/resource/Ossip_Bernstein>,
+        <http://it.dbpedia.org/resource/Ossip_Bernstein>,
+        <http://nl.dbpedia.org/resource/Ossip_Bernstein>,
+        <http://pl.dbpedia.org/resource/Ossip_Bernstein>,
+        <http://pt.dbpedia.org/resource/Ossip_Bernstein>,
+        <http://rdf.freebase.com/ns/m.05ddmc>,
+        <http://viaf.org/viaf/37078196>,
+        <http://wikidata.dbpedia.org/resource/Q470169>,
+        <http://www.wikidata.org/entity/Q470169>,
+        <http://yago-knowledge.org/resource/Ossip_Bernstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Patrick_Wolff> a foaf:Person ;
+    jl:hasLabel "Patrick Wolff@en",
+        "Patrick Wolff@it",
+        "Patrick Wolff@pl",
+        "Волфф, Патрик@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Patrick_Wolff>,
+        <http://it.dbpedia.org/resource/Patrick_Wolff>,
+        <http://pl.dbpedia.org/resource/Patrick_Wolff>,
+        <http://rdf.freebase.com/ns/m.06tkdx>,
+        <http://viaf.org/viaf/39694176>,
+        <http://wikidata.dbpedia.org/resource/Q1640809>,
+        <http://www.wikidata.org/entity/Q1640809>,
+        <http://yago-knowledge.org/resource/Patrick_Wolff> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Klein_(chess_player)> a foaf:Person ;
+    jl:hasLabel "Paul Klein (chess player)@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Paul_Klein_(chess_player)>,
+        <http://rdf.freebase.com/ns/m.04gn2h2>,
+        <http://wikidata.dbpedia.org/resource/Q7151808>,
+        <http://www.wikidata.org/entity/Q7151808>,
+        <http://yago-knowledge.org/resource/Paul_Klein_(chess_player)> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Saladin_Leonhardt> a foaf:Person ;
+    jl:hasLabel "Paul Saladin Leonhardt@de",
+        "Paul Saladin Leonhardt@en",
+        "Paul Saladin Leonhardt@fr",
+        "Paul Saladin Leonhardt@it",
+        "Paul Saladin Leonhardt@pt",
+        "Леонгардт, Пауль Саладин@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Paul_Saladin_Leonhardt>,
+        <http://de.dbpedia.org/resource/Paul_Saladin_Leonhardt>,
+        <http://fr.dbpedia.org/resource/Paul_Saladin_Leonhardt>,
+        <http://it.dbpedia.org/resource/Paul_Saladin_Leonhardt>,
+        <http://pt.dbpedia.org/resource/Paul_Saladin_Leonhardt>,
+        <http://rdf.freebase.com/ns/m.0dlmg6>,
+        <http://viaf.org/viaf/281165354>,
+        <http://wikidata.dbpedia.org/resource/Q66451>,
+        <http://www.wikidata.org/entity/Q66451>,
+        <http://yago-knowledge.org/resource/Paul_Saladin_Leonhardt> .
+
+<http://data.judaicalink.org/data/dbpedia/Paulette_Schwartzmann> a foaf:Person ;
+    jl:hasLabel "Paulette Schwartzmann@de",
+        "Paulette Schwartzmann@en",
+        "Paulette Schwartzmann@fr",
+        "Шварцман, Полетт@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Paulette_Schwartzmannová>,
+        <http://dbpedia.org/resource/Paulette_Schwartzmann>,
+        <http://de.dbpedia.org/resource/Paulette_Schwartzmann>,
+        <http://fr.dbpedia.org/resource/Paulette_Schwartzmann>,
+        <http://rdf.freebase.com/ns/m.0285pv2>,
+        <http://wikidata.dbpedia.org/resource/Q2944905>,
+        <http://www.wikidata.org/entity/Q2944905>,
+        <http://yago-knowledge.org/resource/Paulette_Schwartzmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Paulino_Frydman> a foaf:Person ;
+    jl:hasLabel "Paulin Frydman@fr",
+        "Paulin Frydman@pl",
+        "Paulin Frydman@pt",
+        "Paulino Frydman@de",
+        "Paulino Frydman@en",
+        "Paulino Frydman@es",
+        "Фридман, Паулино@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Paulino_Frydman>,
+        <http://de.dbpedia.org/resource/Paulino_Frydman>,
+        <http://es.dbpedia.org/resource/Paulino_Frydman>,
+        <http://fr.dbpedia.org/resource/Paulin_Frydman>,
+        <http://pl.dbpedia.org/resource/Paulin_Frydman>,
+        <http://pt.dbpedia.org/resource/Paulin_Frydman>,
+        <http://rdf.freebase.com/ns/m.0dc40l>,
+        <http://wikidata.dbpedia.org/resource/Q1252528>,
+        <http://www.wikidata.org/entity/Q1252528>,
+        <http://yago-knowledge.org/resource/Paulino_Frydman> .
+
+<http://data.judaicalink.org/data/dbpedia/Philipp_Meitner> a foaf:Person ;
+    jl:hasLabel "Philipp Meitner@de",
+        "Philipp Meitner@en",
+        "Мейтнер, Филипп@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Philipp_Meitner>,
+        <http://de.dbpedia.org/resource/Philipp_Meitner>,
+        <http://rdf.freebase.com/ns/m.0405wwm>,
+        <http://viaf.org/viaf/81090541>,
+        <http://wikidata.dbpedia.org/resource/Q264630>,
+        <http://www.wikidata.org/entity/Q264630>,
+        <http://yago-knowledge.org/resource/Philipp_Meitner> .
+
+<http://data.judaicalink.org/data/dbpedia/Rafał_Feinmesser> a foaf:Person ;
+    jl:hasLabel "Rafał Feinmesser@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Rafał_Feinmesser>,
+        <http://rdf.freebase.com/ns/m.03qjzhs>,
+        <http://wikidata.dbpedia.org/resource/Q7282430>,
+        <http://www.wikidata.org/entity/Q7282430>,
+        <http://yago-knowledge.org/resource/Rafał_Feinmesser> .
+
+<http://data.judaicalink.org/data/dbpedia/Ram_Soffer> a foaf:Person ;
+    jl:hasLabel "Ram Soffer@en",
+        "Ram Soffer@nl",
+        "Ram Soffer@pl",
+        "Соффер, Рам@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Ram_Soffer>,
+        <http://nl.dbpedia.org/resource/Ram_Soffer>,
+        <http://pl.dbpedia.org/resource/Ram_Soffer>,
+        <http://rdf.freebase.com/ns/m.04f1sjf>,
+        <http://wikidata.dbpedia.org/resource/Q2602082>,
+        <http://www.wikidata.org/entity/Q2602082>,
+        <http://yago-knowledge.org/resource/Ram_Soffer> .
+
+<http://data.judaicalink.org/data/dbpedia/Reuben_Fine> a foaf:Person ;
+    jl:hasLabel "Reuben Fine@de",
+        "Reuben Fine@en",
+        "Reuben Fine@es",
+        "Reuben Fine@fr",
+        "Reuben Fine@it",
+        "Reuben Fine@nl",
+        "Reuben Fine@pl",
+        "Reuben Fine@pt",
+        "Файн, Ройбен@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Reuben_Fine>,
+        <http://dbpedia.org/resource/Reuben_Fine>,
+        <http://de.dbpedia.org/resource/Reuben_Fine>,
+        <http://es.dbpedia.org/resource/Reuben_Fine>,
+        <http://fr.dbpedia.org/resource/Reuben_Fine>,
+        <http://id.dbpedia.org/resource/Reuben_Fine>,
+        <http://it.dbpedia.org/resource/Reuben_Fine>,
+        <http://nl.dbpedia.org/resource/Reuben_Fine>,
+        <http://pl.dbpedia.org/resource/Reuben_Fine>,
+        <http://pt.dbpedia.org/resource/Reuben_Fine>,
+        <http://rdf.freebase.com/ns/m.023vkw>,
+        <http://viaf.org/viaf/108191918>,
+        <http://wikidata.dbpedia.org/resource/Q352418>,
+        <http://www.wikidata.org/entity/Q352418>,
+        <http://yago-knowledge.org/resource/Reuben_Fine> .
+
+<http://data.judaicalink.org/data/dbpedia/Richard_Réti> a foaf:Person ;
+    jl:hasLabel "Richard Réti@de",
+        "Richard Réti@en",
+        "Richard Réti@es",
+        "Richard Réti@fr",
+        "Richard Réti@it",
+        "Richard Réti@pl",
+        "Richard Réti@pt",
+        "Richárd Réti@nl",
+        "Рети, Рихард@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Richard_Réti>,
+        <http://dbpedia.org/resource/Richard_Réti>,
+        <http://de.dbpedia.org/resource/Richard_Réti>,
+        <http://el.dbpedia.org/resource/Ριχάρδος_Ρέτι>,
+        <http://es.dbpedia.org/resource/Richard_Réti>,
+        <http://fr.dbpedia.org/resource/Richard_Réti>,
+        <http://it.dbpedia.org/resource/Richard_Réti>,
+        <http://nl.dbpedia.org/resource/Richárd_Réti>,
+        <http://pl.dbpedia.org/resource/Richard_Réti>,
+        <http://pt.dbpedia.org/resource/Richard_Réti>,
+        <http://rdf.freebase.com/ns/m.03vgst>,
+        <http://wikidata.dbpedia.org/resource/Q312985>,
+        <http://www.wikidata.org/entity/Q312985>,
+        <http://yago-knowledge.org/resource/Richard_Réti> .
+
+<http://data.judaicalink.org/data/dbpedia/Roman_Pelts> a foaf:Person ;
+    jl:hasLabel "Roman Pelts@en",
+        "Пельц, Роман Шлёмович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Roman_Pelts>,
+        <http://rdf.freebase.com/ns/m.05y8x0r>,
+        <http://wikidata.dbpedia.org/resource/Q4348358>,
+        <http://www.wikidata.org/entity/Q4348358>,
+        <http://yago-knowledge.org/resource/Roman_Pelts> .
+
+<http://data.judaicalink.org/data/dbpedia/Rudolf_Loman> a foaf:Person ;
+    jl:hasLabel "Rudolf Loman@de",
+        "Rudolf Loman@en",
+        "Rudolf Loman@es",
+        "Rudolf Loman@nl",
+        "Ломан, Рюдолф@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Rudolf_Loman>,
+        <http://de.dbpedia.org/resource/Rudolf_Loman>,
+        <http://es.dbpedia.org/resource/Rudolf_Loman>,
+        <http://nl.dbpedia.org/resource/Rudolf_Loman>,
+        <http://rdf.freebase.com/ns/m.03cmb7j>,
+        <http://viaf.org/viaf/281151754>,
+        <http://wikidata.dbpedia.org/resource/Q713226>,
+        <http://www.wikidata.org/entity/Q713226>,
+        <http://yago-knowledge.org/resource/Rudolf_Loman> .
+
+<http://data.judaicalink.org/data/dbpedia/Rudolf_Spielmann> a foaf:Person ;
+    jl:hasLabel "Rudolf Spielmann@de",
+        "Rudolf Spielmann@en",
+        "Rudolf Spielmann@es",
+        "Rudolf Spielmann@fr",
+        "Rudolf Spielmann@it",
+        "Rudolf Spielmann@nl",
+        "Rudolf Spielmann@pl",
+        "Rudolph Spielmann@pt",
+        "Шпильман, Рудольф@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Rudolf_Spielmann>,
+        <http://de.dbpedia.org/resource/Rudolf_Spielmann>,
+        <http://es.dbpedia.org/resource/Rudolf_Spielmann>,
+        <http://fr.dbpedia.org/resource/Rudolf_Spielmann>,
+        <http://it.dbpedia.org/resource/Rudolf_Spielmann>,
+        <http://nl.dbpedia.org/resource/Rudolf_Spielmann>,
+        <http://pl.dbpedia.org/resource/Rudolf_Spielmann>,
+        <http://pt.dbpedia.org/resource/Rudolph_Spielmann>,
+        <http://rdf.freebase.com/ns/m.04y_w9>,
+        <http://wikidata.dbpedia.org/resource/Q93575>,
+        <http://www.wikidata.org/entity/Q93575>,
+        <http://yago-knowledge.org/resource/Rudolf_Spielmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Róża_Herman> a foaf:Person ;
+    jl:hasLabel "Róża Herman@en",
+        "Róża Herman@pl",
+        "Германова, Роза Мария@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Róża_Hermanowá>,
+        <http://dbpedia.org/resource/Róża_Herman>,
+        <http://pl.dbpedia.org/resource/Róża_Herman>,
+        <http://rdf.freebase.com/ns/m.02886pr>,
+        <http://wikidata.dbpedia.org/resource/Q3784930>,
+        <http://www.wikidata.org/entity/Q3784930>,
+        <http://yago-knowledge.org/resource/Róża_Herman> .
+
+<http://data.judaicalink.org/data/dbpedia/Salo_Finkelstein> a foaf:Person ;
+    jl:hasLabel "Salo Finkelstein@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Salo_Finkelstein>,
+        <http://rdf.freebase.com/ns/m.0bk_c7>,
+        <http://wikidata.dbpedia.org/resource/Q16198141>,
+        <http://www.wikidata.org/entity/Q16198141>,
+        <http://yago-knowledge.org/resource/Salo_Finkelstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Salo_Flohr> a foaf:Person ;
+    jl:hasLabel "Salo Flohr@de",
+        "Salo Flohr@en",
+        "Salo Flohr@fr",
+        "Salo Flohr@it",
+        "Salo Flohr@nl",
+        "Salo Flohr@pt",
+        "Salomon Flohr@es",
+        "Salomon Flohr@pl",
+        "Флор, Саломон Михайлович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Salo_Flohr>,
+        <http://dbpedia.org/resource/Salo_Flohr>,
+        <http://de.dbpedia.org/resource/Salo_Flohr>,
+        <http://es.dbpedia.org/resource/Salomon_Flohr>,
+        <http://fr.dbpedia.org/resource/Salo_Flohr>,
+        <http://it.dbpedia.org/resource/Salo_Flohr>,
+        <http://nl.dbpedia.org/resource/Salo_Flohr>,
+        <http://pl.dbpedia.org/resource/Salomon_Flohr>,
+        <http://pt.dbpedia.org/resource/Salo_Flohr>,
+        <http://rdf.freebase.com/ns/m.02x441>,
+        <http://viaf.org/viaf/15297622>,
+        <http://wikidata.dbpedia.org/resource/Q317890>,
+        <http://www.wikidata.org/entity/Q317890>,
+        <http://yago-knowledge.org/resource/Salo_Flohr> .
+
+<http://data.judaicalink.org/data/dbpedia/Salomon_Langleben> a foaf:Person ;
+    jl:hasLabel "Salomon Langleben@en",
+        "Salomon Langleben@pl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Salomon_Langleben>,
+        <http://pl.dbpedia.org/resource/Salomon_Langleben>,
+        <http://rdf.freebase.com/ns/m.02vrwyl>,
+        <http://wikidata.dbpedia.org/resource/Q2899885>,
+        <http://www.wikidata.org/entity/Q2899885>,
+        <http://yago-knowledge.org/resource/Salomon_Langleben> .
+
+<http://data.judaicalink.org/data/dbpedia/Salomon_Szapiro> a foaf:Person ;
+    jl:hasLabel "Salomon Szapiro@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Salomon_Szapiro>,
+        <http://rdf.freebase.com/ns/m.0523xrd>,
+        <http://wikidata.dbpedia.org/resource/Q7405644>,
+        <http://www.wikidata.org/entity/Q7405644>,
+        <http://yago-knowledge.org/resource/Salomon_Szapiro> .
+
+<http://data.judaicalink.org/data/dbpedia/Samuel_Mieses> a foaf:Person ;
+    jl:hasLabel "Samuel Mieses@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Samuel_Mieses>,
+        <http://rdf.freebase.com/ns/m.03yk4cj>,
+        <http://wikidata.dbpedia.org/resource/Q7412199>,
+        <http://www.wikidata.org/entity/Q7412199>,
+        <http://yago-knowledge.org/resource/Samuel_Mieses> .
+
+<http://data.judaicalink.org/data/dbpedia/Samuil_Vainshtein> a foaf:Person ;
+    jl:hasLabel "Samuil Vainshtein@en",
+        "Вайнштейн, Самуил Осипович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Samuil_Vainshtein>,
+        <http://rdf.freebase.com/ns/m.047db4y>,
+        <http://viaf.org/viaf/78395745>,
+        <http://wikidata.dbpedia.org/resource/Q4102527>,
+        <http://www.wikidata.org/entity/Q4102527>,
+        <http://yago-knowledge.org/resource/Samuil_Vainshtein> .
+
+<http://data.judaicalink.org/data/dbpedia/Savielly_Tartakower> a foaf:Person ;
+    jl:hasLabel "Ksawery Tartakower@pl",
+        "Savelij Grigor'evič Tartakover@it",
+        "Savielly Tartakower@de",
+        "Savielly Tartakower@en",
+        "Savielly Tartakower@es",
+        "Savielly Tartakower@pt",
+        "Sawielly Tartakower@nl",
+        "Xavier Tartakover@fr",
+        "Тартаковер, Савелий Григорьевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Savielly_Tartakower>,
+        <http://dbpedia.org/resource/Savielly_Tartakower>,
+        <http://de.dbpedia.org/resource/Savielly_Tartakower>,
+        <http://es.dbpedia.org/resource/Savielly_Tartakower>,
+        <http://fr.dbpedia.org/resource/Xavier_Tartakover>,
+        <http://it.dbpedia.org/resource/Savelij_Grigor'evič_Tartakover>,
+        <http://nl.dbpedia.org/resource/Sawielly_Tartakower>,
+        <http://pl.dbpedia.org/resource/Ksawery_Tartakower>,
+        <http://pt.dbpedia.org/resource/Savielly_Tartakower>,
+        <http://rdf.freebase.com/ns/m.02hrm7>,
+        <http://viaf.org/viaf/46767749>,
+        <http://wikidata.dbpedia.org/resource/Q161135>,
+        <http://www.wikidata.org/entity/Q161135>,
+        <http://yago-knowledge.org/resource/Savielly_Tartakower> .
+
+<http://data.judaicalink.org/data/dbpedia/Semyon_Alapin> a foaf:Person ;
+    jl:hasLabel "Semion Alapin@nl",
+        "Semion Alapine@fr",
+        "Semyon Alapin@en",
+        "Semyon Alapin@pt",
+        "Semën Zinov'evič Alapin@it",
+        "Siemion Ałapin@pl",
+        "Simon Sinowjewitsch Alapin@de",
+        "Simón Alapín@es",
+        "Алапин, Семён Зиновьевич@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Semjon_Zinovjevič_Alapin>,
+        <http://dbpedia.org/resource/Semyon_Alapin>,
+        <http://de.dbpedia.org/resource/Simon_Sinowjewitsch_Alapin>,
+        <http://es.dbpedia.org/resource/Simón_Alapín>,
+        <http://fr.dbpedia.org/resource/Semion_Alapine>,
+        <http://it.dbpedia.org/resource/Semën_Zinov'evič_Alapin>,
+        <http://nl.dbpedia.org/resource/Semion_Alapin>,
+        <http://pl.dbpedia.org/resource/Siemion_Ałapin>,
+        <http://pt.dbpedia.org/resource/Semyon_Alapin>,
+        <http://rdf.freebase.com/ns/m.05z9hc>,
+        <http://wikidata.dbpedia.org/resource/Q371391>,
+        <http://www.wikidata.org/entity/Q371391>,
+        <http://yago-knowledge.org/resource/Semyon_Alapin> .
+
+<http://data.judaicalink.org/data/dbpedia/Serge_Rubanraut> a foaf:Person ;
+    jl:hasLabel "Serge Rubanraut@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Serge_Rubanraut>,
+        <http://rdf.freebase.com/ns/m.058rd2d>,
+        <http://wikidata.dbpedia.org/resource/Q7453351>,
+        <http://www.wikidata.org/entity/Q7453351>,
+        <http://yago-knowledge.org/resource/Serge_Rubanraut> .
+
+<http://data.judaicalink.org/data/dbpedia/Shimon_Kagan> a foaf:Person ;
+    jl:hasLabel "Shimon Kagan@en",
+        "Каган, Шимон@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Shimon_Kagan>,
+        <http://rdf.freebase.com/ns/m.026ghk4>,
+        <http://wikidata.dbpedia.org/resource/Q4207104>,
+        <http://www.wikidata.org/entity/Q4207104>,
+        <http://yago-knowledge.org/resource/Shimon_Kagan> .
+
+<http://data.judaicalink.org/data/dbpedia/Siegbert_Tarrasch> a foaf:Person ;
+    jl:hasLabel "Siegbert Tarrasch@de",
+        "Siegbert Tarrasch@en",
+        "Siegbert Tarrasch@es",
+        "Siegbert Tarrasch@fr",
+        "Siegbert Tarrasch@it",
+        "Siegbert Tarrasch@nl",
+        "Siegbert Tarrasch@pl",
+        "Siegbert Tarrasch@pt",
+        "Тарраш, Зигберт@ru",
+        "ジークベルト・タラッシュ@ja" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Siegbert_Tarrasch>,
+        <http://dbpedia.org/resource/Siegbert_Tarrasch>,
+        <http://de.dbpedia.org/resource/Siegbert_Tarrasch>,
+        <http://es.dbpedia.org/resource/Siegbert_Tarrasch>,
+        <http://fr.dbpedia.org/resource/Siegbert_Tarrasch>,
+        <http://it.dbpedia.org/resource/Siegbert_Tarrasch>,
+        <http://ja.dbpedia.org/resource/ジークベルト・タラッシュ>,
+        <http://nl.dbpedia.org/resource/Siegbert_Tarrasch>,
+        <http://pl.dbpedia.org/resource/Siegbert_Tarrasch>,
+        <http://pt.dbpedia.org/resource/Siegbert_Tarrasch>,
+        <http://rdf.freebase.com/ns/m.02knzg>,
+        <http://viaf.org/viaf/12315551>,
+        <http://wikidata.dbpedia.org/resource/Q76558>,
+        <http://www.wikidata.org/entity/Q76558>,
+        <http://yago-knowledge.org/resource/Siegbert_Tarrasch> .
+
+<http://data.judaicalink.org/data/dbpedia/Siegfried_Reginald_Wolf> a foaf:Person ;
+    jl:hasLabel "Siegfried Reginald Wolf@de",
+        "Siegfried Reginald Wolf@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Siegfried_Wolf>,
+        <http://dbpedia.org/resource/Siegfried_Reginald_Wolf>,
+        <http://de.dbpedia.org/resource/Siegfried_Reginald_Wolf>,
+        <http://rdf.freebase.com/ns/m.02rtm05>,
+        <http://wikidata.dbpedia.org/resource/Q216587>,
+        <http://www.wikidata.org/entity/Q216587>,
+        <http://yago-knowledge.org/resource/Siegfried_Reginald_Wolf> .
+
+<http://data.judaicalink.org/data/dbpedia/Siegmund_Beutum> a foaf:Person ;
+    jl:hasLabel "Siegmund Beutum@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Siegmund_Beutum>,
+        <http://rdf.freebase.com/ns/m.051wb8s>,
+        <http://wikidata.dbpedia.org/resource/Q7510732>,
+        <http://www.wikidata.org/entity/Q7510732>,
+        <http://yago-knowledge.org/resource/Siegmund_Beutum> .
+
+<http://data.judaicalink.org/data/dbpedia/Sofia_Polgar> a foaf:Person ;
+    jl:hasLabel "Sofia Polgar@en",
+        "Sofia Polgar@nl",
+        "Sofia Polgár@pt",
+        "Zsófia Polgár@de",
+        "Zsófia Polgár@es",
+        "Zsófia Polgár@fr",
+        "Zsófia Polgár@pl",
+        "Полгар, София@ru",
+        "波尔加·索非亚@zh" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Sofia_Polgar>,
+        <http://de.dbpedia.org/resource/Zsófia_Polgár>,
+        <http://es.dbpedia.org/resource/Zsófia_Polgár>,
+        <http://fr.dbpedia.org/resource/Zsófia_Polgár>,
+        <http://nl.dbpedia.org/resource/Sofia_Polgar>,
+        <http://pl.dbpedia.org/resource/Zsófia_Polgár>,
+        <http://pt.dbpedia.org/resource/Sofia_Polgár>,
+        <http://rdf.freebase.com/ns/m.05c8gb>,
+        <http://wikidata.dbpedia.org/resource/Q155388>,
+        <http://www.wikidata.org/entity/Q155388>,
+        <http://yago-knowledge.org/resource/Sofia_Polgar> .
+
+<http://data.judaicalink.org/data/dbpedia/Solomon_Globus> a foaf:Person ;
+    jl:hasLabel "Solomon Globus@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Solomon_Globus>,
+        <http://rdf.freebase.com/ns/m.05mz_jz>,
+        <http://wikidata.dbpedia.org/resource/Q7558610>,
+        <http://www.wikidata.org/entity/Q7558610>,
+        <http://yago-knowledge.org/resource/Solomon_Globus> .
+
+<http://data.judaicalink.org/data/dbpedia/Solomon_Gotthilf> a foaf:Person ;
+    jl:hasLabel "Solomon Gotthilf@en",
+        "Готгильф, Соломон Борисович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Solomon_Gotthilf>,
+        <http://rdf.freebase.com/ns/m.04q8_jr>,
+        <http://wikidata.dbpedia.org/resource/Q4147032>,
+        <http://www.wikidata.org/entity/Q4147032>,
+        <http://yago-knowledge.org/resource/Solomon_Gotthilf> .
+
+<http://data.judaicalink.org/data/dbpedia/Solomon_Rosenthal> a foaf:Person ;
+    jl:hasLabel "Solomon Rosenthal@en",
+        "Розенталь, Соломон Конрадович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Solomon_Rosenthal>,
+        <http://rdf.freebase.com/ns/m.03cf_m_>,
+        <http://wikidata.dbpedia.org/resource/Q2026058>,
+        <http://www.wikidata.org/entity/Q2026058>,
+        <http://yago-knowledge.org/resource/Solomon_Rosenthal> .
+
+<http://data.judaicalink.org/data/dbpedia/Solomon_Rubinstein> a foaf:Person ;
+    jl:hasLabel "Solomon Rubinstein@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Solomon_Rubinstein>,
+        <http://rdf.freebase.com/ns/m.0b75nbz>,
+        <http://wikidata.dbpedia.org/resource/Q7558732>,
+        <http://www.wikidata.org/entity/Q7558732>,
+        <http://yago-knowledge.org/resource/Solomon_Rubinstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Stanislaus_Sittenfeld> a foaf:Person ;
+    jl:hasLabel "Stanislaus Sittenfeld@en",
+        "Stanislaus Sittenfeld@fr",
+        "Stanisław Sittenfeld@pl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Stanislaus_Sittenfeld>,
+        <http://fr.dbpedia.org/resource/Stanislaus_Sittenfeld>,
+        <http://pl.dbpedia.org/resource/Stanisław_Sittenfeld>,
+        <http://rdf.freebase.com/ns/m.0287w5g>,
+        <http://wikidata.dbpedia.org/resource/Q606151>,
+        <http://www.wikidata.org/entity/Q606151>,
+        <http://yago-knowledge.org/resource/Stanislaus_Sittenfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Susan_Polgar> a foaf:Person ;
+    jl:hasLabel "Susan Polgar@en",
+        "Susan Polgar@fr",
+        "Susan Polgar@nl",
+        "Susan Polgár@pt",
+        "Zsuzsa Polgár@de",
+        "Zsuzsa Polgár@es",
+        "Zsuzsa Polgár@it",
+        "Zsuzsa Polgár@pl",
+        "Полгар, Сьюзен@ru",
+        "波尔加·苏珊@zh" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Susan_Polgar>,
+        <http://dbpedia.org/resource/Susan_Polgar>,
+        <http://de.dbpedia.org/resource/Zsuzsa_Polgár>,
+        <http://el.dbpedia.org/resource/Ζούζα_Πόλγκαρ>,
+        <http://es.dbpedia.org/resource/Zsuzsa_Polgár>,
+        <http://eu.dbpedia.org/resource/Zsuzsa_Polgár>,
+        <http://fr.dbpedia.org/resource/Susan_Polgar>,
+        <http://id.dbpedia.org/resource/Susan_Polgar>,
+        <http://it.dbpedia.org/resource/Zsuzsa_Polgár>,
+        <http://nl.dbpedia.org/resource/Susan_Polgar>,
+        <http://pl.dbpedia.org/resource/Zsuzsa_Polgár>,
+        <http://pt.dbpedia.org/resource/Susan_Polgár>,
+        <http://rdf.freebase.com/ns/m.01htw_>,
+        <http://wikidata.dbpedia.org/resource/Q12823>,
+        <http://www.wikidata.org/entity/Q12823>,
+        <http://yago-knowledge.org/resource/Susan_Polgar> .
+
+<http://data.judaicalink.org/data/dbpedia/Teimour_Radjabov> a foaf:Person ;
+    jl:hasLabel "Teimour Radjabov@en",
+        "Teimour Radjabov@es",
+        "Teimour Radjabov@fr",
+        "Teimour Radjabov@nl",
+        "Teimour Radjabov@pt",
+        "Teymur Rəcəbov@de",
+        "Teymur Rəcəbov@it",
+        "Teymur Rəcəbov@pl",
+        "Раджабов, Теймур Борисович@ru",
+        "تيموررجبوف@ar" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Tejmur_Radžabov>,
+        <http://data.europa.eu/euodp/jrc-names/Teymour_Radjabov>,
+        <http://dbpedia.org/resource/Teimour_Radjabov>,
+        <http://de.dbpedia.org/resource/Teymur_Rəcəbov>,
+        <http://es.dbpedia.org/resource/Teimour_Radjabov>,
+        <http://fr.dbpedia.org/resource/Teimour_Radjabov>,
+        <http://it.dbpedia.org/resource/Teymur_Rəcəbov>,
+        <http://ko.dbpedia.org/resource/테이무어_라자보프>,
+        <http://nl.dbpedia.org/resource/Teimour_Radjabov>,
+        <http://pl.dbpedia.org/resource/Teymur_Rəcəbov>,
+        <http://pt.dbpedia.org/resource/Teimour_Radjabov>,
+        <http://rdf.freebase.com/ns/m.02cfdn>,
+        <http://wikidata.dbpedia.org/resource/Q211634>,
+        <http://www.wikidata.org/entity/Q211634>,
+        <http://yago-knowledge.org/resource/Teimour_Radjabov> .
+
+<http://data.judaicalink.org/data/dbpedia/Victor_Mikhalevski> a foaf:Person ;
+    jl:hasLabel "Victor Mikhalevski@en",
+        "Victor Mikhalevski@nl",
+        "Wiktor Michalewski@pl",
+        "Михалевский, Виктор Маркович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Victor_Mikhalevski>,
+        <http://nl.dbpedia.org/resource/Victor_Mikhalevski>,
+        <http://pl.dbpedia.org/resource/Wiktor_Michalewski>,
+        <http://rdf.freebase.com/ns/m.027z7gk>,
+        <http://wikidata.dbpedia.org/resource/Q2472255>,
+        <http://www.wikidata.org/entity/Q2472255>,
+        <http://yago-knowledge.org/resource/Victor_Mikhalevski> .
+
+<http://data.judaicalink.org/data/dbpedia/Victor_Winz> a foaf:Person ;
+    jl:hasLabel "Victor Winz@en",
+        "Винц, Виктор@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Victor_Winz>,
+        <http://rdf.freebase.com/ns/m.0h141r>,
+        <http://wikidata.dbpedia.org/resource/Q7926458>,
+        <http://www.wikidata.org/entity/Q7926458>,
+        <http://yago-knowledge.org/resource/Victor_Winz> .
+
+<http://data.judaicalink.org/data/dbpedia/Viktor_Korchnoi> a foaf:Person ;
+    jl:hasLabel "Viktor Korchnoi@en",
+        "Viktor Korchnoi@pt",
+        "Viktor Kortchnoï@fr",
+        "Viktor Kortschnoi@de",
+        "Viktor Kortsjnoj@nl",
+        "Viktor L'vovič Korčnoj@it",
+        "Víktor Korchnói@es",
+        "Wiktor Korcznoj@pl",
+        "Корчной, Виктор Львович@ru",
+        "فيكتوركورتشنوي@ar",
+        "ヴィクトール・コルチノイ@ja",
+        "维克多·科尔奇诺伊@zh" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Viktor_Korčnoj>,
+        <http://data.europa.eu/euodp/jrc-names/Viktor_Korchnoi>,
+        <http://data.nytimes.com/N52704246659262153063>,
+        <http://dbpedia.org/resource/Viktor_Korchnoi>,
+        <http://de.dbpedia.org/resource/Viktor_Kortschnoi>,
+        <http://es.dbpedia.org/resource/Víktor_Korchnói>,
+        <http://fr.dbpedia.org/resource/Viktor_Kortchnoï>,
+        <http://it.dbpedia.org/resource/Viktor_L'vovič_Korčnoj>,
+        <http://ja.dbpedia.org/resource/ヴィクトール・コルチノイ>,
+        <http://nl.dbpedia.org/resource/Viktor_Kortsjnoj>,
+        <http://pl.dbpedia.org/resource/Wiktor_Korcznoj>,
+        <http://pt.dbpedia.org/resource/Viktor_Korchnoi>,
+        <http://rdf.freebase.com/ns/m.01903y>,
+        <http://viaf.org/viaf/85798046>,
+        <http://wikidata.dbpedia.org/resource/Q212889>,
+        <http://www.wikidata.org/entity/Q212889>,
+        <http://yago-knowledge.org/resource/Viktor_Korchnoi> .
+
+<http://data.judaicalink.org/data/dbpedia/Vitali_Golod> a foaf:Person ;
+    jl:hasLabel "Vitali Golod@de",
+        "Vitali Golod@en",
+        "Vitali Golod@nl",
+        "Witalij Hołod@pl",
+        "Голод, Виталий@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Vitali_Golod>,
+        <http://de.dbpedia.org/resource/Vitali_Golod>,
+        <http://nl.dbpedia.org/resource/Vitali_Golod>,
+        <http://pl.dbpedia.org/resource/Witalij_Hołod>,
+        <http://rdf.freebase.com/ns/m.027z_fl>,
+        <http://wikidata.dbpedia.org/resource/Q1561350>,
+        <http://www.wikidata.org/entity/Q1561350>,
+        <http://yago-knowledge.org/resource/Vitali_Golod> .
+
+<http://data.judaicalink.org/data/dbpedia/Vitaly_Chekhover> a foaf:Person ;
+    jl:hasLabel "Vitali Tchekhover@fr",
+        "Vitalij Aleksandrovič Čechover@it",
+        "Vitaly Chekhover@en",
+        "Witali Alexandrowitsch Tschechower@de",
+        "Чеховер, Виталий Александрович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Vitaly_Chekhover>,
+        <http://de.dbpedia.org/resource/Witali_Alexandrowitsch_Tschechower>,
+        <http://fr.dbpedia.org/resource/Vitali_Tchekhover>,
+        <http://it.dbpedia.org/resource/Vitalij_Aleksandrovič_Čechover>,
+        <http://rdf.freebase.com/ns/m.0404m0q>,
+        <http://wikidata.dbpedia.org/resource/Q363772>,
+        <http://www.wikidata.org/entity/Q363772>,
+        <http://yago-knowledge.org/resource/Vitaly_Chekhover> .
+
+<http://data.judaicalink.org/data/dbpedia/Vitaly_Halberstadt> a foaf:Person ;
+    jl:hasLabel "Vitali Halberstadt@de",
+        "Vitaly Halberstadt@en",
+        "Vitaly Halberstadt@fr",
+        "Гальберштадт, Виталий Осипович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Vitaly_Halberstadt>,
+        <http://de.dbpedia.org/resource/Vitali_Halberstadt>,
+        <http://fr.dbpedia.org/resource/Vitaly_Halberstadt>,
+        <http://rdf.freebase.com/ns/m.03wb31z>,
+        <http://wikidata.dbpedia.org/resource/Q327577>,
+        <http://www.wikidata.org/entity/Q327577>,
+        <http://yago-knowledge.org/resource/Vitaly_Halberstadt> .
+
+<http://data.judaicalink.org/data/dbpedia/Vladimir_Bron> a foaf:Person ;
+    jl:hasLabel "Vladimir Bron@en",
+        "Vladimir Bron@it",
+        "Wladimir Akimowitsch Bron@de",
+        "Брон, Владимир Акимович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Vladimir_Bron>,
+        <http://de.dbpedia.org/resource/Wladimir_Akimowitsch_Bron>,
+        <http://it.dbpedia.org/resource/Vladimir_Bron>,
+        <http://rdf.freebase.com/ns/m.064l74c>,
+        <http://viaf.org/viaf/289155270>,
+        <http://wikidata.dbpedia.org/resource/Q348703>,
+        <http://www.wikidata.org/entity/Q348703>,
+        <http://yago-knowledge.org/resource/Vladimir_Bron> .
+
+<http://data.judaicalink.org/data/dbpedia/Vladimir_Tukmakov> a foaf:Person ;
+    jl:hasLabel "Vladimir Toekmakov@nl",
+        "Vladimir Toukmakov@fr",
+        "Vladimir Tukmakov@en",
+        "Vladimir Tukmakov@it",
+        "Wolodymyr Tukmakow@de",
+        "Wołodymyr Tukmakow@pl",
+        "Тукмаков, Владимир Борисович@ru",
+        "ウラジーミル・トゥクマコフ@ja" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Vladimir_Tukmakov>,
+        <http://de.dbpedia.org/resource/Wolodymyr_Tukmakow>,
+        <http://fr.dbpedia.org/resource/Vladimir_Toukmakov>,
+        <http://it.dbpedia.org/resource/Vladimir_Tukmakov>,
+        <http://ja.dbpedia.org/resource/ウラジーミル・トゥクマコフ>,
+        <http://nl.dbpedia.org/resource/Vladimir_Toekmakov>,
+        <http://pl.dbpedia.org/resource/Wołodymyr_Tukmakow>,
+        <http://rdf.freebase.com/ns/m.0fp7mn>,
+        <http://wikidata.dbpedia.org/resource/Q650941>,
+        <http://www.wikidata.org/entity/Q650941>,
+        <http://yago-knowledge.org/resource/Vladimir_Tukmakov> .
+
+<http://data.judaicalink.org/data/dbpedia/Walter_Korn> a foaf:Person ;
+    jl:hasLabel "Walter Korn@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Walter_Korn>,
+        <http://rdf.freebase.com/ns/m.0c4bt7>,
+        <http://viaf.org/viaf/42321004>,
+        <http://wikidata.dbpedia.org/resource/Q7965378>,
+        <http://www.wikidata.org/entity/Q7965378>,
+        <http://yago-knowledge.org/resource/Walter_Korn> .
+
+<http://data.judaicalink.org/data/dbpedia/William_Hartston> a foaf:Person ;
+    jl:hasLabel "William Hartston@de",
+        "William Hartston@en",
+        "William Hartston@fr",
+        "William Hartston@pl",
+        "William Hartston@pt",
+        "Хартстон, Уильям@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/William_Hartston>,
+        <http://de.dbpedia.org/resource/William_Hartston>,
+        <http://fr.dbpedia.org/resource/William_Hartston>,
+        <http://pl.dbpedia.org/resource/William_Hartston>,
+        <http://pt.dbpedia.org/resource/William_Hartston>,
+        <http://rdf.freebase.com/ns/m.04w69j>,
+        <http://wikidata.dbpedia.org/resource/Q726996>,
+        <http://www.wikidata.org/entity/Q726996>,
+        <http://yago-knowledge.org/resource/William_Hartston> .
+
+<http://data.judaicalink.org/data/dbpedia/Wolfgang_Heidenfeld> a foaf:Person ;
+    jl:hasLabel "Wolfgang Heidenfeld@de",
+        "Wolfgang Heidenfeld@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Wolfgang_Heidenfeld>,
+        <http://de.dbpedia.org/resource/Wolfgang_Heidenfeld>,
+        <http://rdf.freebase.com/ns/m.0230yk>,
+        <http://wikidata.dbpedia.org/resource/Q106646>,
+        <http://www.wikidata.org/entity/Q106646>,
+        <http://yago-knowledge.org/resource/Wolfgang_Heidenfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Yaacov_Bernstein> a foaf:Person ;
+    jl:hasLabel "Yaacov Bernstein@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yaacov_Bernstein>,
+        <http://rdf.freebase.com/ns/m.04n4vm0>,
+        <http://wikidata.dbpedia.org/resource/Q8046261>,
+        <http://www.wikidata.org/entity/Q8046261>,
+        <http://yago-knowledge.org/resource/Yaacov_Bernstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Yaacov_Bleiman> a foaf:Person ;
+    jl:hasLabel "Yaacov Bleiman@en",
+        "Блейман, Яков@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yaacov_Bleiman>,
+        <http://rdf.freebase.com/ns/m.02782gy>,
+        <http://wikidata.dbpedia.org/resource/Q4088072>,
+        <http://www.wikidata.org/entity/Q4088072>,
+        <http://yago-knowledge.org/resource/Yaacov_Bleiman> .
+
+<http://data.judaicalink.org/data/dbpedia/Yair_Kraidman> a foaf:Person ;
+    jl:hasLabel "Yair Kraidman@de",
+        "Yair Kraidman@en",
+        "Yair Kraidman@nl",
+        "Yair Kraidman@pl",
+        "Крайдман, Яир@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yair_Kraidman>,
+        <http://de.dbpedia.org/resource/Yair_Kraidman>,
+        <http://nl.dbpedia.org/resource/Yair_Kraidman>,
+        <http://pl.dbpedia.org/resource/Yair_Kraidman>,
+        <http://rdf.freebase.com/ns/m.026cm3f>,
+        <http://wikidata.dbpedia.org/resource/Q952411>,
+        <http://www.wikidata.org/entity/Q952411>,
+        <http://yago-knowledge.org/resource/Yair_Kraidman> .
+
+<http://data.judaicalink.org/data/dbpedia/Yakov_Estrin> a foaf:Person ;
+    jl:hasLabel "Jacob Estrin@nl",
+        "Jakov Borisovič Estrin@it",
+        "Jakov Estrine@fr",
+        "Jakow Borissowitsch Estrin@de",
+        "Jakow Estrin@pl",
+        "Yakov Estrin@en",
+        "Эстрин, Яков Борисович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yakov_Estrin>,
+        <http://de.dbpedia.org/resource/Jakow_Borissowitsch_Estrin>,
+        <http://fr.dbpedia.org/resource/Jakov_Estrine>,
+        <http://it.dbpedia.org/resource/Jakov_Borisovič_Estrin>,
+        <http://nl.dbpedia.org/resource/Jacob_Estrin>,
+        <http://pl.dbpedia.org/resource/Jakow_Estrin>,
+        <http://rdf.freebase.com/ns/m.0cnn44>,
+        <http://viaf.org/viaf/25598908>,
+        <http://wikidata.dbpedia.org/resource/Q432587>,
+        <http://www.wikidata.org/entity/Q432587>,
+        <http://yago-knowledge.org/resource/Yakov_Estrin> .
+
+<http://data.judaicalink.org/data/dbpedia/Yakov_Vilner> a foaf:Person ;
+    jl:hasLabel "Yakov Vilner@en",
+        "Yakov Vilner@es",
+        "Вильнер, Яков Семёнович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yakov_Vilner>,
+        <http://es.dbpedia.org/resource/Yakov_Vilner>,
+        <http://rdf.freebase.com/ns/m.026fj2b>,
+        <http://wikidata.dbpedia.org/resource/Q2637836>,
+        <http://www.wikidata.org/entity/Q2637836>,
+        <http://yago-knowledge.org/resource/Yakov_Vilner> .
+
+<http://data.judaicalink.org/data/dbpedia/Yehuda_Gruenfeld> a foaf:Person ;
+    jl:hasLabel "Jehuda Gruenfeld@pl",
+        "Yehuda Gruenfeld@en",
+        "Yehuda Gruenfeld@nl",
+        "Yehuda Grünfeld@de",
+        "Грюнфельд, Йегуда@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yehuda_Gruenfeld>,
+        <http://de.dbpedia.org/resource/Yehuda_Grünfeld>,
+        <http://nl.dbpedia.org/resource/Yehuda_Gruenfeld>,
+        <http://pl.dbpedia.org/resource/Jehuda_Gruenfeld>,
+        <http://rdf.freebase.com/ns/m.027517j>,
+        <http://viaf.org/viaf/280865355>,
+        <http://wikidata.dbpedia.org/resource/Q1338537>,
+        <http://www.wikidata.org/entity/Q1338537>,
+        <http://yago-knowledge.org/resource/Yehuda_Gruenfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Yochanan_Afek> a foaf:Person ;
+    jl:hasLabel "Yochanan Afek@de",
+        "Yochanan Afek@en",
+        "Yochanan Afek@it",
+        "Yochanan Afek@nl" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yochanan_Afek>,
+        <http://de.dbpedia.org/resource/Yochanan_Afek>,
+        <http://it.dbpedia.org/resource/Yochanan_Afek>,
+        <http://nl.dbpedia.org/resource/Yochanan_Afek>,
+        <http://rdf.freebase.com/ns/m.0bx_tyq>,
+        <http://viaf.org/viaf/56128669>,
+        <http://wikidata.dbpedia.org/resource/Q732882>,
+        <http://www.wikidata.org/entity/Q732882>,
+        <http://yago-knowledge.org/resource/Yochanan_Afek> .
+
+<http://data.judaicalink.org/data/dbpedia/Yoel_Aloni> a foaf:Person ;
+    jl:hasLabel "Yoel Aloni@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yoel_Aloni>,
+        <http://rdf.freebase.com/ns/m.027z8cs>,
+        <http://wikidata.dbpedia.org/resource/Q8054297>,
+        <http://www.wikidata.org/entity/Q8054297>,
+        <http://yago-knowledge.org/resource/Yoel_Aloni> .
+
+<http://data.judaicalink.org/data/dbpedia/Yosef_Dobkin> a foaf:Person ;
+    jl:hasLabel "Yosef Dobkin@en",
+        "Добкин, Йозеф@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yosef_Dobkin>,
+        <http://rdf.freebase.com/ns/m.0h14gw>,
+        <http://wikidata.dbpedia.org/resource/Q8055887>,
+        <http://www.wikidata.org/entity/Q8055887>,
+        <http://yago-knowledge.org/resource/Yosef_Dobkin> .
+
+<http://data.judaicalink.org/data/dbpedia/Yury_Shulman> a foaf:Person ;
+    jl:hasLabel "Jurij Szulman@pl",
+        "Jurij Šul'man@it",
+        "Yuri Shulman@fr",
+        "Yuri Shulman@nl",
+        "Yury Shulman@de",
+        "Yury Shulman@en",
+        "Шульман, Юрий Маркович@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Yury_Shulman>,
+        <http://de.dbpedia.org/resource/Yury_Shulman>,
+        <http://fr.dbpedia.org/resource/Yuri_Shulman>,
+        <http://it.dbpedia.org/resource/Jurij_Šul'man>,
+        <http://nl.dbpedia.org/resource/Yuri_Shulman>,
+        <http://pl.dbpedia.org/resource/Jurij_Szulman>,
+        <http://rdf.freebase.com/ns/m.027v1xz>,
+        <http://wikidata.dbpedia.org/resource/Q1376801>,
+        <http://www.wikidata.org/entity/Q1376801>,
+        <http://yago-knowledge.org/resource/Yury_Shulman> .
+
+<http://data.judaicalink.org/data/dbpedia/Zdzisław_Belsitzmann> a foaf:Person ;
+    jl:hasLabel "Zdzisław Belsitzman@pl",
+        "Zdzisław Belsitzmann@en" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Zdzisław_Belsitzmann>,
+        <http://pl.dbpedia.org/resource/Zdzisław_Belsitzman>,
+        <http://rdf.freebase.com/ns/m.047q7ls>,
+        <http://wikidata.dbpedia.org/resource/Q2899913>,
+        <http://www.wikidata.org/entity/Q2899913>,
+        <http://yago-knowledge.org/resource/Zdzisław_Belsitzmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Zelman_Kleinstein> a foaf:Person ;
+    jl:hasLabel "Zelman Kleinstein@en",
+        "Клейнштейн, Зельман@ru" ;
+    jl:occupation "Jewish chess players" ;
+    owl:sameAs <http://dbpedia.org/resource/Zelman_Kleinstein>,
+        <http://rdf.freebase.com/ns/m.0h1455>,
+        <http://wikidata.dbpedia.org/resource/Q8068817>,
+        <http://www.wikidata.org/entity/Q8068817>,
+        <http://yago-knowledge.org/resource/Zelman_Kleinstein> .
+

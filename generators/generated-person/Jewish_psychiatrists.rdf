@@ -1,0 +1,481 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_Brill> a foaf:Person ;
+    jl:hasLabel "Abraham A. Brill@fr",
+        "Abraham Brill@de",
+        "Abraham Brill@en",
+        "Abraham Brill@es",
+        "Abraham Brill@it",
+        "Abraham Brill@pl" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_Brill>,
+        <http://de.dbpedia.org/resource/Abraham_Brill>,
+        <http://es.dbpedia.org/resource/Abraham_Brill>,
+        <http://fr.dbpedia.org/resource/Abraham_A._Brill>,
+        <http://it.dbpedia.org/resource/Abraham_Brill>,
+        <http://pl.dbpedia.org/resource/Abraham_Brill>,
+        <http://rdf.freebase.com/ns/m.05ycmkx>,
+        <http://viaf.org/viaf/5030875>,
+        <http://wikidata.dbpedia.org/resource/Q78992>,
+        <http://www.wikidata.org/entity/Q78992>,
+        <http://yago-knowledge.org/resource/Abraham_Brill> .
+
+<http://data.judaicalink.org/data/dbpedia/Alfred_Adler> a foaf:Person ;
+    jl:hasLabel "Alfred Adler@de",
+        "Alfred Adler@en",
+        "Alfred Adler@es",
+        "Alfred Adler@fr",
+        "Alfred Adler@it",
+        "Alfred Adler@nl",
+        "Alfred Adler@pl",
+        "Alfred Adler@pt",
+        "Адлер, Альфред@ru",
+        "ألفرد أدلر@ar",
+        "アルフレッド・アドラー@ja",
+        "阿尔弗雷德·阿德勒@zh" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Alfred_Adler>,
+        <http://data.europa.eu/euodp/jrc-names/Alfred_Adler>,
+        <http://dbpedia.org/resource/Alfred_Adler>,
+        <http://de.dbpedia.org/resource/Alfred_Adler>,
+        <http://el.dbpedia.org/resource/Άλφρεντ_Άντλερ>,
+        <http://es.dbpedia.org/resource/Alfred_Adler>,
+        <http://eu.dbpedia.org/resource/Alfred_Adler>,
+        <http://fr.dbpedia.org/resource/Alfred_Adler>,
+        <http://id.dbpedia.org/resource/Alfred_Adler>,
+        <http://it.dbpedia.org/resource/Alfred_Adler>,
+        <http://ja.dbpedia.org/resource/アルフレッド・アドラー>,
+        <http://ko.dbpedia.org/resource/알프레트_아들러>,
+        <http://nl.dbpedia.org/resource/Alfred_Adler>,
+        <http://pl.dbpedia.org/resource/Alfred_Adler>,
+        <http://pt.dbpedia.org/resource/Alfred_Adler>,
+        <http://rdf.freebase.com/ns/m.0k_np>,
+        <http://viaf.org/viaf/17264826>,
+        <http://wikidata.dbpedia.org/resource/Q152393>,
+        <http://www.wikidata.org/entity/Q152393>,
+        <http://yago-knowledge.org/resource/Alfred_Adler> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Sidis> a foaf:Person ;
+    jl:hasLabel "Boris Sidis@de",
+        "Boris Sidis@en",
+        "Boris Sidis@fr",
+        "Boris Sidis@pl",
+        "Boris Sidis@pt",
+        "ボリス・サイディズ@ja" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://dbpedia.org/resource/Boris_Sidis>,
+        <http://de.dbpedia.org/resource/Boris_Sidis>,
+        <http://fr.dbpedia.org/resource/Boris_Sidis>,
+        <http://ja.dbpedia.org/resource/ボリス・サイディズ>,
+        <http://pl.dbpedia.org/resource/Boris_Sidis>,
+        <http://pt.dbpedia.org/resource/Boris_Sidis>,
+        <http://rdf.freebase.com/ns/m.075svn>,
+        <http://wikidata.dbpedia.org/resource/Q893780>,
+        <http://www.wikidata.org/entity/Q893780>,
+        <http://yago-knowledge.org/resource/Boris_Sidis> .
+
+<http://data.judaicalink.org/data/dbpedia/Daniel_Goleman> a foaf:Person ;
+    jl:hasLabel "Daniel Goleman@de",
+        "Daniel Goleman@en",
+        "Daniel Goleman@es",
+        "Daniel Goleman@fr",
+        "Daniel Goleman@it",
+        "Daniel Goleman@nl",
+        "Daniel Goleman@pl",
+        "Daniel Goleman@pt",
+        "Гоулман, Дэниел@ru",
+        "丹尼尔·高尔曼@zh" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Daniel_Goleman>,
+        <http://data.nytimes.com/52748284481054767743>,
+        <http://dbpedia.org/resource/Daniel_Goleman>,
+        <http://de.dbpedia.org/resource/Daniel_Goleman>,
+        <http://es.dbpedia.org/resource/Daniel_Goleman>,
+        <http://eu.dbpedia.org/resource/Daniel_Goleman>,
+        <http://fr.dbpedia.org/resource/Daniel_Goleman>,
+        <http://it.dbpedia.org/resource/Daniel_Goleman>,
+        <http://nl.dbpedia.org/resource/Daniel_Goleman>,
+        <http://pl.dbpedia.org/resource/Daniel_Goleman>,
+        <http://pt.dbpedia.org/resource/Daniel_Goleman>,
+        <http://rdf.freebase.com/ns/m.01dtmv>,
+        <http://viaf.org/viaf/24602077>,
+        <http://wikidata.dbpedia.org/resource/Q351701>,
+        <http://www.wikidata.org/entity/Q351701>,
+        <http://yago-knowledge.org/resource/Daniel_Goleman> .
+
+<http://data.judaicalink.org/data/dbpedia/Erich_Neumann_(psychologist)> a foaf:Person ;
+    jl:hasLabel "Erich Neumann (Psychologe)@de",
+        "Erich Neumann (psicologo)@it",
+        "Erich Neumann (psychologist)@en",
+        "Erich Neumann (psychologue)@fr",
+        "Erich Neumann (psycholoog)@nl",
+        "Erich Neumann@es",
+        "Erich Neumann@pt",
+        "Нойманн, Эрих@ru",
+        "エーリッヒ・ノイマン@ja" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://dbpedia.org/resource/Erich_Neumann_(psychologist)>,
+        <http://de.dbpedia.org/resource/Erich_Neumann_(Psychologe)>,
+        <http://es.dbpedia.org/resource/Erich_Neumann>,
+        <http://fr.dbpedia.org/resource/Erich_Neumann_(psychologue)>,
+        <http://it.dbpedia.org/resource/Erich_Neumann_(psicologo)>,
+        <http://ja.dbpedia.org/resource/エーリッヒ・ノイマン>,
+        <http://nl.dbpedia.org/resource/Erich_Neumann_(psycholoog)>,
+        <http://pt.dbpedia.org/resource/Erich_Neumann>,
+        <http://rdf.freebase.com/ns/m.033tl9>,
+        <http://viaf.org/viaf/32115134>,
+        <http://wikidata.dbpedia.org/resource/Q61171>,
+        <http://www.wikidata.org/entity/Q61171>,
+        <http://yago-knowledge.org/resource/Erich_Neumann_(psychologist)> .
+
+<http://data.judaicalink.org/data/dbpedia/Fritz_Perls> a foaf:Person ;
+    jl:hasLabel "Fritz Perls@de",
+        "Fritz Perls@en",
+        "Fritz Perls@es",
+        "Fritz Perls@fr",
+        "Fritz Perls@it",
+        "Fritz Perls@nl",
+        "Fritz Perls@pl",
+        "Perls@pt",
+        "Перлз, Фредерик@ru",
+        "フレデリック・パールズ@ja" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Fritz_Perls>,
+        <http://dbpedia.org/resource/Fritz_Perls>,
+        <http://de.dbpedia.org/resource/Fritz_Perls>,
+        <http://es.dbpedia.org/resource/Fritz_Perls>,
+        <http://fr.dbpedia.org/resource/Fritz_Perls>,
+        <http://it.dbpedia.org/resource/Fritz_Perls>,
+        <http://ja.dbpedia.org/resource/フレデリック・パールズ>,
+        <http://nl.dbpedia.org/resource/Fritz_Perls>,
+        <http://pl.dbpedia.org/resource/Fritz_Perls>,
+        <http://pt.dbpedia.org/resource/Perls>,
+        <http://rdf.freebase.com/ns/m.01451_>,
+        <http://viaf.org/viaf/51694251>,
+        <http://wikidata.dbpedia.org/resource/Q60750>,
+        <http://www.wikidata.org/entity/Q60750>,
+        <http://yago-knowledge.org/resource/Fritz_Perls> .
+
+<http://data.judaicalink.org/data/dbpedia/Heinz_Kohut> a foaf:Person ;
+    jl:hasLabel "Heinz Kohut@de",
+        "Heinz Kohut@en",
+        "Heinz Kohut@es",
+        "Heinz Kohut@fr",
+        "Heinz Kohut@it",
+        "Heinz Kohut@pl",
+        "Кохут, Хайнц@ru",
+        "ハインツ・コフート@ja" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Heinz_Kohut>,
+        <http://dbpedia.org/resource/Heinz_Kohut>,
+        <http://de.dbpedia.org/resource/Heinz_Kohut>,
+        <http://es.dbpedia.org/resource/Heinz_Kohut>,
+        <http://fr.dbpedia.org/resource/Heinz_Kohut>,
+        <http://it.dbpedia.org/resource/Heinz_Kohut>,
+        <http://ja.dbpedia.org/resource/ハインツ・コフート>,
+        <http://pl.dbpedia.org/resource/Heinz_Kohut>,
+        <http://rdf.freebase.com/ns/m.05hzh5>,
+        <http://viaf.org/viaf/82244332>,
+        <http://wikidata.dbpedia.org/resource/Q78642>,
+        <http://www.wikidata.org/entity/Q78642>,
+        <http://yago-knowledge.org/resource/Heinz_Kohut> .
+
+<http://data.judaicalink.org/data/dbpedia/Helen_Bamber> a foaf:Person ;
+    jl:hasLabel "Helen Bamber@de",
+        "Helen Bamber@en" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://dbpedia.org/resource/Helen_Bamber>,
+        <http://de.dbpedia.org/resource/Helen_Bamber>,
+        <http://rdf.freebase.com/ns/m.0266bg7>,
+        <http://wikidata.dbpedia.org/resource/Q1601813>,
+        <http://www.wikidata.org/entity/Q1601813>,
+        <http://yago-knowledge.org/resource/Helen_Bamber> .
+
+<http://data.judaicalink.org/data/dbpedia/Irvin_D._Yalom> a foaf:Person ;
+    jl:hasLabel "Irvin D. Yalom@en",
+        "Irvin D. Yalom@es",
+        "Irvin D. Yalom@fr",
+        "Irvin D. Yalom@nl",
+        "Irvin D. Yalom@pt",
+        "Irvin Yalom@de",
+        "Irvin Yalom@it",
+        "Ялом, Ирвин Дэвид@ru",
+        "アーヴィン・D・ヤーロム@ja" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Irvin_Yalom>,
+        <http://dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://de.dbpedia.org/resource/Irvin_Yalom>,
+        <http://el.dbpedia.org/resource/Ίρβιν_Γιάλομ>,
+        <http://es.dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://fr.dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://it.dbpedia.org/resource/Irvin_Yalom>,
+        <http://ja.dbpedia.org/resource/アーヴィン・D・ヤーロム>,
+        <http://nl.dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://pt.dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://rdf.freebase.com/ns/m.027sjlm>,
+        <http://viaf.org/viaf/109548796>,
+        <http://wikidata.dbpedia.org/resource/Q362721>,
+        <http://www.wikidata.org/entity/Q362721>,
+        <http://yago-knowledge.org/resource/Irvin_D._Yalom> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_L._Moreno> a foaf:Person ;
+    jl:hasLabel "Jacob L. Moreno@en",
+        "Jacob Levi Moreno@it",
+        "Jacob Levy Moreno@de",
+        "Jacob Levy Moreno@es",
+        "Jacob Levy Moreno@fr",
+        "Jacob Levy Moreno@pt",
+        "Jacob Moreno@pl",
+        "Морено, Якоб Леви@ru",
+        "ヤコブ・モレノ@ja" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jakob_Levy_Moreno>,
+        <http://dbpedia.org/resource/Jacob_L._Moreno>,
+        <http://de.dbpedia.org/resource/Jacob_Levy_Moreno>,
+        <http://es.dbpedia.org/resource/Jacob_Levy_Moreno>,
+        <http://fr.dbpedia.org/resource/Jacob_Levy_Moreno>,
+        <http://it.dbpedia.org/resource/Jacob_Levi_Moreno>,
+        <http://ja.dbpedia.org/resource/ヤコブ・モレノ>,
+        <http://ko.dbpedia.org/resource/야코브_레비_모레노>,
+        <http://pl.dbpedia.org/resource/Jacob_Moreno>,
+        <http://pt.dbpedia.org/resource/Jacob_Levy_Moreno>,
+        <http://rdf.freebase.com/ns/m.05yxk4>,
+        <http://viaf.org/viaf/86620130>,
+        <http://wikidata.dbpedia.org/resource/Q89404>,
+        <http://www.wikidata.org/entity/Q89404>,
+        <http://yago-knowledge.org/resource/Jacob_L._Moreno> .
+
+<http://data.judaicalink.org/data/dbpedia/Josef_Breuer> a foaf:Person ;
+    jl:hasLabel "Josef Breuer@de",
+        "Josef Breuer@en",
+        "Josef Breuer@es",
+        "Josef Breuer@fr",
+        "Josef Breuer@nl",
+        "Josef Breuer@pl",
+        "Josef Breuer@pt",
+        "Joseph Breuer@it",
+        "Брейер, Йозеф@ru",
+        "ヨーゼフ・ブロイアー@ja",
+        "約瑟夫·布羅伊爾@zh" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Josef_Breuer>,
+        <http://dbpedia.org/resource/Josef_Breuer>,
+        <http://de.dbpedia.org/resource/Josef_Breuer>,
+        <http://es.dbpedia.org/resource/Josef_Breuer>,
+        <http://fr.dbpedia.org/resource/Josef_Breuer>,
+        <http://it.dbpedia.org/resource/Joseph_Breuer>,
+        <http://ja.dbpedia.org/resource/ヨーゼフ・ブロイアー>,
+        <http://nl.dbpedia.org/resource/Josef_Breuer>,
+        <http://pl.dbpedia.org/resource/Josef_Breuer>,
+        <http://pt.dbpedia.org/resource/Josef_Breuer>,
+        <http://rdf.freebase.com/ns/m.053rzy>,
+        <http://viaf.org/viaf/68976881>,
+        <http://wikidata.dbpedia.org/resource/Q84430>,
+        <http://www.wikidata.org/entity/Q84430>,
+        <http://yago-knowledge.org/resource/Josef_Breuer> .
+
+<http://data.judaicalink.org/data/dbpedia/Margaret_Mahler> a foaf:Person ;
+    jl:hasLabel "Margaret Mahler@de",
+        "Margaret Mahler@en",
+        "Margaret Mahler@es",
+        "Margaret Mahler@fr",
+        "Margaret Mahler@it",
+        "Margaret Mahler@pl",
+        "Margareth Mahler@pt",
+        "マーガレット・マーラー@ja" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Margaret_Mahlerová>,
+        <http://dbpedia.org/resource/Margaret_Mahler>,
+        <http://de.dbpedia.org/resource/Margaret_Mahler>,
+        <http://es.dbpedia.org/resource/Margaret_Mahler>,
+        <http://fr.dbpedia.org/resource/Margaret_Mahler>,
+        <http://it.dbpedia.org/resource/Margaret_Mahler>,
+        <http://ja.dbpedia.org/resource/マーガレット・マーラー>,
+        <http://pl.dbpedia.org/resource/Margaret_Mahler>,
+        <http://pt.dbpedia.org/resource/Margareth_Mahler>,
+        <http://rdf.freebase.com/ns/m.06jb06>,
+        <http://viaf.org/viaf/108955019>,
+        <http://wikidata.dbpedia.org/resource/Q213648>,
+        <http://www.wikidata.org/entity/Q213648>,
+        <http://yago-knowledge.org/resource/Margaret_Mahler> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Balint> a foaf:Person ;
+    jl:hasLabel "Michael Balint@de",
+        "Michael Balint@en",
+        "Michael Balint@es",
+        "Michael Balint@fr",
+        "Michael Balint@it",
+        "Michael Balint@pl",
+        "Michael Balint@pt",
+        "Балинт, Майкл@ru",
+        "マイケル・バリント@ja" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Michael_Balint>,
+        <http://dbpedia.org/resource/Michael_Balint>,
+        <http://de.dbpedia.org/resource/Michael_Balint>,
+        <http://es.dbpedia.org/resource/Michael_Balint>,
+        <http://fr.dbpedia.org/resource/Michael_Balint>,
+        <http://it.dbpedia.org/resource/Michael_Balint>,
+        <http://ja.dbpedia.org/resource/マイケル・バリント>,
+        <http://pl.dbpedia.org/resource/Michael_Balint>,
+        <http://pt.dbpedia.org/resource/Michael_Balint>,
+        <http://rdf.freebase.com/ns/m.087l7l>,
+        <http://viaf.org/viaf/19673627>,
+        <http://wikidata.dbpedia.org/resource/Q557561>,
+        <http://www.wikidata.org/entity/Q557561>,
+        <http://yago-knowledge.org/resource/Michael_Balint> .
+
+<http://data.judaicalink.org/data/dbpedia/Nathan_Ackerman> a foaf:Person ;
+    jl:hasLabel "Nathan Ackerman@de",
+        "Nathan Ackerman@en",
+        "Nathan Ackerman@fr",
+        "Акерман, Натан@ru" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://dbpedia.org/resource/Nathan_Ackerman>,
+        <http://de.dbpedia.org/resource/Nathan_Ackerman>,
+        <http://fr.dbpedia.org/resource/Nathan_Ackerman>,
+        <http://rdf.freebase.com/ns/m.03hnr8s>,
+        <http://viaf.org/viaf/108926551>,
+        <http://wikidata.dbpedia.org/resource/Q1350086>,
+        <http://www.wikidata.org/entity/Q1350086>,
+        <http://yago-knowledge.org/resource/Nathan_Ackerman> .
+
+<http://data.judaicalink.org/data/dbpedia/Otto_F._Kernberg> a foaf:Person ;
+    jl:hasLabel "Otto F. Kernberg@de",
+        "Otto F. Kernberg@en",
+        "Otto F. Kernberg@es",
+        "Otto F. Kernberg@fr",
+        "Otto Kernberg@it",
+        "Кернберг, Отто@ru",
+        "オットー・カーンバーグ@ja" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Otto_Kernberg>,
+        <http://dbpedia.org/resource/Otto_F._Kernberg>,
+        <http://de.dbpedia.org/resource/Otto_F._Kernberg>,
+        <http://es.dbpedia.org/resource/Otto_F._Kernberg>,
+        <http://fr.dbpedia.org/resource/Otto_F._Kernberg>,
+        <http://it.dbpedia.org/resource/Otto_Kernberg>,
+        <http://ja.dbpedia.org/resource/オットー・カーンバーグ>,
+        <http://rdf.freebase.com/ns/m.040_85>,
+        <http://viaf.org/viaf/108301271>,
+        <http://wikidata.dbpedia.org/resource/Q78731>,
+        <http://www.wikidata.org/entity/Q78731>,
+        <http://yago-knowledge.org/resource/Otto_F._Kernberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Roberto_Assagioli> a foaf:Person ;
+    jl:hasLabel "Roberto Assagioli@de",
+        "Roberto Assagioli@en",
+        "Roberto Assagioli@es",
+        "Roberto Assagioli@fr",
+        "Roberto Assagioli@it",
+        "Roberto Assagioli@nl",
+        "Roberto Assagioli@pl",
+        "Roberto Assagioli@pt",
+        "Ассаджоли, Роберто@ru" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://dbpedia.org/resource/Roberto_Assagioli>,
+        <http://de.dbpedia.org/resource/Roberto_Assagioli>,
+        <http://el.dbpedia.org/resource/Ρομπέρτο_Ασσατζιόλι>,
+        <http://es.dbpedia.org/resource/Roberto_Assagioli>,
+        <http://fr.dbpedia.org/resource/Roberto_Assagioli>,
+        <http://it.dbpedia.org/resource/Roberto_Assagioli>,
+        <http://nl.dbpedia.org/resource/Roberto_Assagioli>,
+        <http://pl.dbpedia.org/resource/Roberto_Assagioli>,
+        <http://pt.dbpedia.org/resource/Roberto_Assagioli>,
+        <http://rdf.freebase.com/ns/m.0226mg>,
+        <http://wikidata.dbpedia.org/resource/Q724752>,
+        <http://www.wikidata.org/entity/Q724752>,
+        <http://yago-knowledge.org/resource/Roberto_Assagioli> .
+
+<http://data.judaicalink.org/data/dbpedia/Theodore_Reich> a foaf:Person ;
+    jl:hasLabel "Theodore Reich@en" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://dbpedia.org/resource/Theodore_Reich>,
+        <http://wikidata.dbpedia.org/resource/Q21598324>,
+        <http://www.wikidata.org/entity/Q21598324> .
+
+<http://data.judaicalink.org/data/dbpedia/Viktor_Frankl> a foaf:Person ;
+    jl:hasLabel "Viktor Frankl@de",
+        "Viktor Frankl@en",
+        "Viktor Frankl@es",
+        "Viktor Frankl@fr",
+        "Viktor Frankl@it",
+        "Viktor Frankl@nl",
+        "Viktor Frankl@pl",
+        "Viktor Frankl@pt",
+        "Франкл, Виктор@ru",
+        "فيكتور فرانكل@ar",
+        "ヴィクトール・フランクル@ja",
+        "维克多·弗兰克@zh" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Viktor_Frankl>,
+        <http://data.europa.eu/euodp/jrc-names/Viktor_Frankl>,
+        <http://dbpedia.org/resource/Viktor_Frankl>,
+        <http://de.dbpedia.org/resource/Viktor_Frankl>,
+        <http://es.dbpedia.org/resource/Viktor_Frankl>,
+        <http://eu.dbpedia.org/resource/Victor_Emil_Frankl>,
+        <http://fr.dbpedia.org/resource/Viktor_Frankl>,
+        <http://id.dbpedia.org/resource/Viktor_Frankl>,
+        <http://it.dbpedia.org/resource/Viktor_Frankl>,
+        <http://ja.dbpedia.org/resource/ヴィクトール・フランクル>,
+        <http://ko.dbpedia.org/resource/빅토르_프랑클>,
+        <http://nl.dbpedia.org/resource/Viktor_Frankl>,
+        <http://pl.dbpedia.org/resource/Viktor_Frankl>,
+        <http://pt.dbpedia.org/resource/Viktor_Frankl>,
+        <http://rdf.freebase.com/ns/m.0181r3>,
+        <http://viaf.org/viaf/95178598>,
+        <http://wikidata.dbpedia.org/resource/Q154723>,
+        <http://www.wikidata.org/entity/Q154723>,
+        <http://yago-knowledge.org/resource/Viktor_Frankl> .
+
+<http://data.judaicalink.org/data/dbpedia/Wilhelm_Reich> a foaf:Person ;
+    jl:hasLabel "Wilhelm Reich@de",
+        "Wilhelm Reich@en",
+        "Wilhelm Reich@es",
+        "Wilhelm Reich@fr",
+        "Wilhelm Reich@it",
+        "Wilhelm Reich@nl",
+        "Wilhelm Reich@pl",
+        "Wilhelm Reich@pt",
+        "Райх, Вильгельм@ru",
+        "فيلهلم رايش@ar",
+        "ヴィルヘルム・ライヒ@ja",
+        "威廉·赖希@zh" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://data.europa.eu/euodp/jrc-names/Wilhelm_Reich>,
+        <http://dbpedia.org/resource/Wilhelm_Reich>,
+        <http://de.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://el.dbpedia.org/resource/Βίλχελμ_Ράιχ>,
+        <http://es.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://eu.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://fr.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://id.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://it.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://ja.dbpedia.org/resource/ヴィルヘルム・ライヒ>,
+        <http://ko.dbpedia.org/resource/빌헬름_라이히>,
+        <http://nl.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://pl.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://pt.dbpedia.org/resource/Wilhelm_Reich>,
+        <http://rdf.freebase.com/ns/m.01c581>,
+        <http://viaf.org/viaf/24607127>,
+        <http://wikidata.dbpedia.org/resource/Q84412>,
+        <http://www.wikidata.org/entity/Q84412>,
+        <http://yago-knowledge.org/resource/Wilhelm_Reich> .
+
+<http://data.judaicalink.org/data/dbpedia/William_Breitbart> a foaf:Person ;
+    jl:hasLabel "William Breitbart@en" ;
+    jl:occupation "Jewish psychiatrists" ;
+    owl:sameAs <http://dbpedia.org/resource/William_Breitbart>,
+        <http://rdf.freebase.com/ns/m.03gwz4t>,
+        <http://viaf.org/viaf/112999841>,
+        <http://wikidata.dbpedia.org/resource/Q8005884>,
+        <http://www.wikidata.org/entity/Q8005884>,
+        <http://yago-knowledge.org/resource/William_Breitbart> .
+

@@ -1,0 +1,463 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Alan_Peshkin> a foaf:Person ;
+    jl:hasLabel "Alan Peshkin@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Alan_Peshkin>,
+        <http://rdf.freebase.com/ns/m.012nkx51>,
+        <http://wikidata.dbpedia.org/resource/Q18926939>,
+        <http://www.wikidata.org/entity/Q18926939> .
+
+<http://data.judaicalink.org/data/dbpedia/Arthur_Biram> a foaf:Person ;
+    jl:hasLabel "Arthur Biram@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Arthur_Biram>,
+        <http://rdf.freebase.com/ns/m.09gb5tk>,
+        <http://viaf.org/viaf/47147341>,
+        <http://wikidata.dbpedia.org/resource/Q4798009>,
+        <http://www.wikidata.org/entity/Q4798009>,
+        <http://yago-knowledge.org/resource/Arthur_Biram> .
+
+<http://data.judaicalink.org/data/dbpedia/Avraham_Arnon> a foaf:Person ;
+    jl:hasLabel "Avraham Arnon@en",
+        "Арнон, Авраам@ru" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Avraham_Arnon>,
+        <http://rdf.freebase.com/ns/m.0bs63dv>,
+        <http://wikidata.dbpedia.org/resource/Q891768>,
+        <http://www.wikidata.org/entity/Q891768>,
+        <http://yago-knowledge.org/resource/Avraham_Arnon> .
+
+<http://data.judaicalink.org/data/dbpedia/Cemach_Feldstein> a foaf:Person ;
+    jl:hasLabel "Cemach Feldstein@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Cemach_Feldstein>,
+        <http://rdf.freebase.com/ns/m.0_fm7y9>,
+        <http://wikidata.dbpedia.org/resource/Q12410903>,
+        <http://www.wikidata.org/entity/Q12410903>,
+        <http://yago-knowledge.org/resource/Cemach_Feldstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Charles-Valentin_Alkan> a foaf:Person ;
+    jl:hasLabel "Charles Henri Valentin Alkan@it",
+        "Charles Valentin Alkan@de",
+        "Charles-Valentin Alkan@en",
+        "Charles-Valentin Alkan@es",
+        "Charles-Valentin Alkan@fr",
+        "Charles-Valentin Alkan@nl",
+        "Charles-Valentin Alkan@pl",
+        "Charles-Valentin Alkan@pt",
+        "Алькан, Шарль Валантен@ru",
+        "シャルル＝ヴァランタン・アルカン@ja",
+        "夏尔-瓦朗坦·阿尔康@zh" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Charles_Valentin_Alkan>,
+        <http://dbpedia.org/resource/Charles-Valentin_Alkan>,
+        <http://de.dbpedia.org/resource/Charles_Valentin_Alkan>,
+        <http://es.dbpedia.org/resource/Charles-Valentin_Alkan>,
+        <http://fr.dbpedia.org/resource/Charles-Valentin_Alkan>,
+        <http://it.dbpedia.org/resource/Charles_Henri_Valentin_Alkan>,
+        <http://ja.dbpedia.org/resource/シャルル＝ヴァランタン・アルカン>,
+        <http://ko.dbpedia.org/resource/샤를_발랑탱_알캉>,
+        <http://nl.dbpedia.org/resource/Charles-Valentin_Alkan>,
+        <http://pl.dbpedia.org/resource/Charles-Valentin_Alkan>,
+        <http://pt.dbpedia.org/resource/Charles-Valentin_Alkan>,
+        <http://rdf.freebase.com/ns/m.028p6m>,
+        <http://viaf.org/viaf/32182437>,
+        <http://wikidata.dbpedia.org/resource/Q217068>,
+        <http://www.wikidata.org/entity/Q217068>,
+        <http://yago-knowledge.org/resource/Charles-Valentin_Alkan>,
+        <http://zitgist.com/music/artist/62000bf9-9919-4dfb-9929-15f013fca57b> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Castelli> a foaf:Person ;
+    jl:hasLabel "David Castelli@en",
+        "David Castelli@it" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Castelli>,
+        <http://it.dbpedia.org/resource/David_Castelli>,
+        <http://rdf.freebase.com/ns/m.02rqjr9>,
+        <http://viaf.org/viaf/24916375>,
+        <http://wikidata.dbpedia.org/resource/Q3703137>,
+        <http://www.wikidata.org/entity/Q3703137>,
+        <http://yago-knowledge.org/resource/David_Castelli> .
+
+<http://data.judaicalink.org/data/dbpedia/Dina_Feitelson> a foaf:Person ;
+    jl:hasLabel "Dina Feitelson@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Dina_Feitelson>,
+        <http://rdf.freebase.com/ns/m.05q7dlh>,
+        <http://viaf.org/viaf/10584452>,
+        <http://wikidata.dbpedia.org/resource/Q5277843>,
+        <http://www.wikidata.org/entity/Q5277843>,
+        <http://yago-knowledge.org/resource/Dina_Feitelson> .
+
+<http://data.judaicalink.org/data/dbpedia/Einat_Wilf> a foaf:Person ;
+    jl:hasLabel "Einat Wilf@en",
+        "Einat Wilf@fr",
+        "Вильф, Эйнат@ru" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ejnat_Wilf>,
+        <http://data.europa.eu/euodp/jrc-names/Einat_Wilf>,
+        <http://dbpedia.org/resource/Einat_Wilf>,
+        <http://fr.dbpedia.org/resource/Einat_Wilf>,
+        <http://rdf.freebase.com/ns/m.05p8vd8>,
+        <http://wikidata.dbpedia.org/resource/Q2612852>,
+        <http://www.wikidata.org/entity/Q2612852>,
+        <http://yago-knowledge.org/resource/Einat_Wilf> .
+
+<http://data.judaicalink.org/data/dbpedia/Erica_Brown> a foaf:Person ;
+    jl:hasLabel "Erica Brown@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Erica_Brown>,
+        <http://rdf.freebase.com/ns/m.0g56n9p>,
+        <http://wikidata.dbpedia.org/resource/Q5387860>,
+        <http://www.wikidata.org/entity/Q5387860>,
+        <http://yago-knowledge.org/resource/Erica_Brown> .
+
+<http://data.judaicalink.org/data/dbpedia/Ernst_Hirsch_Ballin> a foaf:Person ;
+    jl:hasLabel "Ernst Hirsch Ballin@de",
+        "Ernst Hirsch Ballin@en",
+        "Ernst Hirsch Ballin@fr",
+        "Ernst Hirsch Ballin@nl",
+        "Ernst Hirsch Ballin@pl" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Ernst_Hirsch_Ballin>,
+        <http://dbpedia.org/resource/Ernst_Hirsch_Ballin>,
+        <http://de.dbpedia.org/resource/Ernst_Hirsch_Ballin>,
+        <http://fr.dbpedia.org/resource/Ernst_Hirsch_Ballin>,
+        <http://id.dbpedia.org/resource/Ernst_Hirsch_Ballin>,
+        <http://nl.dbpedia.org/resource/Ernst_Hirsch_Ballin>,
+        <http://pl.dbpedia.org/resource/Ernst_Hirsch_Ballin>,
+        <http://rdf.freebase.com/ns/m.0h4fb0>,
+        <http://wikidata.dbpedia.org/resource/Q1358714>,
+        <http://www.wikidata.org/entity/Q1358714>,
+        <http://yago-knowledge.org/resource/Ernst_Hirsch_Ballin> .
+
+<http://data.judaicalink.org/data/dbpedia/Eugenie_Schwarzwald> a foaf:Person ;
+    jl:hasLabel "Eugenia Schwarzwald@pl",
+        "Eugenie Schwarzwald@de",
+        "Eugenie Schwarzwald@en",
+        "Eugenie Schwarzwald@pt" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Eugenie_Schwarzwaldová>,
+        <http://dbpedia.org/resource/Eugenie_Schwarzwald>,
+        <http://de.dbpedia.org/resource/Eugenie_Schwarzwald>,
+        <http://pl.dbpedia.org/resource/Eugenia_Schwarzwald>,
+        <http://pt.dbpedia.org/resource/Eugenie_Schwarzwald>,
+        <http://rdf.freebase.com/ns/m.08rdk5>,
+        <http://wikidata.dbpedia.org/resource/Q79173>,
+        <http://www.wikidata.org/entity/Q79173>,
+        <http://yago-knowledge.org/resource/Eugenie_Schwarzwald> .
+
+<http://data.judaicalink.org/data/dbpedia/Herz_Homberg> a foaf:Person ;
+    jl:hasLabel "Herz Homberg@en",
+        "Naftali Herz Homberg@de" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Herz_Homberg>,
+        <http://de.dbpedia.org/resource/Naftali_Herz_Homberg>,
+        <http://rdf.freebase.com/ns/m.02r8nlm>,
+        <http://viaf.org/viaf/52893856>,
+        <http://wikidata.dbpedia.org/resource/Q179791>,
+        <http://www.wikidata.org/entity/Q179791>,
+        <http://yago-knowledge.org/resource/Herz_Homberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Hyman_Chanover> a foaf:Person ;
+    jl:hasLabel "Hyman Chanover@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Hyman_Chanover>,
+        <http://rdf.freebase.com/ns/m.02pqtb8>,
+        <http://wikidata.dbpedia.org/resource/Q5956350>,
+        <http://www.wikidata.org/entity/Q5956350>,
+        <http://yago-knowledge.org/resource/Hyman_Chanover> .
+
+<http://data.judaicalink.org/data/dbpedia/Israel_Belkind> a foaf:Person ;
+    jl:hasLabel "Israel Belkind@de",
+        "Israel Belkind@en",
+        "Israël Belkind@fr" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Israel_Belkind>,
+        <http://de.dbpedia.org/resource/Israel_Belkind>,
+        <http://fr.dbpedia.org/resource/Israël_Belkind>,
+        <http://rdf.freebase.com/ns/m.07pl_9y>,
+        <http://wikidata.dbpedia.org/resource/Q445268>,
+        <http://www.wikidata.org/entity/Q445268>,
+        <http://yago-knowledge.org/resource/Israel_Belkind> .
+
+<http://data.judaicalink.org/data/dbpedia/Israel_Friedlander> a foaf:Person ;
+    jl:hasLabel "Israel Friedlaender@de",
+        "Israel Friedlander@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Israel_Friedlander>,
+        <http://de.dbpedia.org/resource/Israel_Friedlaender>,
+        <http://rdf.freebase.com/ns/m.05q49st>,
+        <http://wikidata.dbpedia.org/resource/Q1674595>,
+        <http://www.wikidata.org/entity/Q1674595>,
+        <http://yago-knowledge.org/resource/Israel_Friedlander> .
+
+<http://data.judaicalink.org/data/dbpedia/Jessie_Sampter> a foaf:Person ;
+    jl:hasLabel "Jessie Sampter@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Jessie_Sampter>,
+        <http://rdf.freebase.com/ns/m.025y7kf>,
+        <http://wikidata.dbpedia.org/resource/Q15463274>,
+        <http://www.wikidata.org/entity/Q15463274>,
+        <http://yago-knowledge.org/resource/Jessie_Sampter> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_Perl> a foaf:Person ;
+    jl:hasLabel "Josef Perl@de",
+        "Joseph Perl@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_Perl>,
+        <http://de.dbpedia.org/resource/Josef_Perl>,
+        <http://rdf.freebase.com/ns/m.02pl221>,
+        <http://wikidata.dbpedia.org/resource/Q973263>,
+        <http://www.wikidata.org/entity/Q973263>,
+        <http://yago-knowledge.org/resource/Joseph_Perl> .
+
+<http://data.judaicalink.org/data/dbpedia/Józef_Mieses> a foaf:Person ;
+    jl:hasLabel "Józef Mieses@en",
+        "Józef Mieses@pl" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Józef_Mieses>,
+        <http://pl.dbpedia.org/resource/Józef_Mieses>,
+        <http://rdf.freebase.com/ns/m.04zzqd0>,
+        <http://wikidata.dbpedia.org/resource/Q6320584>,
+        <http://www.wikidata.org/entity/Q6320584>,
+        <http://yago-knowledge.org/resource/Józef_Mieses> .
+
+<http://data.judaicalink.org/data/dbpedia/Lazar_Grünhut> a foaf:Person ;
+    jl:hasLabel "Lazar Grünhut@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Lazar_Grünhut>,
+        <http://rdf.freebase.com/ns/m.0c_rfx>,
+        <http://viaf.org/viaf/27450758>,
+        <http://wikidata.dbpedia.org/resource/Q6505777>,
+        <http://www.wikidata.org/entity/Q6505777>,
+        <http://yago-knowledge.org/resource/Lazar_Grünhut> .
+
+<http://data.judaicalink.org/data/dbpedia/Louis_Barnett_Abrahams> a foaf:Person ;
+    jl:hasLabel "Louis Barnett Abrahams@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Louis_Barnett_Abrahams>,
+        <http://rdf.freebase.com/ns/m.04yc40s>,
+        <http://viaf.org/viaf/97605621>,
+        <http://wikidata.dbpedia.org/resource/Q15452420>,
+        <http://www.wikidata.org/entity/Q15452420>,
+        <http://yago-knowledge.org/resource/Louis_Barnett_Abrahams> .
+
+<http://data.judaicalink.org/data/dbpedia/Louis_L._Kaplan> a foaf:Person ;
+    jl:hasLabel "Louis L. Kaplan@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Louis_L._Kaplan>,
+        <http://rdf.freebase.com/ns/m.010rbfnw>,
+        <http://wikidata.dbpedia.org/resource/Q17182954>,
+        <http://www.wikidata.org/entity/Q17182954>,
+        <http://yago-knowledge.org/resource/Louis_L._Kaplan> .
+
+<http://data.judaicalink.org/data/dbpedia/Margarete_Hilferding> a foaf:Person ;
+    jl:hasLabel "Margarete Hilferding@de",
+        "Margarete Hilferding@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Margarete_Hilferding>,
+        <http://de.dbpedia.org/resource/Margarete_Hilferding>,
+        <http://rdf.freebase.com/ns/m.09gcy1s>,
+        <http://wikidata.dbpedia.org/resource/Q88012>,
+        <http://www.wikidata.org/entity/Q88012>,
+        <http://yago-knowledge.org/resource/Margarete_Hilferding> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Lilienthal> a foaf:Person ;
+    jl:hasLabel "Max Lilienthal@de",
+        "Max Lilienthal@en",
+        "Max Lilienthal@fr",
+        "Лилиенталь, Макс@ru" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Max_Lilienthal>,
+        <http://de.dbpedia.org/resource/Max_Lilienthal>,
+        <http://fr.dbpedia.org/resource/Max_Lilienthal>,
+        <http://rdf.freebase.com/ns/m.0gj9fb2>,
+        <http://wikidata.dbpedia.org/resource/Q75286>,
+        <http://www.wikidata.org/entity/Q75286>,
+        <http://yago-knowledge.org/resource/Max_Lilienthal> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Greenbaum> a foaf:Person ;
+    jl:hasLabel "Michael Greenbaum@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Greenbaum>,
+        <http://rdf.freebase.com/ns/m.0gjdfzc>,
+        <http://wikidata.dbpedia.org/resource/Q6830767>,
+        <http://www.wikidata.org/entity/Q6830767>,
+        <http://yago-knowledge.org/resource/Michael_Greenbaum> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Rosen_(rabbi)> a foaf:Person ;
+    jl:hasLabel "Michael Rosen (rabbi)@en",
+        "Michael Rosen@pl" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Rosen_(rabbi)>,
+        <http://pl.dbpedia.org/resource/Michael_Rosen>,
+        <http://rdf.freebase.com/ns/m.0bs3p_3>,
+        <http://wikidata.dbpedia.org/resource/Q6833979>,
+        <http://www.wikidata.org/entity/Q6833979>,
+        <http://yago-knowledge.org/resource/Michael_Rosen_(rabbi)> .
+
+<http://data.judaicalink.org/data/dbpedia/Nachum_Zev_Dessler> a foaf:Person ;
+    jl:hasLabel "Nachum Zev Dessler@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Nachum_Zev_Dessler>,
+        <http://rdf.freebase.com/ns/m.0g9z0_c>,
+        <http://wikidata.dbpedia.org/resource/Q6957230>,
+        <http://www.wikidata.org/entity/Q6957230>,
+        <http://yago-knowledge.org/resource/Nachum_Zev_Dessler> .
+
+<http://data.judaicalink.org/data/dbpedia/Nathan_Mileikowsky> a foaf:Person ;
+    jl:hasLabel "Nathan Mileikowsky@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Nathan_Mileikowsky>,
+        <http://rdf.freebase.com/ns/m.0knx5hg>,
+        <http://wikidata.dbpedia.org/resource/Q4426756>,
+        <http://www.wikidata.org/entity/Q4426756>,
+        <http://yago-knowledge.org/resource/Nathan_Mileikowsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Nechama_Leibowitz> a foaf:Person ;
+    jl:hasLabel "Nechama Leibowitz@de",
+        "Nechama Leibowitz@en",
+        "Nechama Leibowitz@es",
+        "Nechama Leibowitz@it",
+        "Nehama Leibowitz@fr" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Nechama_Leibowitz>,
+        <http://dbpedia.org/resource/Nechama_Leibowitz>,
+        <http://de.dbpedia.org/resource/Nechama_Leibowitz>,
+        <http://es.dbpedia.org/resource/Nechama_Leibowitz>,
+        <http://fr.dbpedia.org/resource/Nehama_Leibowitz>,
+        <http://it.dbpedia.org/resource/Nechama_Leibowitz>,
+        <http://rdf.freebase.com/ns/m.098f94>,
+        <http://viaf.org/viaf/64126836>,
+        <http://wikidata.dbpedia.org/resource/Q452420>,
+        <http://www.wikidata.org/entity/Q452420>,
+        <http://yago-knowledge.org/resource/Nechama_Leibowitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Philip_Birnbaum> a foaf:Person ;
+    jl:hasLabel "Philip Birnbaum@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Philip_Birnbaum>,
+        <http://rdf.freebase.com/ns/m.0h6xbx>,
+        <http://wikidata.dbpedia.org/resource/Q7183232>,
+        <http://www.wikidata.org/entity/Q7183232>,
+        <http://yago-knowledge.org/resource/Philip_Birnbaum> .
+
+<http://data.judaicalink.org/data/dbpedia/Sarah_Schenirer> a foaf:Person ;
+    jl:hasLabel "Sara Szenirer@pl",
+        "Sarah Schenirer@en",
+        "Sarah Schenirer@fr",
+        "Sarah Schenirer@nl",
+        "Шенирер, Сарра@ru" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Sarah_Schenirer>,
+        <http://fr.dbpedia.org/resource/Sarah_Schenirer>,
+        <http://nl.dbpedia.org/resource/Sarah_Schenirer>,
+        <http://pl.dbpedia.org/resource/Sara_Szenirer>,
+        <http://rdf.freebase.com/ns/m.02pzptj>,
+        <http://wikidata.dbpedia.org/resource/Q2317914>,
+        <http://www.wikidata.org/entity/Q2317914>,
+        <http://yago-knowledge.org/resource/Sarah_Schenirer> .
+
+<http://data.judaicalink.org/data/dbpedia/Shimon_Glick> a foaf:Person ;
+    jl:hasLabel "Shimon Glick@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Shimon_Glick>,
+        <http://rdf.freebase.com/ns/m.01262dsy>,
+        <http://wikidata.dbpedia.org/resource/Q6990169>,
+        <http://www.wikidata.org/entity/Q6990169> .
+
+<http://data.judaicalink.org/data/dbpedia/Siegfried_Lehman> a foaf:Person ;
+    jl:hasLabel "Siegfried Lehman@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Siegfried_Lehman>,
+        <http://rdf.freebase.com/ns/m.09rtf37>,
+        <http://wikidata.dbpedia.org/resource/Q7510656>,
+        <http://www.wikidata.org/entity/Q7510656>,
+        <http://yago-knowledge.org/resource/Siegfried_Lehman> .
+
+<http://data.judaicalink.org/data/dbpedia/Sigmund_Feist> a foaf:Person ;
+    jl:hasLabel "Sigmund Feist@en",
+        "Sigmund Feist@it",
+        "Файст, Зигмунд@ru" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Sigmund_Feist>,
+        <http://it.dbpedia.org/resource/Sigmund_Feist>,
+        <http://rdf.freebase.com/ns/m.02qynsq>,
+        <http://viaf.org/viaf/36994891>,
+        <http://wikidata.dbpedia.org/resource/Q4480637>,
+        <http://www.wikidata.org/entity/Q4480637>,
+        <http://yago-knowledge.org/resource/Sigmund_Feist> .
+
+<http://data.judaicalink.org/data/dbpedia/Sylvia_Ettenberg> a foaf:Person ;
+    jl:hasLabel "Sylvia Ettenberg@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Sylvia_Ettenberg>,
+        <http://rdf.freebase.com/ns/m.0ds90vg>,
+        <http://wikidata.dbpedia.org/resource/Q7660909>,
+        <http://www.wikidata.org/entity/Q7660909>,
+        <http://yago-knowledge.org/resource/Sylvia_Ettenberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Sándor_Büchler> a foaf:Person ;
+    jl:hasLabel "Sándor Büchler@en",
+        "Sándor Büchler@es" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Sándor_Büchler>,
+        <http://es.dbpedia.org/resource/Sándor_Büchler>,
+        <http://rdf.freebase.com/ns/m.0dfqnq>,
+        <http://viaf.org/viaf/48743028>,
+        <http://wikidata.dbpedia.org/resource/Q541034>,
+        <http://www.wikidata.org/entity/Q541034>,
+        <http://yago-knowledge.org/resource/Sándor_Büchler> .
+
+<http://data.judaicalink.org/data/dbpedia/Theresa_Wolfson> a foaf:Person ;
+    jl:hasLabel "Theresa Wolfson@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Theresa_Wolfson>,
+        <http://rdf.freebase.com/ns/m.04y67pj>,
+        <http://viaf.org/viaf/162051110>,
+        <http://wikidata.dbpedia.org/resource/Q7782908>,
+        <http://www.wikidata.org/entity/Q7782908>,
+        <http://yago-knowledge.org/resource/Theresa_Wolfson> .
+
+<http://data.judaicalink.org/data/dbpedia/Tziporah_Heller> a foaf:Person ;
+    jl:hasLabel "Tziporah Heller@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Tziporah_Heller>,
+        <http://wikidata.dbpedia.org/resource/Q22278169>,
+        <http://www.wikidata.org/entity/Q22278169> .
+
+<http://data.judaicalink.org/data/dbpedia/Vichna_Kaplan> a foaf:Person ;
+    jl:hasLabel "Vichna Kaplan@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Vichna_Kaplan>,
+        <http://rdf.freebase.com/ns/m.0ql48xk>,
+        <http://wikidata.dbpedia.org/resource/Q7925261>,
+        <http://www.wikidata.org/entity/Q7925261>,
+        <http://yago-knowledge.org/resource/Vichna_Kaplan> .
+
+<http://data.judaicalink.org/data/dbpedia/Zvi_Nishri> a foaf:Person ;
+    jl:hasLabel "Zvi Nishri@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Zvi_Nishri>,
+        <http://rdf.freebase.com/ns/m.0hgq81t>,
+        <http://wikidata.dbpedia.org/resource/Q8075543>,
+        <http://www.wikidata.org/entity/Q8075543>,
+        <http://yago-knowledge.org/resource/Zvi_Nishri> .
+
+<http://data.judaicalink.org/data/dbpedia/Ábrahám_Lederer> a foaf:Person ;
+    jl:hasLabel "Ábrahám Lederer@en" ;
+    jl:occupation "Jewish educators" ;
+    owl:sameAs <http://dbpedia.org/resource/Ábrahám_Lederer>,
+        <http://rdf.freebase.com/ns/m.07j236>,
+        <http://wikidata.dbpedia.org/resource/Q1128570>,
+        <http://www.wikidata.org/entity/Q1128570>,
+        <http://yago-knowledge.org/resource/Ábrahám_Lederer> .
+

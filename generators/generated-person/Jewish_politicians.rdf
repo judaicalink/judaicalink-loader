@@ -1,0 +1,771 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Adam_Cwejman> a foaf:Person ;
+    jl:hasLabel "Adam Cwejman@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Adam_Cwejman>,
+        <http://rdf.freebase.com/ns/m.076z9nh>,
+        <http://viaf.org/viaf/292617281>,
+        <http://wikidata.dbpedia.org/resource/Q4678926>,
+        <http://www.wikidata.org/entity/Q4678926>,
+        <http://yago-knowledge.org/resource/Adam_Cwejman> .
+
+<http://data.judaicalink.org/data/dbpedia/Arne_Melchior> a foaf:Person ;
+    jl:hasLabel "Arne Melchior@en",
+        "Arne Melchior@fr" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Arne_Melchior>,
+        <http://dbpedia.org/resource/Arne_Melchior>,
+        <http://fr.dbpedia.org/resource/Arne_Melchior>,
+        <http://rdf.freebase.com/ns/m.0glsjd>,
+        <http://wikidata.dbpedia.org/resource/Q4357060>,
+        <http://www.wikidata.org/entity/Q4357060>,
+        <http://yago-knowledge.org/resource/Arne_Melchior> .
+
+<http://data.judaicalink.org/data/dbpedia/Daniel_Jositsch> a foaf:Person ;
+    jl:hasLabel "Daniel Jositsch@de",
+        "Daniel Jositsch@en",
+        "Daniel Jositsch@fr" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Jositsch>,
+        <http://de.dbpedia.org/resource/Daniel_Jositsch>,
+        <http://fr.dbpedia.org/resource/Daniel_Jositsch>,
+        <http://wikidata.dbpedia.org/resource/Q120937>,
+        <http://www.wikidata.org/entity/Q120937> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Marshall_(Singaporean_politician)> a foaf:Person ;
+    jl:hasLabel "David Marshall (Singaporean politician)@en",
+        "David Marshall (homme politique singapourien)@fr",
+        "David Saul Marshall@de",
+        "David Saul Marshall@es",
+        "David Saul Marshall@pt",
+        "大卫·马绍尔@zh" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Marshall_(Singaporean_politician)>,
+        <http://de.dbpedia.org/resource/David_Saul_Marshall>,
+        <http://es.dbpedia.org/resource/David_Saul_Marshall>,
+        <http://eu.dbpedia.org/resource/David_Saul_Marshall>,
+        <http://fr.dbpedia.org/resource/David_Marshall_(homme_politique_singapourien)>,
+        <http://id.dbpedia.org/resource/David_Saul_Marshall>,
+        <http://pt.dbpedia.org/resource/David_Saul_Marshall>,
+        <http://rdf.freebase.com/ns/m.045k81>,
+        <http://viaf.org/viaf/102695960>,
+        <http://wikidata.dbpedia.org/resource/Q687956>,
+        <http://www.wikidata.org/entity/Q687956>,
+        <http://yago-knowledge.org/resource/David_Marshall_(Singaporean_politician)> .
+
+<http://data.judaicalink.org/data/dbpedia/Ebrahim_Daoud_Nonoo> a foaf:Person ;
+    jl:hasLabel "Ebrahim Daoud Nonoo@en",
+        "إبراهيم نونو@ar" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Ebrahim_Daoud_Nonoo>,
+        <http://rdf.freebase.com/ns/m.026zy2m>,
+        <http://wikidata.dbpedia.org/resource/Q5331971>,
+        <http://www.wikidata.org/entity/Q5331971>,
+        <http://yago-knowledge.org/resource/Ebrahim_Daoud_Nonoo> .
+
+<http://data.judaicalink.org/data/dbpedia/Edvard_Brandes> a foaf:Person ;
+    jl:hasLabel "Edvard Brandes@de",
+        "Edvard Brandes@en",
+        "Edvard Brandes@fr",
+        "Edvard Brandes@it" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Edvard_Brandes>,
+        <http://de.dbpedia.org/resource/Edvard_Brandes>,
+        <http://fr.dbpedia.org/resource/Edvard_Brandes>,
+        <http://it.dbpedia.org/resource/Edvard_Brandes>,
+        <http://rdf.freebase.com/ns/m.02z68k1>,
+        <http://viaf.org/viaf/30334407>,
+        <http://wikidata.dbpedia.org/resource/Q347582>,
+        <http://www.wikidata.org/entity/Q347582>,
+        <http://yago-knowledge.org/resource/Edvard_Brandes> .
+
+<http://data.judaicalink.org/data/dbpedia/Efraín_Goldenberg> a foaf:Person ;
+    jl:hasLabel "Efraín Goldenberg Schreiber@es",
+        "Efraín Goldenberg Schreiber@nl",
+        "Efraín Goldenberg@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Efraín_Goldenberg>,
+        <http://es.dbpedia.org/resource/Efraín_Goldenberg_Schreiber>,
+        <http://nl.dbpedia.org/resource/Efraín_Goldenberg_Schreiber>,
+        <http://rdf.freebase.com/ns/m.0fphr9>,
+        <http://wikidata.dbpedia.org/resource/Q2892715>,
+        <http://www.wikidata.org/entity/Q2892715>,
+        <http://yago-knowledge.org/resource/Efraín_Goldenberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Egon_Lánský> a foaf:Person ;
+    jl:hasLabel "Egon Lánský@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Egon_Lánský>,
+        <http://dbpedia.org/resource/Egon_Lánský>,
+        <http://rdf.freebase.com/ns/m.0zg71kd>,
+        <http://wikidata.dbpedia.org/resource/Q11876915>,
+        <http://www.wikidata.org/entity/Q11876915>,
+        <http://yago-knowledge.org/resource/Egon_Lánský> .
+
+<http://data.judaicalink.org/data/dbpedia/Emmanuel_Carasso> a foaf:Person ;
+    jl:hasLabel "Emmanuel Carasso@en",
+        "Emmanuel Carasso@fr",
+        "Emmanuel Karasu@de",
+        "Карассо, Эммануил@ru",
+        "إيمانويل قراصو@ar" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Emmanuel_Carasso>,
+        <http://de.dbpedia.org/resource/Emmanuel_Karasu>,
+        <http://fr.dbpedia.org/resource/Emmanuel_Carasso>,
+        <http://rdf.freebase.com/ns/m.02q4kdt>,
+        <http://wikidata.dbpedia.org/resource/Q706747>,
+        <http://www.wikidata.org/entity/Q706747>,
+        <http://yago-knowledge.org/resource/Emmanuel_Carasso> .
+
+<http://data.judaicalink.org/data/dbpedia/Eric_Arturo_Delvalle> a foaf:Person ;
+    jl:hasLabel "Eric Arturo Delvalle@de",
+        "Eric Arturo Delvalle@en",
+        "Eric Arturo Delvalle@es",
+        "Eric Arturo Delvalle@fr",
+        "Eric Arturo Delvalle@it",
+        "Eric Arturo Delvalle@nl",
+        "Eric Arturo Delvalle@pt",
+        "Eric Arturo del Valle@pl",
+        "Дельвалье, Эрик Артуро@ru",
+        "إريك أرتور ديلفايي@ar" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Eric_Arturo_Delvalle>,
+        <http://de.dbpedia.org/resource/Eric_Arturo_Delvalle>,
+        <http://es.dbpedia.org/resource/Eric_Arturo_Delvalle>,
+        <http://fr.dbpedia.org/resource/Eric_Arturo_Delvalle>,
+        <http://it.dbpedia.org/resource/Eric_Arturo_Delvalle>,
+        <http://nl.dbpedia.org/resource/Eric_Arturo_Delvalle>,
+        <http://pl.dbpedia.org/resource/Eric_Arturo_del_Valle>,
+        <http://pt.dbpedia.org/resource/Eric_Arturo_Delvalle>,
+        <http://rdf.freebase.com/ns/m.06rwkv>,
+        <http://sw.cyc.com/concept/Mx4rvViya5wpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q739390>,
+        <http://www.wikidata.org/entity/Q739390>,
+        <http://yago-knowledge.org/resource/Eric_Arturo_Delvalle> .
+
+<http://data.judaicalink.org/data/dbpedia/Exilarch> a foaf:Person ;
+    jl:hasLabel "Egzylarcha@pl",
+        "Esilarca@it",
+        "Exilarca@es",
+        "Exilarch@de",
+        "Exilarch@en",
+        "Exilarque@fr",
+        "Экзиларх@ru" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Exilarch>,
+        <http://de.dbpedia.org/resource/Exilarch>,
+        <http://es.dbpedia.org/resource/Exilarca>,
+        <http://fr.dbpedia.org/resource/Exilarque>,
+        <http://it.dbpedia.org/resource/Esilarca>,
+        <http://pl.dbpedia.org/resource/Egzylarcha>,
+        <http://rdf.freebase.com/ns/m.01ymfq>,
+        <http://wikidata.dbpedia.org/resource/Q1265579>,
+        <http://www.wikidata.org/entity/Q1265579>,
+        <http://yago-knowledge.org/resource/Exilarch> .
+
+<http://data.judaicalink.org/data/dbpedia/Gail_Rebuck> a foaf:Person ;
+    jl:hasLabel "Gail Rebuck@de",
+        "Gail Rebuck@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Gail_Rebuck>,
+        <http://dbpedia.org/resource/Gail_Rebuck>,
+        <http://de.dbpedia.org/resource/Gail_Rebuck>,
+        <http://rdf.freebase.com/ns/m.0h7lzkf>,
+        <http://wikidata.dbpedia.org/resource/Q5517148>,
+        <http://www.wikidata.org/entity/Q5517148>,
+        <http://yago-knowledge.org/resource/Gail_Rebuck> .
+
+<http://data.judaicalink.org/data/dbpedia/Georges_Adda> a foaf:Person ;
+    jl:hasLabel "Georges Adda@en",
+        "Georges Adda@fr",
+        "جورج عدة@ar" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Georges_Adda>,
+        <http://fr.dbpedia.org/resource/Georges_Adda>,
+        <http://rdf.freebase.com/ns/m.0804_s8>,
+        <http://wikidata.dbpedia.org/resource/Q3102167>,
+        <http://www.wikidata.org/entity/Q3102167>,
+        <http://yago-knowledge.org/resource/Georges_Adda> .
+
+<http://data.judaicalink.org/data/dbpedia/Herbert_Samuel,_1st_Viscount_Samuel> a foaf:Person ;
+    jl:hasLabel "Herbert Louis Samuel@es",
+        "Herbert Louis Samuel@pt",
+        "Herbert Samuel, 1. Viscount Samuel@de",
+        "Herbert Samuel, 1st Viscount Samuel@en",
+        "Herbert Samuel@fr",
+        "Herbert Samuel@it",
+        "Herbert Samuel@nl",
+        "Herbert Samuel@pl",
+        "Сэмюэл, Герберт Луис@ru",
+        "هربرت صموئيل@ar",
+        "ハーバート・サミュエル (初代サミュエル子爵)@ja" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Herbert_Samuel>,
+        <http://dbpedia.org/resource/Herbert_Samuel,_1st_Viscount_Samuel>,
+        <http://de.dbpedia.org/resource/Herbert_Samuel,_1._Viscount_Samuel>,
+        <http://es.dbpedia.org/resource/Herbert_Louis_Samuel>,
+        <http://fr.dbpedia.org/resource/Herbert_Samuel>,
+        <http://it.dbpedia.org/resource/Herbert_Samuel>,
+        <http://ja.dbpedia.org/resource/ハーバート・サミュエル_(初代サミュエル子爵)>,
+        <http://nl.dbpedia.org/resource/Herbert_Samuel>,
+        <http://pl.dbpedia.org/resource/Herbert_Samuel>,
+        <http://pt.dbpedia.org/resource/Herbert_Louis_Samuel>,
+        <http://rdf.freebase.com/ns/m.02ktyz>,
+        <http://wikidata.dbpedia.org/resource/Q335218>,
+        <http://www.wikidata.org/entity/Q335218>,
+        <http://yago-knowledge.org/resource/Herbert_Samuel,_1st_Viscount_Samuel> .
+
+<http://data.judaicalink.org/data/dbpedia/Hillel_Schwartz> a foaf:Person ;
+    jl:hasLabel "Hillel Schwartz@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Hillel_Schwartz>,
+        <http://rdf.freebase.com/ns/m.043p1h5>,
+        <http://wikidata.dbpedia.org/resource/Q16017911>,
+        <http://www.wikidata.org/entity/Q16017911> .
+
+<http://data.judaicalink.org/data/dbpedia/Houda_Nonoo> a foaf:Person ;
+    jl:hasLabel "Houda Nonoo@en",
+        "Houda Nonu@pl",
+        "هدى عزرا@ar" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Huda_Nunu>,
+        <http://dbpedia.org/resource/Houda_Nonoo>,
+        <http://pl.dbpedia.org/resource/Houda_Nonu>,
+        <http://rdf.freebase.com/ns/m.026zxvq>,
+        <http://wikidata.dbpedia.org/resource/Q2914654>,
+        <http://www.wikidata.org/entity/Q2914654>,
+        <http://yago-knowledge.org/resource/Houda_Nonoo> .
+
+<http://data.judaicalink.org/data/dbpedia/Hugo_Fernández_Faingold> a foaf:Person ;
+    jl:hasLabel "Hugo Fernández Faingold@de",
+        "Hugo Fernández Faingold@en",
+        "Hugo Fernández Faingold@es" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Hugo_Fernández_Faingold>,
+        <http://de.dbpedia.org/resource/Hugo_Fernández_Faingold>,
+        <http://es.dbpedia.org/resource/Hugo_Fernández_Faingold>,
+        <http://id.dbpedia.org/resource/Hugo_Fernández_Faingold>,
+        <http://rdf.freebase.com/ns/m.0dnd3n>,
+        <http://wikidata.dbpedia.org/resource/Q961599>,
+        <http://www.wikidata.org/entity/Q961599>,
+        <http://yago-knowledge.org/resource/Hugo_Fernández_Faingold> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Mekler> a foaf:Person ;
+    jl:hasLabel "Isaac Mekler@en",
+        "Isaac Mekler@es" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Isaac_Mekler>,
+        <http://dbpedia.org/resource/Isaac_Mekler>,
+        <http://es.dbpedia.org/resource/Isaac_Mekler>,
+        <http://rdf.freebase.com/ns/m.09jv1v>,
+        <http://wikidata.dbpedia.org/resource/Q6076791>,
+        <http://www.wikidata.org/entity/Q6076791>,
+        <http://yago-knowledge.org/resource/Isaac_Mekler> .
+
+<http://data.judaicalink.org/data/dbpedia/J._F._R._Jacob> a foaf:Person ;
+    jl:hasLabel "J. F. R. Jacob@en",
+        "Джейкоб, Джейкоб Фардж Рафаэль@ru" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/J._F._R._Jacob>,
+        <http://rdf.freebase.com/ns/m.0cg2vb>,
+        <http://wikidata.dbpedia.org/resource/Q6105676>,
+        <http://www.wikidata.org/entity/Q6105676>,
+        <http://yago-knowledge.org/resource/J._F._R._Jacob> .
+
+<http://data.judaicalink.org/data/dbpedia/Jo_Benkow> a foaf:Person ;
+    jl:hasLabel "Jo Benkow@de",
+        "Jo Benkow@en",
+        "Jo Benkow@es",
+        "Jo Benkow@fr",
+        "Jo Benkow@pl" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Jo_Benkow>,
+        <http://dbpedia.org/resource/Jo_Benkow>,
+        <http://de.dbpedia.org/resource/Jo_Benkow>,
+        <http://es.dbpedia.org/resource/Jo_Benkow>,
+        <http://fr.dbpedia.org/resource/Jo_Benkow>,
+        <http://pl.dbpedia.org/resource/Jo_Benkow>,
+        <http://rdf.freebase.com/ns/m.0419qq>,
+        <http://viaf.org/viaf/34506239>,
+        <http://wikidata.dbpedia.org/resource/Q1481132>,
+        <http://www.wikidata.org/entity/Q1481132>,
+        <http://yago-knowledge.org/resource/Jo_Benkow> .
+
+<http://data.judaicalink.org/data/dbpedia/Joel_Barnett> a foaf:Person ;
+    jl:hasLabel "Joel Barnett@de",
+        "Joel Barnett@en",
+        "Joel Barnett@pl" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Joel_Barnett>,
+        <http://de.dbpedia.org/resource/Joel_Barnett>,
+        <http://pl.dbpedia.org/resource/Joel_Barnett>,
+        <http://rdf.freebase.com/ns/m.02dhfy>,
+        <http://viaf.org/viaf/94267824>,
+        <http://wikidata.dbpedia.org/resource/Q333079>,
+        <http://www.wikidata.org/entity/Q333079>,
+        <http://yago-knowledge.org/resource/Joel_Barnett,_Baron_Barnett> .
+
+<http://data.judaicalink.org/data/dbpedia/Joey_Jagan> a foaf:Person ;
+    jl:hasLabel "Joey Jagan@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Joey_Jagan>,
+        <http://rdf.freebase.com/ns/m.0cht72>,
+        <http://wikidata.dbpedia.org/resource/Q6214419>,
+        <http://www.wikidata.org/entity/Q6214419>,
+        <http://yago-knowledge.org/resource/Joey_Jagan> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_Bismuth> a foaf:Person ;
+    jl:hasLabel "Joseph Bismuth@en",
+        "Roger Bismuth@fr" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Roger_Bismuth>,
+        <http://dbpedia.org/resource/Joseph_Bismuth>,
+        <http://fr.dbpedia.org/resource/Roger_Bismuth>,
+        <http://rdf.freebase.com/ns/m.0ktcwp>,
+        <http://wikidata.dbpedia.org/resource/Q3438707>,
+        <http://www.wikidata.org/entity/Q3438707>,
+        <http://yago-knowledge.org/resource/Joseph_Bismuth> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_de_Picciotto_Bey> a foaf:Person ;
+    jl:hasLabel "Joseph de Picciotto Bey@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_de_Picciotto_Bey>,
+        <http://rdf.freebase.com/ns/m.0fq28r6>,
+        <http://wikidata.dbpedia.org/resource/Q6288206>,
+        <http://www.wikidata.org/entity/Q6288206>,
+        <http://yago-knowledge.org/resource/Joseph_de_Picciotto_Bey> .
+
+<http://data.judaicalink.org/data/dbpedia/Joshua_Hassan> a foaf:Person ;
+    jl:hasLabel "Joshua Abraham Hassan@de",
+        "Joshua Hassan@en",
+        "Joshua Hassan@es",
+        "Joshua Hassan@fr",
+        "Joshua Hassan@pl",
+        "Хассан, Джошуа@ru" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Joshua_Hassan>,
+        <http://de.dbpedia.org/resource/Joshua_Abraham_Hassan>,
+        <http://es.dbpedia.org/resource/Joshua_Hassan>,
+        <http://fr.dbpedia.org/resource/Joshua_Hassan>,
+        <http://pl.dbpedia.org/resource/Joshua_Hassan>,
+        <http://rdf.freebase.com/ns/m.053q78>,
+        <http://wikidata.dbpedia.org/resource/Q1708538>,
+        <http://www.wikidata.org/entity/Q1708538>,
+        <http://yago-knowledge.org/resource/Joshua_Hassan> .
+
+<http://data.judaicalink.org/data/dbpedia/List_of_Jews_in_politics> a foaf:Person ;
+    jl:hasLabel "List of Jews in politics@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/List_of_Jews_in_politics>,
+        <http://wikidata.dbpedia.org/resource/Q6575364>,
+        <http://www.wikidata.org/entity/Q6575364> .
+
+<http://data.judaicalink.org/data/dbpedia/Macarena_Gelman> a foaf:Person ;
+    jl:hasLabel "Macarena Gelman@en",
+        "Macarena Gelman@es" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Macarena_Gelman>,
+        <http://es.dbpedia.org/resource/Macarena_Gelman>,
+        <http://rdf.freebase.com/ns/m.0113k6ln>,
+        <http://wikidata.dbpedia.org/resource/Q16596518>,
+        <http://www.wikidata.org/entity/Q16596518> .
+
+<http://data.judaicalink.org/data/dbpedia/Maurice_Motamed> a foaf:Person ;
+    jl:hasLabel "Maurice Motamed@de",
+        "Maurice Motamed@en",
+        "Maurice Motamed@fr",
+        "Maurice Motamed@pt",
+        "Мотамед, Морис@ru" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Maurice_Motamed>,
+        <http://data.europa.eu/euodp/jrc-names/Morris_Motamed>,
+        <http://dbpedia.org/resource/Maurice_Motamed>,
+        <http://de.dbpedia.org/resource/Maurice_Motamed>,
+        <http://fr.dbpedia.org/resource/Maurice_Motamed>,
+        <http://pt.dbpedia.org/resource/Maurice_Motamed>,
+        <http://rdf.freebase.com/ns/m.0b4_nv>,
+        <http://wikidata.dbpedia.org/resource/Q1397504>,
+        <http://www.wikidata.org/entity/Q1397504>,
+        <http://yago-knowledge.org/resource/Maurice_Motamed> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Delvalle> a foaf:Person ;
+    jl:hasLabel "Max Delvalle@en",
+        "Max Delvalle@es",
+        "Max Delvalle@pt" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Max_Delvalle>,
+        <http://es.dbpedia.org/resource/Max_Delvalle>,
+        <http://pt.dbpedia.org/resource/Max_Delvalle>,
+        <http://rdf.freebase.com/ns/m.051vww3>,
+        <http://wikidata.dbpedia.org/resource/Q2919155>,
+        <http://www.wikidata.org/entity/Q2919155>,
+        <http://yago-knowledge.org/resource/Max_Delvalle> .
+
+<http://data.judaicalink.org/data/dbpedia/Mike_Eman> a foaf:Person ;
+    jl:hasLabel "Mike Eman@en",
+        "Mike Eman@es",
+        "Mike Eman@fr",
+        "Mike Eman@nl",
+        "Mike Eman@pl" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Mike_Eman>,
+        <http://dbpedia.org/resource/Mike_Eman>,
+        <http://el.dbpedia.org/resource/Μάικ_Έμαν>,
+        <http://es.dbpedia.org/resource/Mike_Eman>,
+        <http://fr.dbpedia.org/resource/Mike_Eman>,
+        <http://nl.dbpedia.org/resource/Mike_Eman>,
+        <http://pl.dbpedia.org/resource/Mike_Eman>,
+        <http://rdf.freebase.com/ns/m.07s455k>,
+        <http://wikidata.dbpedia.org/resource/Q1268462>,
+        <http://www.wikidata.org/entity/Q1268462>,
+        <http://yago-knowledge.org/resource/Mike_Eman> .
+
+<http://data.judaicalink.org/data/dbpedia/Nancy_Khedouri> a foaf:Person ;
+    jl:hasLabel "Nancy Khedouri@en",
+        "نانسي خضوري@ar" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Nancy_Khedouri>,
+        <http://wikidata.dbpedia.org/resource/Q20423780>,
+        <http://www.wikidata.org/entity/Q20423780> .
+
+<http://data.judaicalink.org/data/dbpedia/Paulina_Gamus> a foaf:Person ;
+    jl:hasLabel "Paulina Gamus@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Paulina_Gamus>,
+        <http://rdf.freebase.com/ns/m.09g7975>,
+        <http://wikidata.dbpedia.org/resource/Q7154930>,
+        <http://www.wikidata.org/entity/Q7154930>,
+        <http://yago-knowledge.org/resource/Paulina_Gamus> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Stricker> a foaf:Person ;
+    jl:hasLabel "Robert Stricker@de",
+        "Robert Stricker@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Robert_Stricker>,
+        <http://de.dbpedia.org/resource/Robert_Stricker>,
+        <http://rdf.freebase.com/ns/m.0807szh>,
+        <http://viaf.org/viaf/62610703>,
+        <http://wikidata.dbpedia.org/resource/Q85976>,
+        <http://www.wikidata.org/entity/Q85976>,
+        <http://yago-knowledge.org/resource/Robert_Stricker> .
+
+<http://data.judaicalink.org/data/dbpedia/Rudolf_Kastner> a foaf:Person ;
+    jl:hasLabel "Rudolf Kastner@en",
+        "Rudolf Kastner@es",
+        "Rudolf Kastner@fr",
+        "Rudolf Kasztner@de",
+        "Кастнер, Рудольф@ru",
+        "رودولف كاستنر@ar" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Rudolf_Kastner>,
+        <http://dbpedia.org/resource/Rudolf_Kastner>,
+        <http://de.dbpedia.org/resource/Rudolf_Kasztner>,
+        <http://es.dbpedia.org/resource/Rudolf_Kastner>,
+        <http://fr.dbpedia.org/resource/Rudolf_Kastner>,
+        <http://rdf.freebase.com/ns/m.07vvls>,
+        <http://wikidata.dbpedia.org/resource/Q557665>,
+        <http://www.wikidata.org/entity/Q557665>,
+        <http://yago-knowledge.org/resource/Rudolf_Kastner> .
+
+<http://data.judaicalink.org/data/dbpedia/Ruth_Dreifuss> a foaf:Person ;
+    jl:hasLabel "Ruth Dreifuss@de",
+        "Ruth Dreifuss@en",
+        "Ruth Dreifuss@es",
+        "Ruth Dreifuss@fr",
+        "Ruth Dreifuss@it",
+        "Ruth Dreifuss@nl",
+        "Ruth Dreifuss@pl",
+        "Ruth Dreifuss@pt",
+        "Дрейфус, Рут@ru",
+        "روث دريفيس@ar",
+        "露特·德萊富斯@zh" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Ruth_Dreifuss>,
+        <http://dbpedia.org/resource/Ruth_Dreifuss>,
+        <http://de.dbpedia.org/resource/Ruth_Dreifuss>,
+        <http://es.dbpedia.org/resource/Ruth_Dreifuss>,
+        <http://fr.dbpedia.org/resource/Ruth_Dreifuss>,
+        <http://it.dbpedia.org/resource/Ruth_Dreifuss>,
+        <http://nl.dbpedia.org/resource/Ruth_Dreifuss>,
+        <http://pl.dbpedia.org/resource/Ruth_Dreifuss>,
+        <http://pt.dbpedia.org/resource/Ruth_Dreifuss>,
+        <http://rdf.freebase.com/ns/m.014fd7>,
+        <http://viaf.org/viaf/64927823>,
+        <http://wikidata.dbpedia.org/resource/Q123902>,
+        <http://www.wikidata.org/entity/Q123902>,
+        <http://yago-knowledge.org/resource/Ruth_Dreifuss> .
+
+<http://data.judaicalink.org/data/dbpedia/Salo_Weisselberger> a foaf:Person ;
+    jl:hasLabel "Salo Weisselberger@en",
+        "Salo von Weisselberger@de" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Salo_Weisselberger>,
+        <http://de.dbpedia.org/resource/Salo_von_Weisselberger>,
+        <http://rdf.freebase.com/ns/m.09g9b60>,
+        <http://wikidata.dbpedia.org/resource/Q85921>,
+        <http://www.wikidata.org/entity/Q85921>,
+        <http://yago-knowledge.org/resource/Salo_Weisselberger> .
+
+<http://data.judaicalink.org/data/dbpedia/Salomón_Lerner_Ghitis> a foaf:Person ;
+    jl:hasLabel "Salomón Lerner Ghitis@de",
+        "Salomón Lerner Ghitis@en",
+        "Salomón Lerner Ghitis@es",
+        "Salomón Lerner Ghitis@it",
+        "Salomón Lerner Ghitis@pl",
+        "Salomón Lerner Ghitis@pt",
+        "Salomón Lerner@fr",
+        "Лернер, Саломон@ru" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Salom%C3%B3n_Lerner>,
+        <http://data.europa.eu/euodp/jrc-names/Salom%C3%B3n_Lerner_Ghitis>,
+        <http://dbpedia.org/resource/Salomón_Lerner_Ghitis>,
+        <http://de.dbpedia.org/resource/Salomón_Lerner_Ghitis>,
+        <http://es.dbpedia.org/resource/Salomón_Lerner_Ghitis>,
+        <http://fr.dbpedia.org/resource/Salomón_Lerner>,
+        <http://it.dbpedia.org/resource/Salomón_Lerner_Ghitis>,
+        <http://pl.dbpedia.org/resource/Salomón_Lerner_Ghitis>,
+        <http://pt.dbpedia.org/resource/Salomón_Lerner_Ghitis>,
+        <http://rdf.freebase.com/ns/m.0h1g0cd>,
+        <http://wikidata.dbpedia.org/resource/Q733997>,
+        <http://www.wikidata.org/entity/Q733997>,
+        <http://yago-knowledge.org/resource/Salomón_Lerner_Ghitis> .
+
+<http://data.judaicalink.org/data/dbpedia/Sassoon_Eskell> a foaf:Person ;
+    jl:hasLabel "Sassoon Eskell@en",
+        "حسقيل ساسون@ar" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Sassoon_Eskell>,
+        <http://rdf.freebase.com/ns/m.02q_wmy>,
+        <http://wikidata.dbpedia.org/resource/Q2905728>,
+        <http://www.wikidata.org/entity/Q2905728>,
+        <http://yago-knowledge.org/resource/Sassoon_Eskell> .
+
+<http://data.judaicalink.org/data/dbpedia/Savas_Matsas> a foaf:Person ;
+    jl:hasLabel "Savas Matsas@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Savas_Matsas>,
+        <http://el.dbpedia.org/resource/Σάββας_Μιχαήλ>,
+        <http://rdf.freebase.com/ns/m.0w6hs3h>,
+        <http://wikidata.dbpedia.org/resource/Q12884245>,
+        <http://www.wikidata.org/entity/Q12884245>,
+        <http://yago-knowledge.org/resource/Savas_Matsas> .
+
+<http://data.judaicalink.org/data/dbpedia/Shabtai_Levy> a foaf:Person ;
+    jl:hasLabel "Shabtai Levy@en",
+        "Shabtai Levy@es" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Šabtaj_Levy>,
+        <http://dbpedia.org/resource/Shabtai_Levy>,
+        <http://es.dbpedia.org/resource/Shabtai_Levy>,
+        <http://rdf.freebase.com/ns/m.03cg73q>,
+        <http://wikidata.dbpedia.org/resource/Q2917582>,
+        <http://www.wikidata.org/entity/Q2917582>,
+        <http://yago-knowledge.org/resource/Shabtai_Levy> .
+
+<http://data.judaicalink.org/data/dbpedia/Siamak_Moreh_Sedgh> a foaf:Person ;
+    jl:hasLabel "Ciamak Moresadegh@de",
+        "Siamak Moreh Sedgh@en",
+        "سيامك مره صدق@ar" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Siamak_Moreh_Sedgh>,
+        <http://de.dbpedia.org/resource/Ciamak_Moresadegh>,
+        <http://rdf.freebase.com/ns/m.03m5dkn>,
+        <http://wikidata.dbpedia.org/resource/Q3547870>,
+        <http://www.wikidata.org/entity/Q3547870>,
+        <http://yago-knowledge.org/resource/Ciamak_Moresadegh> .
+
+<http://data.judaicalink.org/data/dbpedia/Sir_Frank_Meyer,_2nd_Baronet> a foaf:Person ;
+    jl:hasLabel "Sir Frank Meyer, 2nd Baronet@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Sir_Frank_Meyer,_2nd_Baronet>,
+        <http://rdf.freebase.com/ns/m.0h68ms>,
+        <http://wikidata.dbpedia.org/resource/Q13529993>,
+        <http://www.wikidata.org/entity/Q13529993>,
+        <http://yago-knowledge.org/resource/Sir_Frank_Meyer,_2nd_Baronet> .
+
+<http://data.judaicalink.org/data/dbpedia/Temur_Iakobashvili> a foaf:Person ;
+    jl:hasLabel "Temur Iakobashvili@en",
+        "Якобашвили, Темур@ru" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Temuri_Yakobashvili>,
+        <http://dbpedia.org/resource/Temur_Iakobashvili>,
+        <http://rdf.freebase.com/ns/m.03y9bp5>,
+        <http://wikidata.dbpedia.org/resource/Q839325>,
+        <http://www.wikidata.org/entity/Q839325>,
+        <http://yago-knowledge.org/resource/Temur_Iakobashvili> .
+
+<http://data.judaicalink.org/data/dbpedia/Teodoro_Petkoff> a foaf:Person ;
+    jl:hasLabel "Teodoro Petkoff@en",
+        "Teodoro Petkoff@es" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Teodoro_Petkoff>,
+        <http://dbpedia.org/resource/Teodoro_Petkoff>,
+        <http://es.dbpedia.org/resource/Teodoro_Petkoff>,
+        <http://rdf.freebase.com/ns/m.09s9yz>,
+        <http://wikidata.dbpedia.org/resource/Q1983112>,
+        <http://www.wikidata.org/entity/Q1983112>,
+        <http://yago-knowledge.org/resource/Teodoro_Petkoff> .
+
+<http://data.judaicalink.org/data/dbpedia/Tiberius_Julius_Alexander> a foaf:Person ;
+    jl:hasLabel "Tiberio Giulio Alessandro@it",
+        "Tiberio Julio Alejandro@es",
+        "Tiberius Iulius Alexander (Sohn)@de",
+        "Tiberius Julius Alexander@en",
+        "Tiberius Julius Alexander@fr",
+        "Tiberius Julius Alexander@nl",
+        "Tibério Júlio Alexandre@pt",
+        "Tyberiusz Juliusz Aleksander@pl",
+        "Тиберий Юлий Александр@ru" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Tiberius_Julius_Alexander>,
+        <http://de.dbpedia.org/resource/Tiberius_Iulius_Alexander_(Sohn)>,
+        <http://el.dbpedia.org/resource/Τιβέριος_Ιούλιος_Αλέξανδρος>,
+        <http://es.dbpedia.org/resource/Tiberio_Julio_Alejandro>,
+        <http://fr.dbpedia.org/resource/Tiberius_Julius_Alexander>,
+        <http://it.dbpedia.org/resource/Tiberio_Giulio_Alessandro>,
+        <http://nl.dbpedia.org/resource/Tiberius_Julius_Alexander>,
+        <http://pl.dbpedia.org/resource/Tyberiusz_Juliusz_Aleksander>,
+        <http://pt.dbpedia.org/resource/Tibério_Júlio_Alexandre>,
+        <http://rdf.freebase.com/ns/m.0460c0>,
+        <http://wikidata.dbpedia.org/resource/Q361357>,
+        <http://www.wikidata.org/entity/Q361357>,
+        <http://yago-knowledge.org/resource/Tiberius_Julius_Alexander> .
+
+<http://data.judaicalink.org/data/dbpedia/Yaacov_Liberman> a foaf:Person ;
+    jl:hasLabel "Yaacov Liberman@en" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Yaacov_Liberman>,
+        <http://rdf.freebase.com/ns/m.0c391tl>,
+        <http://wikidata.dbpedia.org/resource/Q15441729>,
+        <http://www.wikidata.org/entity/Q15441729>,
+        <http://yago-knowledge.org/resource/Yaacov_Liberman> .
+
+<http://data.judaicalink.org/data/dbpedia/Yakov_Zevin> a foaf:Person ;
+    jl:hasLabel "Jakow Ziewin@pl",
+        "Yakov Zevin@en",
+        "Зевин, Яков Давидович@ru",
+        "ヤーコフ・ゼヴィン@ja" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Yakov_Zevin>,
+        <http://ja.dbpedia.org/resource/ヤーコフ・ゼヴィン>,
+        <http://pl.dbpedia.org/resource/Jakow_Ziewin>,
+        <http://rdf.freebase.com/ns/m.026_ry0>,
+        <http://wikidata.dbpedia.org/resource/Q3915046>,
+        <http://www.wikidata.org/entity/Q3915046>,
+        <http://yago-knowledge.org/resource/Yakov_Zevin> .
+
+<http://data.judaicalink.org/data/dbpedia/Yehude_Simon> a foaf:Person ;
+    jl:hasLabel "Yehude Simon Munaro@es",
+        "Yehude Simon@de",
+        "Yehude Simon@en",
+        "Yehude Simon@fr",
+        "Yehude Simon@pl",
+        "Yehude Simon@pt",
+        "Симон, Еуде@ru",
+        "耶乌德·西蒙·穆纳罗@zh" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Yehude_Simon>,
+        <http://dbpedia.org/resource/Yehude_Simon>,
+        <http://de.dbpedia.org/resource/Yehude_Simon>,
+        <http://el.dbpedia.org/resource/Γιεχούντε_Σιμόν>,
+        <http://es.dbpedia.org/resource/Yehude_Simon_Munaro>,
+        <http://fr.dbpedia.org/resource/Yehude_Simon>,
+        <http://id.dbpedia.org/resource/Yehude_Simon>,
+        <http://pl.dbpedia.org/resource/Yehude_Simon>,
+        <http://pt.dbpedia.org/resource/Yehude_Simon>,
+        <http://rdf.freebase.com/ns/m.04mzcfx>,
+        <http://wikidata.dbpedia.org/resource/Q470923>,
+        <http://www.wikidata.org/entity/Q470923>,
+        <http://yago-knowledge.org/resource/Yehude_Simon> .
+
+<http://data.judaicalink.org/data/dbpedia/Zhores_Alferov> a foaf:Person ;
+    jl:hasLabel "Jaurès Alferov@fr",
+        "Schores Iwanowitsch Alfjorow@de",
+        "Zhores Alferov@en",
+        "Zhores Alferov@pt",
+        "Zhorés Alfiórov@es",
+        "Zjores Ivanovitsj Alferov@nl",
+        "Żores Ałfiorow@pl",
+        "Žores Ivanovič Alfërov@it",
+        "Алфёров, Жорес Иванович@ru",
+        "زوريس ألفيروف@ar",
+        "ジョレス・アルフョーロフ@ja",
+        "若列斯·伊万诺维奇·阿尔费罗夫@zh" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Žores_Ivanovič_Alfjorov>,
+        <http://dbpedia.org/resource/Zhores_Alferov>,
+        <http://de.dbpedia.org/resource/Schores_Iwanowitsch_Alfjorow>,
+        <http://es.dbpedia.org/resource/Zhorés_Alfiórov>,
+        <http://eu.dbpedia.org/resource/Zhores_Alferov>,
+        <http://fr.dbpedia.org/resource/Jaurès_Alferov>,
+        <http://id.dbpedia.org/resource/Zhores_Ivanovich_Alferov>,
+        <http://it.dbpedia.org/resource/Žores_Ivanovič_Alfërov>,
+        <http://ja.dbpedia.org/resource/ジョレス・アルフョーロフ>,
+        <http://ko.dbpedia.org/resource/조레스_알표로프>,
+        <http://nl.dbpedia.org/resource/Zjores_Ivanovitsj_Alferov>,
+        <http://pl.dbpedia.org/resource/Żores_Ałfiorow>,
+        <http://pt.dbpedia.org/resource/Zhores_Alferov>,
+        <http://rdf.freebase.com/ns/m.0bll6>,
+        <http://wikidata.dbpedia.org/resource/Q183279>,
+        <http://www.wikidata.org/entity/Q183279>,
+        <http://yago-knowledge.org/resource/Zhores_Alferov> .
+
+<http://data.judaicalink.org/data/dbpedia/Zigfrīds_Anna_Meierovics> a foaf:Person ;
+    jl:hasLabel "Zigfrīds Anna Meierovics@de",
+        "Zigfrīds Anna Meierovics@en",
+        "Zigfrīds Anna Meierovics@fr",
+        "Zigfrīds Anna Meierovics@it",
+        "Zigfrīds Anna Meierovics@pt",
+        "Zigfrīds Meierovics@pl",
+        "Мейеровиц, Зигфрид Анна@ru" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Zigfrīds_Anna_Meierovics>,
+        <http://de.dbpedia.org/resource/Zigfrīds_Anna_Meierovics>,
+        <http://fr.dbpedia.org/resource/Zigfrīds_Anna_Meierovics>,
+        <http://it.dbpedia.org/resource/Zigfrīds_Anna_Meierovics>,
+        <http://pl.dbpedia.org/resource/Zigfrīds_Meierovics>,
+        <http://pt.dbpedia.org/resource/Zigfrīds_Anna_Meierovics>,
+        <http://rdf.freebase.com/ns/m.02q_658>,
+        <http://viaf.org/viaf/64818796>,
+        <http://wikidata.dbpedia.org/resource/Q199410>,
+        <http://www.wikidata.org/entity/Q199410>,
+        <http://yago-knowledge.org/resource/Zigfrīds_Anna_Meierovics> .
+
+<http://data.judaicalink.org/data/dbpedia/Zurab_Zhvania> a foaf:Person ;
+    jl:hasLabel "Surab Schwania@de",
+        "Zoerab Zjvania@nl",
+        "Zourab Jvania@fr",
+        "Zurab Jvania@pt",
+        "Zurab Shvania@es",
+        "Zurab Zhvania (politico)@it",
+        "Zurab Zhvania@en",
+        "Zurab Żwania@pl",
+        "Жвания, Зураб Виссарионович@ru",
+        "زوراب جفانيا@ar",
+        "ズラブ・ジワニア@ja",
+        "祖拉布·日瓦尼亚@zh" ;
+    jl:occupation "Jewish politicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Zurab_Žvanija>,
+        <http://data.europa.eu/euodp/jrc-names/Zurab_Zhvania>,
+        <http://dbpedia.org/resource/Zurab_Zhvania>,
+        <http://de.dbpedia.org/resource/Surab_Schwania>,
+        <http://es.dbpedia.org/resource/Zurab_Shvania>,
+        <http://fr.dbpedia.org/resource/Zourab_Jvania>,
+        <http://id.dbpedia.org/resource/Zurab_Zhvania>,
+        <http://it.dbpedia.org/resource/Zurab_Zhvania_(politico)>,
+        <http://ja.dbpedia.org/resource/ズラブ・ジワニア>,
+        <http://nl.dbpedia.org/resource/Zoerab_Zjvania>,
+        <http://pl.dbpedia.org/resource/Zurab_Żwania>,
+        <http://pt.dbpedia.org/resource/Zurab_Jvania>,
+        <http://rdf.freebase.com/ns/m.021bjf>,
+        <http://wikidata.dbpedia.org/resource/Q312493>,
+        <http://www.wikidata.org/entity/Q312493>,
+        <http://yago-knowledge.org/resource/Zurab_Zhvania> .
+

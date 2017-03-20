@@ -1,0 +1,3249 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Abel_Wolman> a foaf:Person ;
+    jl:hasLabel "Abel Wolman@en",
+        "Abel Wolman@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Abel_Wolman>,
+        <http://pt.dbpedia.org/resource/Abel_Wolman>,
+        <http://rdf.freebase.com/ns/m.02rwcdr>,
+        <http://viaf.org/viaf/48003899>,
+        <http://wikidata.dbpedia.org/resource/Q4666640>,
+        <http://www.wikidata.org/entity/Q4666640>,
+        <http://yago-knowledge.org/resource/Abel_Wolman> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_Manie_Adelstein> a foaf:Person ;
+    jl:hasLabel "Abraham Manie Adelstein@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_Manie_Adelstein>,
+        <http://rdf.freebase.com/ns/m.0803n9>,
+        <http://wikidata.dbpedia.org/resource/Q4669074>,
+        <http://www.wikidata.org/entity/Q4669074>,
+        <http://yago-knowledge.org/resource/Abraham_Manie_Adelstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_Neyman> a foaf:Person ;
+    jl:hasLabel "Abraham Neyman@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_Neyman>,
+        <http://rdf.freebase.com/ns/m.011f2ccb>,
+        <http://wikidata.dbpedia.org/resource/Q17425289>,
+        <http://www.wikidata.org/entity/Q17425289> .
+
+<http://data.judaicalink.org/data/dbpedia/Abram_Ioffe> a foaf:Person ;
+    jl:hasLabel "Abram Fjodorowitsch Joffe@de",
+        "Abram Ioffe@en",
+        "Abram Ioffe@it",
+        "Abram Ioffe@pt",
+        "Abram Ioffé@fr",
+        "Abram Joffe@nl",
+        "Abram Joffe@pl",
+        "Иоффе, Абрам Фёдорович@ru",
+        "ابرام يوفي@ar",
+        "アブラム・ヨッフェ@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Abram_Ioffe>,
+        <http://dbpedia.org/resource/Abram_Ioffe>,
+        <http://de.dbpedia.org/resource/Abram_Fjodorowitsch_Joffe>,
+        <http://fr.dbpedia.org/resource/Abram_Ioffé>,
+        <http://it.dbpedia.org/resource/Abram_Ioffe>,
+        <http://ja.dbpedia.org/resource/アブラム・ヨッフェ>,
+        <http://nl.dbpedia.org/resource/Abram_Joffe>,
+        <http://pl.dbpedia.org/resource/Abram_Joffe>,
+        <http://pt.dbpedia.org/resource/Abram_Ioffe>,
+        <http://rdf.freebase.com/ns/m.02d_6q>,
+        <http://wikidata.dbpedia.org/resource/Q331067>,
+        <http://www.wikidata.org/entity/Q331067>,
+        <http://yago-knowledge.org/resource/Abram_Ioffe> .
+
+<http://data.judaicalink.org/data/dbpedia/Abram_Samoilovitch_Besicovitch> a foaf:Person ;
+    jl:hasLabel "Abraham Bezikowicz@pl",
+        "Abram Besicovitch@fr",
+        "Abram Besicovitch@pt",
+        "Abram Besikovitsj@nl",
+        "Abram Samoilovitch Besicovitch@en",
+        "Abram Samoilowitsch Besikowitsch@de",
+        "Abram Samojlovič Bezicovič@it",
+        "Безикович, Абрам Самойлович@ru",
+        "أبراهام سموالوفيتش بيسيكوفيتش@ar" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Abram_Samoilovitch_Besicovitch>,
+        <http://de.dbpedia.org/resource/Abram_Samoilowitsch_Besikowitsch>,
+        <http://eu.dbpedia.org/resource/Abram_Samoilovitx_Besikovitx>,
+        <http://fr.dbpedia.org/resource/Abram_Besicovitch>,
+        <http://it.dbpedia.org/resource/Abram_Samojlovič_Bezicovič>,
+        <http://nl.dbpedia.org/resource/Abram_Besikovitsj>,
+        <http://pl.dbpedia.org/resource/Abraham_Bezikowicz>,
+        <http://pt.dbpedia.org/resource/Abram_Besicovitch>,
+        <http://rdf.freebase.com/ns/m.024820>,
+        <http://viaf.org/viaf/163789685>,
+        <http://wikidata.dbpedia.org/resource/Q331089>,
+        <http://www.wikidata.org/entity/Q331089>,
+        <http://yago-knowledge.org/resource/Abram_Samoilovitch_Besicovitch> .
+
+<http://data.judaicalink.org/data/dbpedia/Adi_Shamir> a foaf:Person ;
+    jl:hasLabel "Adi Shamir@de",
+        "Adi Shamir@en",
+        "Adi Shamir@es",
+        "Adi Shamir@fr",
+        "Adi Shamir@it",
+        "Adi Shamir@nl",
+        "Adi Shamir@pt",
+        "Adi Szamir@pl",
+        "Шамир, Ади@ru",
+        "عدي شامير@ar",
+        "アディ・シャミア@ja",
+        "阿迪·萨莫尔@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Adi_Šamir>,
+        <http://dbpedia.org/resource/Adi_Shamir>,
+        <http://de.dbpedia.org/resource/Adi_Shamir>,
+        <http://es.dbpedia.org/resource/Adi_Shamir>,
+        <http://fr.dbpedia.org/resource/Adi_Shamir>,
+        <http://it.dbpedia.org/resource/Adi_Shamir>,
+        <http://ja.dbpedia.org/resource/アディ・シャミア>,
+        <http://ko.dbpedia.org/resource/아디_샤미르>,
+        <http://nl.dbpedia.org/resource/Adi_Shamir>,
+        <http://pl.dbpedia.org/resource/Adi_Szamir>,
+        <http://pt.dbpedia.org/resource/Adi_Shamir>,
+        <http://rdf.freebase.com/ns/m.0frrw>,
+        <http://viaf.org/viaf/297285307>,
+        <http://wikidata.dbpedia.org/resource/Q320624>,
+        <http://www.wikidata.org/entity/Q320624>,
+        <http://yago-knowledge.org/resource/Adi_Shamir> .
+
+<http://data.judaicalink.org/data/dbpedia/Adolf_Schallamach> a foaf:Person ;
+    jl:hasLabel "Adolf Schallamach@de",
+        "Adolf Schallamach@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Adolf_Schallamach>,
+        <http://de.dbpedia.org/resource/Adolf_Schallamach>,
+        <http://rdf.freebase.com/ns/m.0wxy40s>,
+        <http://wikidata.dbpedia.org/resource/Q15429612>,
+        <http://www.wikidata.org/entity/Q15429612>,
+        <http://yago-knowledge.org/resource/Adolf_Schallamach> .
+
+<http://data.judaicalink.org/data/dbpedia/Adolph_P._Yushkevich> a foaf:Person ;
+    jl:hasLabel "Adolf Pawlowitsch Juschkewitsch@de",
+        "Adolf Yushkevich@pt",
+        "Adolf Yushkévich@es",
+        "Adolph P. Yushkevich@en",
+        "Юшкевич, Адольф Павлович@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Adolph_P._Yushkevich>,
+        <http://de.dbpedia.org/resource/Adolf_Pawlowitsch_Juschkewitsch>,
+        <http://es.dbpedia.org/resource/Adolf_Yushkévich>,
+        <http://pt.dbpedia.org/resource/Adolf_Yushkevich>,
+        <http://rdf.freebase.com/ns/m.09v6_98>,
+        <http://viaf.org/viaf/231344455>,
+        <http://wikidata.dbpedia.org/resource/Q363560>,
+        <http://www.wikidata.org/entity/Q363560>,
+        <http://yago-knowledge.org/resource/Adolph_P._Yushkevich> .
+
+<http://data.judaicalink.org/data/dbpedia/Alan_Fersht> a foaf:Person ;
+    jl:hasLabel "Alan Fersht@de",
+        "Alan Fersht@en",
+        "Alan Fersht@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Alan_Fersht>,
+        <http://de.dbpedia.org/resource/Alan_Fersht>,
+        <http://pt.dbpedia.org/resource/Alan_Fersht>,
+        <http://rdf.freebase.com/ns/m.046m99>,
+        <http://wikidata.dbpedia.org/resource/Q537479>,
+        <http://www.wikidata.org/entity/Q537479>,
+        <http://yago-knowledge.org/resource/Alan_Fersht> .
+
+<http://data.judaicalink.org/data/dbpedia/Albert_Neuberger> a foaf:Person ;
+    jl:hasLabel "Albert Neuberger@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Albert_Neuberger>,
+        <http://rdf.freebase.com/ns/m.0dg5p9>,
+        <http://viaf.org/viaf/93735788>,
+        <http://wikidata.dbpedia.org/resource/Q4710895>,
+        <http://www.wikidata.org/entity/Q4710895>,
+        <http://yago-knowledge.org/resource/Albert_Neuberger> .
+
+<http://data.judaicalink.org/data/dbpedia/Alec_David_Young> a foaf:Person ;
+    jl:hasLabel "Alec David Young@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Alec_David_Young>,
+        <http://rdf.freebase.com/ns/m.0c2rtv>,
+        <http://viaf.org/viaf/110736208>,
+        <http://wikidata.dbpedia.org/resource/Q4714111>,
+        <http://www.wikidata.org/entity/Q4714111>,
+        <http://yago-knowledge.org/resource/Alec_David_Young> .
+
+<http://data.judaicalink.org/data/dbpedia/Alex_B._Novikoff> a foaf:Person ;
+    jl:hasLabel "Alex B. Novikoff@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Alex_B._Novikoff>,
+        <http://rdf.freebase.com/ns/m.0z6rdh7>,
+        <http://wikidata.dbpedia.org/resource/Q16011946>,
+        <http://www.wikidata.org/entity/Q16011946>,
+        <http://yago-knowledge.org/resource/Alex_B._Novikoff> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Lowen> a foaf:Person ;
+    jl:hasLabel "Alexander Lowen@de",
+        "Alexander Lowen@en",
+        "Alexander Lowen@es",
+        "Alexander Lowen@fr",
+        "Alexander Lowen@it",
+        "Alexander Lowen@nl",
+        "Alexander Lowen@pl",
+        "Alexander Lowen@pt",
+        "Лоуэн, Александр@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexander_Lowen>,
+        <http://de.dbpedia.org/resource/Alexander_Lowen>,
+        <http://es.dbpedia.org/resource/Alexander_Lowen>,
+        <http://fr.dbpedia.org/resource/Alexander_Lowen>,
+        <http://it.dbpedia.org/resource/Alexander_Lowen>,
+        <http://nl.dbpedia.org/resource/Alexander_Lowen>,
+        <http://pl.dbpedia.org/resource/Alexander_Lowen>,
+        <http://pt.dbpedia.org/resource/Alexander_Lowen>,
+        <http://rdf.freebase.com/ns/m.04x95_>,
+        <http://viaf.org/viaf/108170589>,
+        <http://wikidata.dbpedia.org/resource/Q968616>,
+        <http://www.wikidata.org/entity/Q968616>,
+        <http://yago-knowledge.org/resource/Alexander_Lowen> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Luria> a foaf:Person ;
+    jl:hasLabel "Aleksandr Loeria@nl",
+        "Aleksandr Lúriya@es",
+        "Aleksandr Romanovič Lurija@it",
+        "Aleksandr Łurija@pl",
+        "Alexander Luria@en",
+        "Alexander Luria@pt",
+        "Alexander Romanowitsch Lurija@de",
+        "Alexandre Luria@fr",
+        "Лурия, Александр Романович@ru",
+        "アレクサンドル・ルリヤ@ja",
+        "亚历山大·鲁利亚@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Alexandr_Romanovič_Lurija>,
+        <http://dbpedia.org/resource/Alexander_Luria>,
+        <http://de.dbpedia.org/resource/Alexander_Romanowitsch_Lurija>,
+        <http://es.dbpedia.org/resource/Aleksandr_Lúriya>,
+        <http://fr.dbpedia.org/resource/Alexandre_Luria>,
+        <http://it.dbpedia.org/resource/Aleksandr_Romanovič_Lurija>,
+        <http://ja.dbpedia.org/resource/アレクサンドル・ルリヤ>,
+        <http://nl.dbpedia.org/resource/Aleksandr_Loeria>,
+        <http://pl.dbpedia.org/resource/Aleksandr_Łurija>,
+        <http://pt.dbpedia.org/resource/Alexander_Luria>,
+        <http://rdf.freebase.com/ns/m.022j3t>,
+        <http://viaf.org/viaf/36921338>,
+        <http://wikidata.dbpedia.org/resource/Q350778>,
+        <http://www.wikidata.org/entity/Q350778>,
+        <http://yago-knowledge.org/resource/Alexander_Luria> .
+
+<http://data.judaicalink.org/data/dbpedia/Alfons_Maria_Jakob> a foaf:Person ;
+    jl:hasLabel "Alfons Maria Jakob@de",
+        "Alfons Maria Jakob@en",
+        "Alfons Maria Jakob@es",
+        "Alfons Maria Jakob@fr",
+        "Alfons Maria Jakob@it",
+        "Alfons Maria Jakob@nl",
+        "Alfons Maria Jakob@pl",
+        "Alfons Maria Jakob@pt",
+        "Якоб, Альфонс@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Alfons_Maria_Jakob>,
+        <http://de.dbpedia.org/resource/Alfons_Maria_Jakob>,
+        <http://es.dbpedia.org/resource/Alfons_Maria_Jakob>,
+        <http://fr.dbpedia.org/resource/Alfons_Maria_Jakob>,
+        <http://it.dbpedia.org/resource/Alfons_Maria_Jakob>,
+        <http://nl.dbpedia.org/resource/Alfons_Maria_Jakob>,
+        <http://pl.dbpedia.org/resource/Alfons_Maria_Jakob>,
+        <http://pt.dbpedia.org/resource/Alfons_Maria_Jakob>,
+        <http://rdf.freebase.com/ns/m.0kp5>,
+        <http://viaf.org/viaf/77388855>,
+        <http://wikidata.dbpedia.org/resource/Q63336>,
+        <http://www.wikidata.org/entity/Q63336>,
+        <http://yago-knowledge.org/resource/Alfons_Maria_Jakob> .
+
+<http://data.judaicalink.org/data/dbpedia/Amikam_Aharoni> a foaf:Person ;
+    jl:hasLabel "Amikam Aharoni@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Amikam_Aharoni>,
+        <http://rdf.freebase.com/ns/m.02w60lh>,
+        <http://wikidata.dbpedia.org/resource/Q4746262>,
+        <http://www.wikidata.org/entity/Q4746262>,
+        <http://yago-knowledge.org/resource/Amikam_Aharoni> .
+
+<http://data.judaicalink.org/data/dbpedia/Amitai_Regev> a foaf:Person ;
+    jl:hasLabel "Amitai Regev@en",
+        "Amitai Regev@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Amitai_Regev>,
+        <http://fr.dbpedia.org/resource/Amitai_Regev>,
+        <http://rdf.freebase.com/ns/m.09k79_f>,
+        <http://viaf.org/viaf/258637>,
+        <http://wikidata.dbpedia.org/resource/Q4746921>,
+        <http://www.wikidata.org/entity/Q4746921>,
+        <http://yago-knowledge.org/resource/Amitai_Regev> .
+
+<http://data.judaicalink.org/data/dbpedia/Amnon_Yariv> a foaf:Person ;
+    jl:hasLabel "Amnon Yariv@de",
+        "Amnon Yariv@en",
+        "Amnon Yariv@pt",
+        "Ярив, Амнон@ru",
+        "أمنون ياريف@ar" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Amnon_Yariv>,
+        <http://de.dbpedia.org/resource/Amnon_Yariv>,
+        <http://pt.dbpedia.org/resource/Amnon_Yariv>,
+        <http://rdf.freebase.com/ns/m.05xhg12>,
+        <http://viaf.org/viaf/90032060>,
+        <http://wikidata.dbpedia.org/resource/Q328691>,
+        <http://www.wikidata.org/entity/Q328691>,
+        <http://yago-knowledge.org/resource/Amnon_Yariv> .
+
+<http://data.judaicalink.org/data/dbpedia/Amnon_Yekutieli> a foaf:Person ;
+    jl:hasLabel "Amnon Yekutieli@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Amnon_Yekutieli>,
+        <http://rdf.freebase.com/ns/m.0tkgkc7>,
+        <http://wikidata.dbpedia.org/resource/Q14492076>,
+        <http://www.wikidata.org/entity/Q14492076>,
+        <http://yago-knowledge.org/resource/Amnon_Yekutieli> .
+
+<http://data.judaicalink.org/data/dbpedia/Anatol_Zhabotinsky> a foaf:Person ;
+    jl:hasLabel "Anatol Zhabotinsky@en",
+        "Anatoli Markowitsch Schabotinski@de",
+        "Anatolij Markovič Žabotinskij@it",
+        "Жаботинский, Анатолий Маркович@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Anatol_Zhabotinsky>,
+        <http://de.dbpedia.org/resource/Anatoli_Markowitsch_Schabotinski>,
+        <http://it.dbpedia.org/resource/Anatolij_Markovič_Žabotinskij>,
+        <http://rdf.freebase.com/ns/m.055mvk4>,
+        <http://wikidata.dbpedia.org/resource/Q316266>,
+        <http://www.wikidata.org/entity/Q316266>,
+        <http://yago-knowledge.org/resource/Anatoly_Zhabotinsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Andrei_Toom> a foaf:Person ;
+    jl:hasLabel "Andrei Toom@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Andrei_Toom>,
+        <http://rdf.freebase.com/ns/m.0dxxf8>,
+        <http://wikidata.dbpedia.org/resource/Q4755976>,
+        <http://www.wikidata.org/entity/Q4755976>,
+        <http://yago-knowledge.org/resource/Andrei_Toom> .
+
+<http://data.judaicalink.org/data/dbpedia/André_Michel_Lwoff> a foaf:Person ;
+    jl:hasLabel "André Lwoff@de",
+        "André Lwoff@es",
+        "André Lwoff@fr",
+        "André Lwoff@it",
+        "André Michael Lwoff@nl",
+        "André Michel Lwoff@en",
+        "André Michel Lwoff@pl",
+        "André Michel Lwoff@pt",
+        "Львов, Андре@ru",
+        "أندريه لووف@ar",
+        "アンドレ・ルヴォフ@ja",
+        "安德列·利沃夫@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/André_Lwoff>,
+        <http://dbpedia.org/resource/André_Michel_Lwoff>,
+        <http://de.dbpedia.org/resource/André_Lwoff>,
+        <http://es.dbpedia.org/resource/André_Lwoff>,
+        <http://fr.dbpedia.org/resource/André_Lwoff>,
+        <http://id.dbpedia.org/resource/André_Lwoff>,
+        <http://it.dbpedia.org/resource/André_Lwoff>,
+        <http://ja.dbpedia.org/resource/アンドレ・ルヴォフ>,
+        <http://nl.dbpedia.org/resource/André_Michael_Lwoff>,
+        <http://pl.dbpedia.org/resource/André_Michel_Lwoff>,
+        <http://pt.dbpedia.org/resource/André_Michel_Lwoff>,
+        <http://rdf.freebase.com/ns/m.02py_k_>,
+        <http://viaf.org/viaf/92093913>,
+        <http://wikidata.dbpedia.org/resource/Q223309>,
+        <http://www.wikidata.org/entity/Q223309>,
+        <http://yago-knowledge.org/resource/André_Michel_Lwoff> .
+
+<http://data.judaicalink.org/data/dbpedia/Aner_Shalev> a foaf:Person ;
+    jl:hasLabel "Aner Shalev@en",
+        "Aner Shalev@it" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Aner_Shalev>,
+        <http://it.dbpedia.org/resource/Aner_Shalev>,
+        <http://rdf.freebase.com/ns/m.0bmf18r>,
+        <http://viaf.org/viaf/79195884>,
+        <http://wikidata.dbpedia.org/resource/Q775338>,
+        <http://www.wikidata.org/entity/Q775338>,
+        <http://yago-knowledge.org/resource/Aner_Shalev> .
+
+<http://data.judaicalink.org/data/dbpedia/Anthony_Segal> a foaf:Person ;
+    jl:hasLabel "Anthony Segal@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Anthony_Segal>,
+        <http://rdf.freebase.com/ns/m.0c2rf1>,
+        <http://wikidata.dbpedia.org/resource/Q4773437>,
+        <http://www.wikidata.org/entity/Q4773437>,
+        <http://yago-knowledge.org/resource/Anthony_Segal> .
+
+<http://data.judaicalink.org/data/dbpedia/Arnold_Heertje> a foaf:Person ;
+    jl:hasLabel "Arnold Heertje@en",
+        "Arnold Heertje@nl" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Arnold_Heertje>,
+        <http://id.dbpedia.org/resource/Arnold_Heertje>,
+        <http://nl.dbpedia.org/resource/Arnold_Heertje>,
+        <http://rdf.freebase.com/ns/m.05w549b>,
+        <http://wikidata.dbpedia.org/resource/Q3266000>,
+        <http://www.wikidata.org/entity/Q3266000>,
+        <http://yago-knowledge.org/resource/Arnold_Heertje> .
+
+<http://data.judaicalink.org/data/dbpedia/Arthur_Berson> a foaf:Person ;
+    jl:hasLabel "Arthur Berson@de",
+        "Arthur Berson@en",
+        "Arthur Berson@fr",
+        "Artur Berson@pl",
+        "アルトゥル・ベルソン@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Arthur_Berson>,
+        <http://de.dbpedia.org/resource/Arthur_Berson>,
+        <http://fr.dbpedia.org/resource/Arthur_Berson>,
+        <http://ja.dbpedia.org/resource/アルトゥル・ベルソン>,
+        <http://pl.dbpedia.org/resource/Artur_Berson>,
+        <http://rdf.freebase.com/ns/m.047b7x9>,
+        <http://wikidata.dbpedia.org/resource/Q67717>,
+        <http://www.wikidata.org/entity/Q67717>,
+        <http://yago-knowledge.org/resource/Arthur_Berson> .
+
+<http://data.judaicalink.org/data/dbpedia/Arthur_Korn> a foaf:Person ;
+    jl:hasLabel "Arthur Korn@de",
+        "Arthur Korn@en",
+        "Arthur Korn@es",
+        "Arthur Korn@fr",
+        "Arthur Korn@nl",
+        "Корн, Артур (изобретатель)@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Arthur_Korn>,
+        <http://de.dbpedia.org/resource/Arthur_Korn>,
+        <http://es.dbpedia.org/resource/Arthur_Korn>,
+        <http://fr.dbpedia.org/resource/Arthur_Korn>,
+        <http://nl.dbpedia.org/resource/Arthur_Korn>,
+        <http://rdf.freebase.com/ns/m.0dwqkm>,
+        <http://wikidata.dbpedia.org/resource/Q68533>,
+        <http://www.wikidata.org/entity/Q68533>,
+        <http://yago-knowledge.org/resource/Arthur_Korn> .
+
+<http://data.judaicalink.org/data/dbpedia/Arthur_Moritz_Schoenflies> a foaf:Person ;
+    jl:hasLabel "Arthur Moritz Schoenflies@de",
+        "Arthur Moritz Schoenflies@en",
+        "Arthur Moritz Schoenflies@fr",
+        "Arthur Moritz Schoenflies@nl",
+        "Arthur Moritz Schoenflies@pt",
+        "Arthur Moritz Schönflies@es",
+        "Arthur Schoenflies@it",
+        "Arthur Schoenflies@pl",
+        "Шёнфлис, Артур Мориц@ru",
+        "アルトゥール・モーリッツ・シェーンフリース@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Arthur_Moritz_Schoenflies>,
+        <http://de.dbpedia.org/resource/Arthur_Moritz_Schoenflies>,
+        <http://es.dbpedia.org/resource/Arthur_Moritz_Schönflies>,
+        <http://fr.dbpedia.org/resource/Arthur_Moritz_Schoenflies>,
+        <http://it.dbpedia.org/resource/Arthur_Schoenflies>,
+        <http://ja.dbpedia.org/resource/アルトゥール・モーリッツ・シェーンフリース>,
+        <http://nl.dbpedia.org/resource/Arthur_Moritz_Schoenflies>,
+        <http://pl.dbpedia.org/resource/Arthur_Schoenflies>,
+        <http://pt.dbpedia.org/resource/Arthur_Moritz_Schoenflies>,
+        <http://rdf.freebase.com/ns/m.030x78>,
+        <http://viaf.org/viaf/32076493>,
+        <http://wikidata.dbpedia.org/resource/Q61748>,
+        <http://www.wikidata.org/entity/Q61748>,
+        <http://yago-knowledge.org/resource/Arthur_Moritz_Schoenflies> .
+
+<http://data.judaicalink.org/data/dbpedia/Arthur_Schuster> a foaf:Person ;
+    jl:hasLabel "Arthur Schuster@de",
+        "Arthur Schuster@en",
+        "Arthur Schuster@es",
+        "Arthur Schuster@fr",
+        "Arthur Schuster@pt",
+        "Шустер, Артур@ru",
+        "آرثر شوستر@ar",
+        "アーサー・シュスター@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Arthur_Schuster>,
+        <http://de.dbpedia.org/resource/Arthur_Schuster>,
+        <http://es.dbpedia.org/resource/Arthur_Schuster>,
+        <http://fr.dbpedia.org/resource/Arthur_Schuster>,
+        <http://ja.dbpedia.org/resource/アーサー・シュスター>,
+        <http://pt.dbpedia.org/resource/Arthur_Schuster>,
+        <http://rdf.freebase.com/ns/m.07pptr>,
+        <http://viaf.org/viaf/64780994>,
+        <http://wikidata.dbpedia.org/resource/Q711452>,
+        <http://www.wikidata.org/entity/Q711452>,
+        <http://yago-knowledge.org/resource/Arthur_Schuster> .
+
+<http://data.judaicalink.org/data/dbpedia/Arthur_Seldon> a foaf:Person ;
+    jl:hasLabel "Arthur Seldon@de",
+        "Arthur Seldon@en",
+        "Arthur Seldon@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Arthur_Seldon>,
+        <http://de.dbpedia.org/resource/Arthur_Seldon>,
+        <http://fr.dbpedia.org/resource/Arthur_Seldon>,
+        <http://rdf.freebase.com/ns/m.05x7p6>,
+        <http://viaf.org/viaf/109281118>,
+        <http://wikidata.dbpedia.org/resource/Q711495>,
+        <http://www.wikidata.org/entity/Q711495>,
+        <http://yago-knowledge.org/resource/Arthur_Seldon> .
+
+<http://data.judaicalink.org/data/dbpedia/Asher_Korner> a foaf:Person ;
+    jl:hasLabel "Asher Korner@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Asher_Korner>,
+        <http://wikidata.dbpedia.org/resource/Q22005881>,
+        <http://www.wikidata.org/entity/Q22005881> .
+
+<http://data.judaicalink.org/data/dbpedia/Asher_Peres> a foaf:Person ;
+    jl:hasLabel "Asher Peres@de",
+        "Asher Peres@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Asher_Peres>,
+        <http://de.dbpedia.org/resource/Asher_Peres>,
+        <http://rdf.freebase.com/ns/m.04wxbp>,
+        <http://viaf.org/viaf/18437326>,
+        <http://wikidata.dbpedia.org/resource/Q340101>,
+        <http://www.wikidata.org/entity/Q340101>,
+        <http://yago-knowledge.org/resource/Asher_Peres> .
+
+<http://data.judaicalink.org/data/dbpedia/Barend_Joseph_Stokvis> a foaf:Person ;
+    jl:hasLabel "Barend Joseph Stokvis@en",
+        "Barend Joseph Stokvis@nl" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Barend_Joseph_Stokvis>,
+        <http://nl.dbpedia.org/resource/Barend_Joseph_Stokvis>,
+        <http://rdf.freebase.com/ns/m.0czcx40>,
+        <http://viaf.org/viaf/54137958>,
+        <http://wikidata.dbpedia.org/resource/Q2373104>,
+        <http://www.wikidata.org/entity/Q2373104>,
+        <http://yago-knowledge.org/resource/Barend_Joseph_Stokvis> .
+
+<http://data.judaicalink.org/data/dbpedia/Basil_Bernstein> a foaf:Person ;
+    jl:hasLabel "Basil Bernstein@de",
+        "Basil Bernstein@en",
+        "Basil Bernstein@es",
+        "Basil Bernstein@fr",
+        "バジル・バーンステイン@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Basil_Bernstein>,
+        <http://dbpedia.org/resource/Basil_Bernstein>,
+        <http://de.dbpedia.org/resource/Basil_Bernstein>,
+        <http://es.dbpedia.org/resource/Basil_Bernstein>,
+        <http://fr.dbpedia.org/resource/Basil_Bernstein>,
+        <http://ja.dbpedia.org/resource/バジル・バーンステイン>,
+        <http://ko.dbpedia.org/resource/바실_번스타인>,
+        <http://rdf.freebase.com/ns/m.026jj2l>,
+        <http://viaf.org/viaf/54213852>,
+        <http://wikidata.dbpedia.org/resource/Q714816>,
+        <http://www.wikidata.org/entity/Q714816>,
+        <http://yago-knowledge.org/resource/Basil_Bernstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Basil_Yamey> a foaf:Person ;
+    jl:hasLabel "Basil Yamey@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Basil_Yamey>,
+        <http://rdf.freebase.com/ns/m.05wd6r7>,
+        <http://viaf.org/viaf/2527524>,
+        <http://wikidata.dbpedia.org/resource/Q4867284>,
+        <http://www.wikidata.org/entity/Q4867284>,
+        <http://yago-knowledge.org/resource/Basil_Yamey> .
+
+<http://data.judaicalink.org/data/dbpedia/Brett_Abrahams> a foaf:Person ;
+    jl:hasLabel "Brett Abrahams@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Brett_Abrahams>,
+        <http://rdf.freebase.com/ns/m.0hr7gfy>,
+        <http://wikidata.dbpedia.org/resource/Q4962048>,
+        <http://www.wikidata.org/entity/Q4962048>,
+        <http://yago-knowledge.org/resource/Brett_Abrahams> .
+
+<http://data.judaicalink.org/data/dbpedia/Carl_Feit> a foaf:Person ;
+    jl:hasLabel "Carl Feit@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Carl_Feit>,
+        <http://rdf.freebase.com/ns/m.02q659t>,
+        <http://wikidata.dbpedia.org/resource/Q5040122>,
+        <http://www.wikidata.org/entity/Q5040122>,
+        <http://yago-knowledge.org/resource/Carl_Feit> .
+
+<http://data.judaicalink.org/data/dbpedia/Carl_Warburg> a foaf:Person ;
+    jl:hasLabel "Carl Warburg@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Carl_Warburg>,
+        <http://rdf.freebase.com/ns/m.09v3vb8>,
+        <http://viaf.org/viaf/42241099>,
+        <http://wikidata.dbpedia.org/resource/Q5040933>,
+        <http://www.wikidata.org/entity/Q5040933>,
+        <http://yago-knowledge.org/resource/Carl_Warburg> .
+
+<http://data.judaicalink.org/data/dbpedia/Charles_Weissmann> a foaf:Person ;
+    jl:hasLabel "Charles Weissmann@de",
+        "Charles Weissmann@en",
+        "Charles Weissmann@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Charles_Weissmann>,
+        <http://de.dbpedia.org/resource/Charles_Weissmann>,
+        <http://pt.dbpedia.org/resource/Charles_Weissmann>,
+        <http://rdf.freebase.com/ns/m.0c39kn>,
+        <http://wikidata.dbpedia.org/resource/Q120251>,
+        <http://www.wikidata.org/entity/Q120251>,
+        <http://yago-knowledge.org/resource/Charles_Weissmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Chudnovsky_brothers> a foaf:Person ;
+    jl:hasLabel "Chudnovsky brothers@en",
+        "David et Gregory Chudnovsky@fr",
+        "Fratelli Čudnovskij@it",
+        "Hermanos Chudnovsky@es",
+        "Братья Чудновские@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Bratři_Chudnovsky>,
+        <http://dbpedia.org/resource/Chudnovsky_brothers>,
+        <http://es.dbpedia.org/resource/Hermanos_Chudnovsky>,
+        <http://fr.dbpedia.org/resource/David_et_Gregory_Chudnovsky>,
+        <http://it.dbpedia.org/resource/Fratelli_Čudnovskij>,
+        <http://rdf.freebase.com/ns/m.05pxr6>,
+        <http://wikidata.dbpedia.org/resource/Q1174002>,
+        <http://www.wikidata.org/entity/Q1174002>,
+        <http://yago-knowledge.org/resource/David_Chudnovsky_(mathematician)>,
+        <http://yago-knowledge.org/resource/Gregory_Chudnovsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Claude_Lévi-Strauss> a foaf:Person ;
+    jl:hasLabel "Claude Lévi-Strauss@de",
+        "Claude Lévi-Strauss@en",
+        "Claude Lévi-Strauss@es",
+        "Claude Lévi-Strauss@fr",
+        "Claude Lévi-Strauss@it",
+        "Claude Lévi-Strauss@nl",
+        "Claude Lévi-Strauss@pl",
+        "Claude Lévi-Strauss@pt",
+        "Леви-Стросс, Клод@ru",
+        "كلود ليفي ستروس@ar",
+        "クロード・レヴィ＝ストロース@ja",
+        "克勞德·李維-史陀@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://data.europa.eu/euodp/jrc-names/Claude_L%C3%A9vi-Strauss>,
+        <http://dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://de.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://el.dbpedia.org/resource/Κλοντ_Λεβί-Στρος>,
+        <http://es.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://eu.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://fr.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://id.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://it.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://ja.dbpedia.org/resource/クロード・レヴィ＝ストロース>,
+        <http://ko.dbpedia.org/resource/클로드_레비스트로스>,
+        <http://nl.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://pl.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://pt.dbpedia.org/resource/Claude_Lévi-Strauss>,
+        <http://rdf.freebase.com/ns/m.01tvt>,
+        <http://viaf.org/viaf/102346347>,
+        <http://wikidata.dbpedia.org/resource/Q128126>,
+        <http://www.wikidata.org/entity/Q128126>,
+        <http://yago-knowledge.org/resource/Claude_Lévi-Strauss> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Gans> a foaf:Person ;
+    jl:hasLabel "David Gans@de",
+        "David Gans@en",
+        "David Gans@fr",
+        "David Gans@pt",
+        "Dawid Gans@pl",
+        "Ганс, Давид@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/David_Gans>,
+        <http://dbpedia.org/resource/David_Gans>,
+        <http://de.dbpedia.org/resource/David_Gans>,
+        <http://fr.dbpedia.org/resource/David_Gans>,
+        <http://pl.dbpedia.org/resource/Dawid_Gans>,
+        <http://pt.dbpedia.org/resource/David_Gans>,
+        <http://rdf.freebase.com/ns/m.0fbg2c>,
+        <http://viaf.org/viaf/46825637>,
+        <http://wikidata.dbpedia.org/resource/Q1174512>,
+        <http://www.wikidata.org/entity/Q1174512>,
+        <http://yago-knowledge.org/resource/David_Gans> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Glass_(sociologist)> a foaf:Person ;
+    jl:hasLabel "David Glass (sociologist)@en",
+        "David Glass@de",
+        "David Glass@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Glass_(sociologist)>,
+        <http://de.dbpedia.org/resource/David_Glass>,
+        <http://pt.dbpedia.org/resource/David_Glass>,
+        <http://rdf.freebase.com/ns/m.0g62z3>,
+        <http://viaf.org/viaf/71536553>,
+        <http://wikidata.dbpedia.org/resource/Q539414>,
+        <http://www.wikidata.org/entity/Q539414>,
+        <http://yago-knowledge.org/resource/David_Glass_(sociologist)> .
+
+<http://data.judaicalink.org/data/dbpedia/David_H._Levy> a foaf:Person ;
+    jl:hasLabel "David H. Levy@de",
+        "David H. Levy@en",
+        "David H. Levy@fr",
+        "David H. Levy@pt",
+        "David Levy (astronom)@pl",
+        "David Levy (astrónomo)@es",
+        "David Levy@it",
+        "Леви, Дэвид (астроном)@ru",
+        "大衛·李維@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/David_H._Levy>,
+        <http://de.dbpedia.org/resource/David_H._Levy>,
+        <http://es.dbpedia.org/resource/David_Levy_(astrónomo)>,
+        <http://fr.dbpedia.org/resource/David_H._Levy>,
+        <http://it.dbpedia.org/resource/David_Levy>,
+        <http://pl.dbpedia.org/resource/David_Levy_(astronom)>,
+        <http://pt.dbpedia.org/resource/David_H._Levy>,
+        <http://rdf.freebase.com/ns/m.02t411>,
+        <http://viaf.org/viaf/41920764>,
+        <http://wikidata.dbpedia.org/resource/Q375311>,
+        <http://www.wikidata.org/entity/Q375311>,
+        <http://yago-knowledge.org/resource/David_H._Levy> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Medved> a foaf:Person ;
+    jl:hasLabel "David Medved@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Medved>,
+        <http://rdf.freebase.com/ns/m.09gcrkh>,
+        <http://wikidata.dbpedia.org/resource/Q5237478>,
+        <http://www.wikidata.org/entity/Q5237478>,
+        <http://yago-knowledge.org/resource/David_Medved> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Ricardo> a foaf:Person ;
+    jl:hasLabel "David Ricardo@de",
+        "David Ricardo@en",
+        "David Ricardo@es",
+        "David Ricardo@fr",
+        "David Ricardo@it",
+        "David Ricardo@nl",
+        "David Ricardo@pl",
+        "David Ricardo@pt",
+        "Рикардо, Давид@ru",
+        "دافيد ريكاردو@ar",
+        "デヴィッド・リカード@ja",
+        "大卫·李嘉图@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/David_Ricardo>,
+        <http://data.europa.eu/euodp/jrc-names/David_Ricardo>,
+        <http://dbpedia.org/resource/David_Ricardo>,
+        <http://de.dbpedia.org/resource/David_Ricardo>,
+        <http://el.dbpedia.org/resource/Ντέηβιντ_Ρικάρντο>,
+        <http://es.dbpedia.org/resource/David_Ricardo>,
+        <http://eu.dbpedia.org/resource/David_Ricardo>,
+        <http://fr.dbpedia.org/resource/David_Ricardo>,
+        <http://id.dbpedia.org/resource/David_Ricardo>,
+        <http://it.dbpedia.org/resource/David_Ricardo>,
+        <http://ja.dbpedia.org/resource/デヴィッド・リカード>,
+        <http://ko.dbpedia.org/resource/데이비드_리카도>,
+        <http://nl.dbpedia.org/resource/David_Ricardo>,
+        <http://pl.dbpedia.org/resource/David_Ricardo>,
+        <http://pt.dbpedia.org/resource/David_Ricardo>,
+        <http://rdf.freebase.com/ns/m.02c3c>,
+        <http://viaf.org/viaf/34462180>,
+        <http://wikidata.dbpedia.org/resource/Q160270>,
+        <http://www.wikidata.org/entity/Q160270>,
+        <http://yago-knowledge.org/resource/David_Ricardo> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Samuel,_3rd_Viscount_Samuel> a foaf:Person ;
+    jl:hasLabel "David Samuel, 3. Viscount Samuel@de",
+        "David Samuel, 3rd Viscount Samuel@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Samuel,_3rd_Viscount_Samuel>,
+        <http://de.dbpedia.org/resource/David_Samuel,_3._Viscount_Samuel>,
+        <http://rdf.freebase.com/ns/m.0600vq>,
+        <http://wikidata.dbpedia.org/resource/Q14945527>,
+        <http://www.wikidata.org/entity/Q14945527>,
+        <http://yago-knowledge.org/resource/David_Samuel,_3rd_Viscount_Samuel> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Shoenberg> a foaf:Person ;
+    jl:hasLabel "David Shoenberg@de",
+        "David Shoenberg@en",
+        "David Shoenberg@pt",
+        "Шёнберг, Дэвид@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Shoenberg>,
+        <http://de.dbpedia.org/resource/David_Shoenberg>,
+        <http://pt.dbpedia.org/resource/David_Shoenberg>,
+        <http://rdf.freebase.com/ns/m.0c2rgs>,
+        <http://viaf.org/viaf/35737589>,
+        <http://wikidata.dbpedia.org/resource/Q1176634>,
+        <http://www.wikidata.org/entity/Q1176634>,
+        <http://yago-knowledge.org/resource/David_Shoenberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Doron_Zeilberger> a foaf:Person ;
+    jl:hasLabel "Doron Zeilberger@de",
+        "Doron Zeilberger@en",
+        "Doron Zeilberger@es",
+        "Doron Zeilberger@fr",
+        "Doron Zeilberger@pt",
+        "Цейльбергер, Дорон@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Doron_Zeilberger>,
+        <http://de.dbpedia.org/resource/Doron_Zeilberger>,
+        <http://es.dbpedia.org/resource/Doron_Zeilberger>,
+        <http://fr.dbpedia.org/resource/Doron_Zeilberger>,
+        <http://pt.dbpedia.org/resource/Doron_Zeilberger>,
+        <http://rdf.freebase.com/ns/m.05rbhs>,
+        <http://wikidata.dbpedia.org/resource/Q909202>,
+        <http://www.wikidata.org/entity/Q909202>,
+        <http://yago-knowledge.org/resource/Doron_Zeilberger> .
+
+<http://data.judaicalink.org/data/dbpedia/Douglas_Ross_(physicist)> a foaf:Person ;
+    jl:hasLabel "Douglas Ross (physicist)@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Douglas_Ross_(physicist)>,
+        <http://rdf.freebase.com/ns/m.0d98mt>,
+        <http://wikidata.dbpedia.org/resource/Q5301949>,
+        <http://www.wikidata.org/entity/Q5301949>,
+        <http://yago-knowledge.org/resource/Douglas_Ross_(physicist)> .
+
+<http://data.judaicalink.org/data/dbpedia/Eduard_Meijers> a foaf:Person ;
+    jl:hasLabel "Eduard Meijers@de",
+        "Eduard Meijers@en",
+        "Eduard Meijers@nl" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Eduard_Meijers>,
+        <http://de.dbpedia.org/resource/Eduard_Meijers>,
+        <http://nl.dbpedia.org/resource/Eduard_Meijers>,
+        <http://rdf.freebase.com/ns/m.04zywfb>,
+        <http://wikidata.dbpedia.org/resource/Q2653557>,
+        <http://www.wikidata.org/entity/Q2653557>,
+        <http://yago-knowledge.org/resource/Eduard_Meijers> .
+
+<http://data.judaicalink.org/data/dbpedia/Else_Frenkel-Brunswik> a foaf:Person ;
+    jl:hasLabel "Else Frenkel-Brunswik@de",
+        "Else Frenkel-Brunswik@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Else_Frenkel-Brunswik>,
+        <http://de.dbpedia.org/resource/Else_Frenkel-Brunswik>,
+        <http://rdf.freebase.com/ns/m.0fvgc0>,
+        <http://viaf.org/viaf/59893803>,
+        <http://wikidata.dbpedia.org/resource/Q87963>,
+        <http://www.wikidata.org/entity/Q87963>,
+        <http://yago-knowledge.org/resource/Else_Frenkel-Brunswik> .
+
+<http://data.judaicalink.org/data/dbpedia/Elvin_A._Kabat> a foaf:Person ;
+    jl:hasLabel "Elvin A. Kabat@de",
+        "Elvin A. Kabat@en",
+        "Elvin Kabat@es" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Elvin_A._Kabat>,
+        <http://de.dbpedia.org/resource/Elvin_A._Kabat>,
+        <http://es.dbpedia.org/resource/Elvin_Kabat>,
+        <http://rdf.freebase.com/ns/m.026s0xj>,
+        <http://viaf.org/viaf/108539246>,
+        <http://wikidata.dbpedia.org/resource/Q1334219>,
+        <http://www.wikidata.org/entity/Q1334219>,
+        <http://yago-knowledge.org/resource/Elvin_A._Kabat> .
+
+<http://data.judaicalink.org/data/dbpedia/Emil_Starkenstein> a foaf:Person ;
+    jl:hasLabel "Emil Starkenstein@de",
+        "Emil Starkenstein@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Emil_Starkenstein>,
+        <http://de.dbpedia.org/resource/Emil_Starkenstein>,
+        <http://rdf.freebase.com/ns/m.0gfdxvz>,
+        <http://viaf.org/viaf/22535575>,
+        <http://wikidata.dbpedia.org/resource/Q108352>,
+        <http://www.wikidata.org/entity/Q108352>,
+        <http://yago-knowledge.org/resource/Emil_Starkenstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Emil_Zuckerkandl> a foaf:Person ;
+    jl:hasLabel "Emil Zuckerkandl@de",
+        "Emil Zuckerkandl@en",
+        "Emil Zuckerkandl@es",
+        "Emil Zuckerkandl@it",
+        "Emil Zuckerkandl@pl",
+        "Цукеркандль, Эмиль@ru",
+        "エーミール・ツッカーカンドル@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Emil_Zuckerkandl>,
+        <http://de.dbpedia.org/resource/Emil_Zuckerkandl>,
+        <http://es.dbpedia.org/resource/Emil_Zuckerkandl>,
+        <http://it.dbpedia.org/resource/Emil_Zuckerkandl>,
+        <http://ja.dbpedia.org/resource/エーミール・ツッカーカンドル>,
+        <http://pl.dbpedia.org/resource/Emil_Zuckerkandl>,
+        <http://rdf.freebase.com/ns/m.06rbz4>,
+        <http://wikidata.dbpedia.org/resource/Q85641>,
+        <http://www.wikidata.org/entity/Q85641>,
+        <http://yago-knowledge.org/resource/Emil_Zuckerkandl> .
+
+<http://data.judaicalink.org/data/dbpedia/Emmy_Klieneberger-Nobel> a foaf:Person ;
+    jl:hasLabel "Emmy Klieneberger-Nobel@de",
+        "Emmy Klieneberger-Nobel@en",
+        "エミー・クラインバーガー＝ノーベル@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Emmy_Klieneberger-Nobel>,
+        <http://de.dbpedia.org/resource/Emmy_Klieneberger-Nobel>,
+        <http://ja.dbpedia.org/resource/エミー・クラインバーガー＝ノーベル>,
+        <http://rdf.freebase.com/ns/m.05p84bk>,
+        <http://wikidata.dbpedia.org/resource/Q100154>,
+        <http://www.wikidata.org/entity/Q100154>,
+        <http://yago-knowledge.org/resource/Emmy_Klieneberger-Nobel> .
+
+<http://data.judaicalink.org/data/dbpedia/Ephraim_Anderson> a foaf:Person ;
+    jl:hasLabel "Ephraim Anderson@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ephraim_Anderson>,
+        <http://rdf.freebase.com/ns/m.05wq32>,
+        <http://wikidata.dbpedia.org/resource/Q5382236>,
+        <http://www.wikidata.org/entity/Q5382236>,
+        <http://yago-knowledge.org/resource/Ephraim_Anderson> .
+
+<http://data.judaicalink.org/data/dbpedia/Eugenio_Elia_Levi> a foaf:Person ;
+    jl:hasLabel "Eugenio Elia Levi@de",
+        "Eugenio Elia Levi@en",
+        "Eugenio Elia Levi@it" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Eugenio_Elia_Levi>,
+        <http://de.dbpedia.org/resource/Eugenio_Elia_Levi>,
+        <http://it.dbpedia.org/resource/Eugenio_Elia_Levi>,
+        <http://rdf.freebase.com/ns/m.02r0h6v>,
+        <http://wikidata.dbpedia.org/resource/Q982362>,
+        <http://www.wikidata.org/entity/Q982362>,
+        <http://yago-knowledge.org/resource/Eugenio_Elia_Levi> .
+
+<http://data.judaicalink.org/data/dbpedia/Ferdinand_Cohn> a foaf:Person ;
+    jl:hasLabel "Ferdinand Cohn@en",
+        "Ferdinand Cohn@es",
+        "Ferdinand Cohn@nl",
+        "Ferdinand Julius Cohn@de",
+        "Ferdinand Julius Cohn@fr",
+        "Ferdinand Julius Cohn@it",
+        "Ferdinand Julius Cohn@pl",
+        "Ferdinand Julius Cohn@pt",
+        "Кон, Фердинанд Юлиус@ru",
+        "フェルディナント・コーン@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ferdinand_Julius_Cohn>,
+        <http://dbpedia.org/resource/Ferdinand_Cohn>,
+        <http://de.dbpedia.org/resource/Ferdinand_Julius_Cohn>,
+        <http://es.dbpedia.org/resource/Ferdinand_Cohn>,
+        <http://fr.dbpedia.org/resource/Ferdinand_Julius_Cohn>,
+        <http://id.dbpedia.org/resource/Ferdinand_Cohn>,
+        <http://it.dbpedia.org/resource/Ferdinand_Julius_Cohn>,
+        <http://ja.dbpedia.org/resource/フェルディナント・コーン>,
+        <http://nl.dbpedia.org/resource/Ferdinand_Cohn>,
+        <http://pl.dbpedia.org/resource/Ferdinand_Julius_Cohn>,
+        <http://pt.dbpedia.org/resource/Ferdinand_Julius_Cohn>,
+        <http://rdf.freebase.com/ns/m.048v20>,
+        <http://viaf.org/viaf/61803207>,
+        <http://wikidata.dbpedia.org/resource/Q76774>,
+        <http://www.wikidata.org/entity/Q76774>,
+        <http://yago-knowledge.org/resource/Ferdinand_Cohn> .
+
+<http://data.judaicalink.org/data/dbpedia/Francis_Simon> a foaf:Person ;
+    jl:hasLabel "Francis Simon@en",
+        "Francis Simon@fr",
+        "Francis Simon@pt",
+        "Franz Eugen Simon@de",
+        "Саймон, Фрэнсис@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Francis_Simon>,
+        <http://de.dbpedia.org/resource/Franz_Eugen_Simon>,
+        <http://fr.dbpedia.org/resource/Francis_Simon>,
+        <http://pt.dbpedia.org/resource/Francis_Simon>,
+        <http://rdf.freebase.com/ns/m.0c2rmp>,
+        <http://viaf.org/viaf/38381739>,
+        <http://wikidata.dbpedia.org/resource/Q72386>,
+        <http://www.wikidata.org/entity/Q72386>,
+        <http://yago-knowledge.org/resource/Francis_Simon> .
+
+<http://data.judaicalink.org/data/dbpedia/Franz_Sondheimer> a foaf:Person ;
+    jl:hasLabel "Franz Sondheimer@de",
+        "Franz Sondheimer@en",
+        "Franz Sondheimer@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Franz_Sondheimer>,
+        <http://de.dbpedia.org/resource/Franz_Sondheimer>,
+        <http://pt.dbpedia.org/resource/Franz_Sondheimer>,
+        <http://rdf.freebase.com/ns/m.0c2rnc>,
+        <http://viaf.org/viaf/172057467>,
+        <http://wikidata.dbpedia.org/resource/Q214243>,
+        <http://www.wikidata.org/entity/Q214243>,
+        <http://yago-knowledge.org/resource/Franz_Sondheimer> .
+
+<http://data.judaicalink.org/data/dbpedia/Fred_Rosner> a foaf:Person ;
+    jl:hasLabel "Fred Rosner@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Fred_Rosner>,
+        <http://rdf.freebase.com/ns/m.0h1t2z>,
+        <http://wikidata.dbpedia.org/resource/Q5496180>,
+        <http://www.wikidata.org/entity/Q5496180>,
+        <http://yago-knowledge.org/resource/Fred_Rosner> .
+
+<http://data.judaicalink.org/data/dbpedia/Frederic_Lewy> a foaf:Person ;
+    jl:hasLabel "Frederic Lewy@en",
+        "Frederic Lewy@it",
+        "Friedrich H. Lewy@de",
+        "Friedrich Heinrich Lewy@fr",
+        "Friedrich Lewy@pt",
+        "Fritz Heinrich Lewy@pl",
+        "Леви, Фредерик Генри@ru",
+        "フレデリック・レビー@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Frederic_Lewy>,
+        <http://de.dbpedia.org/resource/Friedrich_H._Lewy>,
+        <http://fr.dbpedia.org/resource/Friedrich_Heinrich_Lewy>,
+        <http://it.dbpedia.org/resource/Frederic_Lewy>,
+        <http://ja.dbpedia.org/resource/フレデリック・レビー>,
+        <http://pl.dbpedia.org/resource/Fritz_Heinrich_Lewy>,
+        <http://pt.dbpedia.org/resource/Friedrich_Lewy>,
+        <http://rdf.freebase.com/ns/m.0f509_>,
+        <http://wikidata.dbpedia.org/resource/Q66078>,
+        <http://www.wikidata.org/entity/Q66078>,
+        <http://yago-knowledge.org/resource/Frederic_Lewy> .
+
+<http://data.judaicalink.org/data/dbpedia/Gastão_Rosenfeld> a foaf:Person ;
+    jl:hasLabel "Gastão Rosenfeld@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Gastão_Rosenfeld>,
+        <http://rdf.freebase.com/ns/m.066wxq>,
+        <http://wikidata.dbpedia.org/resource/Q5526888>,
+        <http://www.wikidata.org/entity/Q5526888>,
+        <http://yago-knowledge.org/resource/Gastão_Rosenfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/George_Kalmus> a foaf:Person ;
+    jl:hasLabel "George Kalmus@de",
+        "George Kalmus@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/George_Kalmus>,
+        <http://de.dbpedia.org/resource/George_Kalmus>,
+        <http://rdf.freebase.com/ns/m.0b_mth>,
+        <http://wikidata.dbpedia.org/resource/Q2699086>,
+        <http://www.wikidata.org/entity/Q2699086>,
+        <http://yago-knowledge.org/resource/George_Kalmus> .
+
+<http://data.judaicalink.org/data/dbpedia/George_Karpati> a foaf:Person ;
+    jl:hasLabel "George Karpati@en",
+        "George Karpati@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/George_Karpati>,
+        <http://fr.dbpedia.org/resource/George_Karpati>,
+        <http://rdf.freebase.com/ns/m.09q7c6>,
+        <http://viaf.org/viaf/51788868>,
+        <http://wikidata.dbpedia.org/resource/Q1123618>,
+        <http://www.wikidata.org/entity/Q1123618>,
+        <http://yago-knowledge.org/resource/George_Karpati> .
+
+<http://data.judaicalink.org/data/dbpedia/George_Streisinger> a foaf:Person ;
+    jl:hasLabel "George Streisinger@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/George_Streisinger>,
+        <http://rdf.freebase.com/ns/m.058hg1q>,
+        <http://wikidata.dbpedia.org/resource/Q5544908>,
+        <http://www.wikidata.org/entity/Q5544908>,
+        <http://yago-knowledge.org/resource/George_Streisinger> .
+
+<http://data.judaicalink.org/data/dbpedia/Gerald_Schroeder> a foaf:Person ;
+    jl:hasLabel "Gerald Schroeder@en",
+        "Gerald Schroeder@es",
+        "Gerald Schroeder@it" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Gerald_Schroeder>,
+        <http://es.dbpedia.org/resource/Gerald_Schroeder>,
+        <http://it.dbpedia.org/resource/Gerald_Schroeder>,
+        <http://rdf.freebase.com/ns/m.038_7>,
+        <http://wikidata.dbpedia.org/resource/Q3760876>,
+        <http://www.wikidata.org/entity/Q3760876>,
+        <http://yago-knowledge.org/resource/Gerald_Schroeder> .
+
+<http://data.judaicalink.org/data/dbpedia/Gideon_Mer> a foaf:Person ;
+    jl:hasLabel "Gideon Mer@de",
+        "Gideon Mer@en",
+        "Gideon Mer@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Gideon_Mer>,
+        <http://de.dbpedia.org/resource/Gideon_Mer>,
+        <http://fr.dbpedia.org/resource/Gideon_Mer>,
+        <http://rdf.freebase.com/ns/m.03c49th>,
+        <http://wikidata.dbpedia.org/resource/Q2902718>,
+        <http://www.wikidata.org/entity/Q2902718>,
+        <http://yago-knowledge.org/resource/Gideon_Mer> .
+
+<http://data.judaicalink.org/data/dbpedia/Gordon_Plotkin> a foaf:Person ;
+    jl:hasLabel "Gordon Plotkin@de",
+        "Gordon Plotkin@en",
+        "Gordon Plotkin@fr",
+        "Gordon Plotkin@it" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Gordon_Plotkin>,
+        <http://de.dbpedia.org/resource/Gordon_Plotkin>,
+        <http://fr.dbpedia.org/resource/Gordon_Plotkin>,
+        <http://it.dbpedia.org/resource/Gordon_Plotkin>,
+        <http://rdf.freebase.com/ns/m.07wx5_>,
+        <http://wikidata.dbpedia.org/resource/Q967536>,
+        <http://www.wikidata.org/entity/Q967536>,
+        <http://yago-knowledge.org/resource/Gordon_Plotkin> .
+
+<http://data.judaicalink.org/data/dbpedia/Grigorij_Mesežnikov> a foaf:Person ;
+    jl:hasLabel "Grigorij Mesežnikov@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Grigorij_Meseznikov>,
+        <http://dbpedia.org/resource/Grigorij_Mesežnikov>,
+        <http://rdf.freebase.com/ns/m.02fw2n>,
+        <http://wikidata.dbpedia.org/resource/Q15089884>,
+        <http://www.wikidata.org/entity/Q15089884>,
+        <http://yago-knowledge.org/resource/Grigorij_Mesežnikov> .
+
+<http://data.judaicalink.org/data/dbpedia/Grigoriy_Yablonsky> a foaf:Person ;
+    jl:hasLabel "Grigoriy Yablonsky@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Grigoriy_Yablonsky>,
+        <http://rdf.freebase.com/ns/m.0v39s4_>,
+        <http://wikidata.dbpedia.org/resource/Q16105526>,
+        <http://www.wikidata.org/entity/Q16105526>,
+        <http://yago-knowledge.org/resource/Grigoriy_Yablonsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Grigory_Barenblatt> a foaf:Person ;
+    jl:hasLabel "Grigori Isaakowitsch Barenblatt@de",
+        "Grigory Barenblatt@en",
+        "Grigory Barenblatt@pt",
+        "Баренблатт, Григорий Исаакович@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Grigory_Barenblatt>,
+        <http://de.dbpedia.org/resource/Grigori_Isaakowitsch_Barenblatt>,
+        <http://pt.dbpedia.org/resource/Grigory_Barenblatt>,
+        <http://rdf.freebase.com/ns/m.03d30>,
+        <http://viaf.org/viaf/44400753>,
+        <http://wikidata.dbpedia.org/resource/Q2585814>,
+        <http://www.wikidata.org/entity/Q2585814>,
+        <http://yago-knowledge.org/resource/Grigory_Barenblatt> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_Adolf_Krebs> a foaf:Person ;
+    jl:hasLabel "Hans Adolf Krebs@de",
+        "Hans Adolf Krebs@en",
+        "Hans Adolf Krebs@es",
+        "Hans Adolf Krebs@fr",
+        "Hans Adolf Krebs@it",
+        "Hans Adolf Krebs@pl",
+        "Hans Krebs (arts)@nl",
+        "Hans Krebs@pt",
+        "Кребс, Ханс Адольф@ru",
+        "هانس كريبس@ar",
+        "ハンス・クレブス@ja",
+        "汉斯·阿道夫·克雷布斯@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Hans_Adolf_Krebs>,
+        <http://dbpedia.org/resource/Hans_Adolf_Krebs>,
+        <http://de.dbpedia.org/resource/Hans_Adolf_Krebs>,
+        <http://es.dbpedia.org/resource/Hans_Adolf_Krebs>,
+        <http://eu.dbpedia.org/resource/Hans_Adolf_Krebs>,
+        <http://fr.dbpedia.org/resource/Hans_Adolf_Krebs>,
+        <http://id.dbpedia.org/resource/Hans_Adolf_Krebs>,
+        <http://it.dbpedia.org/resource/Hans_Adolf_Krebs>,
+        <http://ja.dbpedia.org/resource/ハンス・クレブス>,
+        <http://ko.dbpedia.org/resource/핸스_애돌프_크레브스>,
+        <http://nl.dbpedia.org/resource/Hans_Krebs_(arts)>,
+        <http://pl.dbpedia.org/resource/Hans_Adolf_Krebs>,
+        <http://pt.dbpedia.org/resource/Hans_Krebs>,
+        <http://rdf.freebase.com/ns/m.016mx_>,
+        <http://viaf.org/viaf/44376961>,
+        <http://wikidata.dbpedia.org/resource/Q57191>,
+        <http://www.wikidata.org/entity/Q57191>,
+        <http://yago-knowledge.org/resource/Hans_Adolf_Krebs> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_Freudenthal> a foaf:Person ;
+    jl:hasLabel "Hans Freudenthal@de",
+        "Hans Freudenthal@en",
+        "Hans Freudenthal@es",
+        "Hans Freudenthal@fr",
+        "Hans Freudenthal@it",
+        "Hans Freudenthal@nl",
+        "Hans Freudenthal@pt",
+        "Фройденталь, Ханс@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Hans_Freudenthal>,
+        <http://de.dbpedia.org/resource/Hans_Freudenthal>,
+        <http://es.dbpedia.org/resource/Hans_Freudenthal>,
+        <http://fr.dbpedia.org/resource/Hans_Freudenthal>,
+        <http://it.dbpedia.org/resource/Hans_Freudenthal>,
+        <http://ko.dbpedia.org/resource/한스_프로이덴탈>,
+        <http://nl.dbpedia.org/resource/Hans_Freudenthal>,
+        <http://pt.dbpedia.org/resource/Hans_Freudenthal>,
+        <http://rdf.freebase.com/ns/m.02whpw>,
+        <http://wikidata.dbpedia.org/resource/Q77506>,
+        <http://www.wikidata.org/entity/Q77506>,
+        <http://yago-knowledge.org/resource/Hans_Freudenthal> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_Grüneberg> a foaf:Person ;
+    jl:hasLabel "Hans Grüneberg (Genetiker)@de",
+        "Hans Grüneberg@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Hans_Grüneberg>,
+        <http://de.dbpedia.org/resource/Hans_Grüneberg_(Genetiker)>,
+        <http://rdf.freebase.com/ns/m.0c2r86>,
+        <http://wikidata.dbpedia.org/resource/Q90652>,
+        <http://www.wikidata.org/entity/Q90652>,
+        <http://yago-knowledge.org/resource/Hans_Grüneberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_Hahn_(mathematician)> a foaf:Person ;
+    jl:hasLabel "Hans Hahn (matematico)@it",
+        "Hans Hahn (mathematician)@en",
+        "Hans Hahn (mathématicien)@fr",
+        "Hans Hahn@de",
+        "Hans Hahn@es",
+        "Hans Hahn@nl",
+        "Hans Hahn@pl",
+        "Hans Hahn@pt",
+        "Хан, Ханс@ru",
+        "ハンス・ハーン@ja",
+        "漢斯·哈恩@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Hans_Hahn>,
+        <http://dbpedia.org/resource/Hans_Hahn_(mathematician)>,
+        <http://de.dbpedia.org/resource/Hans_Hahn>,
+        <http://es.dbpedia.org/resource/Hans_Hahn>,
+        <http://fr.dbpedia.org/resource/Hans_Hahn_(mathématicien)>,
+        <http://it.dbpedia.org/resource/Hans_Hahn_(matematico)>,
+        <http://ja.dbpedia.org/resource/ハンス・ハーン>,
+        <http://ko.dbpedia.org/resource/한스_한>,
+        <http://nl.dbpedia.org/resource/Hans_Hahn>,
+        <http://pl.dbpedia.org/resource/Hans_Hahn>,
+        <http://pt.dbpedia.org/resource/Hans_Hahn>,
+        <http://rdf.freebase.com/ns/m.043rtt>,
+        <http://wikidata.dbpedia.org/resource/Q84552>,
+        <http://www.wikidata.org/entity/Q84552>,
+        <http://yago-knowledge.org/resource/Hans_Hahn_(mathematician)> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_Kornberg> a foaf:Person ;
+    jl:hasLabel "Hans Kornberg@en",
+        "Hans Kornberg@pt",
+        "Hans Leo Kornberg@de",
+        "ハンス・コーンバーグ@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Hans_Kornberg>,
+        <http://de.dbpedia.org/resource/Hans_Leo_Kornberg>,
+        <http://ja.dbpedia.org/resource/ハンス・コーンバーグ>,
+        <http://pt.dbpedia.org/resource/Hans_Kornberg>,
+        <http://rdf.freebase.com/ns/m.0b_mxz>,
+        <http://viaf.org/viaf/100290307>,
+        <http://wikidata.dbpedia.org/resource/Q75111>,
+        <http://www.wikidata.org/entity/Q75111>,
+        <http://yago-knowledge.org/resource/Hans_Kornberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_Lissmann> a foaf:Person ;
+    jl:hasLabel "Hans Lissmann@en",
+        "Hans Werner Lissmann@de" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Hans_Lissmann>,
+        <http://de.dbpedia.org/resource/Hans_Werner_Lissmann>,
+        <http://rdf.freebase.com/ns/m.0c1dyt>,
+        <http://wikidata.dbpedia.org/resource/Q5650405>,
+        <http://www.wikidata.org/entity/Q5650405>,
+        <http://yago-knowledge.org/resource/Hans_Lissmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Hans_von_Halban> a foaf:Person ;
+    jl:hasLabel "Hans von Halban (Physiker)@de",
+        "Hans von Halban@en",
+        "Hans von Halban@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Hans_von_Halban>,
+        <http://de.dbpedia.org/resource/Hans_von_Halban_(Physiker)>,
+        <http://fr.dbpedia.org/resource/Hans_von_Halban>,
+        <http://rdf.freebase.com/ns/m.02rfr1v>,
+        <http://wikidata.dbpedia.org/resource/Q113737>,
+        <http://www.wikidata.org/entity/Q113737>,
+        <http://yago-knowledge.org/resource/Hans_von_Halban> .
+
+<http://data.judaicalink.org/data/dbpedia/Hayyim_Selig_Slonimski> a foaf:Person ;
+    jl:hasLabel "Chaim Zelig Słonimski@pl",
+        "Chajim Slonimski@de",
+        "Hayyim Selig Slonimski@en",
+        "Слонимский, Зиновий Яковлевич@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Hayyim_Selig_Slonimski>,
+        <http://de.dbpedia.org/resource/Chajim_Slonimski>,
+        <http://pl.dbpedia.org/resource/Chaim_Zelig_Słonimski>,
+        <http://rdf.freebase.com/ns/m.0465_jh>,
+        <http://viaf.org/viaf/29714508>,
+        <http://wikidata.dbpedia.org/resource/Q976296>,
+        <http://www.wikidata.org/entity/Q976296>,
+        <http://yago-knowledge.org/resource/Chaim_Zelig_Slonimsky>,
+        <http://yago-knowledge.org/resource/Hayyim_Selig_Slonimski> .
+
+<http://data.judaicalink.org/data/dbpedia/Heinrich_Finkelstein> a foaf:Person ;
+    jl:hasLabel "Heinrich Finkelstein@de",
+        "Heinrich Finkelstein@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Heinrich_Finkelstein>,
+        <http://de.dbpedia.org/resource/Heinrich_Finkelstein>,
+        <http://rdf.freebase.com/ns/m.0qfqttj>,
+        <http://wikidata.dbpedia.org/resource/Q125659>,
+        <http://www.wikidata.org/entity/Q125659>,
+        <http://yago-knowledge.org/resource/Heinrich_Finkelstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Heinrich_Racker> a foaf:Person ;
+    jl:hasLabel "Heinrich Racker@en",
+        "Heinrich Racker@es",
+        "Heinrich Racker@fr",
+        "Heinrich Racker@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Heinrich_Racker>,
+        <http://es.dbpedia.org/resource/Heinrich_Racker>,
+        <http://fr.dbpedia.org/resource/Heinrich_Racker>,
+        <http://pt.dbpedia.org/resource/Heinrich_Racker>,
+        <http://rdf.freebase.com/ns/m.07khgc8>,
+        <http://viaf.org/viaf/32163630>,
+        <http://wikidata.dbpedia.org/resource/Q3089671>,
+        <http://www.wikidata.org/entity/Q3089671>,
+        <http://yago-knowledge.org/resource/Heinrich_Racker> .
+
+<http://data.judaicalink.org/data/dbpedia/Heinrich_Rubens> a foaf:Person ;
+    jl:hasLabel "Heinrich Rubens@de",
+        "Heinrich Rubens@en",
+        "Heinrich Rubens@es",
+        "Heinrich Rubens@fr",
+        "Heinrich Rubens@it",
+        "Heinrich Rubens@nl",
+        "Heinrich Rubens@pl",
+        "Heinrich Rubens@pt",
+        "Рубенс, Генрих@ru",
+        "هاينريش روبنز@ar" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Heinrich_Rubens>,
+        <http://de.dbpedia.org/resource/Heinrich_Rubens>,
+        <http://es.dbpedia.org/resource/Heinrich_Rubens>,
+        <http://fr.dbpedia.org/resource/Heinrich_Rubens>,
+        <http://it.dbpedia.org/resource/Heinrich_Rubens>,
+        <http://nl.dbpedia.org/resource/Heinrich_Rubens>,
+        <http://pl.dbpedia.org/resource/Heinrich_Rubens>,
+        <http://pt.dbpedia.org/resource/Heinrich_Rubens>,
+        <http://rdf.freebase.com/ns/m.0h3pwl>,
+        <http://viaf.org/viaf/69688341>,
+        <http://wikidata.dbpedia.org/resource/Q61810>,
+        <http://www.wikidata.org/entity/Q61810>,
+        <http://yago-knowledge.org/resource/Heinrich_Rubens> .
+
+<http://data.judaicalink.org/data/dbpedia/Henri_Atlan> a foaf:Person ;
+    jl:hasLabel "Henri Atlan@en",
+        "Henri Atlan@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Henri_Atlan>,
+        <http://fr.dbpedia.org/resource/Henri_Atlan>,
+        <http://rdf.freebase.com/ns/m.05vws2m>,
+        <http://viaf.org/viaf/120669371>,
+        <http://wikidata.dbpedia.org/resource/Q2896151>,
+        <http://www.wikidata.org/entity/Q2896151>,
+        <http://yago-knowledge.org/resource/Henri_Atlan> .
+
+<http://data.judaicalink.org/data/dbpedia/Herman_Branover> a foaf:Person ;
+    jl:hasLabel "Herman Branover@en",
+        "Herman Branover@it",
+        "Брановер, Герман Герцевич@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Herman_Branover>,
+        <http://it.dbpedia.org/resource/Herman_Branover>,
+        <http://rdf.freebase.com/ns/m.06j18p>,
+        <http://viaf.org/viaf/31978330>,
+        <http://wikidata.dbpedia.org/resource/Q2902600>,
+        <http://www.wikidata.org/entity/Q2902600>,
+        <http://yago-knowledge.org/resource/Herman_Branover> .
+
+<http://data.judaicalink.org/data/dbpedia/Hermann_Bondi> a foaf:Person ;
+    jl:hasLabel "Hermann Bondi@de",
+        "Hermann Bondi@en",
+        "Hermann Bondi@es",
+        "Hermann Bondi@fr",
+        "Hermann Bondi@it",
+        "Hermann Bondi@pl",
+        "Hermann Bondi@pt",
+        "ヘルマン・ボンディ@ja",
+        "赫爾曼·邦迪@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Hermann_Bondi>,
+        <http://de.dbpedia.org/resource/Hermann_Bondi>,
+        <http://es.dbpedia.org/resource/Hermann_Bondi>,
+        <http://fr.dbpedia.org/resource/Hermann_Bondi>,
+        <http://it.dbpedia.org/resource/Hermann_Bondi>,
+        <http://ja.dbpedia.org/resource/ヘルマン・ボンディ>,
+        <http://pl.dbpedia.org/resource/Hermann_Bondi>,
+        <http://pt.dbpedia.org/resource/Hermann_Bondi>,
+        <http://rdf.freebase.com/ns/m.038fdm>,
+        <http://wikidata.dbpedia.org/resource/Q380235>,
+        <http://www.wikidata.org/entity/Q380235>,
+        <http://yago-knowledge.org/resource/Hermann_Bondi> .
+
+<http://data.judaicalink.org/data/dbpedia/Hugo_Salus> a foaf:Person ;
+    jl:hasLabel "Hugo Salus@de",
+        "Hugo Salus@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Hugo_Salus>,
+        <http://dbpedia.org/resource/Hugo_Salus>,
+        <http://de.dbpedia.org/resource/Hugo_Salus>,
+        <http://rdf.freebase.com/ns/m.09gpwyp>,
+        <http://wikidata.dbpedia.org/resource/Q1360544>,
+        <http://www.wikidata.org/entity/Q1360544>,
+        <http://yago-knowledge.org/resource/Hugo_Salus> .
+
+<http://data.judaicalink.org/data/dbpedia/Ian_Grant> a foaf:Person ;
+    jl:hasLabel "Ian Grant@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ian_Grant>,
+        <http://rdf.freebase.com/ns/m.0b_mj5>,
+        <http://wikidata.dbpedia.org/resource/Q5981695>,
+        <http://www.wikidata.org/entity/Q5981695>,
+        <http://yago-knowledge.org/resource/Ian_Grant> .
+
+<http://data.judaicalink.org/data/dbpedia/Ian_Heilbron> a foaf:Person ;
+    jl:hasLabel "Ian Heilbron@de",
+        "Ian Heilbron@en",
+        "Ian Heilbron@pt",
+        "Ian Morris Heilbron@it",
+        "イアン・ヒールブロン@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ian_Heilbron>,
+        <http://de.dbpedia.org/resource/Ian_Heilbron>,
+        <http://it.dbpedia.org/resource/Ian_Morris_Heilbron>,
+        <http://ja.dbpedia.org/resource/イアン・ヒールブロン>,
+        <http://pt.dbpedia.org/resource/Ian_Heilbron>,
+        <http://rdf.freebase.com/ns/m.0b_mmm>,
+        <http://wikidata.dbpedia.org/resource/Q49353>,
+        <http://www.wikidata.org/entity/Q49353>,
+        <http://yago-knowledge.org/resource/Ian_Heilbron> .
+
+<http://data.judaicalink.org/data/dbpedia/Ilya_Prigogine> a foaf:Person ;
+    jl:hasLabel "Ilya Prigogine@de",
+        "Ilya Prigogine@en",
+        "Ilya Prigogine@es",
+        "Ilya Prigogine@fr",
+        "Ilya Prigogine@it",
+        "Ilya Prigogine@nl",
+        "Ilya Prigogine@pl",
+        "Ilya Prigogine@pt",
+        "Пригожин, Илья Романович@ru",
+        "إيليا بريغوجين@ar",
+        "イリヤ・プリゴジン@ja",
+        "伊利亚·普里高津@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ilja_Prigogine>,
+        <http://dbpedia.org/resource/Ilya_Prigogine>,
+        <http://de.dbpedia.org/resource/Ilya_Prigogine>,
+        <http://el.dbpedia.org/resource/Ιλιά_Πριγκόζιν>,
+        <http://es.dbpedia.org/resource/Ilya_Prigogine>,
+        <http://eu.dbpedia.org/resource/Ilya_Prigogine>,
+        <http://fr.dbpedia.org/resource/Ilya_Prigogine>,
+        <http://id.dbpedia.org/resource/Ilya_Prigogine>,
+        <http://it.dbpedia.org/resource/Ilya_Prigogine>,
+        <http://ja.dbpedia.org/resource/イリヤ・プリゴジン>,
+        <http://ko.dbpedia.org/resource/일리야_프리고진>,
+        <http://nl.dbpedia.org/resource/Ilya_Prigogine>,
+        <http://pl.dbpedia.org/resource/Ilya_Prigogine>,
+        <http://pt.dbpedia.org/resource/Ilya_Prigogine>,
+        <http://rdf.freebase.com/ns/m.01jls4>,
+        <http://wikidata.dbpedia.org/resource/Q183509>,
+        <http://www.wikidata.org/entity/Q183509>,
+        <http://yago-knowledge.org/resource/Ilya_Prigogine> .
+
+<http://data.judaicalink.org/data/dbpedia/Ilya_Segalovich> a foaf:Person ;
+    jl:hasLabel "Iliá Segalóvich@es",
+        "Ilja Siegałowicz@pl",
+        "Ilja Walentinowitsch Segalowitsch@de",
+        "Ilya Segalovich@en",
+        "Сегалович, Илья Валентинович@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Ilya_Segalovich>,
+        <http://dbpedia.org/resource/Ilya_Segalovich>,
+        <http://de.dbpedia.org/resource/Ilja_Walentinowitsch_Segalowitsch>,
+        <http://es.dbpedia.org/resource/Iliá_Segalóvich>,
+        <http://pl.dbpedia.org/resource/Ilja_Siegałowicz>,
+        <http://rdf.freebase.com/ns/m.0gmdc46>,
+        <http://wikidata.dbpedia.org/resource/Q4412749>,
+        <http://www.wikidata.org/entity/Q4412749>,
+        <http://yago-knowledge.org/resource/Ilya_Segalovich> .
+
+<http://data.judaicalink.org/data/dbpedia/Iosif_Shklovsky> a foaf:Person ;
+    jl:hasLabel "Iosif Samuilovič Šklovskij@it",
+        "Iosif Shklovsky@en",
+        "Iosif Shklovsky@pt",
+        "Iosif Szkłowski@pl",
+        "Iossif Chklovski@fr",
+        "Iossif Samuilowitsch Schklowski@de",
+        "Iósif Shklovski@es",
+        "Шкловский, Иосиф Самуилович@ru",
+        "يوسف شيكلوفسكي@ar",
+        "ヨシフ・シクロフスキー@ja",
+        "约瑟夫·什克洛夫斯基@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Iosif_Shklovsky>,
+        <http://de.dbpedia.org/resource/Iossif_Samuilowitsch_Schklowski>,
+        <http://es.dbpedia.org/resource/Iósif_Shklovski>,
+        <http://fr.dbpedia.org/resource/Iossif_Chklovski>,
+        <http://it.dbpedia.org/resource/Iosif_Samuilovič_Šklovskij>,
+        <http://ja.dbpedia.org/resource/ヨシフ・シクロフスキー>,
+        <http://pl.dbpedia.org/resource/Iosif_Szkłowski>,
+        <http://pt.dbpedia.org/resource/Iosif_Shklovsky>,
+        <http://rdf.freebase.com/ns/m.02fxq2>,
+        <http://viaf.org/viaf/244356690>,
+        <http://wikidata.dbpedia.org/resource/Q93909>,
+        <http://www.wikidata.org/entity/Q93909>,
+        <http://yago-knowledge.org/resource/Iosif_Shklovsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Irvin_D._Yalom> a foaf:Person ;
+    jl:hasLabel "Irvin D. Yalom@en",
+        "Irvin D. Yalom@es",
+        "Irvin D. Yalom@fr",
+        "Irvin D. Yalom@nl",
+        "Irvin D. Yalom@pt",
+        "Irvin Yalom@de",
+        "Irvin Yalom@it",
+        "Ялом, Ирвин Дэвид@ru",
+        "アーヴィン・D・ヤーロム@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Irvin_Yalom>,
+        <http://dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://de.dbpedia.org/resource/Irvin_Yalom>,
+        <http://el.dbpedia.org/resource/Ίρβιν_Γιάλομ>,
+        <http://es.dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://fr.dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://it.dbpedia.org/resource/Irvin_Yalom>,
+        <http://ja.dbpedia.org/resource/アーヴィン・D・ヤーロム>,
+        <http://nl.dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://pt.dbpedia.org/resource/Irvin_D._Yalom>,
+        <http://rdf.freebase.com/ns/m.027sjlm>,
+        <http://viaf.org/viaf/109548796>,
+        <http://wikidata.dbpedia.org/resource/Q362721>,
+        <http://www.wikidata.org/entity/Q362721>,
+        <http://yago-knowledge.org/resource/Irvin_D._Yalom> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_Schapera> a foaf:Person ;
+    jl:hasLabel "Isaac Schapera@de",
+        "Isaac Schapera@en",
+        "Isaac Schapera@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_Schapera>,
+        <http://de.dbpedia.org/resource/Isaac_Schapera>,
+        <http://eu.dbpedia.org/resource/Isaac_Schapera>,
+        <http://fr.dbpedia.org/resource/Isaac_Schapera>,
+        <http://rdf.freebase.com/ns/m.05x2knc>,
+        <http://viaf.org/viaf/108544741>,
+        <http://wikidata.dbpedia.org/resource/Q348933>,
+        <http://www.wikidata.org/entity/Q348933>,
+        <http://yago-knowledge.org/resource/Isaac_Schapera> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_de_Sequeira_Samuda> a foaf:Person ;
+    jl:hasLabel "Isaac de Sequeira Samuda@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_de_Sequeira_Samuda>,
+        <http://rdf.freebase.com/ns/m.0c1fnk>,
+        <http://wikidata.dbpedia.org/resource/Q6077428>,
+        <http://www.wikidata.org/entity/Q6077428>,
+        <http://yago-knowledge.org/resource/Isaac_de_Sequeira_Samuda> .
+
+<http://data.judaicalink.org/data/dbpedia/Isaac_ibn_Sid> a foaf:Person ;
+    jl:hasLabel "Isaac ben Sid@es",
+        "Isaac ibn Sid@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Isaac_ibn_Sid>,
+        <http://es.dbpedia.org/resource/Isaac_ben_Sid>,
+        <http://rdf.freebase.com/ns/m.02r8s2b>,
+        <http://wikidata.dbpedia.org/resource/Q3813679>,
+        <http://www.wikidata.org/entity/Q3813679>,
+        <http://yago-knowledge.org/resource/Isaac_ibn_Sid> .
+
+<http://data.judaicalink.org/data/dbpedia/Ivor_Robinson_(physicist)> a foaf:Person ;
+    jl:hasLabel "Ivor Robinson (physicist)@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ivor_Robinson_(physicist)>,
+        <http://wikidata.dbpedia.org/resource/Q21818072>,
+        <http://www.wikidata.org/entity/Q21818072> .
+
+<http://data.judaicalink.org/data/dbpedia/J._M._Robson> a foaf:Person ;
+    jl:hasLabel "J. M. Robson@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/J._M._Robson>,
+        <http://rdf.freebase.com/ns/m.03g_bp3>,
+        <http://viaf.org/viaf/80782224>,
+        <http://wikidata.dbpedia.org/resource/Q11173735>,
+        <http://www.wikidata.org/entity/Q11173735>,
+        <http://yago-knowledge.org/resource/J._M._Robson> .
+
+<http://data.judaicalink.org/data/dbpedia/Jack_Halpern_(chemist)> a foaf:Person ;
+    jl:hasLabel "Jack Halpern (chemist)@en",
+        "Jack Halpern@de" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Jack_Halpern_(chemist)>,
+        <http://de.dbpedia.org/resource/Jack_Halpern>,
+        <http://rdf.freebase.com/ns/m.0b_mkk>,
+        <http://viaf.org/viaf/100613870>,
+        <http://wikidata.dbpedia.org/resource/Q1677051>,
+        <http://www.wikidata.org/entity/Q1677051>,
+        <http://yago-knowledge.org/resource/Jack_Halpern_(chemist)> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Wolfowitz> a foaf:Person ;
+    jl:hasLabel "Jacob Wolfowitz@de",
+        "Jacob Wolfowitz@en",
+        "Jacob Wolfowitz@es" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacob_Wolfowitz>,
+        <http://de.dbpedia.org/resource/Jacob_Wolfowitz>,
+        <http://es.dbpedia.org/resource/Jacob_Wolfowitz>,
+        <http://eu.dbpedia.org/resource/Jacob_Wolfowitz>,
+        <http://rdf.freebase.com/ns/m.03hs7y>,
+        <http://wikidata.dbpedia.org/resource/Q722273>,
+        <http://www.wikidata.org/entity/Q722273>,
+        <http://yago-knowledge.org/resource/Jacob_Wolfowitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Ziv> a foaf:Person ;
+    jl:hasLabel "Jacob Ziv@de",
+        "Jacob Ziv@en",
+        "Jacob Ziv@es",
+        "Jacob Ziv@fr",
+        "Jacob Ziv@it",
+        "Jacob Ziv@pl",
+        "Jacob Ziv@pt",
+        "Зив, Яаков@ru",
+        "يعقوب زيف@ar",
+        "ジェイコブ・ジヴ@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ja'akov_Ziv>,
+        <http://dbpedia.org/resource/Jacob_Ziv>,
+        <http://de.dbpedia.org/resource/Jacob_Ziv>,
+        <http://es.dbpedia.org/resource/Jacob_Ziv>,
+        <http://fr.dbpedia.org/resource/Jacob_Ziv>,
+        <http://it.dbpedia.org/resource/Jacob_Ziv>,
+        <http://ja.dbpedia.org/resource/ジェイコブ・ジヴ>,
+        <http://pl.dbpedia.org/resource/Jacob_Ziv>,
+        <http://pt.dbpedia.org/resource/Jacob_Ziv>,
+        <http://rdf.freebase.com/ns/m.06q835>,
+        <http://wikidata.dbpedia.org/resource/Q957439>,
+        <http://www.wikidata.org/entity/Q957439>,
+        <http://yago-knowledge.org/resource/Jacob_Ziv> .
+
+<http://data.judaicalink.org/data/dbpedia/Jakob_Rosanes> a foaf:Person ;
+    jl:hasLabel "Jacob Rosanes@de",
+        "Jakob Rosanes@en",
+        "Jakob Rosanes@pt",
+        "Розанес, Якоб@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Jakob_Rosanes>,
+        <http://de.dbpedia.org/resource/Jacob_Rosanes>,
+        <http://pt.dbpedia.org/resource/Jakob_Rosanes>,
+        <http://rdf.freebase.com/ns/m.02kr8n>,
+        <http://viaf.org/viaf/45058541>,
+        <http://wikidata.dbpedia.org/resource/Q72988>,
+        <http://www.wikidata.org/entity/Q72988>,
+        <http://yago-knowledge.org/resource/Jakob_Rosanes> .
+
+<http://data.judaicalink.org/data/dbpedia/James_Neuberger> a foaf:Person ;
+    jl:hasLabel "James Neuberger@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/James_Neuberger>,
+        <http://rdf.freebase.com/ns/m.0dgy38>,
+        <http://wikidata.dbpedia.org/resource/Q6140326>,
+        <http://www.wikidata.org/entity/Q6140326>,
+        <http://yago-knowledge.org/resource/James_Neuberger> .
+
+<http://data.judaicalink.org/data/dbpedia/Janine_Chasseguet-Smirgel> a foaf:Person ;
+    jl:hasLabel "Janine Chasseguet-Smirgel@de",
+        "Janine Chasseguet-Smirgel@en",
+        "Janine Chasseguet-Smirgel@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Janine_Chasseguet-Smirgelová>,
+        <http://dbpedia.org/resource/Janine_Chasseguet-Smirgel>,
+        <http://de.dbpedia.org/resource/Janine_Chasseguet-Smirgel>,
+        <http://fr.dbpedia.org/resource/Janine_Chasseguet-Smirgel>,
+        <http://rdf.freebase.com/ns/m.0gqb_y>,
+        <http://viaf.org/viaf/29531730>,
+        <http://wikidata.dbpedia.org/resource/Q452695>,
+        <http://www.wikidata.org/entity/Q452695>,
+        <http://yago-knowledge.org/resource/Janine_Chasseguet-Smirgel> .
+
+<http://data.judaicalink.org/data/dbpedia/Jasminka_Domaš> a foaf:Person ;
+    jl:hasLabel "Jasminka Domaš@de",
+        "Jasminka Domaš@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Jasminka_Domaš>,
+        <http://de.dbpedia.org/resource/Jasminka_Domaš>,
+        <http://rdf.freebase.com/ns/m.07cwml>,
+        <http://viaf.org/viaf/30664844>,
+        <http://wikidata.dbpedia.org/resource/Q543856>,
+        <http://www.wikidata.org/entity/Q543856>,
+        <http://yago-knowledge.org/resource/Jasminka_Domaš> .
+
+<http://data.judaicalink.org/data/dbpedia/Jean-Pierre_Kahane> a foaf:Person ;
+    jl:hasLabel "Jean-Pierre Kahane@de",
+        "Jean-Pierre Kahane@en",
+        "Jean-Pierre Kahane@fr",
+        "Jean-Pierre Kahane@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Jean-Pierre_Kahane>,
+        <http://de.dbpedia.org/resource/Jean-Pierre_Kahane>,
+        <http://fr.dbpedia.org/resource/Jean-Pierre_Kahane>,
+        <http://pt.dbpedia.org/resource/Jean-Pierre_Kahane>,
+        <http://rdf.freebase.com/ns/m.0gyhgc>,
+        <http://viaf.org/viaf/108225189>,
+        <http://wikidata.dbpedia.org/resource/Q550171>,
+        <http://www.wikidata.org/entity/Q550171>,
+        <http://yago-knowledge.org/resource/Jean-Pierre_Kahane> .
+
+<http://data.judaicalink.org/data/dbpedia/Jeffrey_M._Friedman> a foaf:Person ;
+    jl:hasLabel "Jeffrey M. Friedman@de",
+        "Jeffrey M. Friedman@en",
+        "Jeffrey M. Friedman@es",
+        "Jeffrey Michael Friedman@pt",
+        "Фридман, Джеффри@ru",
+        "ジェフリー・フリードマン@ja",
+        "杰弗里·弗里德曼@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Jeffrey_M._Friedman>,
+        <http://de.dbpedia.org/resource/Jeffrey_M._Friedman>,
+        <http://es.dbpedia.org/resource/Jeffrey_M._Friedman>,
+        <http://ja.dbpedia.org/resource/ジェフリー・フリードマン>,
+        <http://pt.dbpedia.org/resource/Jeffrey_Michael_Friedman>,
+        <http://rdf.freebase.com/ns/m.025x17h>,
+        <http://wikidata.dbpedia.org/resource/Q505055>,
+        <http://www.wikidata.org/entity/Q505055>,
+        <http://yago-knowledge.org/resource/Jeffrey_M._Friedman> .
+
+<http://data.judaicalink.org/data/dbpedia/Jerome_Horwitz> a foaf:Person ;
+    jl:hasLabel "Jerome Horwitz@en",
+        "Jerome Horwitz@pt",
+        "Jerome P. Horwitz@de" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Jerome_Horwitz>,
+        <http://de.dbpedia.org/resource/Jerome_P._Horwitz>,
+        <http://pt.dbpedia.org/resource/Jerome_Horwitz>,
+        <http://rdf.freebase.com/ns/m.01bqty>,
+        <http://wikidata.dbpedia.org/resource/Q907680>,
+        <http://www.wikidata.org/entity/Q907680>,
+        <http://yago-knowledge.org/resource/Jerome_Horwitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Job_Cohen> a foaf:Person ;
+    jl:hasLabel "Job Cohen@de",
+        "Job Cohen@en",
+        "Job Cohen@es",
+        "Job Cohen@fr",
+        "Job Cohen@it",
+        "Job Cohen@nl",
+        "Job Cohen@pl",
+        "Кохен, Йоб@ru",
+        "ヨプ・コーヘン@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Job_Cohen>,
+        <http://dbpedia.org/resource/Job_Cohen>,
+        <http://de.dbpedia.org/resource/Job_Cohen>,
+        <http://es.dbpedia.org/resource/Job_Cohen>,
+        <http://fr.dbpedia.org/resource/Job_Cohen>,
+        <http://id.dbpedia.org/resource/Job_Cohen>,
+        <http://it.dbpedia.org/resource/Job_Cohen>,
+        <http://ja.dbpedia.org/resource/ヨプ・コーヘン>,
+        <http://nl.dbpedia.org/resource/Job_Cohen>,
+        <http://pl.dbpedia.org/resource/Job_Cohen>,
+        <http://rdf.freebase.com/ns/m.06m6n6>,
+        <http://wikidata.dbpedia.org/resource/Q381657>,
+        <http://www.wikidata.org/entity/Q381657>,
+        <http://yago-knowledge.org/resource/Job_Cohen> .
+
+<http://data.judaicalink.org/data/dbpedia/Jocelyn_Scheirer> a foaf:Person ;
+    jl:hasLabel "Jocelyn Scheirer@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Jocelyn_Scheirer>,
+        <http://rdf.freebase.com/ns/m.0138tnwj>,
+        <http://wikidata.dbpedia.org/resource/Q20656538>,
+        <http://www.wikidata.org/entity/Q20656538> .
+
+<http://data.judaicalink.org/data/dbpedia/John_Polanyi> a foaf:Person ;
+    jl:hasLabel "John C. Polanyi@de",
+        "John C. Polanyi@es",
+        "John Charles Polanyi@it",
+        "John Charles Polanyi@pt",
+        "John Polanyi@en",
+        "John Polanyi@fr",
+        "John Polanyi@nl",
+        "John Polanyi@pl",
+        "Полани, Джон Чарлз@ru",
+        "جون تشارلس بولانيي@ar",
+        "ジョン・ポラニー@ja",
+        "约翰·查尔斯·波拉尼@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/John_Charles_Polanyi>,
+        <http://dbpedia.org/resource/John_Polanyi>,
+        <http://de.dbpedia.org/resource/John_C._Polanyi>,
+        <http://es.dbpedia.org/resource/John_C._Polanyi>,
+        <http://eu.dbpedia.org/resource/John_Charles_Polanyi>,
+        <http://fr.dbpedia.org/resource/John_Polanyi>,
+        <http://id.dbpedia.org/resource/John_Charles_Polanyi>,
+        <http://it.dbpedia.org/resource/John_Charles_Polanyi>,
+        <http://ja.dbpedia.org/resource/ジョン・ポラニー>,
+        <http://nl.dbpedia.org/resource/John_Polanyi>,
+        <http://pl.dbpedia.org/resource/John_Polanyi>,
+        <http://pt.dbpedia.org/resource/John_Charles_Polanyi>,
+        <http://rdf.freebase.com/ns/m.039jkb>,
+        <http://viaf.org/viaf/76410503>,
+        <http://wikidata.dbpedia.org/resource/Q237825>,
+        <http://www.wikidata.org/entity/Q237825>,
+        <http://yago-knowledge.org/resource/John_Polanyi> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_Bernstein> a foaf:Person ;
+    jl:hasLabel "Joseph Bernstein@de",
+        "Joseph Bernstein@en",
+        "Joseph Bernstein@pt",
+        "Бернштейн, Иосиф Наумович@ru",
+        "ヨシフ・ベルンシュタイン@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_Bernstein>,
+        <http://de.dbpedia.org/resource/Joseph_Bernstein>,
+        <http://ja.dbpedia.org/resource/ヨシフ・ベルンシュタイン>,
+        <http://pt.dbpedia.org/resource/Joseph_Bernstein>,
+        <http://rdf.freebase.com/ns/m.0f6wn2>,
+        <http://wikidata.dbpedia.org/resource/Q370530>,
+        <http://www.wikidata.org/entity/Q370530>,
+        <http://yago-knowledge.org/resource/Joseph_Bernstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Joseph_Carlebach> a foaf:Person ;
+    jl:hasLabel "Joseph Carlebach@de",
+        "Joseph Carlebach@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_Carlebach>,
+        <http://de.dbpedia.org/resource/Joseph_Carlebach>,
+        <http://rdf.freebase.com/ns/m.0fhgm6>,
+        <http://viaf.org/viaf/2594666>,
+        <http://wikidata.dbpedia.org/resource/Q96518>,
+        <http://www.wikidata.org/entity/Q96518>,
+        <http://yago-knowledge.org/resource/Joseph_Carlebach> .
+
+<http://data.judaicalink.org/data/dbpedia/Kalmi_Baruh> a foaf:Person ;
+    jl:hasLabel "Kalmi Baruch@fr",
+        "Kalmi Baruh@en",
+        "Kalmi Baruh@es" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Kalmi_Baruh>,
+        <http://es.dbpedia.org/resource/Kalmi_Baruh>,
+        <http://fr.dbpedia.org/resource/Kalmi_Baruch>,
+        <http://rdf.freebase.com/ns/m.02r3bp5>,
+        <http://wikidata.dbpedia.org/resource/Q2916157>,
+        <http://www.wikidata.org/entity/Q2916157>,
+        <http://yago-knowledge.org/resource/Kalmi_Baruh> .
+
+<http://data.judaicalink.org/data/dbpedia/Kurt_Mendelssohn> a foaf:Person ;
+    jl:hasLabel "Kurt Mendelssohn@de",
+        "Kurt Mendelssohn@en",
+        "Kurt Mendelssohn@pt",
+        "Мендельсон, Курт@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Kurt_Mendelssohn>,
+        <http://de.dbpedia.org/resource/Kurt_Mendelssohn>,
+        <http://pt.dbpedia.org/resource/Kurt_Mendelssohn>,
+        <http://rdf.freebase.com/ns/m.0c1f5j>,
+        <http://viaf.org/viaf/108260106>,
+        <http://wikidata.dbpedia.org/resource/Q1793865>,
+        <http://www.wikidata.org/entity/Q1793865>,
+        <http://yago-knowledge.org/resource/Kurt_Mendelssohn> .
+
+<http://data.judaicalink.org/data/dbpedia/Leo_Klejn> a foaf:Person ;
+    jl:hasLabel "Leo Klejn@en",
+        "Lew Samuilowitsch Klein@de",
+        "Клейн, Лев Самуилович@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Leo_Klejn>,
+        <http://dbpedia.org/resource/Leo_Klejn>,
+        <http://de.dbpedia.org/resource/Lew_Samuilowitsch_Klein>,
+        <http://rdf.freebase.com/ns/m.0gh8m46>,
+        <http://wikidata.dbpedia.org/resource/Q983700>,
+        <http://www.wikidata.org/entity/Q983700>,
+        <http://yago-knowledge.org/resource/Leo_Klejn> .
+
+<http://data.judaicalink.org/data/dbpedia/Leo_Marks> a foaf:Person ;
+    jl:hasLabel "Leo Marks@en",
+        "Leo Marks@fr",
+        "Leo Marks@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Leo_Marks>,
+        <http://dbpedia.org/resource/Leo_Marks>,
+        <http://fr.dbpedia.org/resource/Leo_Marks>,
+        <http://pt.dbpedia.org/resource/Leo_Marks>,
+        <http://rdf.freebase.com/ns/m.04p2k>,
+        <http://viaf.org/viaf/22356261>,
+        <http://wikidata.dbpedia.org/resource/Q3229576>,
+        <http://www.wikidata.org/entity/Q3229576>,
+        <http://yago-knowledge.org/resource/Leo_Marks> .
+
+<http://data.judaicalink.org/data/dbpedia/Leo_Sachs> a foaf:Person ;
+    jl:hasLabel "Leo Sachs@de",
+        "Leo Sachs@en",
+        "Leo Sachs@it",
+        "Leo Sachs@pt",
+        "レオ・サックス@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Leo_Sachs>,
+        <http://de.dbpedia.org/resource/Leo_Sachs>,
+        <http://it.dbpedia.org/resource/Leo_Sachs>,
+        <http://ja.dbpedia.org/resource/レオ・サックス>,
+        <http://pt.dbpedia.org/resource/Leo_Sachs>,
+        <http://rdf.freebase.com/ns/m.06h3z2>,
+        <http://wikidata.dbpedia.org/resource/Q776882>,
+        <http://www.wikidata.org/entity/Q776882>,
+        <http://yago-knowledge.org/resource/Leo_Sachs> .
+
+<http://data.judaicalink.org/data/dbpedia/Leone_Levi> a foaf:Person ;
+    jl:hasLabel "Leone Levi@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Leone_Levi>,
+        <http://rdf.freebase.com/ns/m.05ydq5s>,
+        <http://viaf.org/viaf/61661350>,
+        <http://wikidata.dbpedia.org/resource/Q5948429>,
+        <http://www.wikidata.org/entity/Q5948429>,
+        <http://yago-knowledge.org/resource/Leone_Levi> .
+
+<http://data.judaicalink.org/data/dbpedia/Leonid_Mandelstam> a foaf:Person ;
+    jl:hasLabel "Leonid Isaakowitsch Mandelstam@de",
+        "Leonid Mandelstam@en",
+        "Leonid Mandelstam@fr",
+        "Leonid Mandelstam@nl",
+        "Leonid Mandelstam@pl",
+        "Мандельштам, Леонид Исаакович@ru",
+        "ليونيد ماندلشتام@ar" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Leonid_Mandelstam>,
+        <http://de.dbpedia.org/resource/Leonid_Isaakowitsch_Mandelstam>,
+        <http://fr.dbpedia.org/resource/Leonid_Mandelstam>,
+        <http://nl.dbpedia.org/resource/Leonid_Mandelstam>,
+        <http://pl.dbpedia.org/resource/Leonid_Mandelstam>,
+        <http://rdf.freebase.com/ns/m.08hy_2>,
+        <http://viaf.org/viaf/37788247>,
+        <http://wikidata.dbpedia.org/resource/Q289727>,
+        <http://www.wikidata.org/entity/Q289727>,
+        <http://yago-knowledge.org/resource/Leonid_Mandelstam> .
+
+<http://data.judaicalink.org/data/dbpedia/Leslie_Brent> a foaf:Person ;
+    jl:hasLabel "Leslie Brent@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Leslie_Brent>,
+        <http://rdf.freebase.com/ns/m.0fd0v7>,
+        <http://viaf.org/viaf/23803409>,
+        <http://wikidata.dbpedia.org/resource/Q15109478>,
+        <http://www.wikidata.org/entity/Q15109478>,
+        <http://yago-knowledge.org/resource/Leslie_Brent> .
+
+<http://data.judaicalink.org/data/dbpedia/Lev_Pavlovich_Rapoport> a foaf:Person ;
+    jl:hasLabel "Lev Pavlovich Rapoport@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Lev_Pavlovich_Rapoport>,
+        <http://rdf.freebase.com/ns/m.0bhfv2>,
+        <http://wikidata.dbpedia.org/resource/Q6534762>,
+        <http://www.wikidata.org/entity/Q6534762>,
+        <http://yago-knowledge.org/resource/Lev_Pavlovich_Rapoport> .
+
+<http://data.judaicalink.org/data/dbpedia/Liviu_Librescu> a foaf:Person ;
+    jl:hasLabel "Liviu Librescu@de",
+        "Liviu Librescu@en",
+        "Liviu Librescu@es",
+        "Liviu Librescu@fr",
+        "Liviu Librescu@nl",
+        "Liviu Librescu@pl",
+        "Liviu Librescu@pt",
+        "Либреску, Ливиу@ru",
+        "リビウ・リブレスク@ja",
+        "利維烏·利布雷斯庫@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Liviu_Librescu>,
+        <http://data.europa.eu/euodp/jrc-names/Liviu_Librescu>,
+        <http://dbpedia.org/resource/Liviu_Librescu>,
+        <http://de.dbpedia.org/resource/Liviu_Librescu>,
+        <http://es.dbpedia.org/resource/Liviu_Librescu>,
+        <http://fr.dbpedia.org/resource/Liviu_Librescu>,
+        <http://id.dbpedia.org/resource/Liviu_Librescu>,
+        <http://ja.dbpedia.org/resource/リビウ・リブレスク>,
+        <http://ko.dbpedia.org/resource/리비우_리브레스쿠>,
+        <http://nl.dbpedia.org/resource/Liviu_Librescu>,
+        <http://pl.dbpedia.org/resource/Liviu_Librescu>,
+        <http://pt.dbpedia.org/resource/Liviu_Librescu>,
+        <http://rdf.freebase.com/ns/m.02qn9yk>,
+        <http://sw.cyc.com/concept/Mx4rdB1P6rJdQO-ejf3a0-qe2g>,
+        <http://wikidata.dbpedia.org/resource/Q313407>,
+        <http://www.wikidata.org/entity/Q313407>,
+        <http://yago-knowledge.org/resource/Liviu_Librescu> .
+
+<http://data.judaicalink.org/data/dbpedia/Louis_Guttman> a foaf:Person ;
+    jl:hasLabel "Louis Guttman@de",
+        "Louis Guttman@en",
+        "Louis Guttman@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Louis_Guttman>,
+        <http://de.dbpedia.org/resource/Louis_Guttman>,
+        <http://fr.dbpedia.org/resource/Louis_Guttman>,
+        <http://rdf.freebase.com/ns/m.0cgr2d>,
+        <http://viaf.org/viaf/49356299>,
+        <http://wikidata.dbpedia.org/resource/Q504687>,
+        <http://www.wikidata.org/entity/Q504687>,
+        <http://yago-knowledge.org/resource/Louis_Guttman> .
+
+<http://data.judaicalink.org/data/dbpedia/Ludwig_Mond> a foaf:Person ;
+    jl:hasLabel "Ludwig Mond@de",
+        "Ludwig Mond@en",
+        "Ludwig Mond@es",
+        "Ludwig Mond@fr",
+        "Ludwig Mond@it",
+        "Ludwig Mond@nl",
+        "Ludwig Mond@pl",
+        "Монд, Людвиг@ru",
+        "لودفيغ موند@ar",
+        "ルードウィッヒ・モンド@ja",
+        "路德维希·蒙德@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ludwig_Mond>,
+        <http://de.dbpedia.org/resource/Ludwig_Mond>,
+        <http://es.dbpedia.org/resource/Ludwig_Mond>,
+        <http://fr.dbpedia.org/resource/Ludwig_Mond>,
+        <http://it.dbpedia.org/resource/Ludwig_Mond>,
+        <http://ja.dbpedia.org/resource/ルードウィッヒ・モンド>,
+        <http://nl.dbpedia.org/resource/Ludwig_Mond>,
+        <http://pl.dbpedia.org/resource/Ludwig_Mond>,
+        <http://rdf.freebase.com/ns/m.03h2n0>,
+        <http://wikidata.dbpedia.org/resource/Q60847>,
+        <http://www.wikidata.org/entity/Q60847>,
+        <http://yago-knowledge.org/resource/Ludwig_Mond> .
+
+<http://data.judaicalink.org/data/dbpedia/Magnus_Hirschfeld> a foaf:Person ;
+    jl:hasLabel "Magnus Hirschfeld@de",
+        "Magnus Hirschfeld@en",
+        "Magnus Hirschfeld@es",
+        "Magnus Hirschfeld@fr",
+        "Magnus Hirschfeld@it",
+        "Magnus Hirschfeld@nl",
+        "Magnus Hirschfeld@pl",
+        "Magnus Hirschfeld@pt",
+        "Хиршфельд, Магнус@ru",
+        "マグヌス・ヒルシュフェルト@ja",
+        "马格努斯·赫希菲尔德@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://de.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://es.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://fr.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://it.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://ja.dbpedia.org/resource/マグヌス・ヒルシュフェルト>,
+        <http://nl.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://pl.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://pt.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://rdf.freebase.com/ns/m.01j141>,
+        <http://viaf.org/viaf/24616710>,
+        <http://wikidata.dbpedia.org/resource/Q57592>,
+        <http://www.wikidata.org/entity/Q57592>,
+        <http://yago-knowledge.org/resource/Magnus_Hirschfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Martin_Roth_(psychiatrist)> a foaf:Person ;
+    jl:hasLabel "Martin Roth (psychiatrist)@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Martin_Roth_(psychiatrist)>,
+        <http://rdf.freebase.com/ns/m.0c1fm4>,
+        <http://wikidata.dbpedia.org/resource/Q6776487>,
+        <http://www.wikidata.org/entity/Q6776487> .
+
+<http://data.judaicalink.org/data/dbpedia/Marvin_Leonard_Goldberger> a foaf:Person ;
+    jl:hasLabel "Marvin Leonard Goldberger@de",
+        "Marvin Leonard Goldberger@en",
+        "Marvin Leonard Goldberger@fr",
+        "Marvin Leonard Goldberger@pt",
+        "Гольдбергер, Мервин Леонард@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Marvin_Leonard_Goldberger>,
+        <http://de.dbpedia.org/resource/Marvin_Leonard_Goldberger>,
+        <http://fr.dbpedia.org/resource/Marvin_Leonard_Goldberger>,
+        <http://pt.dbpedia.org/resource/Marvin_Leonard_Goldberger>,
+        <http://rdf.freebase.com/ns/m.027m0kl>,
+        <http://viaf.org/viaf/58005277>,
+        <http://wikidata.dbpedia.org/resource/Q347236>,
+        <http://www.wikidata.org/entity/Q347236>,
+        <http://yago-knowledge.org/resource/Marvin_Leonard_Goldberger> .
+
+<http://data.judaicalink.org/data/dbpedia/Marvin_Zelen> a foaf:Person ;
+    jl:hasLabel "Marvin Zelen@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Marvin_Zelen>,
+        <http://rdf.freebase.com/ns/m.012bzr0l>,
+        <http://wikidata.dbpedia.org/resource/Q18575891>,
+        <http://www.wikidata.org/entity/Q18575891> .
+
+<http://data.judaicalink.org/data/dbpedia/Maurice_Block> a foaf:Person ;
+    jl:hasLabel "Maurice Block@de",
+        "Maurice Block@en",
+        "Maurice Block@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Maurice_Block>,
+        <http://de.dbpedia.org/resource/Maurice_Block>,
+        <http://fr.dbpedia.org/resource/Maurice_Block>,
+        <http://rdf.freebase.com/ns/m.0fp3_z>,
+        <http://wikidata.dbpedia.org/resource/Q710901>,
+        <http://www.wikidata.org/entity/Q710901>,
+        <http://yago-knowledge.org/resource/Maurice_Block> .
+
+<http://data.judaicalink.org/data/dbpedia/Maurice_Lenz> a foaf:Person ;
+    jl:hasLabel "Maurice Lenz@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Maurice_Lenz>,
+        <http://rdf.freebase.com/ns/m.07s7ldf>,
+        <http://wikidata.dbpedia.org/resource/Q16007659>,
+        <http://www.wikidata.org/entity/Q16007659>,
+        <http://yago-knowledge.org/resource/Maurice_Lenz> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Abraham> a foaf:Person ;
+    jl:hasLabel "Max Abraham (físico)@pt",
+        "Max Abraham@de",
+        "Max Abraham@en",
+        "Max Abraham@fr",
+        "Max Abraham@it",
+        "Max Abraham@pl",
+        "Абрахам, Макс@ru",
+        "マックス・アブラハム@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Max_Abraham>,
+        <http://dbpedia.org/resource/Max_Abraham>,
+        <http://de.dbpedia.org/resource/Max_Abraham>,
+        <http://fr.dbpedia.org/resource/Max_Abraham>,
+        <http://it.dbpedia.org/resource/Max_Abraham>,
+        <http://ja.dbpedia.org/resource/マックス・アブラハム>,
+        <http://ko.dbpedia.org/resource/막스_아브라함>,
+        <http://pl.dbpedia.org/resource/Max_Abraham>,
+        <http://pt.dbpedia.org/resource/Max_Abraham_(físico)>,
+        <http://rdf.freebase.com/ns/m.04krs9>,
+        <http://viaf.org/viaf/61629562>,
+        <http://wikidata.dbpedia.org/resource/Q62271>,
+        <http://www.wikidata.org/entity/Q62271>,
+        <http://yago-knowledge.org/resource/Max_Abraham> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Gluckman> a foaf:Person ;
+    jl:hasLabel "Max Gluckman@de",
+        "Max Gluckman@en",
+        "Max Gluckman@es",
+        "Max Gluckman@fr",
+        "Max Gluckman@it",
+        "Max Gluckman@pl",
+        "Max Gluckman@pt",
+        "Глакман, Макс@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Max_Gluckman>,
+        <http://de.dbpedia.org/resource/Max_Gluckman>,
+        <http://es.dbpedia.org/resource/Max_Gluckman>,
+        <http://fr.dbpedia.org/resource/Max_Gluckman>,
+        <http://it.dbpedia.org/resource/Max_Gluckman>,
+        <http://pl.dbpedia.org/resource/Max_Gluckman>,
+        <http://pt.dbpedia.org/resource/Max_Gluckman>,
+        <http://rdf.freebase.com/ns/m.054lfd>,
+        <http://viaf.org/viaf/27128876>,
+        <http://wikidata.dbpedia.org/resource/Q924714>,
+        <http://www.wikidata.org/entity/Q924714>,
+        <http://yago-knowledge.org/resource/Max_Gluckman> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Perutz> a foaf:Person ;
+    jl:hasLabel "Max Ferdinand Perutz@de",
+        "Max Ferdinand Perutz@fr",
+        "Max Perutz@en",
+        "Max Perutz@es",
+        "Max Perutz@it",
+        "Max Perutz@nl",
+        "Max Perutz@pl",
+        "Max Perutz@pt",
+        "Перуц, Макс Фердинанд@ru",
+        "ماكس بيروتس@ar",
+        "マックス・ペルーツ@ja",
+        "马克斯·佩鲁茨@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Max_Perutz>,
+        <http://data.europa.eu/euodp/jrc-names/Max_F._Perutz>,
+        <http://dbpedia.org/resource/Max_Perutz>,
+        <http://de.dbpedia.org/resource/Max_Ferdinand_Perutz>,
+        <http://es.dbpedia.org/resource/Max_Perutz>,
+        <http://fr.dbpedia.org/resource/Max_Ferdinand_Perutz>,
+        <http://id.dbpedia.org/resource/Max_F._Perutz>,
+        <http://it.dbpedia.org/resource/Max_Perutz>,
+        <http://ja.dbpedia.org/resource/マックス・ペルーツ>,
+        <http://ko.dbpedia.org/resource/맥스_퍼루츠>,
+        <http://nl.dbpedia.org/resource/Max_Perutz>,
+        <http://pl.dbpedia.org/resource/Max_Perutz>,
+        <http://pt.dbpedia.org/resource/Max_Perutz>,
+        <http://rdf.freebase.com/ns/m.09jpm>,
+        <http://viaf.org/viaf/58146>,
+        <http://wikidata.dbpedia.org/resource/Q78480>,
+        <http://www.wikidata.org/entity/Q78480>,
+        <http://yago-knowledge.org/resource/Max_Perutz> .
+
+<http://data.judaicalink.org/data/dbpedia/Melanie_Klein> a foaf:Person ;
+    jl:hasLabel "Melanie Klein@de",
+        "Melanie Klein@en",
+        "Melanie Klein@es",
+        "Melanie Klein@fr",
+        "Melanie Klein@it",
+        "Melanie Klein@nl",
+        "Melanie Klein@pl",
+        "Melanie Klein@pt",
+        "Кляйн, Мелани@ru",
+        "ميلاني كلاين@ar",
+        "メラニー・クライン@ja",
+        "梅兰妮·克莱因@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Melanie_Kleinová>,
+        <http://dbpedia.org/resource/Melanie_Klein>,
+        <http://de.dbpedia.org/resource/Melanie_Klein>,
+        <http://es.dbpedia.org/resource/Melanie_Klein>,
+        <http://fr.dbpedia.org/resource/Melanie_Klein>,
+        <http://it.dbpedia.org/resource/Melanie_Klein>,
+        <http://ja.dbpedia.org/resource/メラニー・クライン>,
+        <http://ko.dbpedia.org/resource/멜라니_클라인>,
+        <http://nl.dbpedia.org/resource/Melanie_Klein>,
+        <http://pl.dbpedia.org/resource/Melanie_Klein>,
+        <http://pt.dbpedia.org/resource/Melanie_Klein>,
+        <http://rdf.freebase.com/ns/m.014shr>,
+        <http://wikidata.dbpedia.org/resource/Q82999>,
+        <http://www.wikidata.org/entity/Q82999>,
+        <http://yago-knowledge.org/resource/Melanie_Klein> .
+
+<http://data.judaicalink.org/data/dbpedia/Menahem_Max_Schiffer> a foaf:Person ;
+    jl:hasLabel "Menahem Max Schiffer@de",
+        "Menahem Max Schiffer@en",
+        "Menahem Max Schiffer@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Menahem_Max_Schiffer>,
+        <http://de.dbpedia.org/resource/Menahem_Max_Schiffer>,
+        <http://pt.dbpedia.org/resource/Menahem_Max_Schiffer>,
+        <http://wikidata.dbpedia.org/resource/Q991805>,
+        <http://www.wikidata.org/entity/Q991805> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Evenari> a foaf:Person ;
+    jl:hasLabel "Michael Evenari@de",
+        "Michael Evenari@en",
+        "Walter Schwarz@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Evenari>,
+        <http://de.dbpedia.org/resource/Michael_Evenari>,
+        <http://fr.dbpedia.org/resource/Walter_Schwarz>,
+        <http://rdf.freebase.com/ns/m.05vth3c>,
+        <http://wikidata.dbpedia.org/resource/Q216524>,
+        <http://www.wikidata.org/entity/Q216524> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Green_(physicist)> a foaf:Person ;
+    jl:hasLabel "Michael Boris Green@de",
+        "Michael Green (physicien)@fr",
+        "Michael Green (physicist)@en",
+        "Michael Green@es",
+        "Michael Green@pt",
+        "Грин, Майкл (физик)@ru",
+        "マイケル・グリーン (物理学者)@ja",
+        "迈克尔·格林 (物理学家)@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Green_(physicist)>,
+        <http://de.dbpedia.org/resource/Michael_Boris_Green>,
+        <http://es.dbpedia.org/resource/Michael_Green>,
+        <http://fr.dbpedia.org/resource/Michael_Green_(physicien)>,
+        <http://ja.dbpedia.org/resource/マイケル・グリーン_(物理学者)>,
+        <http://ko.dbpedia.org/resource/마이클_보리스_그린>,
+        <http://pt.dbpedia.org/resource/Michael_Green>,
+        <http://rdf.freebase.com/ns/m.02_5q5>,
+        <http://wikidata.dbpedia.org/resource/Q1345424>,
+        <http://www.wikidata.org/entity/Q1345424>,
+        <http://yago-knowledge.org/resource/Michael_Green_(physicist)> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_H._Hart> a foaf:Person ;
+    jl:hasLabel "Michael H. Hart@de",
+        "Michael H. Hart@en",
+        "Michael H. Hart@es",
+        "Michael H. Hart@fr",
+        "Michael H. Hart@pt",
+        "مايكل هارت@ar",
+        "迈克尔·H·哈特@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_H._Hart>,
+        <http://de.dbpedia.org/resource/Michael_H._Hart>,
+        <http://es.dbpedia.org/resource/Michael_H._Hart>,
+        <http://fr.dbpedia.org/resource/Michael_H._Hart>,
+        <http://id.dbpedia.org/resource/Michael_H._Hart>,
+        <http://ko.dbpedia.org/resource/마이클_H._하트>,
+        <http://pt.dbpedia.org/resource/Michael_H._Hart>,
+        <http://rdf.freebase.com/ns/m.03242h>,
+        <http://rdf.freebase.com/ns/m.03243k>,
+        <http://wikidata.dbpedia.org/resource/Q937063>,
+        <http://www.wikidata.org/entity/Q937063>,
+        <http://yago-knowledge.org/resource/Michael_H._Hart> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Neuberger> a foaf:Person ;
+    jl:hasLabel "Michael Neuberger@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Neuberger>,
+        <http://rdf.freebase.com/ns/m.0dgy49>,
+        <http://wikidata.dbpedia.org/resource/Q6833045>,
+        <http://www.wikidata.org/entity/Q6833045>,
+        <http://yago-knowledge.org/resource/Michael_Neuberger> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Pepper> a foaf:Person ;
+    jl:hasLabel "Michael Pepper@de",
+        "Michael Pepper@en",
+        "Michael Pepper@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Pepper>,
+        <http://de.dbpedia.org/resource/Michael_Pepper>,
+        <http://pt.dbpedia.org/resource/Michael_Pepper>,
+        <http://rdf.freebase.com/ns/m.0c1fbt>,
+        <http://wikidata.dbpedia.org/resource/Q1928860>,
+        <http://www.wikidata.org/entity/Q1928860>,
+        <http://yago-knowledge.org/resource/Michael_Pepper> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Woolfson> a foaf:Person ;
+    jl:hasLabel "Michael Woolfson@de",
+        "Michael Woolfson@en",
+        "Michael Woolfson@it",
+        "Michael Woolfson@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Michael_Mark_Woolfson>,
+        <http://dbpedia.org/resource/Michael_Woolfson>,
+        <http://de.dbpedia.org/resource/Michael_Woolfson>,
+        <http://it.dbpedia.org/resource/Michael_Woolfson>,
+        <http://pt.dbpedia.org/resource/Michael_Woolfson>,
+        <http://rdf.freebase.com/ns/m.0c2rs0>,
+        <http://viaf.org/viaf/281746878>,
+        <http://wikidata.dbpedia.org/resource/Q562886>,
+        <http://www.wikidata.org/entity/Q562886>,
+        <http://yago-knowledge.org/resource/Michael_Woolfson> .
+
+<http://data.judaicalink.org/data/dbpedia/Milton_Himmelfarb> a foaf:Person ;
+    jl:hasLabel "Milton Himmelfarb@de",
+        "Milton Himmelfarb@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Milton_Himmelfarb>,
+        <http://de.dbpedia.org/resource/Milton_Himmelfarb>,
+        <http://rdf.freebase.com/ns/m.080cr0>,
+        <http://viaf.org/viaf/16289679>,
+        <http://wikidata.dbpedia.org/resource/Q1935897>,
+        <http://www.wikidata.org/entity/Q1935897>,
+        <http://yago-knowledge.org/resource/Milton_Himmelfarb> .
+
+<http://data.judaicalink.org/data/dbpedia/Mitchell_Feigenbaum> a foaf:Person ;
+    jl:hasLabel "Mitchell Feigenbaum@de",
+        "Mitchell Feigenbaum@en",
+        "Mitchell Feigenbaum@es",
+        "Mitchell Feigenbaum@fr",
+        "Mitchell Feigenbaum@it",
+        "Mitchell Feigenbaum@nl",
+        "Mitchell Feigenbaum@pt",
+        "Mitchell Jay Feigenbaum@pl",
+        "Фейгенбаум, Митчелл@ru",
+        "ميتشل فايينبوم@ar",
+        "米切爾·費根鮑姆@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Mitchell_Feigenbaum>,
+        <http://dbpedia.org/resource/Mitchell_Feigenbaum>,
+        <http://de.dbpedia.org/resource/Mitchell_Feigenbaum>,
+        <http://es.dbpedia.org/resource/Mitchell_Feigenbaum>,
+        <http://fr.dbpedia.org/resource/Mitchell_Feigenbaum>,
+        <http://it.dbpedia.org/resource/Mitchell_Feigenbaum>,
+        <http://ko.dbpedia.org/resource/미첼_파이겐바움>,
+        <http://nl.dbpedia.org/resource/Mitchell_Feigenbaum>,
+        <http://pl.dbpedia.org/resource/Mitchell_Jay_Feigenbaum>,
+        <http://pt.dbpedia.org/resource/Mitchell_Feigenbaum>,
+        <http://rdf.freebase.com/ns/m.045dz6>,
+        <http://wikidata.dbpedia.org/resource/Q354659>,
+        <http://www.wikidata.org/entity/Q354659>,
+        <http://yago-knowledge.org/resource/Mitchell_Feigenbaum> .
+
+<http://data.judaicalink.org/data/dbpedia/Nathan_Rosen> a foaf:Person ;
+    jl:hasLabel "Nathan Rosen@de",
+        "Nathan Rosen@en",
+        "Nathan Rosen@es",
+        "Nathan Rosen@fr",
+        "Nathan Rosen@it",
+        "Nathan Rosen@nl",
+        "Nathan Rosen@pt",
+        "Розен, Натан@ru",
+        "ネイサン・ローゼン@ja",
+        "納森·羅森@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Nathan_Rosen>,
+        <http://de.dbpedia.org/resource/Nathan_Rosen>,
+        <http://es.dbpedia.org/resource/Nathan_Rosen>,
+        <http://fr.dbpedia.org/resource/Nathan_Rosen>,
+        <http://it.dbpedia.org/resource/Nathan_Rosen>,
+        <http://ja.dbpedia.org/resource/ネイサン・ローゼン>,
+        <http://nl.dbpedia.org/resource/Nathan_Rosen>,
+        <http://pt.dbpedia.org/resource/Nathan_Rosen>,
+        <http://rdf.freebase.com/ns/m.034xmv>,
+        <http://viaf.org/viaf/105693343>,
+        <http://wikidata.dbpedia.org/resource/Q370226>,
+        <http://www.wikidata.org/entity/Q370226>,
+        <http://yago-knowledge.org/resource/Nathan_Rosen> .
+
+<http://data.judaicalink.org/data/dbpedia/Naum_Akhiezer> a foaf:Person ;
+    jl:hasLabel "Naum Akhiezer@en",
+        "Naum Akhiezer@pt",
+        "Naum Iljitsch Achijeser@de",
+        "Ахиезер, Наум Ильич@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Naum_Akhiezer>,
+        <http://de.dbpedia.org/resource/Naum_Iljitsch_Achijeser>,
+        <http://eu.dbpedia.org/resource/Naum_Illitx_Akhiezer>,
+        <http://pt.dbpedia.org/resource/Naum_Akhiezer>,
+        <http://rdf.freebase.com/ns/m.027yc93>,
+        <http://viaf.org/viaf/5026752>,
+        <http://wikidata.dbpedia.org/resource/Q1385805>,
+        <http://www.wikidata.org/entity/Q1385805>,
+        <http://yago-knowledge.org/resource/Naum_Akhiezer> .
+
+<http://data.judaicalink.org/data/dbpedia/Nicholas_Kurti> a foaf:Person ;
+    jl:hasLabel "Miklós Kürti@pl",
+        "Nicholas Kurti@de",
+        "Nicholas Kurti@en",
+        "Nicholas Kurti@es",
+        "Nicholas Kurti@fr",
+        "Nicholas Kurti@nl",
+        "Nicholas Kurti@pt",
+        "Курти, Николас@ru",
+        "ニコラス・クルティ@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Nicholas_Kurti>,
+        <http://de.dbpedia.org/resource/Nicholas_Kurti>,
+        <http://es.dbpedia.org/resource/Nicholas_Kurti>,
+        <http://fr.dbpedia.org/resource/Nicholas_Kurti>,
+        <http://ja.dbpedia.org/resource/ニコラス・クルティ>,
+        <http://nl.dbpedia.org/resource/Nicholas_Kurti>,
+        <http://pl.dbpedia.org/resource/Miklós_Kürti>,
+        <http://pt.dbpedia.org/resource/Nicholas_Kurti>,
+        <http://rdf.freebase.com/ns/m.05vjdl>,
+        <http://viaf.org/viaf/5903621>,
+        <http://wikidata.dbpedia.org/resource/Q301125>,
+        <http://www.wikidata.org/entity/Q301125>,
+        <http://yago-knowledge.org/resource/Nicholas_Kurti> .
+
+<http://data.judaicalink.org/data/dbpedia/Noreena_Hertz> a foaf:Person ;
+    jl:hasLabel "Noreena Hertz@en",
+        "Noreena Hertz@it",
+        "Noreena Hertz@nl",
+        "Noreena Hertz@pl",
+        "نورينا هرتز@ar" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Noreena_Hertzová>,
+        <http://data.europa.eu/euodp/jrc-names/Noreena_Hertz>,
+        <http://dbpedia.org/resource/Noreena_Hertz>,
+        <http://it.dbpedia.org/resource/Noreena_Hertz>,
+        <http://ko.dbpedia.org/resource/노리나_허츠>,
+        <http://nl.dbpedia.org/resource/Noreena_Hertz>,
+        <http://pl.dbpedia.org/resource/Noreena_Hertz>,
+        <http://rdf.freebase.com/ns/m.06btc0>,
+        <http://viaf.org/viaf/5836448>,
+        <http://wikidata.dbpedia.org/resource/Q94555>,
+        <http://www.wikidata.org/entity/Q94555>,
+        <http://yago-knowledge.org/resource/Noreena_Hertz> .
+
+<http://data.judaicalink.org/data/dbpedia/Norman_Levinson> a foaf:Person ;
+    jl:hasLabel "Norman Levinson@de",
+        "Norman Levinson@en",
+        "Norman Levinson@fr",
+        "Norman Levinson@it",
+        "Norman Levinson@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Norman_Levinson>,
+        <http://de.dbpedia.org/resource/Norman_Levinson>,
+        <http://fr.dbpedia.org/resource/Norman_Levinson>,
+        <http://it.dbpedia.org/resource/Norman_Levinson>,
+        <http://pt.dbpedia.org/resource/Norman_Levinson>,
+        <http://rdf.freebase.com/ns/m.0452v2>,
+        <http://viaf.org/viaf/108697579>,
+        <http://wikidata.dbpedia.org/resource/Q795335>,
+        <http://www.wikidata.org/entity/Q795335>,
+        <http://yago-knowledge.org/resource/Norman_Levinson> .
+
+<http://data.judaicalink.org/data/dbpedia/Otto_Selz> a foaf:Person ;
+    jl:hasLabel "Otto Selz@de",
+        "Otto Selz@en",
+        "Otto Selz@fr",
+        "Otto Selz@nl" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Otto_Selz>,
+        <http://de.dbpedia.org/resource/Otto_Selz>,
+        <http://fr.dbpedia.org/resource/Otto_Selz>,
+        <http://nl.dbpedia.org/resource/Otto_Selz>,
+        <http://rdf.freebase.com/ns/m.0gzq50>,
+        <http://viaf.org/viaf/9945501>,
+        <http://wikidata.dbpedia.org/resource/Q74856>,
+        <http://www.wikidata.org/entity/Q74856>,
+        <http://yago-knowledge.org/resource/Otto_Selz> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Bernays> a foaf:Person ;
+    jl:hasLabel "Paul Bernays@de",
+        "Paul Bernays@en",
+        "Paul Bernays@fr",
+        "Paul Bernays@it",
+        "Paul Bernays@nl",
+        "Paul Bernays@pl",
+        "Paul Bernays@pt",
+        "Бернайс, Пауль@ru",
+        "パウル・ベルナイス@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Paul_Bernays>,
+        <http://dbpedia.org/resource/Paul_Bernays>,
+        <http://de.dbpedia.org/resource/Paul_Bernays>,
+        <http://fr.dbpedia.org/resource/Paul_Bernays>,
+        <http://it.dbpedia.org/resource/Paul_Bernays>,
+        <http://ja.dbpedia.org/resource/パウル・ベルナイス>,
+        <http://ko.dbpedia.org/resource/파울_베르나이스>,
+        <http://nl.dbpedia.org/resource/Paul_Bernays>,
+        <http://pl.dbpedia.org/resource/Paul_Bernays>,
+        <http://pt.dbpedia.org/resource/Paul_Bernays>,
+        <http://rdf.freebase.com/ns/m.07mtsc>,
+        <http://viaf.org/viaf/39455306>,
+        <http://wikidata.dbpedia.org/resource/Q122318>,
+        <http://www.wikidata.org/entity/Q122318>,
+        <http://yago-knowledge.org/resource/Paul_Bernays> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Ehrlich> a foaf:Person ;
+    jl:hasLabel "Paul Ehrlich@de",
+        "Paul Ehrlich@en",
+        "Paul Ehrlich@es",
+        "Paul Ehrlich@fr",
+        "Paul Ehrlich@it",
+        "Paul Ehrlich@nl",
+        "Paul Ehrlich@pl",
+        "Paul Ehrlich@pt",
+        "Эрлих, Пауль@ru",
+        "باول إرليخ@ar",
+        "パウル・エールリヒ@ja",
+        "保罗·埃尔利希@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://data.europa.eu/euodp/jrc-names/Paul_Ehrlich>,
+        <http://dbpedia.org/resource/Paul_Ehrlich>,
+        <http://de.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://el.dbpedia.org/resource/Πάουλ_Έρλιχ>,
+        <http://es.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://eu.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://fr.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://id.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://it.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://ja.dbpedia.org/resource/パウル・エールリヒ>,
+        <http://ko.dbpedia.org/resource/파울_에를리히>,
+        <http://nl.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://pl.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://pt.dbpedia.org/resource/Paul_Ehrlich>,
+        <http://rdf.freebase.com/ns/m.05r06>,
+        <http://sw.cyc.com/concept/Mx4rv-6K2ZwpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q57089>,
+        <http://www.wikidata.org/entity/Q57089>,
+        <http://yago-knowledge.org/resource/Paul_Ehrlich> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Guttmann> a foaf:Person ;
+    jl:hasLabel "Paul Guttmann (Mediziner)@de",
+        "Paul Guttmann@en",
+        "Paul Guttmann@pl" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Paul_Guttmann>,
+        <http://de.dbpedia.org/resource/Paul_Guttmann_(Mediziner)>,
+        <http://pl.dbpedia.org/resource/Paul_Guttmann>,
+        <http://rdf.freebase.com/ns/m.02rrcwc>,
+        <http://wikidata.dbpedia.org/resource/Q1844709>,
+        <http://www.wikidata.org/entity/Q1844709>,
+        <http://yago-knowledge.org/resource/Paul_Guttmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Lazarsfeld> a foaf:Person ;
+    jl:hasLabel "Paul Felix Lazarsfeld@de",
+        "Paul Felix Lazarsfeld@es",
+        "Paul Felix Lazarsfeld@it",
+        "Paul Lazarsfeld@en",
+        "Paul Lazarsfeld@fr",
+        "Paul Lazarsfeld@nl",
+        "Paul Lazarsfeld@pl",
+        "Paul Lazarsfeld@pt",
+        "Лазарсфельд, Пол@ru",
+        "保罗·F·拉扎斯菲尔德@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Paul_Felix_Lazarsfeld>,
+        <http://dbpedia.org/resource/Paul_Lazarsfeld>,
+        <http://de.dbpedia.org/resource/Paul_Felix_Lazarsfeld>,
+        <http://es.dbpedia.org/resource/Paul_Felix_Lazarsfeld>,
+        <http://fr.dbpedia.org/resource/Paul_Lazarsfeld>,
+        <http://it.dbpedia.org/resource/Paul_Felix_Lazarsfeld>,
+        <http://nl.dbpedia.org/resource/Paul_Lazarsfeld>,
+        <http://pl.dbpedia.org/resource/Paul_Lazarsfeld>,
+        <http://pt.dbpedia.org/resource/Paul_Lazarsfeld>,
+        <http://rdf.freebase.com/ns/m.0277tz>,
+        <http://viaf.org/viaf/61607798>,
+        <http://wikidata.dbpedia.org/resource/Q94037>,
+        <http://www.wikidata.org/entity/Q94037>,
+        <http://yago-knowledge.org/resource/Paul_Lazarsfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Peter_Hirsch> a foaf:Person ;
+    jl:hasLabel "Peter B. Hirsch@de",
+        "Peter B. Hirsch@es",
+        "Peter Hirsch@en",
+        "Peter Hirsch@pt",
+        "Хирш, Питер@ru",
+        "ペーター・ヒルシュ@ja",
+        "彼得·B·赫希@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Peter_Hirsch>,
+        <http://dbpedia.org/resource/Peter_Hirsch>,
+        <http://de.dbpedia.org/resource/Peter_B._Hirsch>,
+        <http://es.dbpedia.org/resource/Peter_B._Hirsch>,
+        <http://ja.dbpedia.org/resource/ペーター・ヒルシュ>,
+        <http://pt.dbpedia.org/resource/Peter_Hirsch>,
+        <http://rdf.freebase.com/ns/m.06m56y>,
+        <http://wikidata.dbpedia.org/resource/Q1629187>,
+        <http://www.wikidata.org/entity/Q1629187>,
+        <http://yago-knowledge.org/resource/Peter_Hirsch> .
+
+<http://data.judaicalink.org/data/dbpedia/Philip_Cohen_(British_biochemist)> a foaf:Person ;
+    jl:hasLabel "Philip Cohen (British biochemist)@en",
+        "Philip Cohen@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Philip_Cohen_(British_biochemist)>,
+        <http://pt.dbpedia.org/resource/Philip_Cohen>,
+        <http://rdf.freebase.com/ns/m.09vnlx>,
+        <http://wikidata.dbpedia.org/resource/Q7183365>,
+        <http://www.wikidata.org/entity/Q7183365>,
+        <http://yago-knowledge.org/resource/Philip_Cohen_(British_biochemist)> .
+
+<http://data.judaicalink.org/data/dbpedia/Piero_Sraffa> a foaf:Person ;
+    jl:hasLabel "Piero Sraffa@de",
+        "Piero Sraffa@en",
+        "Piero Sraffa@es",
+        "Piero Sraffa@fr",
+        "Piero Sraffa@it",
+        "Piero Sraffa@nl",
+        "Piero Sraffa@pl",
+        "Piero Sraffa@pt",
+        "Сраффа, Пьеро@ru",
+        "ピエロ・スラッファ@ja",
+        "皮耶羅·斯拉法@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Piero_Sraffa>,
+        <http://dbpedia.org/resource/Piero_Sraffa>,
+        <http://de.dbpedia.org/resource/Piero_Sraffa>,
+        <http://es.dbpedia.org/resource/Piero_Sraffa>,
+        <http://eu.dbpedia.org/resource/Piero_Sraffa>,
+        <http://fr.dbpedia.org/resource/Piero_Sraffa>,
+        <http://it.dbpedia.org/resource/Piero_Sraffa>,
+        <http://ja.dbpedia.org/resource/ピエロ・スラッファ>,
+        <http://ko.dbpedia.org/resource/피에로_스라파>,
+        <http://nl.dbpedia.org/resource/Piero_Sraffa>,
+        <http://pl.dbpedia.org/resource/Piero_Sraffa>,
+        <http://pt.dbpedia.org/resource/Piero_Sraffa>,
+        <http://rdf.freebase.com/ns/m.0dhcq>,
+        <http://viaf.org/viaf/7397238>,
+        <http://wikidata.dbpedia.org/resource/Q370468>,
+        <http://www.wikidata.org/entity/Q370468>,
+        <http://yago-knowledge.org/resource/Piero_Sraffa> .
+
+<http://data.judaicalink.org/data/dbpedia/Raphael_Meldola> a foaf:Person ;
+    jl:hasLabel "Raphael Meldola@de",
+        "Raphael Meldola@en",
+        "Raphael Meldola@it" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Raphael_Meldola>,
+        <http://de.dbpedia.org/resource/Raphael_Meldola>,
+        <http://it.dbpedia.org/resource/Raphael_Meldola>,
+        <http://rdf.freebase.com/ns/m.0c1f4h>,
+        <http://wikidata.dbpedia.org/resource/Q3930203>,
+        <http://www.wikidata.org/entity/Q3930203>,
+        <http://yago-knowledge.org/resource/Raphael_Meldola> .
+
+<http://data.judaicalink.org/data/dbpedia/Renata_Reisfeld> a foaf:Person ;
+    jl:hasLabel "Renata Reisfeld@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Renata_Reisfeld>,
+        <http://rdf.freebase.com/ns/m.05zmghp>,
+        <http://wikidata.dbpedia.org/resource/Q55837>,
+        <http://www.wikidata.org/entity/Q55837>,
+        <http://yago-knowledge.org/resource/Renata_Reisfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Richard_Gans> a foaf:Person ;
+    jl:hasLabel "Richard Gans@de",
+        "Richard Gans@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Richard_Gans>,
+        <http://de.dbpedia.org/resource/Richard_Gans>,
+        <http://rdf.freebase.com/ns/m.0bgdgb>,
+        <http://viaf.org/viaf/102392589>,
+        <http://wikidata.dbpedia.org/resource/Q99525>,
+        <http://www.wikidata.org/entity/Q99525>,
+        <http://yago-knowledge.org/resource/Richard_Gans> .
+
+<http://data.judaicalink.org/data/dbpedia/Richard_Willstätter> a foaf:Person ;
+    jl:hasLabel "Richard Martin Willstätter@it",
+        "Richard Martin Willstätter@pl",
+        "Richard Martin Willstätter@pt",
+        "Richard Willstätter@de",
+        "Richard Willstätter@en",
+        "Richard Willstätter@es",
+        "Richard Willstätter@fr",
+        "Richard Willstätter@nl",
+        "Вильштеттер, Рихард Мартин@ru",
+        "ريشارد فيلشتيتر@ar",
+        "リヒャルト・ヴィルシュテッター@ja",
+        "里夏德·维尔施泰特@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Richard_Willstätter>,
+        <http://dbpedia.org/resource/Richard_Willstätter>,
+        <http://de.dbpedia.org/resource/Richard_Willstätter>,
+        <http://es.dbpedia.org/resource/Richard_Willstätter>,
+        <http://eu.dbpedia.org/resource/Richard_Willstätter>,
+        <http://fr.dbpedia.org/resource/Richard_Willstätter>,
+        <http://id.dbpedia.org/resource/Richard_Martin_Willstätter>,
+        <http://it.dbpedia.org/resource/Richard_Martin_Willstätter>,
+        <http://ja.dbpedia.org/resource/リヒャルト・ヴィルシュテッター>,
+        <http://ko.dbpedia.org/resource/리하르트_빌슈테터>,
+        <http://nl.dbpedia.org/resource/Richard_Willstätter>,
+        <http://pl.dbpedia.org/resource/Richard_Martin_Willstätter>,
+        <http://pt.dbpedia.org/resource/Richard_Martin_Willstätter>,
+        <http://rdf.freebase.com/ns/m.0265s1g>,
+        <http://viaf.org/viaf/72190011>,
+        <http://wikidata.dbpedia.org/resource/Q77072>,
+        <http://www.wikidata.org/entity/Q77072>,
+        <http://yago-knowledge.org/resource/Richard_Willstätter> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Aumann> a foaf:Person ;
+    jl:hasLabel "Robert Aumann@de",
+        "Robert Aumann@en",
+        "Robert Aumann@es",
+        "Robert Aumann@fr",
+        "Robert Aumann@it",
+        "Robert Aumann@nl",
+        "Robert Aumann@pl",
+        "Robert Aumann@pt",
+        "Ауман, Роберт@ru",
+        "روبرت أومان@ar",
+        "ロバート・オーマン@ja",
+        "罗伯特·约翰·奥曼@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Robert_Aumann>,
+        <http://data.europa.eu/euodp/jrc-names/Robert_Aumann>,
+        <http://dbpedia.org/resource/Robert_Aumann>,
+        <http://de.dbpedia.org/resource/Robert_Aumann>,
+        <http://es.dbpedia.org/resource/Robert_Aumann>,
+        <http://eu.dbpedia.org/resource/Robert_Aumann>,
+        <http://fr.dbpedia.org/resource/Robert_Aumann>,
+        <http://id.dbpedia.org/resource/Robert_J._Aumann>,
+        <http://it.dbpedia.org/resource/Robert_Aumann>,
+        <http://ja.dbpedia.org/resource/ロバート・オーマン>,
+        <http://ko.dbpedia.org/resource/로버트_아우만>,
+        <http://nl.dbpedia.org/resource/Robert_Aumann>,
+        <http://pl.dbpedia.org/resource/Robert_Aumann>,
+        <http://pt.dbpedia.org/resource/Robert_Aumann>,
+        <http://rdf.freebase.com/ns/m.088dvh>,
+        <http://wikidata.dbpedia.org/resource/Q157235>,
+        <http://www.wikidata.org/entity/Q157235>,
+        <http://yago-knowledge.org/resource/Robert_Aumann> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Mond> a foaf:Person ;
+    jl:hasLabel "Robert Mond@en",
+        "Robert Mond@fr",
+        "罗伯特·蒙德@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Robert_Mond>,
+        <http://fr.dbpedia.org/resource/Robert_Mond>,
+        <http://rdf.freebase.com/ns/m.0cntgx>,
+        <http://viaf.org/viaf/77097313>,
+        <http://wikidata.dbpedia.org/resource/Q3435947>,
+        <http://www.wikidata.org/entity/Q3435947>,
+        <http://yago-knowledge.org/resource/Robert_Mond> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Winston> a foaf:Person ;
+    jl:hasLabel "Robert Winston@de",
+        "Robert Winston@en",
+        "Robert Winston@es",
+        "Robert Winston@fr" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Robert_Winston>,
+        <http://dbpedia.org/resource/Robert_Winston>,
+        <http://de.dbpedia.org/resource/Robert_Winston>,
+        <http://es.dbpedia.org/resource/Robert_Winston>,
+        <http://fr.dbpedia.org/resource/Robert_Winston>,
+        <http://rdf.freebase.com/ns/m.02dn8z>,
+        <http://wikidata.dbpedia.org/resource/Q335760>,
+        <http://www.wikidata.org/entity/Q335760>,
+        <http://yago-knowledge.org/resource/Robert_Winston> .
+
+<http://data.judaicalink.org/data/dbpedia/Roland_Levinsky> a foaf:Person ;
+    jl:hasLabel "Roland Levinsky@en",
+        "Roland Levinsky@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Roland_Levinsky>,
+        <http://pt.dbpedia.org/resource/Roland_Levinsky>,
+        <http://rdf.freebase.com/ns/m.0fy4gf>,
+        <http://wikidata.dbpedia.org/resource/Q7360316>,
+        <http://www.wikidata.org/entity/Q7360316>,
+        <http://yago-knowledge.org/resource/Roland_Levinsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Ron_Pinter> a foaf:Person ;
+    jl:hasLabel "Ron Pinter@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ron_Pinter>,
+        <http://rdf.freebase.com/ns/m.0_vbck6>,
+        <http://wikidata.dbpedia.org/resource/Q16185525>,
+        <http://www.wikidata.org/entity/Q16185525>,
+        <http://yago-knowledge.org/resource/Ron_Pinter> .
+
+<http://data.judaicalink.org/data/dbpedia/Roy_Yorke_Calne> a foaf:Person ;
+    jl:hasLabel "Roy Calne@fr",
+        "Roy Yorke Calne@de",
+        "Roy Yorke Calne@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Roy_Yorke_Calne>,
+        <http://de.dbpedia.org/resource/Roy_Yorke_Calne>,
+        <http://fr.dbpedia.org/resource/Roy_Calne>,
+        <http://rdf.freebase.com/ns/m.0by84j>,
+        <http://wikidata.dbpedia.org/resource/Q2170935>,
+        <http://www.wikidata.org/entity/Q2170935>,
+        <http://yago-knowledge.org/resource/Roy_Yorke_Calne> .
+
+<http://data.judaicalink.org/data/dbpedia/Rudolf_Peierls> a foaf:Person ;
+    jl:hasLabel "Rudolf Peierls@de",
+        "Rudolf Peierls@en",
+        "Rudolf Peierls@es",
+        "Rudolf Peierls@fr",
+        "Rudolf Peierls@it",
+        "Rudolf Peierls@nl",
+        "Rudolf Peierls@pt",
+        "Пайерлс, Рудольф Эрнст@ru",
+        "رودولف بيرلز@ar",
+        "ルドルフ・パイエルス@ja",
+        "魯道夫·佩爾斯@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Rudolf_Peierls>,
+        <http://de.dbpedia.org/resource/Rudolf_Peierls>,
+        <http://es.dbpedia.org/resource/Rudolf_Peierls>,
+        <http://eu.dbpedia.org/resource/Rudolf_Ernest_Peierls>,
+        <http://fr.dbpedia.org/resource/Rudolf_Peierls>,
+        <http://it.dbpedia.org/resource/Rudolf_Peierls>,
+        <http://ja.dbpedia.org/resource/ルドルフ・パイエルス>,
+        <http://ko.dbpedia.org/resource/루돌프_파이얼스>,
+        <http://nl.dbpedia.org/resource/Rudolf_Peierls>,
+        <http://pt.dbpedia.org/resource/Rudolf_Peierls>,
+        <http://rdf.freebase.com/ns/m.03_91k>,
+        <http://wikidata.dbpedia.org/resource/Q61735>,
+        <http://www.wikidata.org/entity/Q61735>,
+        <http://yago-knowledge.org/resource/Rudolf_Peierls> .
+
+<http://data.judaicalink.org/data/dbpedia/Rudolf_Vrba> a foaf:Person ;
+    jl:hasLabel "Rudolf Vrba@de",
+        "Rudolf Vrba@en",
+        "Rudolf Vrba@es",
+        "Rudolf Vrba@fr",
+        "Rudolf Vrba@it",
+        "Rudolf Vrba@nl",
+        "Rudolf Vrba@pl",
+        "Rudolph Vrba@pt",
+        "Врба, Рудольф@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Rudolf_Vrba>,
+        <http://dbpedia.org/resource/Rudolf_Vrba>,
+        <http://de.dbpedia.org/resource/Rudolf_Vrba>,
+        <http://es.dbpedia.org/resource/Rudolf_Vrba>,
+        <http://fr.dbpedia.org/resource/Rudolf_Vrba>,
+        <http://it.dbpedia.org/resource/Rudolf_Vrba>,
+        <http://nl.dbpedia.org/resource/Rudolf_Vrba>,
+        <http://pl.dbpedia.org/resource/Rudolf_Vrba>,
+        <http://pt.dbpedia.org/resource/Rudolph_Vrba>,
+        <http://rdf.freebase.com/ns/m.0d06jc>,
+        <http://viaf.org/viaf/24623213>,
+        <http://wikidata.dbpedia.org/resource/Q469726>,
+        <http://www.wikidata.org/entity/Q469726>,
+        <http://yago-knowledge.org/resource/Rudolf_Vrba> .
+
+<http://data.judaicalink.org/data/dbpedia/Rudolph_Leibel> a foaf:Person ;
+    jl:hasLabel "Rudolph Leibel@en",
+        "Rudolph Leibel@es" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Rudolph_Leibel>,
+        <http://es.dbpedia.org/resource/Rudolph_Leibel>,
+        <http://rdf.freebase.com/ns/m.0rff3r4>,
+        <http://wikidata.dbpedia.org/resource/Q7377432>,
+        <http://www.wikidata.org/entity/Q7377432>,
+        <http://yago-knowledge.org/resource/Rudolph_Leibel> .
+
+<http://data.judaicalink.org/data/dbpedia/Ruth_Cohn> a foaf:Person ;
+    jl:hasLabel "Ruth Cohn@de",
+        "Ruth Cohn@en",
+        "Ruth Cohn@nl" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ruth_Cohn>,
+        <http://de.dbpedia.org/resource/Ruth_Cohn>,
+        <http://nl.dbpedia.org/resource/Ruth_Cohn>,
+        <http://rdf.freebase.com/ns/m.09kv38>,
+        <http://viaf.org/viaf/37245697>,
+        <http://wikidata.dbpedia.org/resource/Q87956>,
+        <http://www.wikidata.org/entity/Q87956>,
+        <http://yago-knowledge.org/resource/Ruth_Cohn> .
+
+<http://data.judaicalink.org/data/dbpedia/Salomon_Bochner> a foaf:Person ;
+    jl:hasLabel "Salomon Bochner@de",
+        "Salomon Bochner@en",
+        "Salomon Bochner@fr",
+        "Salomon Bochner@it" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Salomon_Bochner>,
+        <http://dbpedia.org/resource/Salomon_Bochner>,
+        <http://de.dbpedia.org/resource/Salomon_Bochner>,
+        <http://fr.dbpedia.org/resource/Salomon_Bochner>,
+        <http://it.dbpedia.org/resource/Salomon_Bochner>,
+        <http://pl.dbpedia.org/resource/Salomon_Bochner>,
+        <http://pt.dbpedia.org/resource/Salomon_Bochner>,
+        <http://rdf.freebase.com/ns/m.03wzmr>,
+        <http://viaf.org/viaf/59163063>,
+        <http://wikidata.dbpedia.org/resource/Q215967>,
+        <http://www.wikidata.org/entity/Q215967>,
+        <http://yago-knowledge.org/resource/Salomon_Bochner> .
+
+<http://data.judaicalink.org/data/dbpedia/Samuel_Goldman> a foaf:Person ;
+    jl:hasLabel "Samuel Goldman@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Samuel_Goldman>,
+        <http://rdf.freebase.com/ns/m.03h53sv>,
+        <http://wikidata.dbpedia.org/resource/Q7411493>,
+        <http://www.wikidata.org/entity/Q7411493>,
+        <http://yago-knowledge.org/resource/Samuel_Goldman> .
+
+<http://data.judaicalink.org/data/dbpedia/Samuel_Tolansky> a foaf:Person ;
+    jl:hasLabel "Samuel Tolansky@en",
+        "Samuel Tolansky@it" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Samuel_Tolansky>,
+        <http://it.dbpedia.org/resource/Samuel_Tolansky>,
+        <http://rdf.freebase.com/ns/m.0cj6r3>,
+        <http://viaf.org/viaf/109437424>,
+        <http://wikidata.dbpedia.org/resource/Q1089408>,
+        <http://www.wikidata.org/entity/Q1089408>,
+        <http://yago-knowledge.org/resource/Samuel_Tolansky> .
+
+<http://data.judaicalink.org/data/dbpedia/Seweryn_Chomet> a foaf:Person ;
+    jl:hasLabel "Seweryn Chomet@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Seweryn_Chomet>,
+        <http://rdf.freebase.com/ns/m.080p728>,
+        <http://wikidata.dbpedia.org/resource/Q7458252>,
+        <http://www.wikidata.org/entity/Q7458252>,
+        <http://yago-knowledge.org/resource/Seweryn_Chomet> .
+
+<http://data.judaicalink.org/data/dbpedia/Sheizaf_Rafaeli> a foaf:Person ;
+    jl:hasLabel "Sheizaf Rafaeli@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Sheizaf_Rafaeli>,
+        <http://rdf.freebase.com/ns/m.0f_qnn>,
+        <http://viaf.org/viaf/69088390>,
+        <http://wikidata.dbpedia.org/resource/Q7493196>,
+        <http://www.wikidata.org/entity/Q7493196>,
+        <http://yago-knowledge.org/resource/Sheizaf_Rafaeli> .
+
+<http://data.judaicalink.org/data/dbpedia/Shoshana_Kamin> a foaf:Person ;
+    jl:hasLabel "Shoshana Kamin@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Shoshana_Kamin>,
+        <http://rdf.freebase.com/ns/m.07s71j4>,
+        <http://wikidata.dbpedia.org/resource/Q7502335>,
+        <http://www.wikidata.org/entity/Q7502335>,
+        <http://yago-knowledge.org/resource/Shoshana_Kamin> .
+
+<http://data.judaicalink.org/data/dbpedia/Sofya_Yanovskaya> a foaf:Person ;
+    jl:hasLabel "Sofia Yanovskaïa@fr",
+        "Sofya Yanovskaya@en",
+        "Sofía Yanóvskaya@es",
+        "Яновская, Софья Александровна@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Sofya_Yanovskaya>,
+        <http://es.dbpedia.org/resource/Sofía_Yanóvskaya>,
+        <http://fr.dbpedia.org/resource/Sofia_Yanovskaïa>,
+        <http://rdf.freebase.com/ns/m.0d04d8>,
+        <http://wikidata.dbpedia.org/resource/Q2599504>,
+        <http://www.wikidata.org/entity/Q2599504>,
+        <http://yago-knowledge.org/resource/Sofya_Yanovskaya> .
+
+<http://data.judaicalink.org/data/dbpedia/Steven_Haberman> a foaf:Person ;
+    jl:hasLabel "Steven Haberman@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Steven_Haberman>,
+        <http://rdf.freebase.com/ns/m.06jx5s>,
+        <http://viaf.org/viaf/66581290>,
+        <http://wikidata.dbpedia.org/resource/Q7614788>,
+        <http://www.wikidata.org/entity/Q7614788>,
+        <http://yago-knowledge.org/resource/Steven_Haberman> .
+
+<http://data.judaicalink.org/data/dbpedia/Steven_Salzberg> a foaf:Person ;
+    jl:hasLabel "Steven Salzberg@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Steven_Salzberg>,
+        <http://rdf.freebase.com/ns/m.0gh_hz>,
+        <http://wikidata.dbpedia.org/resource/Q7248791>,
+        <http://www.wikidata.org/entity/Q7248791>,
+        <http://yago-knowledge.org/resource/Steven_Salzberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Sulamith_Goldhaber> a foaf:Person ;
+    jl:hasLabel "Sulamith Goldhaber@en",
+        "Sulamith Goldhaber@fr",
+        "Sulamith Goldhaber@nl",
+        "Гольдхабер, Суламифь@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Sulamith_Goldhaber>,
+        <http://fr.dbpedia.org/resource/Sulamith_Goldhaber>,
+        <http://nl.dbpedia.org/resource/Sulamith_Goldhaber>,
+        <http://rdf.freebase.com/ns/m.03cbysf>,
+        <http://wikidata.dbpedia.org/resource/Q2899781>,
+        <http://www.wikidata.org/entity/Q2899781>,
+        <http://yago-knowledge.org/resource/Sulamith_Goldhaber> .
+
+<http://data.judaicalink.org/data/dbpedia/Tadeusz_Reichstein> a foaf:Person ;
+    jl:hasLabel "Tadeus Reichstein@de",
+        "Tadeus Reichstein@es",
+        "Tadeus Reichstein@nl",
+        "Tadeusz Reichstein@en",
+        "Tadeusz Reichstein@fr",
+        "Tadeusz Reichstein@it",
+        "Tadeusz Reichstein@pl",
+        "Tadeusz Reichstein@pt",
+        "Рейхштейн, Тадеуш@ru",
+        "تاديوش رايخشتاين@ar",
+        "タデウシュ・ライヒスタイン@ja",
+        "塔德乌什·赖希施泰因@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Tadeus_Reichstein>,
+        <http://dbpedia.org/resource/Tadeusz_Reichstein>,
+        <http://de.dbpedia.org/resource/Tadeus_Reichstein>,
+        <http://es.dbpedia.org/resource/Tadeus_Reichstein>,
+        <http://eu.dbpedia.org/resource/Tadeus_Reichstein>,
+        <http://fr.dbpedia.org/resource/Tadeusz_Reichstein>,
+        <http://id.dbpedia.org/resource/Tadeus_Reichstein>,
+        <http://it.dbpedia.org/resource/Tadeusz_Reichstein>,
+        <http://ja.dbpedia.org/resource/タデウシュ・ライヒスタイン>,
+        <http://nl.dbpedia.org/resource/Tadeus_Reichstein>,
+        <http://pl.dbpedia.org/resource/Tadeusz_Reichstein>,
+        <http://pt.dbpedia.org/resource/Tadeusz_Reichstein>,
+        <http://rdf.freebase.com/ns/m.022cv6>,
+        <http://wikidata.dbpedia.org/resource/Q115490>,
+        <http://www.wikidata.org/entity/Q115490>,
+        <http://yago-knowledge.org/resource/Tadeus_Reichstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Tobias_Asser> a foaf:Person ;
+    jl:hasLabel "Tobias Asser@de",
+        "Tobias Asser@en",
+        "Tobias Asser@fr",
+        "Tobias Asser@nl",
+        "Tobias Asser@pl",
+        "Tobias Michael Carel Asser@es",
+        "Tobias Michael Carel Asser@it",
+        "Tobias Michael Carel Asser@pt",
+        "Ассер, Тобиас@ru",
+        "توبياس ميخائيل كايل آسر@ar",
+        "トビアス・アッセル@ja",
+        "托比亚斯·阿赛尔@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Tobias_Michael_Carel_Asser>,
+        <http://dbpedia.org/resource/Tobias_Asser>,
+        <http://de.dbpedia.org/resource/Tobias_Asser>,
+        <http://es.dbpedia.org/resource/Tobias_Michael_Carel_Asser>,
+        <http://fr.dbpedia.org/resource/Tobias_Asser>,
+        <http://id.dbpedia.org/resource/Tobias_Michael_Carel_Asser>,
+        <http://it.dbpedia.org/resource/Tobias_Michael_Carel_Asser>,
+        <http://ja.dbpedia.org/resource/トビアス・アッセル>,
+        <http://ko.dbpedia.org/resource/토비아스_아서르>,
+        <http://nl.dbpedia.org/resource/Tobias_Asser>,
+        <http://pl.dbpedia.org/resource/Tobias_Asser>,
+        <http://pt.dbpedia.org/resource/Tobias_Michael_Carel_Asser>,
+        <http://rdf.freebase.com/ns/m.01vsf4>,
+        <http://viaf.org/viaf/24716169>,
+        <http://wikidata.dbpedia.org/resource/Q216872>,
+        <http://www.wikidata.org/entity/Q216872>,
+        <http://yago-knowledge.org/resource/Tobias_Asser> .
+
+<http://data.judaicalink.org/data/dbpedia/Victor_Goldschmidt> a foaf:Person ;
+    jl:hasLabel "Victor Goldschmidt (chimiste)@fr",
+        "Victor Goldschmidt@en",
+        "Victor Moritz Goldschmidt@de",
+        "Victor Moritz Goldschmidt@es",
+        "Victor Moritz Goldschmidt@it",
+        "Victor Moritz Goldschmidt@nl",
+        "Victor Moritz Goldschmidt@pl",
+        "Victor Moritz Goldschmidt@pt",
+        "Гольдшмидт, Виктор Мориц@ru",
+        "فيكتور غولدشميت@ar",
+        "ヴィクトール・モーリッツ・ゴルトシュミット@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Victor_Goldschmidt>,
+        <http://de.dbpedia.org/resource/Victor_Moritz_Goldschmidt>,
+        <http://es.dbpedia.org/resource/Victor_Moritz_Goldschmidt>,
+        <http://fr.dbpedia.org/resource/Victor_Goldschmidt_(chimiste)>,
+        <http://it.dbpedia.org/resource/Victor_Moritz_Goldschmidt>,
+        <http://ja.dbpedia.org/resource/ヴィクトール・モーリッツ・ゴルトシュミット>,
+        <http://nl.dbpedia.org/resource/Victor_Moritz_Goldschmidt>,
+        <http://pl.dbpedia.org/resource/Victor_Moritz_Goldschmidt>,
+        <http://pt.dbpedia.org/resource/Victor_Moritz_Goldschmidt>,
+        <http://rdf.freebase.com/ns/m.05n3r4>,
+        <http://wikidata.dbpedia.org/resource/Q213668>,
+        <http://www.wikidata.org/entity/Q213668>,
+        <http://yago-knowledge.org/resource/Victor_Goldschmidt> .
+
+<http://data.judaicalink.org/data/dbpedia/Victor_Mordechai_Goldschmidt> a foaf:Person ;
+    jl:hasLabel "Victor Mordechai Goldschmidt@de",
+        "Victor Mordechai Goldschmidt@en",
+        "Гольдшмидт, Виктор Мордехай@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Victor_Mordechai_Goldschmidt>,
+        <http://de.dbpedia.org/resource/Victor_Mordechai_Goldschmidt>,
+        <http://rdf.freebase.com/ns/m.0bffs7>,
+        <http://viaf.org/viaf/88910755>,
+        <http://wikidata.dbpedia.org/resource/Q214566>,
+        <http://www.wikidata.org/entity/Q214566>,
+        <http://yago-knowledge.org/resource/Victor_Mordechai_Goldschmidt> .
+
+<http://data.judaicalink.org/data/dbpedia/Walter_Bodmer> a foaf:Person ;
+    jl:hasLabel "Walter Bodmer@en",
+        "Walter Bodmer@pt" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Walter_Bodmer>,
+        <http://pt.dbpedia.org/resource/Walter_Bodmer>,
+        <http://rdf.freebase.com/ns/m.050_80>,
+        <http://wikidata.dbpedia.org/resource/Q7964332>,
+        <http://www.wikidata.org/entity/Q7964332>,
+        <http://yago-knowledge.org/resource/Walter_Bodmer> .
+
+<http://data.judaicalink.org/data/dbpedia/Werner_Fenchel> a foaf:Person ;
+    jl:hasLabel "Werner Fenchel@de",
+        "Werner Fenchel@en",
+        "Werner Fenchel@es",
+        "Werner Fenchel@fr",
+        "Werner Fenchel@nl",
+        "Werner Fenchel@pt",
+        "Фенхель, Вернер@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Werner_Fenchel>,
+        <http://de.dbpedia.org/resource/Werner_Fenchel>,
+        <http://es.dbpedia.org/resource/Werner_Fenchel>,
+        <http://fr.dbpedia.org/resource/Werner_Fenchel>,
+        <http://nl.dbpedia.org/resource/Werner_Fenchel>,
+        <http://pt.dbpedia.org/resource/Werner_Fenchel>,
+        <http://rdf.freebase.com/ns/m.0cn5pw>,
+        <http://viaf.org/viaf/2603673>,
+        <http://wikidata.dbpedia.org/resource/Q1820746>,
+        <http://www.wikidata.org/entity/Q1820746>,
+        <http://yago-knowledge.org/resource/Werner_Fenchel> .
+
+<http://data.judaicalink.org/data/dbpedia/Wilhelm_Stekel> a foaf:Person ;
+    jl:hasLabel "Wilhelm Stekel@de",
+        "Wilhelm Stekel@en",
+        "Wilhelm Stekel@es",
+        "Wilhelm Stekel@fr",
+        "Wilhelm Stekel@it",
+        "Wilhelm Stekel@pl",
+        "Wilhelm Stekel@pt",
+        "Штекель, Вильгельм@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Wilhelm_Stekel>,
+        <http://dbpedia.org/resource/Wilhelm_Stekel>,
+        <http://de.dbpedia.org/resource/Wilhelm_Stekel>,
+        <http://es.dbpedia.org/resource/Wilhelm_Stekel>,
+        <http://fr.dbpedia.org/resource/Wilhelm_Stekel>,
+        <http://it.dbpedia.org/resource/Wilhelm_Stekel>,
+        <http://pl.dbpedia.org/resource/Wilhelm_Stekel>,
+        <http://pt.dbpedia.org/resource/Wilhelm_Stekel>,
+        <http://rdf.freebase.com/ns/m.072m4s>,
+        <http://viaf.org/viaf/59089557>,
+        <http://wikidata.dbpedia.org/resource/Q78612>,
+        <http://www.wikidata.org/entity/Q78612>,
+        <http://yago-knowledge.org/resource/Wilhelm_Stekel> .
+
+<http://data.judaicalink.org/data/dbpedia/Yadin_Dudai> a foaf:Person ;
+    jl:hasLabel "Yadin Dudai@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Yadin_Dudai>,
+        <http://rdf.freebase.com/ns/m.05f5ykq>,
+        <http://wikidata.dbpedia.org/resource/Q12407771>,
+        <http://www.wikidata.org/entity/Q12407771>,
+        <http://yago-knowledge.org/resource/Yadin_Dudai> .
+
+<http://data.judaicalink.org/data/dbpedia/Yehoshua_Bar-Hillel> a foaf:Person ;
+    jl:hasLabel "Jehoschua Bar-Hillel@de",
+        "Yehoshua Bar-Hillel@en",
+        "Yehoshua Bar-Hillel@es",
+        "Yehoshua Bar-Hillel@fr",
+        "Yehoshua Bar-Hillel@it",
+        "Йегошуа Бар-Хиллел@ru" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jehošua_Bar-Hillel>,
+        <http://dbpedia.org/resource/Yehoshua_Bar-Hillel>,
+        <http://de.dbpedia.org/resource/Jehoschua_Bar-Hillel>,
+        <http://es.dbpedia.org/resource/Yehoshua_Bar-Hillel>,
+        <http://fr.dbpedia.org/resource/Yehoshua_Bar-Hillel>,
+        <http://it.dbpedia.org/resource/Yehoshua_Bar-Hillel>,
+        <http://rdf.freebase.com/ns/m.0377sr>,
+        <http://viaf.org/viaf/66503430>,
+        <http://wikidata.dbpedia.org/resource/Q584382>,
+        <http://www.wikidata.org/entity/Q584382>,
+        <http://yago-knowledge.org/resource/Yehoshua_Bar-Hillel> .
+
+<http://data.judaicalink.org/data/dbpedia/Yudell_Luke> a foaf:Person ;
+    jl:hasLabel "Yudell Luke@en" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://dbpedia.org/resource/Yudell_Luke>,
+        <http://rdf.freebase.com/ns/m.0c9y5r>,
+        <http://viaf.org/viaf/92091504>,
+        <http://wikidata.dbpedia.org/resource/Q8060225>,
+        <http://www.wikidata.org/entity/Q8060225>,
+        <http://yago-knowledge.org/resource/Yudell_Luke> .
+
+<http://data.judaicalink.org/data/dbpedia/Yuval_Ne'eman> a foaf:Person ;
+    jl:hasLabel "Juval Ne’eman@de",
+        "Juwal Ne’eman@pl",
+        "Yuval Ne'eman@en",
+        "Yuval Ne'eman@fr",
+        "Yuval Ne'eman@it",
+        "Yuval Ne'eman@nl",
+        "Yuval Ne'eman@pt",
+        "Неэман, Юваль@ru",
+        "يوفال نئمان@ar",
+        "ユヴァル・ネーマン@ja" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Juval_Ne'eman>,
+        <http://dbpedia.org/resource/Yuval_Ne'eman>,
+        <http://de.dbpedia.org/resource/Juval_Ne’eman>,
+        <http://fr.dbpedia.org/resource/Yuval_Ne'eman>,
+        <http://it.dbpedia.org/resource/Yuval_Ne'eman>,
+        <http://ja.dbpedia.org/resource/ユヴァル・ネーマン>,
+        <http://nl.dbpedia.org/resource/Yuval_Ne'eman>,
+        <http://pl.dbpedia.org/resource/Juwal_Ne’eman>,
+        <http://pt.dbpedia.org/resource/Yuval_Ne'eman>,
+        <http://rdf.freebase.com/ns/m.066lmn>,
+        <http://viaf.org/viaf/98083038>,
+        <http://wikidata.dbpedia.org/resource/Q471965>,
+        <http://www.wikidata.org/entity/Q471965>,
+        <http://yago-knowledge.org/resource/Yuval_Ne'eman> .
+
+<http://data.judaicalink.org/data/dbpedia/Émile_Durkheim> a foaf:Person ;
+    jl:hasLabel "Émile Durkheim@de",
+        "Émile Durkheim@en",
+        "Émile Durkheim@es",
+        "Émile Durkheim@fr",
+        "Émile Durkheim@it",
+        "Émile Durkheim@nl",
+        "Émile Durkheim@pl",
+        "Émile Durkheim@pt",
+        "Дюркгейм, Эмиль@ru",
+        "إميل دوركايم@ar",
+        "エミール・デュルケーム@ja",
+        "爱米尔·涂尔干@zh" ;
+    jl:occupation "Jewish scientists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Émile_Durkheim>,
+        <http://data.europa.eu/euodp/jrc-names/%C3%89mile_Durkheim>,
+        <http://dbpedia.org/resource/Émile_Durkheim>,
+        <http://de.dbpedia.org/resource/Émile_Durkheim>,
+        <http://el.dbpedia.org/resource/Εμίλ_Ντιρκέμ>,
+        <http://es.dbpedia.org/resource/Émile_Durkheim>,
+        <http://eu.dbpedia.org/resource/Émile_Durkheim>,
+        <http://fr.dbpedia.org/resource/Émile_Durkheim>,
+        <http://id.dbpedia.org/resource/Émile_Durkheim>,
+        <http://it.dbpedia.org/resource/Émile_Durkheim>,
+        <http://ja.dbpedia.org/resource/エミール・デュルケーム>,
+        <http://ko.dbpedia.org/resource/에밀_뒤르켐>,
+        <http://nl.dbpedia.org/resource/Émile_Durkheim>,
+        <http://pl.dbpedia.org/resource/Émile_Durkheim>,
+        <http://pt.dbpedia.org/resource/Émile_Durkheim>,
+        <http://rdf.freebase.com/ns/m.09j84>,
+        <http://viaf.org/viaf/56609141>,
+        <http://wikidata.dbpedia.org/resource/Q15948>,
+        <http://www.wikidata.org/entity/Q15948>,
+        <http://yago-knowledge.org/resource/Émile_Durkheim> .
+

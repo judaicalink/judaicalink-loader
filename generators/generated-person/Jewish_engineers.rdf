@@ -1,0 +1,449 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Adam_Czerniaków> a foaf:Person ;
+    jl:hasLabel "Adam Czerniakow@pt",
+        "Adam Czerniaków@de",
+        "Adam Czerniaków@en",
+        "Adam Czerniaków@es",
+        "Adam Czerniaków@fr",
+        "Adam Czerniaków@pl",
+        "Черняков, Адам@ru",
+        "アダム・チェルニャクフ@ja" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Adam_Czerniaków>,
+        <http://dbpedia.org/resource/Adam_Czerniaków>,
+        <http://de.dbpedia.org/resource/Adam_Czerniaków>,
+        <http://es.dbpedia.org/resource/Adam_Czerniaków>,
+        <http://fr.dbpedia.org/resource/Adam_Czerniaków>,
+        <http://ja.dbpedia.org/resource/アダム・チェルニャクフ>,
+        <http://pl.dbpedia.org/resource/Adam_Czerniaków>,
+        <http://pt.dbpedia.org/resource/Adam_Czerniakow>,
+        <http://rdf.freebase.com/ns/m.01xbkz>,
+        <http://viaf.org/viaf/71410995>,
+        <http://wikidata.dbpedia.org/resource/Q16516912>,
+        <http://www.wikidata.org/entity/Q16516912>,
+        <http://yago-knowledge.org/resource/Adam_Czerniaków> .
+
+<http://data.judaicalink.org/data/dbpedia/Al_Schwimmer> a foaf:Person ;
+    jl:hasLabel "Adolph William Schwimmer@fr",
+        "Al Schwimmer@en",
+        "Швиммер, Аль@ru" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Al_Schwimmer>,
+        <http://dbpedia.org/resource/Al_Schwimmer>,
+        <http://fr.dbpedia.org/resource/Adolph_William_Schwimmer>,
+        <http://rdf.freebase.com/ns/m.0gw_l1t>,
+        <http://wikidata.dbpedia.org/resource/Q2594380>,
+        <http://www.wikidata.org/entity/Q2594380>,
+        <http://yago-knowledge.org/resource/Al_Schwimmer> .
+
+<http://data.judaicalink.org/data/dbpedia/Albert_Einstein> a foaf:Person ;
+    jl:hasLabel "Albert Einstein@de",
+        "Albert Einstein@en",
+        "Albert Einstein@es",
+        "Albert Einstein@fr",
+        "Albert Einstein@it",
+        "Albert Einstein@nl",
+        "Albert Einstein@pl",
+        "Albert Einstein@pt",
+        "Эйнштейн, Альберт@ru",
+        "ألبرت أينشتاين@ar",
+        "アルベルト・アインシュタイン@ja",
+        "阿尔伯特·爱因斯坦@zh" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Albert_Einstein>,
+        <http://data.europa.eu/euodp/jrc-names/Albert_Einstein>,
+        <http://data.nytimes.com/49783928729941204213>,
+        <http://dbpedia.org/resource/Albert_Einstein>,
+        <http://de.dbpedia.org/resource/Albert_Einstein>,
+        <http://el.dbpedia.org/resource/Άλμπερτ_Αϊνστάιν>,
+        <http://es.dbpedia.org/resource/Albert_Einstein>,
+        <http://eu.dbpedia.org/resource/Albert_Einstein>,
+        <http://fr.dbpedia.org/resource/Albert_Einstein>,
+        <http://id.dbpedia.org/resource/Albert_Einstein>,
+        <http://it.dbpedia.org/resource/Albert_Einstein>,
+        <http://ja.dbpedia.org/resource/アルベルト・アインシュタイン>,
+        <http://ko.dbpedia.org/resource/알베르트_아인슈타인>,
+        <http://nl.dbpedia.org/resource/Albert_Einstein>,
+        <http://pl.dbpedia.org/resource/Albert_Einstein>,
+        <http://pt.dbpedia.org/resource/Albert_Einstein>,
+        <http://rdf.freebase.com/ns/m.0jcx>,
+        <http://sw.cyc.com/concept/Mx4rvlF-vZwpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q937>,
+        <http://www.wikidata.org/entity/Q937>,
+        <http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Einstein_Albert_1879-1955>,
+        <http://yago-knowledge.org/resource/Albert_Einstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Andrew_Grove> a foaf:Person ;
+    jl:hasLabel "Andrew Grove@de",
+        "Andrew Grove@en",
+        "Andrew Grove@es",
+        "Andrew Grove@fr",
+        "Andrew Grove@it",
+        "Andrew Grove@pl",
+        "Andrew Grove@pt",
+        "Гроув, Эндрю@ru",
+        "أندرو غروف@ar",
+        "アンドルー・グローヴ@ja",
+        "安迪·葛洛夫@zh" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Andrew_Grove>,
+        <http://data.europa.eu/euodp/jrc-names/Andy_Grove>,
+        <http://data.nytimes.com/N63135842366788075943>,
+        <http://dbpedia.org/resource/Andrew_Grove>,
+        <http://de.dbpedia.org/resource/Andrew_Grove>,
+        <http://es.dbpedia.org/resource/Andrew_Grove>,
+        <http://fr.dbpedia.org/resource/Andrew_Grove>,
+        <http://it.dbpedia.org/resource/Andrew_Grove>,
+        <http://ja.dbpedia.org/resource/アンドルー・グローヴ>,
+        <http://pl.dbpedia.org/resource/Andrew_Grove>,
+        <http://pt.dbpedia.org/resource/Andrew_Grove>,
+        <http://rdf.freebase.com/ns/m.018fvy>,
+        <http://viaf.org/viaf/290925956>,
+        <http://wikidata.dbpedia.org/resource/Q432929>,
+        <http://www.wikidata.org/entity/Q432929>,
+        <http://yago-knowledge.org/resource/Andrew_Grove> .
+
+<http://data.judaicalink.org/data/dbpedia/Andy_Rubin> a foaf:Person ;
+    jl:hasLabel "Andy Rubin@de",
+        "Andy Rubin@en",
+        "Andy Rubin@es",
+        "Andy Rubin@fr",
+        "Andy Rubin@it",
+        "Andy Rubin@pl",
+        "Andy Rubin@pt",
+        "أندرو روبن@ar",
+        "アンディ・ルービン@ja",
+        "安迪·鲁宾@zh" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Andy_Rubin>,
+        <http://dbpedia.org/resource/Andy_Rubin>,
+        <http://de.dbpedia.org/resource/Andy_Rubin>,
+        <http://es.dbpedia.org/resource/Andy_Rubin>,
+        <http://fr.dbpedia.org/resource/Andy_Rubin>,
+        <http://id.dbpedia.org/resource/Andy_Rubin>,
+        <http://it.dbpedia.org/resource/Andy_Rubin>,
+        <http://ja.dbpedia.org/resource/アンディ・ルービン>,
+        <http://ko.dbpedia.org/resource/앤디_루빈>,
+        <http://pl.dbpedia.org/resource/Andy_Rubin>,
+        <http://pt.dbpedia.org/resource/Andy_Rubin>,
+        <http://rdf.freebase.com/ns/m.03cspsd>,
+        <http://wikidata.dbpedia.org/resource/Q49826>,
+        <http://www.wikidata.org/entity/Q49826>,
+        <http://yago-knowledge.org/resource/Andy_Rubin> .
+
+<http://data.judaicalink.org/data/dbpedia/Ayelet_Shaked> a foaf:Person ;
+    jl:hasLabel "Ajelet Schaked@de",
+        "Ajelet Szaked@pl",
+        "Ayelet Shaked@en",
+        "Ayelet Shaked@fr",
+        "Ayelet Shaked@nl",
+        "Шакед, Аелет@ru",
+        "أيليت شكد@ar" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ajelet_Šakedová>,
+        <http://dbpedia.org/resource/Ayelet_Shaked>,
+        <http://de.dbpedia.org/resource/Ajelet_Schaked>,
+        <http://fr.dbpedia.org/resource/Ayelet_Shaked>,
+        <http://nl.dbpedia.org/resource/Ayelet_Shaked>,
+        <http://pl.dbpedia.org/resource/Ajelet_Szaked>,
+        <http://rdf.freebase.com/ns/m.0pk_3m4>,
+        <http://wikidata.dbpedia.org/resource/Q2791686>,
+        <http://www.wikidata.org/entity/Q2791686>,
+        <http://yago-knowledge.org/resource/Ayelet_Shaked> .
+
+<http://data.judaicalink.org/data/dbpedia/Ben_Horowitz> a foaf:Person ;
+    jl:hasLabel "Ben Horowitz@en" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Ben_Horowitz>,
+        <http://dbpedia.org/resource/Ben_Horowitz>,
+        <http://rdf.freebase.com/ns/m.07s9g_6>,
+        <http://wikidata.dbpedia.org/resource/Q4885859>,
+        <http://www.wikidata.org/entity/Q4885859>,
+        <http://yago-knowledge.org/resource/Ben_Horowitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Cinna_Lomnitz> a foaf:Person ;
+    jl:hasLabel "Cinna Lomnitz@en",
+        "Cinna Lomnitz@es" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Cinna_Lomnitz>,
+        <http://es.dbpedia.org/resource/Cinna_Lomnitz>,
+        <http://wikidata.dbpedia.org/resource/Q5769719>,
+        <http://www.wikidata.org/entity/Q5769719> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Faiman> a foaf:Person ;
+    jl:hasLabel "David Faiman@en",
+        "David Faiman@fr" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Faiman>,
+        <http://fr.dbpedia.org/resource/David_Faiman>,
+        <http://rdf.freebase.com/ns/m.057_k0_>,
+        <http://wikidata.dbpedia.org/resource/Q5233524>,
+        <http://www.wikidata.org/entity/Q5233524>,
+        <http://yago-knowledge.org/resource/David_Faiman> .
+
+<http://data.judaicalink.org/data/dbpedia/Dennis_Gabor> a foaf:Person ;
+    jl:hasLabel "Dennis Gabor@en",
+        "Dennis Gabor@es",
+        "Dennis Gabor@fr",
+        "Dennis Gabor@it",
+        "Dennis Gabor@nl",
+        "Dennis Gabor@pl",
+        "Dennis Gabor@pt",
+        "Dennis Gábor@de",
+        "Габор, Денеш@ru",
+        "دنيس غابور@ar",
+        "ガーボル・デーネシュ@ja",
+        "丹尼斯·加博尔@zh" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Dennis_Gabor>,
+        <http://data.europa.eu/euodp/jrc-names/G%C3%A1bor_D%C3%A9nes>,
+        <http://dbpedia.org/resource/Dennis_Gabor>,
+        <http://de.dbpedia.org/resource/Dennis_Gábor>,
+        <http://el.dbpedia.org/resource/Ντένις_Γκέιμπορ>,
+        <http://es.dbpedia.org/resource/Dennis_Gabor>,
+        <http://eu.dbpedia.org/resource/Dennis_Gabor>,
+        <http://fr.dbpedia.org/resource/Dennis_Gabor>,
+        <http://id.dbpedia.org/resource/Dennis_Gabor>,
+        <http://it.dbpedia.org/resource/Dennis_Gabor>,
+        <http://ja.dbpedia.org/resource/ガーボル・デーネシュ>,
+        <http://ko.dbpedia.org/resource/데니스_가보르>,
+        <http://nl.dbpedia.org/resource/Dennis_Gabor>,
+        <http://pl.dbpedia.org/resource/Dennis_Gabor>,
+        <http://pt.dbpedia.org/resource/Dennis_Gabor>,
+        <http://rdf.freebase.com/ns/m.01791s>,
+        <http://viaf.org/viaf/108278850>,
+        <http://wikidata.dbpedia.org/resource/Q155786>,
+        <http://www.wikidata.org/entity/Q155786>,
+        <http://yago-knowledge.org/resource/Dennis_Gabor> .
+
+<http://data.judaicalink.org/data/dbpedia/Eugene_Kleiner> a foaf:Person ;
+    jl:hasLabel "Eugene Kleiner@de",
+        "Eugene Kleiner@en" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Eugene_Kleiner>,
+        <http://de.dbpedia.org/resource/Eugene_Kleiner>,
+        <http://id.dbpedia.org/resource/Eugene_Kleiner>,
+        <http://rdf.freebase.com/ns/m.02182v>,
+        <http://viaf.org/viaf/207069747>,
+        <http://wikidata.dbpedia.org/resource/Q1261225>,
+        <http://www.wikidata.org/entity/Q1261225>,
+        <http://yago-knowledge.org/resource/Eugene_Kleiner> .
+
+<http://data.judaicalink.org/data/dbpedia/Henry_Kressel> a foaf:Person ;
+    jl:hasLabel "Henry Kressel@en" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Henry_Kressel>,
+        <http://rdf.freebase.com/ns/m.0h_dc0f>,
+        <http://wikidata.dbpedia.org/resource/Q5724485>,
+        <http://www.wikidata.org/entity/Q5724485>,
+        <http://yago-knowledge.org/resource/Henry_Kressel> .
+
+<http://data.judaicalink.org/data/dbpedia/L._Rafael_Reif> a foaf:Person ;
+    jl:hasLabel "L. Rafael Reif@de",
+        "L. Rafael Reif@en",
+        "L. Rafael Reif@es",
+        "Leo Rafael Reif@pt" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Rafael_Reif>,
+        <http://dbpedia.org/resource/L._Rafael_Reif>,
+        <http://de.dbpedia.org/resource/L._Rafael_Reif>,
+        <http://es.dbpedia.org/resource/L._Rafael_Reif>,
+        <http://pt.dbpedia.org/resource/Leo_Rafael_Reif>,
+        <http://rdf.freebase.com/ns/m.02qtvbx>,
+        <http://wikidata.dbpedia.org/resource/Q5961301>,
+        <http://www.wikidata.org/entity/Q5961301>,
+        <http://yago-knowledge.org/resource/L._Rafael_Reif> .
+
+<http://data.judaicalink.org/data/dbpedia/Naim_Dangoor> a foaf:Person ;
+    jl:hasLabel "Naim Dangoor@en" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Naim_Dangoor>,
+        <http://rdf.freebase.com/ns/m.010pc_yz>,
+        <http://wikidata.dbpedia.org/resource/Q17183361>,
+        <http://www.wikidata.org/entity/Q17183361>,
+        <http://yago-knowledge.org/resource/Naim_Dangoor> .
+
+<http://data.judaicalink.org/data/dbpedia/Patri_Friedman> a foaf:Person ;
+    jl:hasLabel "Patri Friedman@de",
+        "Patri Friedman@en",
+        "Patri Friedman@es",
+        "Patri Friedman@fr",
+        "Patri Friedman@nl",
+        "Patri Friedman@pl",
+        "Patri Friedman@pt",
+        "Пэтри Фридман@ru" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Patri_Friedman>,
+        <http://de.dbpedia.org/resource/Patri_Friedman>,
+        <http://es.dbpedia.org/resource/Patri_Friedman>,
+        <http://fr.dbpedia.org/resource/Patri_Friedman>,
+        <http://nl.dbpedia.org/resource/Patri_Friedman>,
+        <http://pl.dbpedia.org/resource/Patri_Friedman>,
+        <http://pt.dbpedia.org/resource/Patri_Friedman>,
+        <http://rdf.freebase.com/ns/m.04cqxy4>,
+        <http://wikidata.dbpedia.org/resource/Q1367942>,
+        <http://www.wikidata.org/entity/Q1367942>,
+        <http://yago-knowledge.org/resource/Patri_Friedman> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Soros> a foaf:Person ;
+    jl:hasLabel "Paul Soros@en" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Paul_Soros>,
+        <http://rdf.freebase.com/ns/m.03wqt04>,
+        <http://wikidata.dbpedia.org/resource/Q15062789>,
+        <http://www.wikidata.org/entity/Q15062789>,
+        <http://yago-knowledge.org/resource/Paul_Soros> .
+
+<http://data.judaicalink.org/data/dbpedia/Peter_Munk> a foaf:Person ;
+    jl:hasLabel "Peter Munk@en",
+        "Peter Munk@fr" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Peter_Munk>,
+        <http://dbpedia.org/resource/Peter_Munk>,
+        <http://fr.dbpedia.org/resource/Peter_Munk>,
+        <http://rdf.freebase.com/ns/m.03w679>,
+        <http://viaf.org/viaf/70010016>,
+        <http://wikidata.dbpedia.org/resource/Q2158383>,
+        <http://www.wikidata.org/entity/Q2158383>,
+        <http://yago-knowledge.org/resource/Peter_Munk> .
+
+<http://data.judaicalink.org/data/dbpedia/Ralph_H._Baer> a foaf:Person ;
+    jl:hasLabel "Ralph Baer@de",
+        "Ralph Baer@fr",
+        "Ralph Baer@it",
+        "Ralph Baer@nl",
+        "Ralph Baer@pl",
+        "Ralph Baer@pt",
+        "Ralph H. Baer@en",
+        "Ralph H. Baer@es",
+        "Баер, Ральф@ru",
+        "رالف باير@ar",
+        "ラルフ・ベア@ja",
+        "拉夫·亨利·贝尔@zh" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Ralph_H._Baer>,
+        <http://de.dbpedia.org/resource/Ralph_Baer>,
+        <http://el.dbpedia.org/resource/Ραλφ_Μπάερ>,
+        <http://es.dbpedia.org/resource/Ralph_H._Baer>,
+        <http://eu.dbpedia.org/resource/Ralph_Henry_Baer>,
+        <http://fr.dbpedia.org/resource/Ralph_Baer>,
+        <http://it.dbpedia.org/resource/Ralph_Baer>,
+        <http://ja.dbpedia.org/resource/ラルフ・ベア>,
+        <http://ko.dbpedia.org/resource/랠프_베어>,
+        <http://nl.dbpedia.org/resource/Ralph_Baer>,
+        <http://pl.dbpedia.org/resource/Ralph_Baer>,
+        <http://pt.dbpedia.org/resource/Ralph_Baer>,
+        <http://rdf.freebase.com/ns/m.01qtn3>,
+        <http://wikidata.dbpedia.org/resource/Q70997>,
+        <http://www.wikidata.org/entity/Q70997>,
+        <http://yago-knowledge.org/resource/Ralph_H._Baer> .
+
+<http://data.judaicalink.org/data/dbpedia/Rube_Goldberg> a foaf:Person ;
+    jl:hasLabel "Rube Goldberg (cartoonist)@nl",
+        "Rube Goldberg@de",
+        "Rube Goldberg@en",
+        "Rube Goldberg@es",
+        "Rube Goldberg@fr",
+        "Rube Goldberg@it",
+        "Rube Goldberg@pl",
+        "Rube Goldberg@pt",
+        "Голдберг, Руб@ru",
+        "روب جولدبيرج@ar",
+        "魯布·戈德堡@zh" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Rube_Goldberg>,
+        <http://de.dbpedia.org/resource/Rube_Goldberg>,
+        <http://es.dbpedia.org/resource/Rube_Goldberg>,
+        <http://fr.dbpedia.org/resource/Rube_Goldberg>,
+        <http://id.dbpedia.org/resource/Rube_Goldberg>,
+        <http://it.dbpedia.org/resource/Rube_Goldberg>,
+        <http://ko.dbpedia.org/resource/루브_골드버그>,
+        <http://nl.dbpedia.org/resource/Rube_Goldberg_(cartoonist)>,
+        <http://pl.dbpedia.org/resource/Rube_Goldberg>,
+        <http://pt.dbpedia.org/resource/Rube_Goldberg>,
+        <http://rdf.freebase.com/ns/m.06ft7>,
+        <http://sw.cyc.com/concept/Mx4rvhrIGJwpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q505850>,
+        <http://www.wikidata.org/entity/Q505850>,
+        <http://yago-knowledge.org/resource/Rube_Goldberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Simcha_Blass> a foaf:Person ;
+    jl:hasLabel "Simcha Blass@en" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Simcha_Blass>,
+        <http://id.dbpedia.org/resource/Simcha_Blass>,
+        <http://rdf.freebase.com/ns/m.0b96tl>,
+        <http://wikidata.dbpedia.org/resource/Q2911493>,
+        <http://www.wikidata.org/entity/Q2911493>,
+        <http://yago-knowledge.org/resource/Simcha_Blass> .
+
+<http://data.judaicalink.org/data/dbpedia/Umberto_Colombo_(scientist)> a foaf:Person ;
+    jl:hasLabel "Umberto Colombo (scientist)@en",
+        "Umberto Colombo@fr",
+        "Umberto Colombo@it" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Umberto_Colombo_(scientist)>,
+        <http://fr.dbpedia.org/resource/Umberto_Colombo>,
+        <http://it.dbpedia.org/resource/Umberto_Colombo>,
+        <http://rdf.freebase.com/ns/m.0tkhdly>,
+        <http://wikidata.dbpedia.org/resource/Q786339>,
+        <http://www.wikidata.org/entity/Q786339>,
+        <http://yago-knowledge.org/resource/Umberto_Colombo_(scientist)> .
+
+<http://data.judaicalink.org/data/dbpedia/Victor_Wouk> a foaf:Person ;
+    jl:hasLabel "Victor Wouk@en",
+        "Víctor Wouk@es",
+        "Воук, Виктор@ru" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Victor_Wouk>,
+        <http://es.dbpedia.org/resource/Víctor_Wouk>,
+        <http://rdf.freebase.com/ns/m.0dl6fh>,
+        <http://viaf.org/viaf/78259939>,
+        <http://wikidata.dbpedia.org/resource/Q2893984>,
+        <http://www.wikidata.org/entity/Q2893984>,
+        <http://yago-knowledge.org/resource/Victor_Wouk> .
+
+<http://data.judaicalink.org/data/dbpedia/Walter_Freud> a foaf:Person ;
+    jl:hasLabel "Anton Walter Freud@de",
+        "Walter Freud@en" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Walter_Freud>,
+        <http://de.dbpedia.org/resource/Anton_Walter_Freud>,
+        <http://rdf.freebase.com/ns/m.0bh7kl0>,
+        <http://wikidata.dbpedia.org/resource/Q214545>,
+        <http://www.wikidata.org/entity/Q214545>,
+        <http://yago-knowledge.org/resource/Walter_Freud> .
+
+<http://data.judaicalink.org/data/dbpedia/Yossi_Gross> a foaf:Person ;
+    jl:hasLabel "Yossi Gross@en" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Yossi_Gross>,
+        <http://rdf.freebase.com/ns/m.063yhws>,
+        <http://wikidata.dbpedia.org/resource/Q8056371>,
+        <http://www.wikidata.org/entity/Q8056371>,
+        <http://yago-knowledge.org/resource/Yossi_Gross> .
+
+<http://data.judaicalink.org/data/dbpedia/Zvi_Preigerzon> a foaf:Person ;
+    jl:hasLabel "Zvi Preigerzon@en",
+        "Прейгерзон, Григорий Израилевич@ru" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Zvi_Preigerzon>,
+        <http://wikidata.dbpedia.org/resource/Q4376864>,
+        <http://www.wikidata.org/entity/Q4376864> .
+
+<http://data.judaicalink.org/data/dbpedia/Üzeyir_Garih> a foaf:Person ;
+    jl:hasLabel "Üzeyir Garih@en" ;
+    jl:occupation "Jewish engineers" ;
+    owl:sameAs <http://dbpedia.org/resource/Üzeyir_Garih>,
+        <http://rdf.freebase.com/ns/m.027vx14>,
+        <http://wikidata.dbpedia.org/resource/Q8079499>,
+        <http://www.wikidata.org/entity/Q8079499>,
+        <http://yago-knowledge.org/resource/Üzeyir_Garih> .
+

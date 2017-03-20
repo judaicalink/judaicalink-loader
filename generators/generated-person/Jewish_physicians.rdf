@@ -1,0 +1,779 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Aaron_Cohen-Gadol> a foaf:Person ;
+    jl:hasLabel "Aaron Cohen-Gadol@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Aaron_Cohen-Gadol>,
+        <http://rdf.freebase.com/ns/m.0kvd6gw>,
+        <http://wikidata.dbpedia.org/resource/Q4661922>,
+        <http://www.wikidata.org/entity/Q4661922>,
+        <http://yago-knowledge.org/resource/Aaron_Cohen-Gadol> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_Cohen_of_Zante> a foaf:Person ;
+    jl:hasLabel "Abraham Cohen of Zante@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_Cohen_of_Zante>,
+        <http://rdf.freebase.com/ns/m.0n50j2s>,
+        <http://viaf.org/viaf/189713791>,
+        <http://wikidata.dbpedia.org/resource/Q4668813>,
+        <http://www.wikidata.org/entity/Q4668813>,
+        <http://yago-knowledge.org/resource/Abraham_Cohen_of_Zante> .
+
+<http://data.judaicalink.org/data/dbpedia/Adam_Zamenhof> a foaf:Person ;
+    jl:hasLabel "Adam Zamenhof@en",
+        "Adam Zamenhof@es",
+        "Adam Zamenhof@pl",
+        "Заменгоф, Адам Лазаревич@ru" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Adam_Zamenhof>,
+        <http://es.dbpedia.org/resource/Adam_Zamenhof>,
+        <http://pl.dbpedia.org/resource/Adam_Zamenhof>,
+        <http://rdf.freebase.com/ns/m.06w85jg>,
+        <http://viaf.org/viaf/164356565>,
+        <http://wikidata.dbpedia.org/resource/Q2604162>,
+        <http://www.wikidata.org/entity/Q2604162>,
+        <http://yago-knowledge.org/resource/Adam_Zamenhof> .
+
+<http://data.judaicalink.org/data/dbpedia/Aletta_Jacobs> a foaf:Person ;
+    jl:hasLabel "Aletta Jacobs@de",
+        "Aletta Jacobs@en",
+        "Aletta Jacobs@fr",
+        "Aletta Jacobs@it",
+        "Aletta Jacobs@nl",
+        "Aletta Jacobs@pl" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Aletta_Jacobsová>,
+        <http://dbpedia.org/resource/Aletta_Jacobs>,
+        <http://de.dbpedia.org/resource/Aletta_Jacobs>,
+        <http://el.dbpedia.org/resource/Αλέτα_Ενριέτα_Γιάκομπς>,
+        <http://fr.dbpedia.org/resource/Aletta_Jacobs>,
+        <http://it.dbpedia.org/resource/Aletta_Jacobs>,
+        <http://nl.dbpedia.org/resource/Aletta_Jacobs>,
+        <http://pl.dbpedia.org/resource/Aletta_Jacobs>,
+        <http://rdf.freebase.com/ns/m.0b3dd2>,
+        <http://viaf.org/viaf/18028895>,
+        <http://wikidata.dbpedia.org/resource/Q463478>,
+        <http://www.wikidata.org/entity/Q463478>,
+        <http://yago-knowledge.org/resource/Aletta_Jacobs> .
+
+<http://data.judaicalink.org/data/dbpedia/Alfred_Alexander> a foaf:Person ;
+    jl:hasLabel "Alfred Alexander@de",
+        "Alfred Alexander@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Alfred_Alexander>,
+        <http://de.dbpedia.org/resource/Alfred_Alexander>,
+        <http://rdf.freebase.com/ns/m.0dddnrd>,
+        <http://wikidata.dbpedia.org/resource/Q4722211>,
+        <http://www.wikidata.org/entity/Q4722211>,
+        <http://yago-knowledge.org/resource/Alfred_Alexander> .
+
+<http://data.judaicalink.org/data/dbpedia/Arie_Belldegrun> a foaf:Person ;
+    jl:hasLabel "Arie Belldegrun@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Arie_Belldegrun>,
+        <http://rdf.freebase.com/ns/m.03wv6qw>,
+        <http://wikidata.dbpedia.org/resource/Q16142549>,
+        <http://www.wikidata.org/entity/Q16142549>,
+        <http://yago-knowledge.org/resource/Arie_Belldegrun> .
+
+<http://data.judaicalink.org/data/dbpedia/Arnold_Rice_Rich> a foaf:Person ;
+    jl:hasLabel "Arnold Rice Rich@de",
+        "Arnold Rice Rich@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Arnold_Rice_Rich>,
+        <http://de.dbpedia.org/resource/Arnold_Rice_Rich>,
+        <http://rdf.freebase.com/ns/m.0cm_l4>,
+        <http://viaf.org/viaf/84860184>,
+        <http://wikidata.dbpedia.org/resource/Q513329>,
+        <http://www.wikidata.org/entity/Q513329>,
+        <http://yago-knowledge.org/resource/Arnold_Rice_Rich> .
+
+<http://data.judaicalink.org/data/dbpedia/Asaph_the_Jew> a foaf:Person ;
+    jl:hasLabel "Asaph the Jew@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Asaph_the_Jew>,
+        <http://rdf.freebase.com/ns/m.0j9ll7r>,
+        <http://wikidata.dbpedia.org/resource/Q4803574>,
+        <http://www.wikidata.org/entity/Q4803574>,
+        <http://yago-knowledge.org/resource/Asaph_the_Jew> .
+
+<http://data.judaicalink.org/data/dbpedia/Baruch_Goldstein> a foaf:Person ;
+    jl:hasLabel "Baruch Goldstein@de",
+        "Baruch Goldstein@en",
+        "Baruch Goldstein@es",
+        "Baruch Goldstein@fr",
+        "Baruch Goldstein@it",
+        "Baruch Goldstein@nl",
+        "Baruch Goldstein@pl",
+        "Baruch Goldstein@pt",
+        "Гольдштейн, Барух@ru",
+        "باروخ جولدشتاين@ar",
+        "バールーフ・ゴールドシュテイン@ja" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Baruch_Goldstein>,
+        <http://data.europa.eu/euodp/jrc-names/Baruch_Goldstein>,
+        <http://dbpedia.org/resource/Baruch_Goldstein>,
+        <http://de.dbpedia.org/resource/Baruch_Goldstein>,
+        <http://es.dbpedia.org/resource/Baruch_Goldstein>,
+        <http://fr.dbpedia.org/resource/Baruch_Goldstein>,
+        <http://it.dbpedia.org/resource/Baruch_Goldstein>,
+        <http://ja.dbpedia.org/resource/バールーフ・ゴールドシュテイン>,
+        <http://nl.dbpedia.org/resource/Baruch_Goldstein>,
+        <http://pl.dbpedia.org/resource/Baruch_Goldstein>,
+        <http://pt.dbpedia.org/resource/Baruch_Goldstein>,
+        <http://rdf.freebase.com/ns/m.0hqz9>,
+        <http://viaf.org/viaf/30343001>,
+        <http://wikidata.dbpedia.org/resource/Q380435>,
+        <http://www.wikidata.org/entity/Q380435>,
+        <http://yago-knowledge.org/resource/Baruch_Goldstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Charles_Krauthammer> a foaf:Person ;
+    jl:hasLabel "Charles Krauthammer@de",
+        "Charles Krauthammer@en",
+        "Charles Krauthammer@fr",
+        "Charles Krauthammer@it",
+        "Charles Krauthammer@pl",
+        "Краутхаммер, Чарльз@ru",
+        "チャールズ・クラウトハマー@ja" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Charles_Krauthammer>,
+        <http://dbpedia.org/resource/Charles_Krauthammer>,
+        <http://de.dbpedia.org/resource/Charles_Krauthammer>,
+        <http://fr.dbpedia.org/resource/Charles_Krauthammer>,
+        <http://it.dbpedia.org/resource/Charles_Krauthammer>,
+        <http://ja.dbpedia.org/resource/チャールズ・クラウトハマー>,
+        <http://ko.dbpedia.org/resource/찰스_크라우트해머>,
+        <http://pl.dbpedia.org/resource/Charles_Krauthammer>,
+        <http://rdf.freebase.com/ns/m.02m4d4>,
+        <http://wikidata.dbpedia.org/resource/Q1065216>,
+        <http://www.wikidata.org/entity/Q1065216>,
+        <http://yago-knowledge.org/resource/Charles_Krauthammer> .
+
+<http://data.judaicalink.org/data/dbpedia/Clara_Raven> a foaf:Person ;
+    jl:hasLabel "Clara Raven@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Clara_Raven>,
+        <http://wikidata.dbpedia.org/resource/Q21997106>,
+        <http://www.wikidata.org/entity/Q21997106> .
+
+<http://data.judaicalink.org/data/dbpedia/Donald_J._Cohen> a foaf:Person ;
+    jl:hasLabel "Donald J. Cohen@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Donald_J._Cohen>,
+        <http://rdf.freebase.com/ns/m.05w59y6>,
+        <http://viaf.org/viaf/5023034>,
+        <http://wikidata.dbpedia.org/resource/Q5294556>,
+        <http://www.wikidata.org/entity/Q5294556>,
+        <http://yago-knowledge.org/resource/Donald_J._Cohen> .
+
+<http://data.judaicalink.org/data/dbpedia/Eugen_Miskolczy> a foaf:Person ;
+    jl:hasLabel "Eugen Miskolczy@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Eugen_Miskolczy>,
+        <http://rdf.freebase.com/ns/m.0r4vvz9>,
+        <http://wikidata.dbpedia.org/resource/Q5406941>,
+        <http://www.wikidata.org/entity/Q5406941>,
+        <http://yago-knowledge.org/resource/Eugen_Miskolczy> .
+
+<http://data.judaicalink.org/data/dbpedia/Fredric_Brandt> a foaf:Person ;
+    jl:hasLabel "Fredric Brandt@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Fredric_Brandt>,
+        <http://rdf.freebase.com/ns/m.0_1kcz1>,
+        <http://wikidata.dbpedia.org/resource/Q16142589>,
+        <http://www.wikidata.org/entity/Q16142589>,
+        <http://yago-knowledge.org/resource/Dr._Fredric_Brandt> .
+
+<http://data.judaicalink.org/data/dbpedia/Gavriil_Ilizarov> a foaf:Person ;
+    jl:hasLabel "Gavriil Ilizarov@en",
+        "Gavriil Ilizarov@pt",
+        "Gavriil Ilizárov@es",
+        "Gavril Ilizarov@it",
+        "Gawriil Abramowitsch Ilisarow@de",
+        "Gawriił Ilizarow@pl",
+        "Илизаров, Гавриил Абрамович@ru",
+        "غافرييل إليزاروف@ar",
+        "ガブリル・イリザロフ@ja",
+        "加夫里尔·伊里扎洛夫@zh" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Gavriil_Ilizarov>,
+        <http://de.dbpedia.org/resource/Gawriil_Abramowitsch_Ilisarow>,
+        <http://es.dbpedia.org/resource/Gavriil_Ilizárov>,
+        <http://it.dbpedia.org/resource/Gavril_Ilizarov>,
+        <http://ja.dbpedia.org/resource/ガブリル・イリザロフ>,
+        <http://ko.dbpedia.org/resource/가브릴_일리자로프>,
+        <http://pl.dbpedia.org/resource/Gawriił_Ilizarow>,
+        <http://pt.dbpedia.org/resource/Gavriil_Ilizarov>,
+        <http://rdf.freebase.com/ns/m.0d5qyb>,
+        <http://wikidata.dbpedia.org/resource/Q370260>,
+        <http://www.wikidata.org/entity/Q370260>,
+        <http://yago-knowledge.org/resource/Gavriil_Ilizarov> .
+
+<http://data.judaicalink.org/data/dbpedia/Gisela_Januszewska> a foaf:Person ;
+    jl:hasLabel "Gisela Januszewska@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Gisela_Januszewska>,
+        <http://wikidata.dbpedia.org/resource/Q22018748>,
+        <http://www.wikidata.org/entity/Q22018748> .
+
+<http://data.judaicalink.org/data/dbpedia/Iddo_Netanyahu> a foaf:Person ;
+    jl:hasLabel "Iddo Netanjahu@de",
+        "Iddo Netanyahu@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ido_Netanjahu>,
+        <http://dbpedia.org/resource/Iddo_Netanyahu>,
+        <http://de.dbpedia.org/resource/Iddo_Netanjahu>,
+        <http://rdf.freebase.com/ns/m.04_pph>,
+        <http://viaf.org/viaf/11105450>,
+        <http://wikidata.dbpedia.org/resource/Q504105>,
+        <http://www.wikidata.org/entity/Q504105>,
+        <http://yago-knowledge.org/resource/Iddo_Netanyahu> .
+
+<http://data.judaicalink.org/data/dbpedia/Irving_Moskowitz> a foaf:Person ;
+    jl:hasLabel "Irving Moskowitz@en",
+        "Irving Moskowitz@pt",
+        "ايرفينغ موسكوفيتش@ar" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Irving_Moskowitz>,
+        <http://dbpedia.org/resource/Irving_Moskowitz>,
+        <http://pt.dbpedia.org/resource/Irving_Moskowitz>,
+        <http://rdf.freebase.com/ns/m.06zp8y5>,
+        <http://wikidata.dbpedia.org/resource/Q249189>,
+        <http://www.wikidata.org/entity/Q249189>,
+        <http://yago-knowledge.org/resource/Irving_Moskowitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Izidor_Perera-Matić> a foaf:Person ;
+    jl:hasLabel "Izidor Perera-Matić@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Izidor_Perera-Matić>,
+        <http://rdf.freebase.com/ns/m.0pk_lry>,
+        <http://wikidata.dbpedia.org/resource/Q6102020>,
+        <http://www.wikidata.org/entity/Q6102020>,
+        <http://yago-knowledge.org/resource/Izidor_Perera-Matić> .
+
+<http://data.judaicalink.org/data/dbpedia/Jakob_Altaras> a foaf:Person ;
+    jl:hasLabel "Jakob Altaras@de",
+        "Jakob Altaras@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Jakob_Altaras>,
+        <http://de.dbpedia.org/resource/Jakob_Altaras>,
+        <http://rdf.freebase.com/ns/m.0vzvdj3>,
+        <http://wikidata.dbpedia.org/resource/Q14550101>,
+        <http://www.wikidata.org/entity/Q14550101>,
+        <http://yago-knowledge.org/resource/Jakob_Altaras> .
+
+<http://data.judaicalink.org/data/dbpedia/Jill_Stein> a foaf:Person ;
+    jl:hasLabel "Jill Stein@de",
+        "Jill Stein@en",
+        "Jill Stein@es",
+        "Jill Stein@fr",
+        "Jill Stein@pl",
+        "Jill Stein@pt",
+        "Стайн, Джилл@ru",
+        "جيل ستاين@ar",
+        "吉爾·史坦@zh" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jill_Steinová>,
+        <http://data.europa.eu/euodp/jrc-names/Jill_Stein>,
+        <http://dbpedia.org/resource/Jill_Stein>,
+        <http://de.dbpedia.org/resource/Jill_Stein>,
+        <http://es.dbpedia.org/resource/Jill_Stein>,
+        <http://fr.dbpedia.org/resource/Jill_Stein>,
+        <http://pl.dbpedia.org/resource/Jill_Stein>,
+        <http://pt.dbpedia.org/resource/Jill_Stein>,
+        <http://rdf.freebase.com/ns/m.05st_r>,
+        <http://wikidata.dbpedia.org/resource/Q235321>,
+        <http://www.wikidata.org/entity/Q235321>,
+        <http://yago-knowledge.org/resource/Jill_Stein> .
+
+<http://data.judaicalink.org/data/dbpedia/Jonas_Charles_Hermann_Freund> a foaf:Person ;
+    jl:hasLabel "Jonas Charles Hermann Freund@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Jonas_Charles_Hermann_Freund>,
+        <http://wikidata.dbpedia.org/resource/Q20810909>,
+        <http://www.wikidata.org/entity/Q20810909> .
+
+<http://data.judaicalink.org/data/dbpedia/Kalman_Mann> a foaf:Person ;
+    jl:hasLabel "Kalman Mann@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Kalman_Mann>,
+        <http://rdf.freebase.com/ns/m.010hkhc8>,
+        <http://wikidata.dbpedia.org/resource/Q16750338>,
+        <http://www.wikidata.org/entity/Q16750338>,
+        <http://yago-knowledge.org/resource/Kalman_Mann> .
+
+<http://data.judaicalink.org/data/dbpedia/Karlo_Weissmann> a foaf:Person ;
+    jl:hasLabel "Karlo Weissmann@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Karlo_Weissmann>,
+        <http://rdf.freebase.com/ns/m.0t50_91>,
+        <http://wikidata.dbpedia.org/resource/Q15998458>,
+        <http://www.wikidata.org/entity/Q15998458>,
+        <http://yago-knowledge.org/resource/Karlo_Weissmann> .
+
+<http://data.judaicalink.org/data/dbpedia/Lilli_Jahn> a foaf:Person ;
+    jl:hasLabel "Lilli Jahn@de",
+        "Lilli Jahn@en",
+        "Lilli Jahn@fr" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Lilli_Jahn>,
+        <http://de.dbpedia.org/resource/Lilli_Jahn>,
+        <http://fr.dbpedia.org/resource/Lilli_Jahn>,
+        <http://rdf.freebase.com/ns/m.04n4jns>,
+        <http://wikidata.dbpedia.org/resource/Q97167>,
+        <http://www.wikidata.org/entity/Q97167>,
+        <http://yago-knowledge.org/resource/Lilli_Jahn> .
+
+<http://data.judaicalink.org/data/dbpedia/Magnus_Hirschfeld> a foaf:Person ;
+    jl:hasLabel "Magnus Hirschfeld@de",
+        "Magnus Hirschfeld@en",
+        "Magnus Hirschfeld@es",
+        "Magnus Hirschfeld@fr",
+        "Magnus Hirschfeld@it",
+        "Magnus Hirschfeld@nl",
+        "Magnus Hirschfeld@pl",
+        "Magnus Hirschfeld@pt",
+        "Хиршфельд, Магнус@ru",
+        "マグヌス・ヒルシュフェルト@ja",
+        "马格努斯·赫希菲尔德@zh" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://de.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://es.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://fr.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://it.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://ja.dbpedia.org/resource/マグヌス・ヒルシュフェルト>,
+        <http://nl.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://pl.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://pt.dbpedia.org/resource/Magnus_Hirschfeld>,
+        <http://rdf.freebase.com/ns/m.01j141>,
+        <http://viaf.org/viaf/24616710>,
+        <http://wikidata.dbpedia.org/resource/Q57592>,
+        <http://www.wikidata.org/entity/Q57592>,
+        <http://yago-knowledge.org/resource/Magnus_Hirschfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Marie_Jonas> a foaf:Person ;
+    jl:hasLabel "Marie Jonas@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Marie_Jonas>,
+        <http://rdf.freebase.com/ns/m.05zlq5w>,
+        <http://wikidata.dbpedia.org/resource/Q13360805>,
+        <http://www.wikidata.org/entity/Q13360805>,
+        <http://yago-knowledge.org/resource/Marie_Jonas> .
+
+<http://data.judaicalink.org/data/dbpedia/Mavro_Sachs> a foaf:Person ;
+    jl:hasLabel "Mavro Sachs@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Mavro_Sachs>,
+        <http://rdf.freebase.com/ns/m.0n471b5>,
+        <http://wikidata.dbpedia.org/resource/Q6794295>,
+        <http://www.wikidata.org/entity/Q6794295>,
+        <http://yago-knowledge.org/resource/Mavro_Sachs> .
+
+<http://data.judaicalink.org/data/dbpedia/Moritz_Heinrich_Romberg> a foaf:Person ;
+    jl:hasLabel "Moritz Heinrich Romberg@de",
+        "Moritz Heinrich Romberg@en",
+        "Moritz Heinrich Romberg@fr",
+        "Moritz Heinrich Romberg@pl",
+        "Moritz Heinrich Romberg@pt",
+        "Ромберг, Мориц Генрих@ru" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Moritz_Heinrich_Romberg>,
+        <http://de.dbpedia.org/resource/Moritz_Heinrich_Romberg>,
+        <http://fr.dbpedia.org/resource/Moritz_Heinrich_Romberg>,
+        <http://pl.dbpedia.org/resource/Moritz_Heinrich_Romberg>,
+        <http://pt.dbpedia.org/resource/Moritz_Heinrich_Romberg>,
+        <http://rdf.freebase.com/ns/m.059w_d>,
+        <http://viaf.org/viaf/22898017>,
+        <http://wikidata.dbpedia.org/resource/Q65001>,
+        <http://www.wikidata.org/entity/Q65001>,
+        <http://yago-knowledge.org/resource/Moritz_Heinrich_Romberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Ognjen_Kraus> a foaf:Person ;
+    jl:hasLabel "Ognjen Kraus@de",
+        "Ognjen Kraus@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Ognjen_Kraus>,
+        <http://de.dbpedia.org/resource/Ognjen_Kraus>,
+        <http://rdf.freebase.com/ns/m.0jwzt3_>,
+        <http://wikidata.dbpedia.org/resource/Q2016204>,
+        <http://www.wikidata.org/entity/Q2016204>,
+        <http://yago-knowledge.org/resource/Ognjen_Kraus> .
+
+<http://data.judaicalink.org/data/dbpedia/Oskar_David_Ginsberger> a foaf:Person ;
+    jl:hasLabel "Oskar David Ginsberger@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Oskar_David_Ginsberger>,
+        <http://rdf.freebase.com/ns/m.0vzt2z7>,
+        <http://wikidata.dbpedia.org/resource/Q16008694>,
+        <http://www.wikidata.org/entity/Q16008694>,
+        <http://yago-knowledge.org/resource/Oskar_David_Ginsberger> .
+
+<http://data.judaicalink.org/data/dbpedia/Oskar_Fischer> a foaf:Person ;
+    jl:hasLabel "Oskar Fischer (lekarz)@pl",
+        "Oskar Fischer@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Oskar_Fischer>,
+        <http://dbpedia.org/resource/Oskar_Fischer>,
+        <http://pl.dbpedia.org/resource/Oskar_Fischer_(lekarz)>,
+        <http://rdf.freebase.com/ns/m.0m0ph27>,
+        <http://wikidata.dbpedia.org/resource/Q7106911>,
+        <http://www.wikidata.org/entity/Q7106911>,
+        <http://yago-knowledge.org/resource/Oskar_Fischer> .
+
+<http://data.judaicalink.org/data/dbpedia/Otto_Fritz_Meyerhof> a foaf:Person ;
+    jl:hasLabel "Otto Fritz Meyerhof@de",
+        "Otto Fritz Meyerhof@en",
+        "Otto Fritz Meyerhof@es",
+        "Otto Fritz Meyerhof@fr",
+        "Otto Fritz Meyerhof@it",
+        "Otto Fritz Meyerhof@nl",
+        "Otto Fritz Meyerhof@pt",
+        "Otto Meyerhof@pl",
+        "Мейергоф, Отто@ru",
+        "أوتو مايرهوف@ar",
+        "オットー・マイヤーホフ@ja",
+        "奧托·邁爾霍夫@zh" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Otto_Fritz_Meyerhof>,
+        <http://dbpedia.org/resource/Otto_Fritz_Meyerhof>,
+        <http://de.dbpedia.org/resource/Otto_Fritz_Meyerhof>,
+        <http://es.dbpedia.org/resource/Otto_Fritz_Meyerhof>,
+        <http://fr.dbpedia.org/resource/Otto_Fritz_Meyerhof>,
+        <http://id.dbpedia.org/resource/Otto_Meyerhof>,
+        <http://it.dbpedia.org/resource/Otto_Fritz_Meyerhof>,
+        <http://ja.dbpedia.org/resource/オットー・マイヤーホフ>,
+        <http://ko.dbpedia.org/resource/오토_프리츠_마이어호프>,
+        <http://nl.dbpedia.org/resource/Otto_Fritz_Meyerhof>,
+        <http://pl.dbpedia.org/resource/Otto_Meyerhof>,
+        <http://pt.dbpedia.org/resource/Otto_Fritz_Meyerhof>,
+        <http://rdf.freebase.com/ns/m.02dzxn>,
+        <http://viaf.org/viaf/47557159>,
+        <http://wikidata.dbpedia.org/resource/Q57132>,
+        <http://www.wikidata.org/entity/Q57132>,
+        <http://yago-knowledge.org/resource/Otto_Fritz_Meyerhof> .
+
+<http://data.judaicalink.org/data/dbpedia/Rebecka_Belldegrun> a foaf:Person ;
+    jl:hasLabel "Rebecka Belldegrun@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Rebecka_Belldegrun>,
+        <http://rdf.freebase.com/ns/m.0w1bp3b>,
+        <http://wikidata.dbpedia.org/resource/Q13560773>,
+        <http://www.wikidata.org/entity/Q13560773>,
+        <http://yago-knowledge.org/resource/Rebecka_Belldegrun> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Lefkowitz> a foaf:Person ;
+    jl:hasLabel "Robert Lefkowitz@de",
+        "Robert Lefkowitz@en",
+        "Robert Lefkowitz@es",
+        "Robert Lefkowitz@fr",
+        "Robert Lefkowitz@it",
+        "Robert Lefkowitz@nl",
+        "Robert Lefkowitz@pl",
+        "Robert Lefkowitz@pt",
+        "Лефковиц, Роберт@ru",
+        "روبرت ليفكوويتز@ar",
+        "ロバート・レフコウィッツ@ja",
+        "罗伯特·莱夫科维茨@zh" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Robert_Lefkowitz>,
+        <http://data.europa.eu/euodp/jrc-names/Robert_Lefkowitz>,
+        <http://dbpedia.org/resource/Robert_Lefkowitz>,
+        <http://de.dbpedia.org/resource/Robert_Lefkowitz>,
+        <http://es.dbpedia.org/resource/Robert_Lefkowitz>,
+        <http://fr.dbpedia.org/resource/Robert_Lefkowitz>,
+        <http://id.dbpedia.org/resource/Robert_J._Lefkowitz>,
+        <http://it.dbpedia.org/resource/Robert_Lefkowitz>,
+        <http://ja.dbpedia.org/resource/ロバート・レフコウィッツ>,
+        <http://ko.dbpedia.org/resource/로버트_레프코위츠>,
+        <http://nl.dbpedia.org/resource/Robert_Lefkowitz>,
+        <http://pl.dbpedia.org/resource/Robert_Lefkowitz>,
+        <http://pt.dbpedia.org/resource/Robert_Lefkowitz>,
+        <http://rdf.freebase.com/ns/m.02rrphl>,
+        <http://wikidata.dbpedia.org/resource/Q80910>,
+        <http://www.wikidata.org/entity/Q80910>,
+        <http://yago-knowledge.org/resource/Robert_Lefkowitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Rudolph_Nissen> a foaf:Person ;
+    jl:hasLabel "Rudolf Nissen@de",
+        "Rudolf Nissen@fr",
+        "Rudolph Nissen@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Rudolph_Nissen>,
+        <http://de.dbpedia.org/resource/Rudolf_Nissen>,
+        <http://fr.dbpedia.org/resource/Rudolf_Nissen>,
+        <http://rdf.freebase.com/ns/m.0wxy8vq>,
+        <http://wikidata.dbpedia.org/resource/Q103902>,
+        <http://www.wikidata.org/entity/Q103902>,
+        <http://yago-knowledge.org/resource/Rudolph_Nissen> .
+
+<http://data.judaicalink.org/data/dbpedia/Róbert_Bárány> a foaf:Person ;
+    jl:hasLabel "Robert Bárány@de",
+        "Robert Bárány@es",
+        "Robert Bárány@fr",
+        "Robert Bárány@it",
+        "Robert Bárány@nl",
+        "Robert Bárány@pl",
+        "Robert Bárány@pt",
+        "Róbert Bárány@en",
+        "Барани, Роберт@ru",
+        "روبرت باراني@ar",
+        "ローベルト・バーラーニ@ja",
+        "羅伯特·巴拉尼@zh" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Robert_Bárány>,
+        <http://dbpedia.org/resource/Róbert_Bárány>,
+        <http://de.dbpedia.org/resource/Robert_Bárány>,
+        <http://es.dbpedia.org/resource/Robert_Bárány>,
+        <http://eu.dbpedia.org/resource/Robert_Barany>,
+        <http://fr.dbpedia.org/resource/Robert_Bárány>,
+        <http://id.dbpedia.org/resource/Robert_Bárány>,
+        <http://it.dbpedia.org/resource/Robert_Bárány>,
+        <http://ja.dbpedia.org/resource/ローベルト・バーラーニ>,
+        <http://nl.dbpedia.org/resource/Robert_Bárány>,
+        <http://pl.dbpedia.org/resource/Robert_Bárány>,
+        <http://pt.dbpedia.org/resource/Robert_Bárány>,
+        <http://rdf.freebase.com/ns/m.01jvhy>,
+        <http://viaf.org/viaf/20478889>,
+        <http://wikidata.dbpedia.org/resource/Q78478>,
+        <http://www.wikidata.org/entity/Q78478>,
+        <http://yago-knowledge.org/resource/Robert_Bárány>,
+        <http://yago-knowledge.org/resource/Róbert_Bárány> .
+
+<http://data.judaicalink.org/data/dbpedia/Samuel_Sarphati> a foaf:Person ;
+    jl:hasLabel "Samuel Sarphati@en",
+        "Samuel Sarphati@es",
+        "Samuel Sarphati@fr",
+        "Samuel Sarphati@nl" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Samuel_Sarphati>,
+        <http://es.dbpedia.org/resource/Samuel_Sarphati>,
+        <http://fr.dbpedia.org/resource/Samuel_Sarphati>,
+        <http://nl.dbpedia.org/resource/Samuel_Sarphati>,
+        <http://rdf.freebase.com/ns/m.0d13x5>,
+        <http://viaf.org/viaf/50310675>,
+        <http://wikidata.dbpedia.org/resource/Q1997527>,
+        <http://www.wikidata.org/entity/Q1997527>,
+        <http://yago-knowledge.org/resource/Samuel_Sarphati> .
+
+<http://data.judaicalink.org/data/dbpedia/Shimon_Glick> a foaf:Person ;
+    jl:hasLabel "Shimon Glick@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Shimon_Glick>,
+        <http://rdf.freebase.com/ns/m.01262dsy>,
+        <http://wikidata.dbpedia.org/resource/Q6990169>,
+        <http://www.wikidata.org/entity/Q6990169> .
+
+<http://data.judaicalink.org/data/dbpedia/Sidney_Farber> a foaf:Person ;
+    jl:hasLabel "Sidney Farber@de",
+        "Sidney Farber@en",
+        "Sidney Farber@es",
+        "Sidney Farber@it",
+        "Sidney Farber@pl",
+        "Фарбер, Сидни@ru" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Sidney_Farber>,
+        <http://de.dbpedia.org/resource/Sidney_Farber>,
+        <http://es.dbpedia.org/resource/Sidney_Farber>,
+        <http://it.dbpedia.org/resource/Sidney_Farber>,
+        <http://pl.dbpedia.org/resource/Sidney_Farber>,
+        <http://rdf.freebase.com/ns/m.066lt3>,
+        <http://wikidata.dbpedia.org/resource/Q2281920>,
+        <http://www.wikidata.org/entity/Q2281920>,
+        <http://yago-knowledge.org/resource/Sidney_Farber> .
+
+<http://data.judaicalink.org/data/dbpedia/Simon_Baruch> a foaf:Person ;
+    jl:hasLabel "Simon Baruch@de",
+        "Simon Baruch@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Simon_Baruch>,
+        <http://de.dbpedia.org/resource/Simon_Baruch>,
+        <http://rdf.freebase.com/ns/m.05wbzyh>,
+        <http://wikidata.dbpedia.org/resource/Q1465166>,
+        <http://www.wikidata.org/entity/Q1465166>,
+        <http://yago-knowledge.org/resource/Simon_Baruch> .
+
+<http://data.judaicalink.org/data/dbpedia/Simon_Flexner> a foaf:Person ;
+    jl:hasLabel "Simon Flexner@de",
+        "Simon Flexner@en",
+        "Simon Flexner@es",
+        "Simon Flexner@pl",
+        "Simon Flexner@pt",
+        "سايمون فلكسنر@ar",
+        "サイモン・フレクスナー@ja" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Simon_Flexner>,
+        <http://de.dbpedia.org/resource/Simon_Flexner>,
+        <http://es.dbpedia.org/resource/Simon_Flexner>,
+        <http://ja.dbpedia.org/resource/サイモン・フレクスナー>,
+        <http://pl.dbpedia.org/resource/Simon_Flexner>,
+        <http://pt.dbpedia.org/resource/Simon_Flexner>,
+        <http://rdf.freebase.com/ns/m.06vxw>,
+        <http://viaf.org/viaf/84799509>,
+        <http://wikidata.dbpedia.org/resource/Q984262>,
+        <http://www.wikidata.org/entity/Q984262>,
+        <http://yago-knowledge.org/resource/Simon_Flexner> .
+
+<http://data.judaicalink.org/data/dbpedia/Slavko_Hirsch> a foaf:Person ;
+    jl:hasLabel "Slavko Hirsch@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Slavko_Hirsch>,
+        <http://rdf.freebase.com/ns/m.0t51yb_>,
+        <http://wikidata.dbpedia.org/resource/Q15996277>,
+        <http://www.wikidata.org/entity/Q15996277>,
+        <http://yago-knowledge.org/resource/Slavko_Hirsch> .
+
+<http://data.judaicalink.org/data/dbpedia/Slobodan_Lang> a foaf:Person ;
+    jl:hasLabel "Slobodan Lang@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Slobodan_Lang>,
+        <http://rdf.freebase.com/ns/m.0fphwdd>,
+        <http://wikidata.dbpedia.org/resource/Q7541165>,
+        <http://www.wikidata.org/entity/Q7541165>,
+        <http://yago-knowledge.org/resource/Slobodan_Lang> .
+
+<http://data.judaicalink.org/data/dbpedia/Stanislas_Hernisz> a foaf:Person ;
+    jl:hasLabel "Stanislas Hernisz@en",
+        "Stanisław Hernisz@de",
+        "Stanisław Hernisz@pl" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Stanisław_Hernisz>,
+        <http://dbpedia.org/resource/Stanislas_Hernisz>,
+        <http://de.dbpedia.org/resource/Stanisław_Hernisz>,
+        <http://pl.dbpedia.org/resource/Stanisław_Hernisz>,
+        <http://rdf.freebase.com/ns/m.012nmhlc>,
+        <http://wikidata.dbpedia.org/resource/Q9342047>,
+        <http://www.wikidata.org/entity/Q9342047> .
+
+<http://data.judaicalink.org/data/dbpedia/Stanley_Cohen_(biochemist)> a foaf:Person ;
+    jl:hasLabel "Stanley Cohen (Biochemiker)@de",
+        "Stanley Cohen (biochemicus)@nl",
+        "Stanley Cohen (biochemist)@en",
+        "Stanley Cohen (biochimiste)@fr",
+        "Stanley Cohen (bioquímico)@es",
+        "Stanley Cohen@it",
+        "Stanley Cohen@pl",
+        "Stanley Cohen@pt",
+        "Коэн, Стэнли@ru",
+        "ستانلي كوهين@ar",
+        "スタンリー・コーエン@ja",
+        "斯坦利·科恩@zh" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Stanley_Cohen_(biochemist)>,
+        <http://de.dbpedia.org/resource/Stanley_Cohen_(Biochemiker)>,
+        <http://es.dbpedia.org/resource/Stanley_Cohen_(bioquímico)>,
+        <http://fr.dbpedia.org/resource/Stanley_Cohen_(biochimiste)>,
+        <http://id.dbpedia.org/resource/Stanley_Cohen_(neurolog)>,
+        <http://it.dbpedia.org/resource/Stanley_Cohen>,
+        <http://ja.dbpedia.org/resource/スタンリー・コーエン>,
+        <http://nl.dbpedia.org/resource/Stanley_Cohen_(biochemicus)>,
+        <http://pl.dbpedia.org/resource/Stanley_Cohen>,
+        <http://pt.dbpedia.org/resource/Stanley_Cohen>,
+        <http://rdf.freebase.com/ns/m.033t_k>,
+        <http://viaf.org/viaf/63975585>,
+        <http://wikidata.dbpedia.org/resource/Q232299>,
+        <http://www.wikidata.org/entity/Q232299>,
+        <http://yago-knowledge.org/resource/Stanley_Cohen_(biochemist)> .
+
+<http://data.judaicalink.org/data/dbpedia/Stjepan_Betlheim> a foaf:Person ;
+    jl:hasLabel "Stjepan Betlheim@de",
+        "Stjepan Betlheim@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Stjepan_Betlheim>,
+        <http://de.dbpedia.org/resource/Stjepan_Betlheim>,
+        <http://rdf.freebase.com/ns/m.0jwv05t>,
+        <http://wikidata.dbpedia.org/resource/Q936348>,
+        <http://www.wikidata.org/entity/Q936348>,
+        <http://yago-knowledge.org/resource/Stjepan_Betlheim> .
+
+<http://data.judaicalink.org/data/dbpedia/Stjepan_Steiner> a foaf:Person ;
+    jl:hasLabel "Stjepan Steiner@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Stjepan_Steiner>,
+        <http://rdf.freebase.com/ns/m.0j9prsp>,
+        <http://wikidata.dbpedia.org/resource/Q7617721>,
+        <http://www.wikidata.org/entity/Q7617721>,
+        <http://yago-knowledge.org/resource/Stjepan_Steiner> .
+
+<http://data.judaicalink.org/data/dbpedia/Victor_Aronstein> a foaf:Person ;
+    jl:hasLabel "Victor Aronstein@de",
+        "Victor Aronstein@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Victor_Aronstein>,
+        <http://de.dbpedia.org/resource/Victor_Aronstein>,
+        <http://rdf.freebase.com/ns/m.0nfvkhf>,
+        <http://wikidata.dbpedia.org/resource/Q75252>,
+        <http://www.wikidata.org/entity/Q75252>,
+        <http://yago-knowledge.org/resource/Victor_Aronstein> .
+
+<http://data.judaicalink.org/data/dbpedia/Vladimir_Goldner> a foaf:Person ;
+    jl:hasLabel "Vladimir Goldner@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Vladimir_Goldner>,
+        <http://rdf.freebase.com/ns/m.0k0tjdy>,
+        <http://wikidata.dbpedia.org/resource/Q7938344>,
+        <http://www.wikidata.org/entity/Q7938344>,
+        <http://yago-knowledge.org/resource/Vladimir_Goldner> .
+
+<http://data.judaicalink.org/data/dbpedia/Walter_Arndt> a foaf:Person ;
+    jl:hasLabel "Walter Arndt@en",
+        "Walter Arndt@fr",
+        "Walter Arndt@pl",
+        "Walther Arndt@de" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Walter_Arndt>,
+        <http://de.dbpedia.org/resource/Walther_Arndt>,
+        <http://fr.dbpedia.org/resource/Walter_Arndt>,
+        <http://pl.dbpedia.org/resource/Walter_Arndt>,
+        <http://rdf.freebase.com/ns/m.08wgb2>,
+        <http://wikidata.dbpedia.org/resource/Q76266>,
+        <http://www.wikidata.org/entity/Q76266>,
+        <http://yago-knowledge.org/resource/Walter_Arndt> .
+
+<http://data.judaicalink.org/data/dbpedia/Wilhelm_Fliess> a foaf:Person ;
+    jl:hasLabel "Wilhelm Fliess@en",
+        "Wilhelm Fliess@es",
+        "Wilhelm Fliess@fr",
+        "Wilhelm Fliess@it",
+        "Wilhelm Fließ@de",
+        "Wilhelm Fließ@pl",
+        "Wilhelm Fließ@pt",
+        "Флисс, Вильгельм@ru" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Wilhelm_Fliess>,
+        <http://de.dbpedia.org/resource/Wilhelm_Fließ>,
+        <http://es.dbpedia.org/resource/Wilhelm_Fliess>,
+        <http://fr.dbpedia.org/resource/Wilhelm_Fliess>,
+        <http://it.dbpedia.org/resource/Wilhelm_Fliess>,
+        <http://pl.dbpedia.org/resource/Wilhelm_Fließ>,
+        <http://pt.dbpedia.org/resource/Wilhelm_Fließ>,
+        <http://rdf.freebase.com/ns/m.062kff>,
+        <http://viaf.org/viaf/64798938>,
+        <http://wikidata.dbpedia.org/resource/Q68726>,
+        <http://www.wikidata.org/entity/Q68726>,
+        <http://yago-knowledge.org/resource/Wilhelm_Fliess> .
+
+<http://data.judaicalink.org/data/dbpedia/Yehuda_L._Katzenelson> a foaf:Person ;
+    jl:hasLabel "Yehuda L. Katzenelson@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Yehuda_L._Katzenelson>,
+        <http://rdf.freebase.com/ns/m.011q1szv>,
+        <http://wikidata.dbpedia.org/resource/Q18208484>,
+        <http://www.wikidata.org/entity/Q18208484> .
+
+<http://data.judaicalink.org/data/dbpedia/Yevsey_Gindes> a foaf:Person ;
+    jl:hasLabel "Yevsey Gindes@en" ;
+    jl:occupation "Jewish physicians" ;
+    owl:sameAs <http://dbpedia.org/resource/Yevsey_Gindes>,
+        <http://rdf.freebase.com/ns/m.0hhr52k>,
+        <http://wikidata.dbpedia.org/resource/Q8053314>,
+        <http://www.wikidata.org/entity/Q8053314>,
+        <http://yago-knowledge.org/resource/Yevsey_Gindes> .
+

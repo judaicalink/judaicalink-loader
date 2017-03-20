@@ -1,0 +1,215 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Abu_Isa> a foaf:Person ;
+    jl:hasLabel "Abou Issa@fr",
+        "Abu Isa@en",
+        "أبو عيسى الأصفهاني@ar" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Abu_Isa>,
+        <http://fr.dbpedia.org/resource/Abou_Issa>,
+        <http://rdf.freebase.com/ns/m.026tmvj>,
+        <http://wikidata.dbpedia.org/resource/Q2821737>,
+        <http://www.wikidata.org/entity/Q2821737>,
+        <http://yago-knowledge.org/resource/Abu_Isa> .
+
+<http://data.judaicalink.org/data/dbpedia/Amoz> a foaf:Person ;
+    jl:hasLabel "Amoz@en" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Amoz>,
+        <http://rdf.freebase.com/ns/m.0hyj4>,
+        <http://wikidata.dbpedia.org/resource/Q4748020>,
+        <http://www.wikidata.org/entity/Q4748020>,
+        <http://yago-knowledge.org/resource/Amoz> .
+
+<http://data.judaicalink.org/data/dbpedia/Baruch_ben_Neriah> a foaf:Person ;
+    jl:hasLabel "Baruch (Sohn des Nerija)@de",
+        "Baruch (postać biblijna)@pl",
+        "Baruch (zoon van Neria)@nl",
+        "Baruch ben Neria@fr",
+        "Baruch ben Neriah@en",
+        "Baruch@it",
+        "Baruque@pt",
+        "Варух@ru" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Báruch_(prorok)>,
+        <http://dbpedia.org/resource/Baruch_ben_Neriah>,
+        <http://de.dbpedia.org/resource/Baruch_(Sohn_des_Nerija)>,
+        <http://el.dbpedia.org/resource/Βαρούχ>,
+        <http://fr.dbpedia.org/resource/Baruch_ben_Neria>,
+        <http://id.dbpedia.org/resource/Barukh_bin_Neria>,
+        <http://it.dbpedia.org/resource/Baruch>,
+        <http://nl.dbpedia.org/resource/Baruch_(zoon_van_Neria)>,
+        <http://pl.dbpedia.org/resource/Baruch_(postać_biblijna)>,
+        <http://pt.dbpedia.org/resource/Baruque>,
+        <http://rdf.freebase.com/ns/m.0d6nn9>,
+        <http://wikidata.dbpedia.org/resource/Q599907>,
+        <http://www.wikidata.org/entity/Q599907>,
+        <http://yago-knowledge.org/resource/Baruch_ben_Neriah> .
+
+<http://data.judaicalink.org/data/dbpedia/Beeri> a foaf:Person ;
+    jl:hasLabel "Beeri@en",
+        "Beeri@pt" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Beeri>,
+        <http://pt.dbpedia.org/resource/Beeri>,
+        <http://rdf.freebase.com/ns/m.03ct9v9>,
+        <http://wikidata.dbpedia.org/resource/Q1923288>,
+        <http://www.wikidata.org/entity/Q1923288>,
+        <http://yago-knowledge.org/resource/Beeri> .
+
+<http://data.judaicalink.org/data/dbpedia/Beor_(biblical_figure)> a foaf:Person ;
+    jl:hasLabel "Beor (Bíblia)@pt",
+        "Beor (biblical figure)@en" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Beor_(biblical_figure)>,
+        <http://pt.dbpedia.org/resource/Beor_(Bíblia)>,
+        <http://rdf.freebase.com/ns/m.02w21d8>,
+        <http://wikidata.dbpedia.org/resource/Q4890876>,
+        <http://www.wikidata.org/entity/Q4890876>,
+        <http://yago-knowledge.org/resource/Beor_(biblical_figure)> .
+
+<http://data.judaicalink.org/data/dbpedia/Bildad> a foaf:Person ;
+    jl:hasLabel "Bildad@en",
+        "Bildad@pl",
+        "Bildade@pt" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Bildad>,
+        <http://id.dbpedia.org/resource/Bildad>,
+        <http://pl.dbpedia.org/resource/Bildad>,
+        <http://pt.dbpedia.org/resource/Bildade>,
+        <http://rdf.freebase.com/ns/m.06n7nc>,
+        <http://wikidata.dbpedia.org/resource/Q2776374>,
+        <http://www.wikidata.org/entity/Q2776374>,
+        <http://yago-knowledge.org/resource/Bildad> .
+
+<http://data.judaicalink.org/data/dbpedia/Bithiah> a foaf:Person ;
+    jl:hasLabel "Bithia (Bibbia)@it",
+        "Bithiah@en",
+        "Bithiah@fr",
+        "Bithiah@nl",
+        "Córka faraona@pl" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Bithiah>,
+        <http://fr.dbpedia.org/resource/Bithiah>,
+        <http://it.dbpedia.org/resource/Bithia_(Bibbia)>,
+        <http://nl.dbpedia.org/resource/Bithiah>,
+        <http://pl.dbpedia.org/resource/Córka_faraona>,
+        <http://rdf.freebase.com/ns/m.0cj2g9>,
+        <http://wikidata.dbpedia.org/resource/Q1873244>,
+        <http://www.wikidata.org/entity/Q1873244>,
+        <http://yago-knowledge.org/resource/Bithiah> .
+
+<http://data.judaicalink.org/data/dbpedia/Elihu_(Job)> a foaf:Person ;
+    jl:hasLabel "Elihu (Job)@en",
+        "Elihu@de",
+        "Elihu@it",
+        "Elihu@nl",
+        "Elihu@pl",
+        "Елиуй@ru",
+        "エリフ (聖書)@ja" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Elihu_(Job)>,
+        <http://de.dbpedia.org/resource/Elihu>,
+        <http://id.dbpedia.org/resource/Elihu_(Kitab_Ayub)>,
+        <http://it.dbpedia.org/resource/Elihu>,
+        <http://ja.dbpedia.org/resource/エリフ_(聖書)>,
+        <http://nl.dbpedia.org/resource/Elihu>,
+        <http://pl.dbpedia.org/resource/Elihu>,
+        <http://rdf.freebase.com/ns/m.0c20_h>,
+        <http://wikidata.dbpedia.org/resource/Q471388>,
+        <http://www.wikidata.org/entity/Q471388>,
+        <http://yago-knowledge.org/resource/Elihu_(Job)> .
+
+<http://data.judaicalink.org/data/dbpedia/Eliphaz_(Job)> a foaf:Person ;
+    jl:hasLabel "Elifaz (livro de Jó)@pt",
+        "Elifaz@pl",
+        "Eliphaz (Job)@en",
+        "Елифаз@ru" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Eliphaz_(Job)>,
+        <http://id.dbpedia.org/resource/Elifas>,
+        <http://pl.dbpedia.org/resource/Elifaz>,
+        <http://pt.dbpedia.org/resource/Elifaz_(livro_de_Jó)>,
+        <http://rdf.freebase.com/ns/m.0c2198>,
+        <http://wikidata.dbpedia.org/resource/Q3781157>,
+        <http://www.wikidata.org/entity/Q3781157>,
+        <http://yago-knowledge.org/resource/Eliphaz_(Job)> .
+
+<http://data.judaicalink.org/data/dbpedia/Elkanah> a foaf:Person ;
+    jl:hasLabel "Elcana@pt",
+        "Elcaná@es",
+        "Elkana (Bijbel)@nl",
+        "Elkanah@en",
+        "Елкана@ru" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Elkanah>,
+        <http://es.dbpedia.org/resource/Elcaná>,
+        <http://nl.dbpedia.org/resource/Elkana_(Bijbel)>,
+        <http://pt.dbpedia.org/resource/Elcana>,
+        <http://rdf.freebase.com/ns/m.0grhtn>,
+        <http://wikidata.dbpedia.org/resource/Q2424977>,
+        <http://www.wikidata.org/entity/Q2424977>,
+        <http://yago-knowledge.org/resource/Elkanah> .
+
+<http://data.judaicalink.org/data/dbpedia/Mehseiah> a foaf:Person ;
+    jl:hasLabel "Mehseiah@en" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Mehseiah>,
+        <http://rdf.freebase.com/ns/m.02qtxxs>,
+        <http://wikidata.dbpedia.org/resource/Q6809875>,
+        <http://www.wikidata.org/entity/Q6809875>,
+        <http://yago-knowledge.org/resource/Mehseiah> .
+
+<http://data.judaicalink.org/data/dbpedia/Neriah> a foaf:Person ;
+    jl:hasLabel "Neriah@en" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Neriah>,
+        <http://id.dbpedia.org/resource/Neria>,
+        <http://rdf.freebase.com/ns/m.01smg9>,
+        <http://wikidata.dbpedia.org/resource/Q6996190>,
+        <http://www.wikidata.org/entity/Q6996190>,
+        <http://yago-knowledge.org/resource/Neriah> .
+
+<http://data.judaicalink.org/data/dbpedia/Prophets_in_Judaism> a foaf:Person ;
+    jl:hasLabel "Prophets in Judaism@en",
+        "أنبياء بني إسرائيل@ar" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Prophets_in_Judaism>,
+        <http://rdf.freebase.com/ns/m.0gvqxh8>,
+        <http://wikidata.dbpedia.org/resource/Q7250305>,
+        <http://www.wikidata.org/entity/Q7250305>,
+        <http://yago-knowledge.org/resource/Prophets_in_Judaism> .
+
+<http://data.judaicalink.org/data/dbpedia/Seraiah_ben_Neriah> a foaf:Person ;
+    jl:hasLabel "Seraiah ben Neriah@en" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Seraiah_ben_Neriah>,
+        <http://id.dbpedia.org/resource/Seraya_bin_Neria>,
+        <http://rdf.freebase.com/ns/m.0d851x>,
+        <http://wikidata.dbpedia.org/resource/Q7452652>,
+        <http://www.wikidata.org/entity/Q7452652>,
+        <http://yago-knowledge.org/resource/Seraiah_ben_Neriah> .
+
+<http://data.judaicalink.org/data/dbpedia/Zophar> a foaf:Person ;
+    jl:hasLabel "Sofar@pl",
+        "Zofar@es",
+        "Zofar@pt",
+        "Zophar@en" ;
+    jl:occupation "Prophets in Judaism" ;
+    owl:sameAs <http://dbpedia.org/resource/Zophar>,
+        <http://de.dbpedia.org/resource/Zofar>,
+        <http://es.dbpedia.org/resource/Zofar>,
+        <http://id.dbpedia.org/resource/Zofar>,
+        <http://pl.dbpedia.org/resource/Sofar>,
+        <http://pt.dbpedia.org/resource/Zofar>,
+        <http://rdf.freebase.com/ns/m.034m3v>,
+        <http://wikidata.dbpedia.org/resource/Q3867348>,
+        <http://www.wikidata.org/entity/Q3867348>,
+        <http://yago-knowledge.org/resource/Zophar> .
+
