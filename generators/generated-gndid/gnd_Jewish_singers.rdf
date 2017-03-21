@@ -1,0 +1,2455 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Adam_Lambert> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/139881581> ;
+    jl:hasLabel "Adam Lambert@de",
+        "Adam Lambert@en",
+        "Adam Lambert@es",
+        "Adam Lambert@fr",
+        "Adam Lambert@it",
+        "Adam Lambert@nl",
+        "Adam Lambert@pl",
+        "Adam Lambert@pt",
+        "Ламберт, Адам@ru",
+        "آدم لامبرت@ar",
+        "アダム・ランバート@ja",
+        "亚当·兰伯特@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Adam_Lambert>,
+        <http://data.europa.eu/euodp/jrc-names/Adam_Lambert>,
+        <http://dbpedia.org/resource/Adam_Lambert>,
+        <http://de.dbpedia.org/resource/Adam_Lambert>,
+        <http://es.dbpedia.org/resource/Adam_Lambert>,
+        <http://fr.dbpedia.org/resource/Adam_Lambert>,
+        <http://id.dbpedia.org/resource/Adam_Lambert>,
+        <http://it.dbpedia.org/resource/Adam_Lambert>,
+        <http://ja.dbpedia.org/resource/アダム・ランバート>,
+        <http://ko.dbpedia.org/resource/아담_램버트>,
+        <http://nl.dbpedia.org/resource/Adam_Lambert>,
+        <http://pl.dbpedia.org/resource/Adam_Lambert>,
+        <http://pt.dbpedia.org/resource/Adam_Lambert>,
+        <http://rdf.freebase.com/ns/m.07sbny7>,
+        <http://sw.cyc.com/concept/Mx4rswU3XlbdSQaiwh11-GuEhQ>,
+        <http://wikidata.dbpedia.org/resource/Q190231>,
+        <http://www.wikidata.org/entity/Q190231>,
+        <http://yago-knowledge.org/resource/Adam_Lambert> .
+
+<http://data.judaicalink.org/data/dbpedia/Al_Jolson> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118864270> ;
+    jl:hasLabel "Al Jolson@de",
+        "Al Jolson@en",
+        "Al Jolson@es",
+        "Al Jolson@fr",
+        "Al Jolson@it",
+        "Al Jolson@nl",
+        "Al Jolson@pl",
+        "Al Jolson@pt",
+        "Эл Джолсон@ru",
+        "アル・ジョルソン@ja",
+        "艾爾·喬遜@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Al_Jolson>,
+        <http://data.nytimes.com/52172489067973722893>,
+        <http://dbpedia.org/resource/Al_Jolson>,
+        <http://de.dbpedia.org/resource/Al_Jolson>,
+        <http://es.dbpedia.org/resource/Al_Jolson>,
+        <http://eu.dbpedia.org/resource/Al_Jolson>,
+        <http://fr.dbpedia.org/resource/Al_Jolson>,
+        <http://id.dbpedia.org/resource/Al_Jolson>,
+        <http://it.dbpedia.org/resource/Al_Jolson>,
+        <http://ja.dbpedia.org/resource/アル・ジョルソン>,
+        <http://ko.dbpedia.org/resource/알_졸슨>,
+        <http://nl.dbpedia.org/resource/Al_Jolson>,
+        <http://pl.dbpedia.org/resource/Al_Jolson>,
+        <http://pt.dbpedia.org/resource/Al_Jolson>,
+        <http://rdf.freebase.com/ns/m.01mgtn4>,
+        <http://sw.cyc.com/concept/Mx4rwOLDqpwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/97935898>,
+        <http://wikidata.dbpedia.org/resource/Q128532>,
+        <http://www.wikidata.org/entity/Q128532>,
+        <http://yago-knowledge.org/resource/Al_Jolson>,
+        <http://zitgist.com/music/artist/5611a8e8-1521-4919-a531-2689bbb57ce4> .
+
+<http://data.judaicalink.org/data/dbpedia/Alex_Clare> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1024156729> ;
+    jl:hasLabel "Alex Clare@de",
+        "Alex Clare@en",
+        "Alex Clare@es",
+        "Alex Clare@fr",
+        "Alex Clare@it",
+        "Alex Clare@nl",
+        "Alex Clare@pt",
+        "Клэр, Алекс@ru",
+        "أليكس كلير@ar" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Alex_Clare>,
+        <http://de.dbpedia.org/resource/Alex_Clare>,
+        <http://es.dbpedia.org/resource/Alex_Clare>,
+        <http://fr.dbpedia.org/resource/Alex_Clare>,
+        <http://it.dbpedia.org/resource/Alex_Clare>,
+        <http://nl.dbpedia.org/resource/Alex_Clare>,
+        <http://pt.dbpedia.org/resource/Alex_Clare>,
+        <http://rdf.freebase.com/ns/m.0glp7cc>,
+        <http://wikidata.dbpedia.org/resource/Q950204>,
+        <http://www.wikidata.org/entity/Q950204>,
+        <http://yago-knowledge.org/resource/Alex_Clare> .
+
+<http://data.judaicalink.org/data/dbpedia/Alon_De_Loco> a foaf:Person ;
+    jl:hasLabel "Alon De Loco@en",
+        "Alon De Loco@it" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Alon_De_Loco>,
+        <http://it.dbpedia.org/resource/Alon_De_Loco>,
+        <http://rdf.freebase.com/ns/m.0h3lgrp>,
+        <http://wikidata.dbpedia.org/resource/Q4734336>,
+        <http://www.wikidata.org/entity/Q4734336>,
+        <http://yago-knowledge.org/resource/Alon_De_Loco> .
+
+<http://data.judaicalink.org/data/dbpedia/Alona_Tal> a foaf:Person ;
+    jl:hasLabel "Alona Tal@de",
+        "Alona Tal@en",
+        "Alona Tal@es",
+        "Alona Tal@fr",
+        "Alona Tal@it",
+        "Alona Tal@nl",
+        "Alona Tal@pl",
+        "Alona Tal@pt",
+        "Таль, Алона@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Alona_Tal>,
+        <http://de.dbpedia.org/resource/Alona_Tal>,
+        <http://es.dbpedia.org/resource/Alona_Tal>,
+        <http://fr.dbpedia.org/resource/Alona_Tal>,
+        <http://it.dbpedia.org/resource/Alona_Tal>,
+        <http://ko.dbpedia.org/resource/알로나_탈>,
+        <http://nl.dbpedia.org/resource/Alona_Tal>,
+        <http://pl.dbpedia.org/resource/Alona_Tal>,
+        <http://pt.dbpedia.org/resource/Alona_Tal>,
+        <http://rdf.freebase.com/ns/m.082bk7>,
+        <http://viaf.org/viaf/164168358>,
+        <http://wikidata.dbpedia.org/resource/Q263433>,
+        <http://www.wikidata.org/entity/Q263433>,
+        <http://yago-knowledge.org/resource/Alona_Tal> .
+
+<http://data.judaicalink.org/data/dbpedia/Ari_Borovoy> a foaf:Person ;
+    jl:hasLabel "Ari Borovoy@en",
+        "Ari Borovoy@es" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Ari_Borovoy>,
+        <http://es.dbpedia.org/resource/Ari_Borovoy>,
+        <http://rdf.freebase.com/ns/m.0jky9k0>,
+        <http://viaf.org/viaf/14577773>,
+        <http://wikidata.dbpedia.org/resource/Q4790092>,
+        <http://www.wikidata.org/entity/Q4790092>,
+        <http://yago-knowledge.org/resource/Ari_Borovoy> .
+
+<http://data.judaicalink.org/data/dbpedia/Ari_Goldwag> a foaf:Person ;
+    jl:hasLabel "Ari Goldwag@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Ari_Goldwag>,
+        <http://rdf.freebase.com/ns/m.01310b64>,
+        <http://wikidata.dbpedia.org/resource/Q19880047>,
+        <http://www.wikidata.org/entity/Q19880047> .
+
+<http://data.judaicalink.org/data/dbpedia/Avihu_Medina> a foaf:Person ;
+    jl:hasLabel "Avihu Medina@en",
+        "أفيهو ميدينا@ar" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Avihu_Medina>,
+        <http://rdf.freebase.com/ns/m.0h1cgjg>,
+        <http://wikidata.dbpedia.org/resource/Q4828830>,
+        <http://www.wikidata.org/entity/Q4828830>,
+        <http://yago-knowledge.org/resource/Avihu_Medina> .
+
+<http://data.judaicalink.org/data/dbpedia/Barbi_Benton> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1061450864> ;
+    jl:hasLabel "Barbi Benton@de",
+        "Barbi Benton@en",
+        "Barbi Benton@fr",
+        "Barbi Benton@pt" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Barbi_Benton>,
+        <http://de.dbpedia.org/resource/Barbi_Benton>,
+        <http://fr.dbpedia.org/resource/Barbi_Benton>,
+        <http://pt.dbpedia.org/resource/Barbi_Benton>,
+        <http://rdf.freebase.com/ns/m.06zxx7>,
+        <http://wikidata.dbpedia.org/resource/Q435826>,
+        <http://www.wikidata.org/entity/Q435826>,
+        <http://yago-knowledge.org/resource/Barbi_Benton>,
+        <http://zitgist.com/music/artist/b480ea79-27e8-46c5-b447-9695db2ad8d9> .
+
+<http://data.judaicalink.org/data/dbpedia/Barry_Manilow> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119064308> ;
+    jl:hasLabel "Barry Manilow@de",
+        "Barry Manilow@en",
+        "Barry Manilow@es",
+        "Barry Manilow@fr",
+        "Barry Manilow@it",
+        "Barry Manilow@nl",
+        "Barry Manilow@pl",
+        "Barry Manilow@pt",
+        "Манилоу, Барри@ru",
+        "باري مانيلو@ar",
+        "バリー・マニロウ@ja",
+        "巴瑞·曼尼洛@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Barry_Manilow>,
+        <http://data.europa.eu/euodp/jrc-names/Barry_Manilow>,
+        <http://data.nytimes.com/25286444846979491893>,
+        <http://dbpedia.org/resource/Barry_Manilow>,
+        <http://de.dbpedia.org/resource/Barry_Manilow>,
+        <http://es.dbpedia.org/resource/Barry_Manilow>,
+        <http://fr.dbpedia.org/resource/Barry_Manilow>,
+        <http://id.dbpedia.org/resource/Barry_Manilow>,
+        <http://it.dbpedia.org/resource/Barry_Manilow>,
+        <http://ja.dbpedia.org/resource/バリー・マニロウ>,
+        <http://ko.dbpedia.org/resource/배리_매닐로>,
+        <http://nl.dbpedia.org/resource/Barry_Manilow>,
+        <http://pl.dbpedia.org/resource/Barry_Manilow>,
+        <http://pt.dbpedia.org/resource/Barry_Manilow>,
+        <http://rdf.freebase.com/ns/m.03f7m4h>,
+        <http://sw.cyc.com/concept/Mx4rwIPVU5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/84975348>,
+        <http://wikidata.dbpedia.org/resource/Q302762>,
+        <http://www.wikidata.org/entity/Q302762>,
+        <http://yago-knowledge.org/resource/Barry_Manilow>,
+        <http://zitgist.com/music/artist/7bb60591-46f3-4147-b692-1814a87e832e> .
+
+<http://data.judaicalink.org/data/dbpedia/Baruch_Levine> a foaf:Person ;
+    jl:hasLabel "Baruch Levine@en",
+        "Baruch Levine@fr" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Baruch_Levine>,
+        <http://fr.dbpedia.org/resource/Baruch_Levine>,
+        <http://rdf.freebase.com/ns/m.0z6vghl>,
+        <http://wikidata.dbpedia.org/resource/Q2886185>,
+        <http://www.wikidata.org/entity/Q2886185>,
+        <http://yago-knowledge.org/resource/Baruch_Levine> .
+
+<http://data.judaicalink.org/data/dbpedia/Bas_Sheva> a foaf:Person ;
+    jl:hasLabel "Bas Sheva@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Bas_Sheva>,
+        <http://rdf.freebase.com/ns/m.07s9pcx>,
+        <http://viaf.org/viaf/231671066>,
+        <http://wikidata.dbpedia.org/resource/Q4866147>,
+        <http://www.wikidata.org/entity/Q4866147>,
+        <http://yago-knowledge.org/resource/Bas_Sheva> .
+
+<http://data.judaicalink.org/data/dbpedia/Bette_Midler> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118582240> ;
+    jl:hasLabel "Bette Midler@de",
+        "Bette Midler@en",
+        "Bette Midler@es",
+        "Bette Midler@fr",
+        "Bette Midler@it",
+        "Bette Midler@nl",
+        "Bette Midler@pl",
+        "Bette Midler@pt",
+        "Мидлер, Бетт@ru",
+        "بيت ميدلر@ar",
+        "ベット・ミドラー@ja",
+        "贝蒂·米勒@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Bette_Midler>,
+        <http://data.europa.eu/euodp/jrc-names/Bette_Midler>,
+        <http://data.linkedmdb.org/resource/producer/10111>,
+        <http://data.nytimes.com/88586234674019852823>,
+        <http://dbpedia.org/resource/Bette_Midler>,
+        <http://de.dbpedia.org/resource/Bette_Midler>,
+        <http://el.dbpedia.org/resource/Μπέτι_Μίντλερ>,
+        <http://es.dbpedia.org/resource/Bette_Midler>,
+        <http://fr.dbpedia.org/resource/Bette_Midler>,
+        <http://id.dbpedia.org/resource/Bette_Midler>,
+        <http://it.dbpedia.org/resource/Bette_Midler>,
+        <http://ja.dbpedia.org/resource/ベット・ミドラー>,
+        <http://ko.dbpedia.org/resource/벳_미들러>,
+        <http://nl.dbpedia.org/resource/Bette_Midler>,
+        <http://pl.dbpedia.org/resource/Bette_Midler>,
+        <http://pt.dbpedia.org/resource/Bette_Midler>,
+        <http://rdf.freebase.com/ns/m.01dw9z>,
+        <http://sw.cyc.com/concept/Mx4rvuTuC5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/37102785>,
+        <http://wikidata.dbpedia.org/resource/Q190631>,
+        <http://www.wikidata.org/entity/Q190631>,
+        <http://yago-knowledge.org/resource/Bette_Midler>,
+        <http://zitgist.com/music/artist/ed333e8b-d18a-49fc-b361-4ec9731dfdba> .
+
+<http://data.judaicalink.org/data/dbpedia/Billy_Joel> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118557653> ;
+    jl:hasLabel "Billy Joel@de",
+        "Billy Joel@en",
+        "Billy Joel@es",
+        "Billy Joel@fr",
+        "Billy Joel@it",
+        "Billy Joel@nl",
+        "Billy Joel@pl",
+        "Billy Joel@pt",
+        "Джоэл, Билли@ru",
+        "بيلي جويل@ar",
+        "ビリー・ジョエル@ja",
+        "比利·乔尔@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Billy_Joel>,
+        <http://data.europa.eu/euodp/jrc-names/Billy_Joel>,
+        <http://data.nytimes.com/66758431277762634413>,
+        <http://dbpedia.org/resource/Billy_Joel>,
+        <http://de.dbpedia.org/resource/Billy_Joel>,
+        <http://es.dbpedia.org/resource/Billy_Joel>,
+        <http://eu.dbpedia.org/resource/Billy_Joel>,
+        <http://fr.dbpedia.org/resource/Billy_Joel>,
+        <http://id.dbpedia.org/resource/Billy_Joel>,
+        <http://it.dbpedia.org/resource/Billy_Joel>,
+        <http://ja.dbpedia.org/resource/ビリー・ジョエル>,
+        <http://ko.dbpedia.org/resource/빌리_조엘>,
+        <http://nl.dbpedia.org/resource/Billy_Joel>,
+        <http://pl.dbpedia.org/resource/Billy_Joel>,
+        <http://pt.dbpedia.org/resource/Billy_Joel>,
+        <http://rdf.freebase.com/ns/m.0b_j2>,
+        <http://sw.cyc.com/concept/Mx4rvlW845wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/74037916>,
+        <http://wikidata.dbpedia.org/resource/Q194333>,
+        <http://www.wikidata.org/entity/Q194333>,
+        <http://yago-knowledge.org/resource/Billy_Joel>,
+        <http://zitgist.com/music/artist/64b94289-9474-4d43-8c93-918ccc1920d1> .
+
+<http://data.judaicalink.org/data/dbpedia/Blue_Fringe> a foaf:Person ;
+    jl:hasLabel "Blue Fringe@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Blue_Fringe>,
+        <http://rdf.freebase.com/ns/m.01q1w9p>,
+        <http://wikidata.dbpedia.org/resource/Q12404598>,
+        <http://www.wikidata.org/entity/Q12404598>,
+        <http://yago-knowledge.org/resource/Blue_Fringe> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Moiseev> a foaf:Person ;
+    jl:hasLabel "Boris Moiseev@en",
+        "Моисеев, Борис Михайлович@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Boris_Moiseev>,
+        <http://rdf.freebase.com/ns/m.026k7lz>,
+        <http://viaf.org/viaf/33925506>,
+        <http://wikidata.dbpedia.org/resource/Q2631734>,
+        <http://www.wikidata.org/entity/Q2631734>,
+        <http://yago-knowledge.org/resource/Boris_Moiseev> .
+
+<http://data.judaicalink.org/data/dbpedia/Candice_Night> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/104657289X> ;
+    jl:hasLabel "Candice Night@de",
+        "Candice Night@en",
+        "Candice Night@es",
+        "Candice Night@fr",
+        "Candice Night@it",
+        "Candice Night@nl",
+        "Candice Night@pl",
+        "Candice Night@pt",
+        "Найт, Кэндис@ru",
+        "キャンディス・ナイト@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Candice_Night>,
+        <http://dbpedia.org/resource/Candice_Night>,
+        <http://de.dbpedia.org/resource/Candice_Night>,
+        <http://es.dbpedia.org/resource/Candice_Night>,
+        <http://fr.dbpedia.org/resource/Candice_Night>,
+        <http://id.dbpedia.org/resource/Candice_Night>,
+        <http://it.dbpedia.org/resource/Candice_Night>,
+        <http://ja.dbpedia.org/resource/キャンディス・ナイト>,
+        <http://nl.dbpedia.org/resource/Candice_Night>,
+        <http://pl.dbpedia.org/resource/Candice_Night>,
+        <http://pt.dbpedia.org/resource/Candice_Night>,
+        <http://rdf.freebase.com/ns/m.03w1fv>,
+        <http://wikidata.dbpedia.org/resource/Q234043>,
+        <http://www.wikidata.org/entity/Q234043>,
+        <http://yago-knowledge.org/resource/Candice_Night>,
+        <http://zitgist.com/music/artist/c9b8ac6a-f57c-4b2a-ab04-0025c22c6e2f> .
+
+<http://data.judaicalink.org/data/dbpedia/Carol_Connors_(singer)> a foaf:Person ;
+    jl:hasLabel "Carol Connors (singer)@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Carol_Connors_(singer)>,
+        <http://rdf.freebase.com/ns/m.01w0z7p>,
+        <http://wikidata.dbpedia.org/resource/Q5044293>,
+        <http://www.wikidata.org/entity/Q5044293>,
+        <http://yago-knowledge.org/resource/Carol_Connors_(singer)> .
+
+<http://data.judaicalink.org/data/dbpedia/Carole_King> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/121559335> ;
+    jl:hasLabel "Carole King@de",
+        "Carole King@en",
+        "Carole King@es",
+        "Carole King@fr",
+        "Carole King@it",
+        "Carole King@nl",
+        "Carole King@pl",
+        "Carole King@pt",
+        "Кинг, Кэрол@ru",
+        "كارول كينج@ar",
+        "キャロル・キング@ja",
+        "卡洛爾·金@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Carole_King>,
+        <http://data.europa.eu/euodp/jrc-names/Carole_King>,
+        <http://dbpedia.org/resource/Carole_King>,
+        <http://de.dbpedia.org/resource/Carole_King>,
+        <http://es.dbpedia.org/resource/Carole_King>,
+        <http://eu.dbpedia.org/resource/Carole_King>,
+        <http://fr.dbpedia.org/resource/Carole_King>,
+        <http://it.dbpedia.org/resource/Carole_King>,
+        <http://ja.dbpedia.org/resource/キャロル・キング>,
+        <http://ko.dbpedia.org/resource/캐롤_킹>,
+        <http://nl.dbpedia.org/resource/Carole_King>,
+        <http://pl.dbpedia.org/resource/Carole_King>,
+        <http://pt.dbpedia.org/resource/Carole_King>,
+        <http://rdf.freebase.com/ns/m.013423>,
+        <http://sw.cyc.com/concept/Mx4rwg_rcTXLQy-AIXiOahcIow>,
+        <http://wikidata.dbpedia.org/resource/Q217787>,
+        <http://www.wikidata.org/entity/Q217787>,
+        <http://yago-knowledge.org/resource/Carole_King>,
+        <http://zitgist.com/music/artist/bf6c29f5-b69f-4842-9031-37f9645d365d> .
+
+<http://data.judaicalink.org/data/dbpedia/Chaim-Dovid_Saracik> a foaf:Person ;
+    jl:hasLabel "Chaim-Dovid Saracik@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Chaim-Dovid_Saracik>,
+        <http://rdf.freebase.com/ns/m.07s4_gj>,
+        <http://wikidata.dbpedia.org/resource/Q5067795>,
+        <http://www.wikidata.org/entity/Q5067795>,
+        <http://yago-knowledge.org/resource/Chaim-Dovid_Saracik> .
+
+<http://data.judaicalink.org/data/dbpedia/Chaim_Topol> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135242479> ;
+    jl:hasLabel "Chaim Topol@de",
+        "Chaim Topol@en",
+        "Chaim Topol@es",
+        "Chaim Topol@fr",
+        "Chaim Topol@it",
+        "Chaim Topol@nl",
+        "Chaim Topol@pl",
+        "Topol@pt",
+        "Тополь, Хаим@ru",
+        "شايم توبول@ar",
+        "トポル@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Chaim_Topol>,
+        <http://de.dbpedia.org/resource/Chaim_Topol>,
+        <http://es.dbpedia.org/resource/Chaim_Topol>,
+        <http://fr.dbpedia.org/resource/Chaim_Topol>,
+        <http://id.dbpedia.org/resource/Topol>,
+        <http://it.dbpedia.org/resource/Chaim_Topol>,
+        <http://ja.dbpedia.org/resource/トポル>,
+        <http://nl.dbpedia.org/resource/Chaim_Topol>,
+        <http://pl.dbpedia.org/resource/Chaim_Topol>,
+        <http://pt.dbpedia.org/resource/Topol>,
+        <http://rdf.freebase.com/ns/m.0249s>,
+        <http://viaf.org/viaf/102340872>,
+        <http://wikidata.dbpedia.org/resource/Q319133>,
+        <http://www.wikidata.org/entity/Q319133>,
+        <http://yago-knowledge.org/resource/Chaim_Topol> .
+
+<http://data.judaicalink.org/data/dbpedia/Craig_David> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135167825> ;
+    jl:hasLabel "Craig David@de",
+        "Craig David@en",
+        "Craig David@es",
+        "Craig David@fr",
+        "Craig David@it",
+        "Craig David@nl",
+        "Craig David@pl",
+        "Craig David@pt",
+        "Дэвид, Крейг@ru",
+        "كريغ دايفد@ar",
+        "クレイグ・デイヴィッド@ja",
+        "克雷格·大衛@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Craig_David>,
+        <http://data.europa.eu/euodp/jrc-names/Craig_David>,
+        <http://dbpedia.org/resource/Craig_David>,
+        <http://de.dbpedia.org/resource/Craig_David>,
+        <http://es.dbpedia.org/resource/Craig_David>,
+        <http://fr.dbpedia.org/resource/Craig_David>,
+        <http://id.dbpedia.org/resource/Craig_David>,
+        <http://it.dbpedia.org/resource/Craig_David>,
+        <http://ja.dbpedia.org/resource/クレイグ・デイヴィッド>,
+        <http://ko.dbpedia.org/resource/크레이그_데이비드>,
+        <http://nl.dbpedia.org/resource/Craig_David>,
+        <http://pl.dbpedia.org/resource/Craig_David>,
+        <http://pt.dbpedia.org/resource/Craig_David>,
+        <http://rdf.freebase.com/ns/m.02z6mm>,
+        <http://viaf.org/viaf/17422719>,
+        <http://wikidata.dbpedia.org/resource/Q154222>,
+        <http://www.wikidata.org/entity/Q154222>,
+        <http://yago-knowledge.org/resource/Craig_David>,
+        <http://yago-knowledge.org/resource/Following_My_Intuition>,
+        <http://zitgist.com/music/artist/89e39f67-65cc-4f90-b145-b1b56c209f8a> .
+
+<http://data.judaicalink.org/data/dbpedia/Dan_Nichols> a foaf:Person ;
+    jl:hasLabel "Dan Nichols@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Dan_Nichols>,
+        <http://rdf.freebase.com/ns/m.0h1wqtl>,
+        <http://wikidata.dbpedia.org/resource/Q5214098>,
+        <http://www.wikidata.org/entity/Q5214098>,
+        <http://yago-knowledge.org/resource/Dan_Nichols> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Grisman> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/134391373> ;
+    jl:hasLabel "David Grisman@de",
+        "David Grisman@en",
+        "David Grisman@fr",
+        "David Grisman@it",
+        "David Grisman@nl" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/David_Grisman>,
+        <http://dbpedia.org/resource/David_Grisman>,
+        <http://de.dbpedia.org/resource/David_Grisman>,
+        <http://fr.dbpedia.org/resource/David_Grisman>,
+        <http://id.dbpedia.org/resource/David_Grisman>,
+        <http://it.dbpedia.org/resource/David_Grisman>,
+        <http://nl.dbpedia.org/resource/David_Grisman>,
+        <http://rdf.freebase.com/ns/m.03193l>,
+        <http://viaf.org/viaf/61741232>,
+        <http://wikidata.dbpedia.org/resource/Q1174604>,
+        <http://www.wikidata.org/entity/Q1174604>,
+        <http://yago-knowledge.org/resource/David_Grisman>,
+        <http://zitgist.com/music/artist/402e4f4f-33aa-4b2b-9fdb-3cb4eb38f729> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Lee_Roth> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/120393417> ;
+    jl:hasLabel "David Lee Roth@de",
+        "David Lee Roth@en",
+        "David Lee Roth@es",
+        "David Lee Roth@fr",
+        "ديفيد لي روث@ar" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/David_Lee_Roth>,
+        <http://data.europa.eu/euodp/jrc-names/David_Lee_Roth>,
+        <http://dbpedia.org/resource/David_Lee_Roth>,
+        <http://de.dbpedia.org/resource/David_Lee_Roth>,
+        <http://es.dbpedia.org/resource/David_Lee_Roth>,
+        <http://fr.dbpedia.org/resource/David_Lee_Roth>,
+        <http://id.dbpedia.org/resource/David_Lee_Roth>,
+        <http://it.dbpedia.org/resource/David_Lee_Roth>,
+        <http://ja.dbpedia.org/resource/デイヴィッド・リー・ロス>,
+        <http://nl.dbpedia.org/resource/David_Lee_Roth>,
+        <http://pl.dbpedia.org/resource/David_Lee_Roth>,
+        <http://pt.dbpedia.org/resource/David_Lee_Roth>,
+        <http://rdf.freebase.com/ns/m.01j590z>,
+        <http://sw.cyc.com/concept/Mx4rvapCy5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/2657647>,
+        <http://wikidata.dbpedia.org/resource/Q313992>,
+        <http://www.wikidata.org/entity/Q313992>,
+        <http://yago-knowledge.org/resource/David_Lee_Roth> .
+
+<http://data.judaicalink.org/data/dbpedia/Denise_Eisenberg_Rich> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/134496655> ;
+    jl:hasLabel "Denise Eisenberg Rich@de",
+        "Denise Eisenberg Rich@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Denise_Rich>,
+        <http://data.nytimes.com/47923529969772109413>,
+        <http://dbpedia.org/resource/Denise_Eisenberg_Rich>,
+        <http://de.dbpedia.org/resource/Denise_Eisenberg_Rich>,
+        <http://rdf.freebase.com/ns/m.05492pc>,
+        <http://wikidata.dbpedia.org/resource/Q5257659>,
+        <http://www.wikidata.org/entity/Q5257659>,
+        <http://yago-knowledge.org/resource/Denise_Eisenberg_Rich> .
+
+<http://data.judaicalink.org/data/dbpedia/Des_O'Connor> a foaf:Person ;
+    jl:hasLabel "Des O'Connor@en",
+        "Des O’Connor@de" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Des_O%27Connor>,
+        <http://dbpedia.org/resource/Des_O'Connor>,
+        <http://de.dbpedia.org/resource/Des_O’Connor>,
+        <http://rdf.freebase.com/ns/m.01qqnds>,
+        <http://sw.cyc.com/concept/Mx4rtOVtToJ9QoWxkmwSOUOLlg>,
+        <http://wikidata.dbpedia.org/resource/Q725510>,
+        <http://www.wikidata.org/entity/Q725510>,
+        <http://yago-knowledge.org/resource/Des_O'Connor> .
+
+<http://data.judaicalink.org/data/dbpedia/Dezső_Ernster> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/132382083> ;
+    jl:hasLabel "Dezső Ernster@de",
+        "Dezső Ernster@en",
+        "Dezső Ernster@it" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Dezső_Ernster>,
+        <http://de.dbpedia.org/resource/Dezső_Ernster>,
+        <http://it.dbpedia.org/resource/Dezső_Ernster>,
+        <http://rdf.freebase.com/ns/m.09rxszv>,
+        <http://wikidata.dbpedia.org/resource/Q579335>,
+        <http://www.wikidata.org/entity/Q579335>,
+        <http://yago-knowledge.org/resource/Dezső_Ernster> .
+
+<http://data.judaicalink.org/data/dbpedia/Diana_Golbi> a foaf:Person ;
+    jl:hasLabel "Diana Golbi@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Diana_Golbi>,
+        <http://rdf.freebase.com/ns/m.0czcngf>,
+        <http://wikidata.dbpedia.org/resource/Q5271169>,
+        <http://www.wikidata.org/entity/Q5271169>,
+        <http://yago-knowledge.org/resource/Diana_Golbi> .
+
+<http://data.judaicalink.org/data/dbpedia/Diane_Renay> a foaf:Person ;
+    jl:hasLabel "Diane Renay@de",
+        "Diane Renay@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Diane_Renay>,
+        <http://de.dbpedia.org/resource/Diane_Renay>,
+        <http://rdf.freebase.com/ns/m.01nvzrt>,
+        <http://wikidata.dbpedia.org/resource/Q5271553>,
+        <http://www.wikidata.org/entity/Q5271553>,
+        <http://yago-knowledge.org/resource/Diane_Renay> .
+
+<http://data.judaicalink.org/data/dbpedia/Dianna_Agron> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1011377381> ;
+    jl:hasLabel "Dianna Agron@de",
+        "Dianna Agron@en",
+        "Dianna Agron@es",
+        "Dianna Agron@fr",
+        "Dianna Agron@it",
+        "Dianna Agron@nl",
+        "Dianna Agron@pl",
+        "Dianna Agron@pt",
+        "Агрон, Дианна@ru",
+        "ديانا أغرون@ar",
+        "ディアナ・アグロン@ja",
+        "戴安娜·艾嘉朗@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Dianna_Agronová>,
+        <http://dbpedia.org/resource/Dianna_Agron>,
+        <http://de.dbpedia.org/resource/Dianna_Agron>,
+        <http://es.dbpedia.org/resource/Dianna_Agron>,
+        <http://fr.dbpedia.org/resource/Dianna_Agron>,
+        <http://id.dbpedia.org/resource/Dianna_Agron>,
+        <http://it.dbpedia.org/resource/Dianna_Agron>,
+        <http://ja.dbpedia.org/resource/ディアナ・アグロン>,
+        <http://ko.dbpedia.org/resource/다이애나_에그론>,
+        <http://nl.dbpedia.org/resource/Dianna_Agron>,
+        <http://pl.dbpedia.org/resource/Dianna_Agron>,
+        <http://pt.dbpedia.org/resource/Dianna_Agron>,
+        <http://rdf.freebase.com/ns/m.03cxsvl>,
+        <http://sw.cyc.com/concept/Mx4r5fqKg1lNEd-LYAAhm0kILA>,
+        <http://viaf.org/viaf/162387053>,
+        <http://wikidata.dbpedia.org/resource/Q228792>,
+        <http://www.wikidata.org/entity/Q228792>,
+        <http://yago-knowledge.org/resource/Dianna_Agron> .
+
+<http://data.judaicalink.org/data/dbpedia/Dick_James> a foaf:Person ;
+    jl:hasLabel "Dick James@de",
+        "Dick James@en",
+        "Dick James@it",
+        "Dick James@pt" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Dick_James>,
+        <http://de.dbpedia.org/resource/Dick_James>,
+        <http://it.dbpedia.org/resource/Dick_James>,
+        <http://pt.dbpedia.org/resource/Dick_James>,
+        <http://rdf.freebase.com/ns/m.01tx2gq>,
+        <http://viaf.org/viaf/86556749>,
+        <http://wikidata.dbpedia.org/resource/Q956426>,
+        <http://www.wikidata.org/entity/Q956426>,
+        <http://yago-knowledge.org/resource/Dick_James> .
+
+<http://data.judaicalink.org/data/dbpedia/Din_Din_Aviv> a foaf:Person ;
+    jl:hasLabel "Din Din Aviv@en",
+        "Din Din Aviv@nl" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Din_Din_Aviv>,
+        <http://nl.dbpedia.org/resource/Din_Din_Aviv>,
+        <http://rdf.freebase.com/ns/m.026z8t2>,
+        <http://wikidata.dbpedia.org/resource/Q2857217>,
+        <http://www.wikidata.org/entity/Q2857217>,
+        <http://yago-knowledge.org/resource/Din_Din_Aviv> .
+
+<http://data.judaicalink.org/data/dbpedia/Doron_Medalie> a foaf:Person ;
+    jl:hasLabel "Doron Medalie@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Doron_Medalie>,
+        <http://rdf.freebase.com/ns/m.0131jf40>,
+        <http://wikidata.dbpedia.org/resource/Q12405768>,
+        <http://www.wikidata.org/entity/Q12405768> .
+
+<http://data.judaicalink.org/data/dbpedia/Eddie_Butler_(singer)> a foaf:Person ;
+    jl:hasLabel "Eddie Butler (chanteur)@fr",
+        "Eddie Butler (singer)@en",
+        "Eddie Butler@de",
+        "Eddie Butler@nl" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Eddie_Butler_(singer)>,
+        <http://de.dbpedia.org/resource/Eddie_Butler>,
+        <http://fr.dbpedia.org/resource/Eddie_Butler_(chanteur)>,
+        <http://nl.dbpedia.org/resource/Eddie_Butler>,
+        <http://rdf.freebase.com/ns/m.01wpvk9>,
+        <http://wikidata.dbpedia.org/resource/Q1282716>,
+        <http://www.wikidata.org/entity/Q1282716>,
+        <http://yago-knowledge.org/resource/Eddie_Butler_(singer)> .
+
+<http://data.judaicalink.org/data/dbpedia/Eli_Gerstner> a foaf:Person ;
+    jl:hasLabel "Eli Gerstner@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Eli_Gerstner>,
+        <http://rdf.freebase.com/ns/m.0bs8sfb>,
+        <http://wikidata.dbpedia.org/resource/Q5360229>,
+        <http://www.wikidata.org/entity/Q5360229>,
+        <http://yago-knowledge.org/resource/Eli_Gerstner> .
+
+<http://data.judaicalink.org/data/dbpedia/Elliott_Yamin> a foaf:Person ;
+    jl:hasLabel "Elliott Yamin@en",
+        "Elliott Yamin@es",
+        "Elliott Yamin@fr",
+        "Elliott Yamin@it",
+        "エリオット・ヤミン@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Elliott_Yamin>,
+        <http://es.dbpedia.org/resource/Elliott_Yamin>,
+        <http://fr.dbpedia.org/resource/Elliott_Yamin>,
+        <http://id.dbpedia.org/resource/Elliott_Yamin>,
+        <http://it.dbpedia.org/resource/Elliott_Yamin>,
+        <http://ja.dbpedia.org/resource/エリオット・ヤミン>,
+        <http://ko.dbpedia.org/resource/엘리엇_야민>,
+        <http://rdf.freebase.com/ns/m.0bhshf>,
+        <http://viaf.org/viaf/46518720>,
+        <http://wikidata.dbpedia.org/resource/Q1189625>,
+        <http://www.wikidata.org/entity/Q1189625>,
+        <http://yago-knowledge.org/resource/Elliott_Yamin> .
+
+<http://data.judaicalink.org/data/dbpedia/Emil_Gorovets> a foaf:Person ;
+    jl:hasLabel "Emil Gorovets@en",
+        "Горовец, Рахмиль Яковлевич@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Emil_Gorovets>,
+        <http://rdf.freebase.com/ns/m.0dn8qcv>,
+        <http://wikidata.dbpedia.org/resource/Q4144802>,
+        <http://www.wikidata.org/entity/Q4144802>,
+        <http://yago-knowledge.org/resource/Emil_Gorovets> .
+
+<http://data.judaicalink.org/data/dbpedia/Enrico_Macias> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/124610870> ;
+    jl:hasLabel "Enrico Macias@de",
+        "Enrico Macias@en",
+        "Enrico Macias@es",
+        "Enrico Macias@fr",
+        "Enrico Macias@it",
+        "Энрико Масиас@ru",
+        "إنريكو ماسياس@ar" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Enrico_Macias>,
+        <http://dbpedia.org/resource/Enrico_Macias>,
+        <http://de.dbpedia.org/resource/Enrico_Macias>,
+        <http://es.dbpedia.org/resource/Enrico_Macias>,
+        <http://fr.dbpedia.org/resource/Enrico_Macias>,
+        <http://id.dbpedia.org/resource/Enrico_Macias>,
+        <http://it.dbpedia.org/resource/Enrico_Macias>,
+        <http://ko.dbpedia.org/resource/엔리코_마샤스>,
+        <http://rdf.freebase.com/ns/m.08xt_d>,
+        <http://viaf.org/viaf/87366220>,
+        <http://wikidata.dbpedia.org/resource/Q325097>,
+        <http://www.wikidata.org/entity/Q325097>,
+        <http://yago-knowledge.org/resource/Enrico_Macias> .
+
+<http://data.judaicalink.org/data/dbpedia/Esthero> a foaf:Person ;
+    jl:hasLabel "Esthero@en",
+        "Esthero@es",
+        "Esthero@fr",
+        "Esthero@it" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Esthero>,
+        <http://es.dbpedia.org/resource/Esthero>,
+        <http://fr.dbpedia.org/resource/Esthero>,
+        <http://it.dbpedia.org/resource/Esthero>,
+        <http://rdf.freebase.com/ns/m.01vz78g>,
+        <http://wikidata.dbpedia.org/resource/Q3058998>,
+        <http://www.wikidata.org/entity/Q3058998>,
+        <http://yago-knowledge.org/resource/Esthero>,
+        <http://zitgist.com/music/artist/681bf706-8664-4658-ab1a-39e1d385fae2> .
+
+<http://data.judaicalink.org/data/dbpedia/Etti_Ankri> a foaf:Person ;
+    jl:hasLabel "Etti Ankri@de",
+        "Etti Ankri@en",
+        "Etti Ankri@fr" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Etti_Ankri>,
+        <http://de.dbpedia.org/resource/Etti_Ankri>,
+        <http://fr.dbpedia.org/resource/Etti_Ankri>,
+        <http://rdf.freebase.com/ns/m.0fmq9t>,
+        <http://wikidata.dbpedia.org/resource/Q467369>,
+        <http://www.wikidata.org/entity/Q467369>,
+        <http://yago-knowledge.org/resource/Etti_Ankri> .
+
+<http://data.judaicalink.org/data/dbpedia/Ewa_Demarczyk> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1076364926> ;
+    jl:hasLabel "Ewa Demarczyk@de",
+        "Ewa Demarczyk@en",
+        "Ewa Demarczyk@pl",
+        "Демарчик, Эва@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ewa_Demarczyková>,
+        <http://dbpedia.org/resource/Ewa_Demarczyk>,
+        <http://de.dbpedia.org/resource/Ewa_Demarczyk>,
+        <http://pl.dbpedia.org/resource/Ewa_Demarczyk>,
+        <http://rdf.freebase.com/ns/m.01sd5pq>,
+        <http://wikidata.dbpedia.org/resource/Q443436>,
+        <http://www.wikidata.org/entity/Q443436>,
+        <http://yago-knowledge.org/resource/Ewa_Demarczyk> .
+
+<http://data.judaicalink.org/data/dbpedia/Fatima_Kuinova> a foaf:Person ;
+    jl:hasLabel "Fatima Kuinova@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Fatima_Kuinova>,
+        <http://rdf.freebase.com/ns/m.04gstcn>,
+        <http://wikidata.dbpedia.org/resource/Q16087368>,
+        <http://www.wikidata.org/entity/Q16087368>,
+        <http://yago-knowledge.org/resource/Fatima_Kuinova> .
+
+<http://data.judaicalink.org/data/dbpedia/Frankie_Cosmos> a foaf:Person ;
+    jl:hasLabel "Frankie Cosmos@en",
+        "Фрэнки Космос@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Frankie_Cosmos>,
+        <http://rdf.freebase.com/ns/m.02q4nm4>,
+        <http://wikidata.dbpedia.org/resource/Q18581749>,
+        <http://www.wikidata.org/entity/Q18581749> .
+
+<http://data.judaicalink.org/data/dbpedia/Gad_Elbaz> a foaf:Person ;
+    jl:hasLabel "Gad Elbaz@en",
+        "Gad Elbaz@pt" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Gad_Elbaz>,
+        <http://pt.dbpedia.org/resource/Gad_Elbaz>,
+        <http://rdf.freebase.com/ns/m.026jjgz>,
+        <http://wikidata.dbpedia.org/resource/Q2910504>,
+        <http://www.wikidata.org/entity/Q2910504>,
+        <http://yago-knowledge.org/resource/Gad_Elbaz> .
+
+<http://data.judaicalink.org/data/dbpedia/Geddy_Lee> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/134441648> ;
+    jl:hasLabel "Geddy Lee@de",
+        "Geddy Lee@en",
+        "Geddy Lee@es",
+        "Geddy Lee@fr",
+        "Geddy Lee@it",
+        "Geddy Lee@nl",
+        "Geddy Lee@pl",
+        "Geddy Lee@pt",
+        "Гедди Ли@ru",
+        "ゲディー・リー@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Geddy_Lee>,
+        <http://dbpedia.org/resource/Geddy_Lee>,
+        <http://de.dbpedia.org/resource/Geddy_Lee>,
+        <http://el.dbpedia.org/resource/Τζέντι_Λι>,
+        <http://es.dbpedia.org/resource/Geddy_Lee>,
+        <http://fr.dbpedia.org/resource/Geddy_Lee>,
+        <http://id.dbpedia.org/resource/Geddy_Lee>,
+        <http://it.dbpedia.org/resource/Geddy_Lee>,
+        <http://ja.dbpedia.org/resource/ゲディー・リー>,
+        <http://ko.dbpedia.org/resource/게디_리>,
+        <http://nl.dbpedia.org/resource/Geddy_Lee>,
+        <http://pl.dbpedia.org/resource/Geddy_Lee>,
+        <http://pt.dbpedia.org/resource/Geddy_Lee>,
+        <http://rdf.freebase.com/ns/m.03d8y>,
+        <http://sw.cyc.com/concept/Mx4rOVMFqpqMQqWdjmkWDBxXNg>,
+        <http://wikidata.dbpedia.org/resource/Q320895>,
+        <http://www.wikidata.org/entity/Q320895>,
+        <http://yago-knowledge.org/resource/Geddy_Lee>,
+        <http://yago-knowledge.org/resource/Morris_Weinrib>,
+        <http://zitgist.com/music/artist/283fb96d-1f5c-4b74-9bea-3e4504f07fa3> .
+
+<http://data.judaicalink.org/data/dbpedia/Gene_Simmons> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/123437709> ;
+    jl:hasLabel "Gene Simmons@de",
+        "Gene Simmons@en",
+        "Gene Simmons@es",
+        "Gene Simmons@fr",
+        "Gene Simmons@it",
+        "Gene Simmons@nl",
+        "Gene Simmons@pl",
+        "Gene Simmons@pt",
+        "Джин Симмонс (музыкант)@ru",
+        "جين سيمونس@ar",
+        "ジーン・シモンズ (ミュージシャン)@ja",
+        "吉恩·西蒙斯@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Gene_Simmons>,
+        <http://data.europa.eu/euodp/jrc-names/Gene_Simmons>,
+        <http://dbpedia.org/resource/Gene_Simmons>,
+        <http://de.dbpedia.org/resource/Gene_Simmons>,
+        <http://es.dbpedia.org/resource/Gene_Simmons>,
+        <http://eu.dbpedia.org/resource/Gene_Simmons>,
+        <http://fr.dbpedia.org/resource/Gene_Simmons>,
+        <http://id.dbpedia.org/resource/Gene_Simmons>,
+        <http://it.dbpedia.org/resource/Gene_Simmons>,
+        <http://ja.dbpedia.org/resource/ジーン・シモンズ_(ミュージシャン)>,
+        <http://ko.dbpedia.org/resource/진_시먼스_(음악가)>,
+        <http://nl.dbpedia.org/resource/Gene_Simmons>,
+        <http://pl.dbpedia.org/resource/Gene_Simmons>,
+        <http://pt.dbpedia.org/resource/Gene_Simmons>,
+        <http://rdf.freebase.com/ns/m.03f1zhf>,
+        <http://sw.cyc.com/concept/Mx4rCiEie9a7T9WVqZzIoip7uw>,
+        <http://wikidata.dbpedia.org/resource/Q207197>,
+        <http://www.wikidata.org/entity/Q207197>,
+        <http://yago-knowledge.org/resource/Gene_Simmons>,
+        <http://zitgist.com/music/artist/96a1182f-e8e6-4df6-a811-82cb67d4565c> .
+
+<http://data.judaicalink.org/data/dbpedia/Georg_Kreisler> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118715895> ;
+    jl:hasLabel "Georg Kreisler@de",
+        "Georg Kreisler@en",
+        "Georg Kreisler@es",
+        "Georg Kreisler@fr",
+        "Крайслер, Георг@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Georg_Kreisler>,
+        <http://data.europa.eu/euodp/jrc-names/Georg_Kreisler>,
+        <http://dbpedia.org/resource/Georg_Kreisler>,
+        <http://de.dbpedia.org/resource/Georg_Kreisler>,
+        <http://es.dbpedia.org/resource/Georg_Kreisler>,
+        <http://fr.dbpedia.org/resource/Georg_Kreisler>,
+        <http://rdf.freebase.com/ns/m.02rmf_1>,
+        <http://viaf.org/viaf/49451744>,
+        <http://wikidata.dbpedia.org/resource/Q45275>,
+        <http://www.wikidata.org/entity/Q45275>,
+        <http://yago-knowledge.org/resource/Georg_Kreisler> .
+
+<http://data.judaicalink.org/data/dbpedia/Goldie_Hawn> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/120972468> ;
+    jl:hasLabel "Goldie Hawn@de",
+        "Goldie Hawn@en",
+        "Goldie Hawn@es",
+        "Goldie Hawn@fr",
+        "Goldie Hawn@it",
+        "Goldie Hawn@nl",
+        "Goldie Hawn@pl",
+        "Goldie Hawn@pt",
+        "Хоун, Голди@ru",
+        "غولدي هاون@ar",
+        "ゴールディ・ホーン@ja",
+        "歌蒂·韓@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Goldie_Hawnová>,
+        <http://data.europa.eu/euodp/jrc-names/Goldie_Hawn>,
+        <http://data.linkedmdb.org/resource/producer/9837>,
+        <http://dbpedia.org/resource/Goldie_Hawn>,
+        <http://de.dbpedia.org/resource/Goldie_Hawn>,
+        <http://es.dbpedia.org/resource/Goldie_Hawn>,
+        <http://eu.dbpedia.org/resource/Goldie_Hawn>,
+        <http://fr.dbpedia.org/resource/Goldie_Hawn>,
+        <http://id.dbpedia.org/resource/Goldie_Hawn>,
+        <http://it.dbpedia.org/resource/Goldie_Hawn>,
+        <http://ja.dbpedia.org/resource/ゴールディ・ホーン>,
+        <http://ko.dbpedia.org/resource/골디_혼>,
+        <http://nl.dbpedia.org/resource/Goldie_Hawn>,
+        <http://pl.dbpedia.org/resource/Goldie_Hawn>,
+        <http://pt.dbpedia.org/resource/Goldie_Hawn>,
+        <http://rdf.freebase.com/ns/m.0cwtm>,
+        <http://sw.cyc.com/concept/Mx4rvenQP5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/85444131>,
+        <http://wikidata.dbpedia.org/resource/Q188459>,
+        <http://www.wikidata.org/entity/Q188459>,
+        <http://yago-knowledge.org/resource/Goldie_Hawn> .
+
+<http://data.judaicalink.org/data/dbpedia/Harel_Skaat> a foaf:Person ;
+    jl:hasLabel "Harel Skaat@de",
+        "Harel Skaat@en",
+        "Harel Skaat@es",
+        "Harel Skaat@fr",
+        "Harel Skaat@it",
+        "Harel Skaat@nl",
+        "Harel Skaat@pl",
+        "Harel Skaat@pt",
+        "Скаат, Харель@ru",
+        "هاريل سقعت@ar" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Harel_Skaat>,
+        <http://de.dbpedia.org/resource/Harel_Skaat>,
+        <http://es.dbpedia.org/resource/Harel_Skaat>,
+        <http://fr.dbpedia.org/resource/Harel_Skaat>,
+        <http://it.dbpedia.org/resource/Harel_Skaat>,
+        <http://nl.dbpedia.org/resource/Harel_Skaat>,
+        <http://pl.dbpedia.org/resource/Harel_Skaat>,
+        <http://pt.dbpedia.org/resource/Harel_Skaat>,
+        <http://rdf.freebase.com/ns/m.02ppzt2>,
+        <http://wikidata.dbpedia.org/resource/Q276295>,
+        <http://www.wikidata.org/entity/Q276295>,
+        <http://yago-knowledge.org/resource/Harel_Skaat> .
+
+<http://data.judaicalink.org/data/dbpedia/Heinrich_Kreuzer> a foaf:Person ;
+    jl:hasLabel "Heinrich Kreuzer@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Heinrich_Kreuzer>,
+        <http://rdf.freebase.com/ns/m.09v5y6n>,
+        <http://viaf.org/viaf/45056733>,
+        <http://wikidata.dbpedia.org/resource/Q5700212>,
+        <http://www.wikidata.org/entity/Q5700212>,
+        <http://yago-knowledge.org/resource/Heinrich_Kreuzer> .
+
+<http://data.judaicalink.org/data/dbpedia/Helen_Reddy> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/134866657> ;
+    jl:hasLabel "Helen Reddy@de",
+        "Helen Reddy@en",
+        "Helen Reddy@es",
+        "Helen Reddy@fr",
+        "Helen Reddy@it",
+        "Helen Reddy@nl",
+        "Helen Reddy@pl",
+        "Helen Reddy@pt",
+        "Редди, Хелен@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Helen_Reddy>,
+        <http://dbpedia.org/resource/Helen_Reddy>,
+        <http://de.dbpedia.org/resource/Helen_Reddy>,
+        <http://es.dbpedia.org/resource/Helen_Reddy>,
+        <http://fr.dbpedia.org/resource/Helen_Reddy>,
+        <http://id.dbpedia.org/resource/Helen_Reddy>,
+        <http://it.dbpedia.org/resource/Helen_Reddy>,
+        <http://nl.dbpedia.org/resource/Helen_Reddy>,
+        <http://pl.dbpedia.org/resource/Helen_Reddy>,
+        <http://pt.dbpedia.org/resource/Helen_Reddy>,
+        <http://rdf.freebase.com/ns/m.01l3mbb>,
+        <http://sw.cyc.com/concept/Mx4rwPmRp5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/34668947>,
+        <http://wikidata.dbpedia.org/resource/Q233362>,
+        <http://www.wikidata.org/entity/Q233362>,
+        <http://yago-knowledge.org/resource/Helen_Reddy>,
+        <http://zitgist.com/music/artist/0f4681f3-1d4d-4463-8a68-eaa60d6d6865> .
+
+<http://data.judaicalink.org/data/dbpedia/Helen_Slater> a foaf:Person ;
+    jl:hasLabel "Helen Slater@de",
+        "Helen Slater@en",
+        "Helen Slater@es",
+        "Helen Slater@fr",
+        "Helen Slater@it",
+        "Helen Slater@nl",
+        "Helen Slater@pt",
+        "Слэйтер, Хелен@ru",
+        "هيلين سلاتر@ar",
+        "ヘレン・スレイター@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Helen_Slater>,
+        <http://de.dbpedia.org/resource/Helen_Slater>,
+        <http://es.dbpedia.org/resource/Helen_Slater>,
+        <http://fr.dbpedia.org/resource/Helen_Slater>,
+        <http://it.dbpedia.org/resource/Helen_Slater>,
+        <http://ja.dbpedia.org/resource/ヘレン・スレイター>,
+        <http://ko.dbpedia.org/resource/헬렌_슬레이터>,
+        <http://nl.dbpedia.org/resource/Helen_Slater>,
+        <http://pt.dbpedia.org/resource/Helen_Slater>,
+        <http://rdf.freebase.com/ns/m.01sxsx>,
+        <http://sw.cyc.com/concept/Mx4rviOIQpwpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q241879>,
+        <http://www.wikidata.org/entity/Q241879>,
+        <http://yago-knowledge.org/resource/Helen_Slater> .
+
+<http://data.judaicalink.org/data/dbpedia/Ioan_Holender> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/123285798> ;
+    jl:hasLabel "Ioan Holender@de",
+        "Ioan Holender@en",
+        "Ioan Holender@it",
+        "Ioan Holender@pt",
+        "Холендер, Иоан@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Ioan_Holender>,
+        <http://dbpedia.org/resource/Ioan_Holender>,
+        <http://de.dbpedia.org/resource/Ioan_Holender>,
+        <http://it.dbpedia.org/resource/Ioan_Holender>,
+        <http://pt.dbpedia.org/resource/Ioan_Holender>,
+        <http://rdf.freebase.com/ns/m.02z1mph>,
+        <http://wikidata.dbpedia.org/resource/Q457290>,
+        <http://www.wikidata.org/entity/Q457290>,
+        <http://yago-knowledge.org/resource/Ioan_Holender> .
+
+<http://data.judaicalink.org/data/dbpedia/Izhar_Cohen> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/134349008> ;
+    jl:hasLabel "Izhar Cohen@de",
+        "Izhar Cohen@en",
+        "Izhar Cohen@es",
+        "Izhar Cohen@fr",
+        "Izhar Cohen@it",
+        "Izhar Cohen@nl",
+        "Izhar Cohen@pl",
+        "Izhar Cohen@pt",
+        "Коэн, Изхар@ru",
+        "يصهار كوهين@ar" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Izhar_Cohen>,
+        <http://de.dbpedia.org/resource/Izhar_Cohen>,
+        <http://es.dbpedia.org/resource/Izhar_Cohen>,
+        <http://fr.dbpedia.org/resource/Izhar_Cohen>,
+        <http://it.dbpedia.org/resource/Izhar_Cohen>,
+        <http://nl.dbpedia.org/resource/Izhar_Cohen>,
+        <http://pl.dbpedia.org/resource/Izhar_Cohen>,
+        <http://pt.dbpedia.org/resource/Izhar_Cohen>,
+        <http://rdf.freebase.com/ns/m.01v64sr>,
+        <http://wikidata.dbpedia.org/resource/Q460148>,
+        <http://www.wikidata.org/entity/Q460148>,
+        <http://yago-knowledge.org/resource/Izhar_Cohen> .
+
+<http://data.judaicalink.org/data/dbpedia/Jason_Alexander> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/141860642> ;
+    jl:hasLabel "Jason Alexander@de",
+        "Jason Alexander@en",
+        "Jason Alexander@es",
+        "Jason Alexander@fr",
+        "Jason Alexander@it",
+        "Jason Alexander@nl",
+        "Jason Alexander@pl",
+        "Jason Alexander@pt",
+        "Александер, Джейсон@ru",
+        "جيسون الكسندر@ar",
+        "ジェイソン・アレクサンダー@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jason_Alexander>,
+        <http://data.europa.eu/euodp/jrc-names/Jason_Alexander>,
+        <http://data.nytimes.com/82726415339327310223>,
+        <http://dbpedia.org/resource/Jason_Alexander>,
+        <http://de.dbpedia.org/resource/Jason_Alexander>,
+        <http://es.dbpedia.org/resource/Jason_Alexander>,
+        <http://fr.dbpedia.org/resource/Jason_Alexander>,
+        <http://id.dbpedia.org/resource/Jason_Alexander>,
+        <http://it.dbpedia.org/resource/Jason_Alexander>,
+        <http://ja.dbpedia.org/resource/ジェイソン・アレクサンダー>,
+        <http://ko.dbpedia.org/resource/제이슨_알렉산더>,
+        <http://nl.dbpedia.org/resource/Jason_Alexander>,
+        <http://pl.dbpedia.org/resource/Jason_Alexander>,
+        <http://pt.dbpedia.org/resource/Jason_Alexander>,
+        <http://rdf.freebase.com/ns/m.01w0yrc>,
+        <http://sw.cyc.com/concept/Mx4rvZymGJwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/39573643>,
+        <http://wikidata.dbpedia.org/resource/Q311754>,
+        <http://www.wikidata.org/entity/Q311754>,
+        <http://yago-knowledge.org/resource/Jason_Alexander> .
+
+<http://data.judaicalink.org/data/dbpedia/Jerry_Lewis> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118572474> ;
+    jl:hasLabel "Jerry Lewis@de",
+        "Jerry Lewis@en",
+        "Jerry Lewis@es",
+        "Jerry Lewis@fr",
+        "Jerry Lewis@it",
+        "Jerry Lewis@nl",
+        "Jerry Lewis@pl",
+        "Jerry Lewis@pt",
+        "Джерри Льюис@ru",
+        "جيري لويس@ar",
+        "ジェリー・ルイス@ja",
+        "傑利·路易斯@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jerry_Lewis>,
+        <http://data.linkedmdb.org/resource/producer/9705>,
+        <http://data.nytimes.com/N80287341572874411493>,
+        <http://dbpedia.org/resource/Jerry_Lewis>,
+        <http://de.dbpedia.org/resource/Jerry_Lewis>,
+        <http://el.dbpedia.org/resource/Τζέρι_Λιούις>,
+        <http://es.dbpedia.org/resource/Jerry_Lewis>,
+        <http://fr.dbpedia.org/resource/Jerry_Lewis>,
+        <http://id.dbpedia.org/resource/Jerry_Lewis>,
+        <http://it.dbpedia.org/resource/Jerry_Lewis>,
+        <http://ja.dbpedia.org/resource/ジェリー・ルイス>,
+        <http://ko.dbpedia.org/resource/제리_루이스>,
+        <http://nl.dbpedia.org/resource/Jerry_Lewis>,
+        <http://pl.dbpedia.org/resource/Jerry_Lewis>,
+        <http://pt.dbpedia.org/resource/Jerry_Lewis>,
+        <http://rdf.freebase.com/ns/m.0427y>,
+        <http://sw.cyc.com/concept/Mx4rz9-1sjkERuSR1fHmXcKAAA>,
+        <http://wikidata.dbpedia.org/resource/Q294927>,
+        <http://www.wikidata.org/entity/Q294927>,
+        <http://yago-knowledge.org/resource/Jerry_Lewis> .
+
+<http://data.judaicalink.org/data/dbpedia/Jerry_Springer> a foaf:Person ;
+    jl:hasLabel "Jerry Springer@de",
+        "Jerry Springer@en",
+        "Jerry Springer@es",
+        "Jerry Springer@fr",
+        "Jerry Springer@it",
+        "Jerry Springer@nl",
+        "Jerry Springer@pl",
+        "Jerry Springer@pt",
+        "Спрингер, Джерри@ru",
+        "杰里·斯普林格@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Jerry_Springer>,
+        <http://data.nytimes.com/76911422218186127013>,
+        <http://dbpedia.org/resource/Jerry_Springer>,
+        <http://de.dbpedia.org/resource/Jerry_Springer>,
+        <http://es.dbpedia.org/resource/Jerry_Springer>,
+        <http://fr.dbpedia.org/resource/Jerry_Springer>,
+        <http://it.dbpedia.org/resource/Jerry_Springer>,
+        <http://ko.dbpedia.org/resource/제리_스프링거>,
+        <http://nl.dbpedia.org/resource/Jerry_Springer>,
+        <http://pl.dbpedia.org/resource/Jerry_Springer>,
+        <http://pt.dbpedia.org/resource/Jerry_Springer>,
+        <http://rdf.freebase.com/ns/m.01v0432>,
+        <http://sw.cyc.com/concept/Mx4rvaiU3JwpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q27214>,
+        <http://www.wikidata.org/entity/Q27214>,
+        <http://yago-knowledge.org/resource/Jerry_Springer> .
+
+<http://data.judaicalink.org/data/dbpedia/Joe_Dassin> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118889710> ;
+    jl:hasLabel "Joe Dassin@de",
+        "Joe Dassin@en",
+        "Joe Dassin@es",
+        "Joe Dassin@fr",
+        "Joe Dassin@it",
+        "Joe Dassin@nl",
+        "Joe Dassin@pl",
+        "Joe Dassin@pt",
+        "Дассен, Джо@ru",
+        "ジョー・ダッサン@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Joe_Dassin>,
+        <http://data.europa.eu/euodp/jrc-names/Joe_Dassin>,
+        <http://dbpedia.org/resource/Joe_Dassin>,
+        <http://de.dbpedia.org/resource/Joe_Dassin>,
+        <http://es.dbpedia.org/resource/Joe_Dassin>,
+        <http://fr.dbpedia.org/resource/Joe_Dassin>,
+        <http://it.dbpedia.org/resource/Joe_Dassin>,
+        <http://ja.dbpedia.org/resource/ジョー・ダッサン>,
+        <http://nl.dbpedia.org/resource/Joe_Dassin>,
+        <http://pl.dbpedia.org/resource/Joe_Dassin>,
+        <http://pt.dbpedia.org/resource/Joe_Dassin>,
+        <http://rdf.freebase.com/ns/m.01jg3g>,
+        <http://wikidata.dbpedia.org/resource/Q272943>,
+        <http://www.wikidata.org/entity/Q272943>,
+        <http://yago-knowledge.org/resource/Joe_Dassin>,
+        <http://zitgist.com/music/artist/475b7312-4fcb-49a4-8bcc-cf3a679b255a> .
+
+<http://data.judaicalink.org/data/dbpedia/Joey_Ramone> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/129470422> ;
+    jl:hasLabel "Joey Ramone@de",
+        "Joey Ramone@en",
+        "Joey Ramone@es",
+        "Joey Ramone@fr",
+        "Joey Ramone@it",
+        "Joey Ramone@nl",
+        "Joey Ramone@pl",
+        "Joey Ramone@pt",
+        "Джоуи Рамон@ru",
+        "ジョーイ・ラモーン@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Joey_Ramone>,
+        <http://data.europa.eu/euodp/jrc-names/Joey_Ramone>,
+        <http://dbpedia.org/resource/Joey_Ramone>,
+        <http://de.dbpedia.org/resource/Joey_Ramone>,
+        <http://es.dbpedia.org/resource/Joey_Ramone>,
+        <http://eu.dbpedia.org/resource/Joey_Ramone>,
+        <http://fr.dbpedia.org/resource/Joey_Ramone>,
+        <http://it.dbpedia.org/resource/Joey_Ramone>,
+        <http://ja.dbpedia.org/resource/ジョーイ・ラモーン>,
+        <http://nl.dbpedia.org/resource/Joey_Ramone>,
+        <http://pl.dbpedia.org/resource/Joey_Ramone>,
+        <http://pt.dbpedia.org/resource/Joey_Ramone>,
+        <http://rdf.freebase.com/ns/m.01wcpdn>,
+        <http://viaf.org/viaf/54337039>,
+        <http://wikidata.dbpedia.org/resource/Q312387>,
+        <http://www.wikidata.org/entity/Q312387>,
+        <http://yago-knowledge.org/resource/Joey_Ramone> .
+
+<http://data.judaicalink.org/data/dbpedia/Julie_London> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135280206> ;
+    jl:hasLabel "Julie London@de",
+        "Julie London@en",
+        "Julie London@es",
+        "Julie London@fr",
+        "Julie London@it",
+        "Julie London@nl",
+        "Julie London@pl",
+        "Julie London@pt",
+        "Джули Лондон@ru",
+        "ジュリー・ロンドン@ja",
+        "朱莉·伦敦@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Julie_London>,
+        <http://de.dbpedia.org/resource/Julie_London>,
+        <http://es.dbpedia.org/resource/Julie_London>,
+        <http://fr.dbpedia.org/resource/Julie_London>,
+        <http://it.dbpedia.org/resource/Julie_London>,
+        <http://ja.dbpedia.org/resource/ジュリー・ロンドン>,
+        <http://ko.dbpedia.org/resource/줄리_런던>,
+        <http://nl.dbpedia.org/resource/Julie_London>,
+        <http://pl.dbpedia.org/resource/Julie_London>,
+        <http://pt.dbpedia.org/resource/Julie_London>,
+        <http://rdf.freebase.com/ns/m.03z5yf>,
+        <http://sw.cyc.com/concept/Mx4rvdZeHpwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/49408698>,
+        <http://wikidata.dbpedia.org/resource/Q231255>,
+        <http://www.wikidata.org/entity/Q231255>,
+        <http://yago-knowledge.org/resource/Julie_London>,
+        <http://zitgist.com/music/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5> .
+
+<http://data.judaicalink.org/data/dbpedia/Julie_Zenatti> a foaf:Person ;
+    jl:hasLabel "Julie Zenatti@de",
+        "Julie Zenatti@en",
+        "Julie Zenatti@fr",
+        "Julie Zenatti@it",
+        "Julie Zenatti@nl",
+        "Julie Zenatti@pl",
+        "Зенатти, Жюли@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Julie_Zenatti>,
+        <http://de.dbpedia.org/resource/Julie_Zenatti>,
+        <http://fr.dbpedia.org/resource/Julie_Zenatti>,
+        <http://id.dbpedia.org/resource/Julie_Zenatti>,
+        <http://it.dbpedia.org/resource/Julie_Zenatti>,
+        <http://ko.dbpedia.org/resource/쥘리_제나티>,
+        <http://nl.dbpedia.org/resource/Julie_Zenatti>,
+        <http://pl.dbpedia.org/resource/Julie_Zenatti>,
+        <http://rdf.freebase.com/ns/m.01m98zg>,
+        <http://wikidata.dbpedia.org/resource/Q254403>,
+        <http://www.wikidata.org/entity/Q254403>,
+        <http://yago-knowledge.org/resource/Julie_Zenatti> .
+
+<http://data.judaicalink.org/data/dbpedia/Keren_Peles> a foaf:Person ;
+    jl:hasLabel "Keren Peles@de",
+        "Keren Peles@en",
+        "Keren Peles@es",
+        "Пелес, Керен@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Keren_Peles>,
+        <http://dbpedia.org/resource/Keren_Peles>,
+        <http://de.dbpedia.org/resource/Keren_Peles>,
+        <http://es.dbpedia.org/resource/Keren_Peles>,
+        <http://rdf.freebase.com/ns/m.0266r0_>,
+        <http://wikidata.dbpedia.org/resource/Q466518>,
+        <http://www.wikidata.org/entity/Q466518>,
+        <http://yago-knowledge.org/resource/Keren_Peles> .
+
+<http://data.judaicalink.org/data/dbpedia/Kinky_Friedman> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/115622578> ;
+    jl:hasLabel "Kinky Friedman@de",
+        "Kinky Friedman@en",
+        "Kinky Friedman@fr",
+        "Kinky Friedman@it" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Kinky_Friedman>,
+        <http://data.nytimes.com/2679377876791013883>,
+        <http://dbpedia.org/resource/Kinky_Friedman>,
+        <http://de.dbpedia.org/resource/Kinky_Friedman>,
+        <http://fr.dbpedia.org/resource/Kinky_Friedman>,
+        <http://it.dbpedia.org/resource/Kinky_Friedman>,
+        <http://rdf.freebase.com/ns/m.048bp>,
+        <http://viaf.org/viaf/68959626>,
+        <http://wikidata.dbpedia.org/resource/Q1281738>,
+        <http://www.wikidata.org/entity/Q1281738>,
+        <http://yago-knowledge.org/resource/Kinky_Friedman>,
+        <http://zitgist.com/music/artist/8d22894d-5105-44d4-923d-0c2f3f515da6> .
+
+<http://data.judaicalink.org/data/dbpedia/Lanz_Pierce> a foaf:Person ;
+    jl:hasLabel "Lanz Pierce@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Lanz_Pierce>,
+        <http://wikidata.dbpedia.org/resource/Q21642695>,
+        <http://www.wikidata.org/entity/Q21642695> .
+
+<http://data.judaicalink.org/data/dbpedia/Laurent_Naouri> a foaf:Person ;
+    jl:hasLabel "Laurent Naouri@en",
+        "Laurent Naouri@es",
+        "Laurent Naouri@fr",
+        "Наури, Лоран@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Laurent_Naouri>,
+        <http://es.dbpedia.org/resource/Laurent_Naouri>,
+        <http://fr.dbpedia.org/resource/Laurent_Naouri>,
+        <http://rdf.freebase.com/ns/m.02w95p8>,
+        <http://viaf.org/viaf/61738859>,
+        <http://wikidata.dbpedia.org/resource/Q2658477>,
+        <http://www.wikidata.org/entity/Q2658477>,
+        <http://yago-knowledge.org/resource/Laurent_Naouri> .
+
+<http://data.judaicalink.org/data/dbpedia/Leslie_West> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/134846435> ;
+    jl:hasLabel "Leslie West@de",
+        "Leslie West@en",
+        "Leslie West@fr",
+        "Leslie West@it",
+        "Leslie West@pt",
+        "Уэст, Лесли@ru",
+        "レスリー・ウェスト@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Leslie_West>,
+        <http://dbpedia.org/resource/Leslie_West>,
+        <http://de.dbpedia.org/resource/Leslie_West>,
+        <http://fr.dbpedia.org/resource/Leslie_West>,
+        <http://it.dbpedia.org/resource/Leslie_West>,
+        <http://ja.dbpedia.org/resource/レスリー・ウェスト>,
+        <http://ko.dbpedia.org/resource/레슬리_웨스트>,
+        <http://pt.dbpedia.org/resource/Leslie_West>,
+        <http://rdf.freebase.com/ns/m.01p21_5>,
+        <http://sw.cyc.com/concept/Mx4rQ3syS1xIR26AGw48lmmK_Q>,
+        <http://viaf.org/viaf/74040045>,
+        <http://wikidata.dbpedia.org/resource/Q1344554>,
+        <http://www.wikidata.org/entity/Q1344554>,
+        <http://yago-knowledge.org/resource/Leslie_West> .
+
+<http://data.judaicalink.org/data/dbpedia/Libby_Holman> a foaf:Person ;
+    jl:hasLabel "Libby Holman@en",
+        "Libby Holman@es",
+        "Libby Holman@fr" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Libby_Holman>,
+        <http://es.dbpedia.org/resource/Libby_Holman>,
+        <http://fr.dbpedia.org/resource/Libby_Holman>,
+        <http://rdf.freebase.com/ns/m.026yrvv>,
+        <http://viaf.org/viaf/92140128>,
+        <http://wikidata.dbpedia.org/resource/Q3237701>,
+        <http://www.wikidata.org/entity/Q3237701>,
+        <http://yago-knowledge.org/resource/Libby_Holman> .
+
+<http://data.judaicalink.org/data/dbpedia/Linda_Lavin> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1020504293> ;
+    jl:hasLabel "Linda Lavin@de",
+        "Linda Lavin@en",
+        "Linda Lavin@es",
+        "Linda Lavin@it",
+        "Linda Lavin@nl",
+        "Лавин, Линда@ru",
+        "リンダ・ラヴィン@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.nytimes.com/22370977505181852343>,
+        <http://dbpedia.org/resource/Linda_Lavin>,
+        <http://de.dbpedia.org/resource/Linda_Lavin>,
+        <http://es.dbpedia.org/resource/Linda_Lavin>,
+        <http://it.dbpedia.org/resource/Linda_Lavin>,
+        <http://ja.dbpedia.org/resource/リンダ・ラヴィン>,
+        <http://ko.dbpedia.org/resource/린다_래빈>,
+        <http://nl.dbpedia.org/resource/Linda_Lavin>,
+        <http://rdf.freebase.com/ns/m.01vk80m>,
+        <http://sw.cyc.com/concept/Mx4rwVdZ15wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/87321606>,
+        <http://wikidata.dbpedia.org/resource/Q468443>,
+        <http://www.wikidata.org/entity/Q468443>,
+        <http://yago-knowledge.org/resource/Linda_Lavin> .
+
+<http://data.judaicalink.org/data/dbpedia/Lou_Reed> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/11930225X> ;
+    jl:hasLabel "Lou Reed@de",
+        "Lou Reed@en",
+        "Lou Reed@es",
+        "Lou Reed@fr",
+        "Lou Reed@it",
+        "Lou Reed@nl",
+        "Lou Reed@pl",
+        "Lou Reed@pt",
+        "Рид, Лу@ru",
+        "لو ريد@ar",
+        "ルー・リード@ja",
+        "卢·里德@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Lou_Reed>,
+        <http://data.europa.eu/euodp/jrc-names/Lou_Reed>,
+        <http://data.nytimes.com/46640309763223462853>,
+        <http://dbpedia.org/resource/Lou_Reed>,
+        <http://de.dbpedia.org/resource/Lou_Reed>,
+        <http://el.dbpedia.org/resource/Λου_Ριντ>,
+        <http://es.dbpedia.org/resource/Lou_Reed>,
+        <http://eu.dbpedia.org/resource/Lou_Reed>,
+        <http://fr.dbpedia.org/resource/Lou_Reed>,
+        <http://id.dbpedia.org/resource/Lou_Reed>,
+        <http://it.dbpedia.org/resource/Lou_Reed>,
+        <http://ja.dbpedia.org/resource/ルー・リード>,
+        <http://ko.dbpedia.org/resource/루_리드>,
+        <http://nl.dbpedia.org/resource/Lou_Reed>,
+        <http://pl.dbpedia.org/resource/Lou_Reed>,
+        <http://pt.dbpedia.org/resource/Lou_Reed>,
+        <http://rdf.freebase.com/ns/m.03f0fnk>,
+        <http://sw.cyc.com/concept/Mx4rwBIHtpwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/19689232>,
+        <http://wikidata.dbpedia.org/resource/Q189080>,
+        <http://www.wikidata.org/entity/Q189080>,
+        <http://yago-knowledge.org/resource/Lou_Reed>,
+        <http://zitgist.com/music/artist/9d1ebcfe-4c15-4d18-95d3-d919898638a1> .
+
+<http://data.judaicalink.org/data/dbpedia/Lucy_Kaplansky> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135501296> ;
+    jl:hasLabel "Lucy Kaplansky@de",
+        "Lucy Kaplansky@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Lucy_Kaplansky>,
+        <http://de.dbpedia.org/resource/Lucy_Kaplansky>,
+        <http://rdf.freebase.com/ns/m.01ls25q>,
+        <http://viaf.org/viaf/71033534>,
+        <http://wikidata.dbpedia.org/resource/Q1873781>,
+        <http://www.wikidata.org/entity/Q1873781>,
+        <http://yago-knowledge.org/resource/Lucy_Kaplansky> .
+
+<http://data.judaicalink.org/data/dbpedia/Marilyn_Monroe> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118583549> ;
+    jl:hasLabel "Marilyn Monroe@de",
+        "Marilyn Monroe@en",
+        "Marilyn Monroe@es",
+        "Marilyn Monroe@fr",
+        "Marilyn Monroe@it",
+        "Marilyn Monroe@nl",
+        "Marilyn Monroe@pl",
+        "Marilyn Monroe@pt",
+        "Мэрилин Монро@ru",
+        "مارلين مونرو@ar",
+        "マリリン・モンロー@ja",
+        "玛丽莲·梦露@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://data.europa.eu/euodp/jrc-names/Marilyn_Monroe>,
+        <http://data.europa.eu/euodp/jrc-names/Norma_Jeane>,
+        <http://data.nytimes.com/84703268748704222713>,
+        <http://dbpedia.org/resource/Marilyn_Monroe>,
+        <http://de.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://el.dbpedia.org/resource/Μέριλιν_Μονρόε>,
+        <http://es.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://eu.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://fr.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://id.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://it.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://ja.dbpedia.org/resource/マリリン・モンロー>,
+        <http://ko.dbpedia.org/resource/마릴린_먼로>,
+        <http://nl.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://pl.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://pt.dbpedia.org/resource/Marilyn_Monroe>,
+        <http://rdf.freebase.com/ns/m.02rz53q>,
+        <http://rdf.freebase.com/ns/m.04wqr>,
+        <http://sw.cyc.com/concept/Mx4rpfQxZ09QTH2F_oqLcYJCyQ>,
+        <http://sw.cyc.com/concept/Mx4rvvVe1pwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/27069077>,
+        <http://wikidata.dbpedia.org/resource/Q4616>,
+        <http://www.wikidata.org/entity/Q4616>,
+        <http://yago-knowledge.org/resource/Marilyn_Monroe>,
+        <http://yago-knowledge.org/resource/Natasha_Lytess>,
+        <http://zitgist.com/music/artist/6e60deeb-a666-42c5-95cb-a5eada6bbbe5> .
+
+<http://data.judaicalink.org/data/dbpedia/Marina_Maximilian_Blumin> a foaf:Person ;
+    jl:hasLabel "Marina Maximilian Blumin@en",
+        "Блюмин, Марина Максимилиан@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Marina_Maximilian_Blumin>,
+        <http://rdf.freebase.com/ns/m.03by3df>,
+        <http://wikidata.dbpedia.org/resource/Q2902771>,
+        <http://www.wikidata.org/entity/Q2902771>,
+        <http://yago-knowledge.org/resource/Marina_Maximilian_Blumin> .
+
+<http://data.judaicalink.org/data/dbpedia/Mark_Bernes> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/128959282> ;
+    jl:hasLabel "Mark Bernes@en",
+        "Mark Bernes@fr",
+        "Mark Bernes@nl",
+        "Mark Bernes@pl",
+        "Mark Naumowitsch Bernes@de",
+        "Бернес, Марк Наумович@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Bernes>,
+        <http://de.dbpedia.org/resource/Mark_Naumowitsch_Bernes>,
+        <http://fr.dbpedia.org/resource/Mark_Bernes>,
+        <http://nl.dbpedia.org/resource/Mark_Bernes>,
+        <http://pl.dbpedia.org/resource/Mark_Bernes>,
+        <http://rdf.freebase.com/ns/m.088741>,
+        <http://viaf.org/viaf/8452628>,
+        <http://wikidata.dbpedia.org/resource/Q537854>,
+        <http://www.wikidata.org/entity/Q537854>,
+        <http://yago-knowledge.org/resource/Mark_Bernes> .
+
+<http://data.judaicalink.org/data/dbpedia/Mark_Glanville> a foaf:Person ;
+    jl:hasLabel "Mark Glanville@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Glanville>,
+        <http://rdf.freebase.com/ns/m.0j6440h>,
+        <http://viaf.org/viaf/51279827>,
+        <http://wikidata.dbpedia.org/resource/Q6767758>,
+        <http://www.wikidata.org/entity/Q6767758>,
+        <http://yago-knowledge.org/resource/Mark_Glanville> .
+
+<http://data.judaicalink.org/data/dbpedia/Mark_Ronson> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135337909> ;
+    jl:hasLabel "Mark Ronson@de",
+        "Mark Ronson@en",
+        "Mark Ronson@es",
+        "Mark Ronson@fr",
+        "Mark Ronson@it",
+        "Mark Ronson@nl",
+        "Mark Ronson@pl",
+        "Mark Ronson@pt",
+        "Ронсон, Марк@ru",
+        "مارك رونسون@ar",
+        "マーク・ロンソン@ja",
+        "馬克·朗森@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Mark_Ronson>,
+        <http://data.europa.eu/euodp/jrc-names/Mark_Ronson>,
+        <http://dbpedia.org/resource/Mark_Ronson>,
+        <http://de.dbpedia.org/resource/Mark_Ronson>,
+        <http://es.dbpedia.org/resource/Mark_Ronson>,
+        <http://fr.dbpedia.org/resource/Mark_Ronson>,
+        <http://it.dbpedia.org/resource/Mark_Ronson>,
+        <http://ja.dbpedia.org/resource/マーク・ロンソン>,
+        <http://ko.dbpedia.org/resource/마크_론슨>,
+        <http://nl.dbpedia.org/resource/Mark_Ronson>,
+        <http://pl.dbpedia.org/resource/Mark_Ronson>,
+        <http://pt.dbpedia.org/resource/Mark_Ronson>,
+        <http://rdf.freebase.com/ns/m.0892sx>,
+        <http://sw.cyc.com/concept/Mx4rzlgeMBA1Q9yMJjVZ9Y39Gg>,
+        <http://viaf.org/viaf/47979779>,
+        <http://wikidata.dbpedia.org/resource/Q425821>,
+        <http://www.wikidata.org/entity/Q425821>,
+        <http://yago-knowledge.org/resource/Mark_Ronson>,
+        <http://zitgist.com/music/artist/c3c82bdc-d9e7-4836-9746-c24ead47ca19> .
+
+<http://data.judaicalink.org/data/dbpedia/Max_Schneider> a foaf:Person ;
+    jl:hasLabel "Max Schneider (Schauspieler)@de",
+        "Max Schneider@en",
+        "Max Schneider@es",
+        "Max Schneider@fr",
+        "Max Schneider@it",
+        "Max Schneider@nl",
+        "Max Schneider@pl",
+        "Max Schneider@pt" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Max_Schneider>,
+        <http://de.dbpedia.org/resource/Max_Schneider_(Schauspieler)>,
+        <http://es.dbpedia.org/resource/Max_Schneider>,
+        <http://fr.dbpedia.org/resource/Max_Schneider>,
+        <http://it.dbpedia.org/resource/Max_Schneider>,
+        <http://ko.dbpedia.org/resource/맥스_슈나이더>,
+        <http://nl.dbpedia.org/resource/Max_Schneider>,
+        <http://pl.dbpedia.org/resource/Max_Schneider>,
+        <http://pt.dbpedia.org/resource/Max_Schneider>,
+        <http://rdf.freebase.com/ns/m.012w3rsv>,
+        <http://rdf.freebase.com/ns/m.0j3cwy9>,
+        <http://wikidata.dbpedia.org/resource/Q1190160>,
+        <http://www.wikidata.org/entity/Q1190160>,
+        <http://yago-knowledge.org/resource/Max_Schneider> .
+
+<http://data.judaicalink.org/data/dbpedia/Meir_Ariel> a foaf:Person ;
+    jl:hasLabel "Meir Ariel@en",
+        "Ариэль, Меир@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Meir_Ariel>,
+        <http://rdf.freebase.com/ns/m.0crx19>,
+        <http://wikidata.dbpedia.org/resource/Q2910806>,
+        <http://www.wikidata.org/entity/Q2910806>,
+        <http://yago-knowledge.org/resource/Meir_Ariel> .
+
+<http://data.judaicalink.org/data/dbpedia/Meir_Banai> a foaf:Person ;
+    jl:hasLabel "Meir Banai@en",
+        "Meir Banai@it" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Meir_Banai>,
+        <http://it.dbpedia.org/resource/Meir_Banai>,
+        <http://rdf.freebase.com/ns/m.064qqvh>,
+        <http://wikidata.dbpedia.org/resource/Q12408754>,
+        <http://www.wikidata.org/entity/Q12408754>,
+        <http://yago-knowledge.org/resource/Meir_Banai> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Bolton> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119183277> ;
+    jl:hasLabel "Michael Bolton@de",
+        "Michael Bolton@en",
+        "Michael Bolton@es",
+        "Michael Bolton@fr",
+        "Michael Bolton@it",
+        "Michael Bolton@nl",
+        "Michael Bolton@pl",
+        "Michael Bolton@pt",
+        "Майкл Болтон@ru",
+        "مايكل بولتون@ar",
+        "マイケル・ボルトン@ja",
+        "邁克爾·波頓@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Michael_Bolton>,
+        <http://data.europa.eu/euodp/jrc-names/Michael_Bolton>,
+        <http://data.linkedmdb.org/resource/producer/10518>,
+        <http://dbpedia.org/resource/Michael_Bolton>,
+        <http://de.dbpedia.org/resource/Michael_Bolton>,
+        <http://es.dbpedia.org/resource/Michael_Bolton>,
+        <http://fr.dbpedia.org/resource/Michael_Bolton>,
+        <http://id.dbpedia.org/resource/Michael_Bolton>,
+        <http://it.dbpedia.org/resource/Michael_Bolton>,
+        <http://ja.dbpedia.org/resource/マイケル・ボルトン>,
+        <http://ko.dbpedia.org/resource/마이클_볼턴>,
+        <http://nl.dbpedia.org/resource/Michael_Bolton>,
+        <http://pl.dbpedia.org/resource/Michael_Bolton>,
+        <http://pt.dbpedia.org/resource/Michael_Bolton>,
+        <http://rdf.freebase.com/ns/m.02p68d>,
+        <http://sw.cyc.com/concept/Mx4rvvj-lJwpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q312514>,
+        <http://www.wikidata.org/entity/Q312514>,
+        <http://yago-knowledge.org/resource/Michael_Bolton>,
+        <http://zitgist.com/music/artist/e8bee5d1-a3a5-4c1a-ada4-f1ca22101e84> .
+
+<http://data.judaicalink.org/data/dbpedia/Michel_Polnareff> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/12950582X> ;
+    jl:hasLabel "Michel Polnareff@de",
+        "Michel Polnareff@en",
+        "Michel Polnareff@es",
+        "Michel Polnareff@fr",
+        "Michel Polnareff@it",
+        "Michel Polnareff@nl",
+        "Michel Polnareff@pt",
+        "Польнарефф, Мишель@ru",
+        "ميشال بولناراف@ar",
+        "ミッシェル・ポルナレフ@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Michel_Polnareff>,
+        <http://dbpedia.org/resource/Michel_Polnareff>,
+        <http://de.dbpedia.org/resource/Michel_Polnareff>,
+        <http://es.dbpedia.org/resource/Michel_Polnareff>,
+        <http://fr.dbpedia.org/resource/Michel_Polnareff>,
+        <http://it.dbpedia.org/resource/Michel_Polnareff>,
+        <http://ja.dbpedia.org/resource/ミッシェル・ポルナレフ>,
+        <http://ko.dbpedia.org/resource/미셸_폴나레프>,
+        <http://nl.dbpedia.org/resource/Michel_Polnareff>,
+        <http://pt.dbpedia.org/resource/Michel_Polnareff>,
+        <http://rdf.freebase.com/ns/m.01p4h5r>,
+        <http://viaf.org/viaf/41980648>,
+        <http://wikidata.dbpedia.org/resource/Q561190>,
+        <http://www.wikidata.org/entity/Q561190>,
+        <http://yago-knowledge.org/resource/Michel_Polnareff> .
+
+<http://data.judaicalink.org/data/dbpedia/Mike_Brant> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/11895945X> ;
+    jl:hasLabel "Mike Brant@de",
+        "Mike Brant@en",
+        "Mike Brant@fr",
+        "Mike Brant@nl",
+        "Брант, Майк@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Mike_Brant>,
+        <http://de.dbpedia.org/resource/Mike_Brant>,
+        <http://fr.dbpedia.org/resource/Mike_Brant>,
+        <http://nl.dbpedia.org/resource/Mike_Brant>,
+        <http://rdf.freebase.com/ns/m.027yjq6>,
+        <http://viaf.org/viaf/195448>,
+        <http://wikidata.dbpedia.org/resource/Q709215>,
+        <http://www.wikidata.org/entity/Q709215>,
+        <http://yago-knowledge.org/resource/Mike_Brant> .
+
+<http://data.judaicalink.org/data/dbpedia/Miklós_Vig> a foaf:Person ;
+    jl:hasLabel "Miklós Vig@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Miklós_Vig>,
+        <http://rdf.freebase.com/ns/m.02w0qjz>,
+        <http://wikidata.dbpedia.org/resource/Q6850053>,
+        <http://www.wikidata.org/entity/Q6850053>,
+        <http://yago-knowledge.org/resource/Miklós_Vig> .
+
+<http://data.judaicalink.org/data/dbpedia/Moshe_Peretz> a foaf:Person ;
+    jl:hasLabel "Moshe Peretz@en",
+        "Перец, Моше@ru",
+        "موشيه بيريتز@ar" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Moše_Perec>,
+        <http://dbpedia.org/resource/Moshe_Peretz>,
+        <http://rdf.freebase.com/ns/m.080bftd>,
+        <http://wikidata.dbpedia.org/resource/Q2902995>,
+        <http://www.wikidata.org/entity/Q2902995>,
+        <http://yago-knowledge.org/resource/Moshe_Peretz> .
+
+<http://data.judaicalink.org/data/dbpedia/Mounir_Mourad> a foaf:Person ;
+    jl:hasLabel "Mounir Mourad@en",
+        "منير مراد@ar" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Mounir_Mourad>,
+        <http://rdf.freebase.com/ns/m.05mrf0d>,
+        <http://wikidata.dbpedia.org/resource/Q4166481>,
+        <http://www.wikidata.org/entity/Q4166481>,
+        <http://yago-knowledge.org/resource/Mounir_Mourad> .
+
+<http://data.judaicalink.org/data/dbpedia/Mélanie_Laurent> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/13936658X> ;
+    jl:hasLabel "Mélanie Laurent@de",
+        "Mélanie Laurent@en",
+        "Mélanie Laurent@es",
+        "Mélanie Laurent@fr",
+        "Mélanie Laurent@it",
+        "Mélanie Laurent@nl",
+        "Mélanie Laurent@pl",
+        "Mélanie Laurent@pt",
+        "Лоран, Мелани@ru",
+        "ميلاني لوران@ar",
+        "メラニー・ロラン@ja",
+        "梅蘭妮·蘿倫@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Mélanie_Laurentová>,
+        <http://data.europa.eu/euodp/jrc-names/M%C3%A9lanie_Laurent>,
+        <http://dbpedia.org/resource/Mélanie_Laurent>,
+        <http://de.dbpedia.org/resource/Mélanie_Laurent>,
+        <http://es.dbpedia.org/resource/Mélanie_Laurent>,
+        <http://eu.dbpedia.org/resource/Mélanie_Laurent>,
+        <http://fr.dbpedia.org/resource/Mélanie_Laurent>,
+        <http://id.dbpedia.org/resource/Mélanie_Laurent>,
+        <http://it.dbpedia.org/resource/Mélanie_Laurent>,
+        <http://ja.dbpedia.org/resource/メラニー・ロラン>,
+        <http://ko.dbpedia.org/resource/멜라니_로랑>,
+        <http://nl.dbpedia.org/resource/Mélanie_Laurent>,
+        <http://pl.dbpedia.org/resource/Mélanie_Laurent>,
+        <http://pt.dbpedia.org/resource/Mélanie_Laurent>,
+        <http://rdf.freebase.com/ns/m.04ldhb5>,
+        <http://viaf.org/viaf/19468250>,
+        <http://wikidata.dbpedia.org/resource/Q234581>,
+        <http://www.wikidata.org/entity/Q234581>,
+        <http://yago-knowledge.org/resource/Mélanie_Laurent> .
+
+<http://data.judaicalink.org/data/dbpedia/Nachman_Fahrner> a foaf:Person ;
+    jl:hasLabel "Nachman Fahrner@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Nachman_Fahrner>,
+        <http://rdf.freebase.com/ns/m.0ndxh15>,
+        <http://wikidata.dbpedia.org/resource/Q6957176>,
+        <http://www.wikidata.org/entity/Q6957176>,
+        <http://yago-knowledge.org/resource/Nachman_Fahrner> .
+
+<http://data.judaicalink.org/data/dbpedia/Natalie_Appleton> a foaf:Person ;
+    jl:hasLabel "Natalie Appleton@en",
+        "Natalie Appleton@fr",
+        "Natalie Appleton@it",
+        "Natalie Appleton@nl",
+        "Natalie Appleton@pt",
+        "Эпплтон, Натали@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Natalie_Appleton>,
+        <http://dbpedia.org/resource/Natalie_Appleton>,
+        <http://fr.dbpedia.org/resource/Natalie_Appleton>,
+        <http://it.dbpedia.org/resource/Natalie_Appleton>,
+        <http://nl.dbpedia.org/resource/Natalie_Appleton>,
+        <http://pt.dbpedia.org/resource/Natalie_Appleton>,
+        <http://rdf.freebase.com/ns/m.03k2kt>,
+        <http://viaf.org/viaf/232184626>,
+        <http://wikidata.dbpedia.org/resource/Q2426357>,
+        <http://www.wikidata.org/entity/Q2426357>,
+        <http://yago-knowledge.org/resource/Natalie_Appleton>,
+        <http://zitgist.com/music/artist/e4988d47-51f0-4084-b380-f5df27ddecd3> .
+
+<http://data.judaicalink.org/data/dbpedia/Nicole_Appleton> a foaf:Person ;
+    jl:hasLabel "Nicole Appleton@en",
+        "Nicole Appleton@es",
+        "Nicole Appleton@fr",
+        "Nicole Appleton@it",
+        "Nicole Appleton@nl",
+        "Nicole Marie Appleton@pt" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Nicole_Appleton>,
+        <http://dbpedia.org/resource/Nicole_Appleton>,
+        <http://es.dbpedia.org/resource/Nicole_Appleton>,
+        <http://fr.dbpedia.org/resource/Nicole_Appleton>,
+        <http://it.dbpedia.org/resource/Nicole_Appleton>,
+        <http://nl.dbpedia.org/resource/Nicole_Appleton>,
+        <http://pt.dbpedia.org/resource/Nicole_Marie_Appleton>,
+        <http://rdf.freebase.com/ns/m.03k2l4>,
+        <http://viaf.org/viaf/27275391>,
+        <http://wikidata.dbpedia.org/resource/Q2167793>,
+        <http://www.wikidata.org/entity/Q2167793>,
+        <http://yago-knowledge.org/resource/Nicole_Appleton>,
+        <http://zitgist.com/music/artist/ac683c6a-062a-4f53-91e5-46701aa6f104> .
+
+<http://data.judaicalink.org/data/dbpedia/Noa_Tishby> a foaf:Person ;
+    jl:hasLabel "Noa Tishby@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Noa_Tishby>,
+        <http://rdf.freebase.com/ns/m.08mtvm>,
+        <http://wikidata.dbpedia.org/resource/Q7045290>,
+        <http://www.wikidata.org/entity/Q7045290>,
+        <http://yago-knowledge.org/resource/Noa_Tishby> .
+
+<http://data.judaicalink.org/data/dbpedia/Norman_Greenbaum> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/13439030X> ;
+    jl:hasLabel "Norman Greenbaum@de",
+        "Norman Greenbaum@en",
+        "Norman Greenbaum@es",
+        "Norman Greenbaum@fr",
+        "Norman Greenbaum@it",
+        "Norman Greenbaum@nl",
+        "Norman Greenbaum@pl",
+        "Norman Greenbaum@pt",
+        "Гринбаум, Норман@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Norman_Greenbaum>,
+        <http://dbpedia.org/resource/Norman_Greenbaum>,
+        <http://de.dbpedia.org/resource/Norman_Greenbaum>,
+        <http://es.dbpedia.org/resource/Norman_Greenbaum>,
+        <http://fr.dbpedia.org/resource/Norman_Greenbaum>,
+        <http://it.dbpedia.org/resource/Norman_Greenbaum>,
+        <http://ko.dbpedia.org/resource/노먼_그린바움>,
+        <http://nl.dbpedia.org/resource/Norman_Greenbaum>,
+        <http://pl.dbpedia.org/resource/Norman_Greenbaum>,
+        <http://pt.dbpedia.org/resource/Norman_Greenbaum>,
+        <http://rdf.freebase.com/ns/m.01lvfbb>,
+        <http://wikidata.dbpedia.org/resource/Q971027>,
+        <http://www.wikidata.org/entity/Q971027>,
+        <http://yago-knowledge.org/resource/Norman_Greenbaum> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Simon> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119458888> ;
+    jl:hasLabel "Paul Simon (artiest)@nl",
+        "Paul Simon (chanteur)@fr",
+        "Paul Simon@de",
+        "Paul Simon@en",
+        "Paul Simon@es",
+        "Paul Simon@it",
+        "Paul Simon@pl",
+        "Paul Simon@pt",
+        "Саймон, Пол@ru",
+        "بول سايمون@ar",
+        "ポール・サイモン@ja",
+        "保罗·西蒙@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Paul_Simon>,
+        <http://data.nytimes.com/N18785990749498197893>,
+        <http://dbpedia.org/resource/Paul_Simon>,
+        <http://de.dbpedia.org/resource/Paul_Simon>,
+        <http://es.dbpedia.org/resource/Paul_Simon>,
+        <http://eu.dbpedia.org/resource/Paul_Simon>,
+        <http://fr.dbpedia.org/resource/Paul_Simon_(chanteur)>,
+        <http://id.dbpedia.org/resource/Paul_Simon>,
+        <http://it.dbpedia.org/resource/Paul_Simon>,
+        <http://ja.dbpedia.org/resource/ポール・サイモン>,
+        <http://ko.dbpedia.org/resource/폴_사이먼>,
+        <http://nl.dbpedia.org/resource/Paul_Simon_(artiest)>,
+        <http://pl.dbpedia.org/resource/Paul_Simon>,
+        <http://pt.dbpedia.org/resource/Paul_Simon>,
+        <http://rdf.freebase.com/ns/m.0ddkf>,
+        <http://sw.cyc.com/concept/Mx4rvzrYW5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/109704568>,
+        <http://wikidata.dbpedia.org/resource/Q4028>,
+        <http://www.wikidata.org/entity/Q4028>,
+        <http://yago-knowledge.org/resource/Paul_Simon>,
+        <http://zitgist.com/music/artist/05517043-ff78-4988-9c22-88c68588ebb9> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Stanley> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/13546045X> ;
+    jl:hasLabel "Paul Stanley (artiste)@fr",
+        "Paul Stanley@de",
+        "Paul Stanley@en",
+        "Paul Stanley@es",
+        "Paul Stanley@it",
+        "Paul Stanley@nl",
+        "Paul Stanley@pl",
+        "Paul Stanley@pt",
+        "Пол Стэнли@ru",
+        "ポール・スタンレー@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Paul_Stanley>,
+        <http://dbpedia.org/resource/Paul_Stanley>,
+        <http://de.dbpedia.org/resource/Paul_Stanley>,
+        <http://es.dbpedia.org/resource/Paul_Stanley>,
+        <http://eu.dbpedia.org/resource/Paul_Stanley>,
+        <http://fr.dbpedia.org/resource/Paul_Stanley_(artiste)>,
+        <http://id.dbpedia.org/resource/Paul_Stanley>,
+        <http://it.dbpedia.org/resource/Paul_Stanley>,
+        <http://ja.dbpedia.org/resource/ポール・スタンレー>,
+        <http://ko.dbpedia.org/resource/폴_스탠리>,
+        <http://nl.dbpedia.org/resource/Paul_Stanley>,
+        <http://pl.dbpedia.org/resource/Paul_Stanley>,
+        <http://pt.dbpedia.org/resource/Paul_Stanley>,
+        <http://rdf.freebase.com/ns/m.03f2327>,
+        <http://sw.cyc.com/concept/Mx4rRnlk5zwiSyKWunlSeG2XfA>,
+        <http://wikidata.dbpedia.org/resource/Q295542>,
+        <http://www.wikidata.org/entity/Q295542>,
+        <http://yago-knowledge.org/resource/Paul_Stanley>,
+        <http://zitgist.com/music/artist/a2567452-7d11-45a7-98ff-1cbbc8ba0910> .
+
+<http://data.judaicalink.org/data/dbpedia/Paula_Abdul> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/134598539> ;
+    jl:hasLabel "Paula Abdul@de",
+        "Paula Abdul@en",
+        "Paula Abdul@es",
+        "Paula Abdul@fr",
+        "Paula Abdul@it",
+        "Paula Abdul@nl",
+        "Paula Abdul@pl",
+        "Paula Abdul@pt",
+        "Абдул, Пола@ru",
+        "باولا عبدول@ar",
+        "ポーラ・アブドゥル@ja",
+        "寶拉·阿巴杜@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Paula_Abdulová>,
+        <http://data.europa.eu/euodp/jrc-names/Paula_Abdul>,
+        <http://dbpedia.org/resource/Paula_Abdul>,
+        <http://de.dbpedia.org/resource/Paula_Abdul>,
+        <http://es.dbpedia.org/resource/Paula_Abdul>,
+        <http://fr.dbpedia.org/resource/Paula_Abdul>,
+        <http://id.dbpedia.org/resource/Paula_Abdul>,
+        <http://it.dbpedia.org/resource/Paula_Abdul>,
+        <http://ja.dbpedia.org/resource/ポーラ・アブドゥル>,
+        <http://ko.dbpedia.org/resource/폴라_압둘>,
+        <http://nl.dbpedia.org/resource/Paula_Abdul>,
+        <http://pl.dbpedia.org/resource/Paula_Abdul>,
+        <http://pt.dbpedia.org/resource/Paula_Abdul>,
+        <http://rdf.freebase.com/ns/m.05szp>,
+        <http://sw.cyc.com/concept/Mx4rvtEhaJwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/85370288>,
+        <http://wikidata.dbpedia.org/resource/Q185465>,
+        <http://www.wikidata.org/entity/Q185465>,
+        <http://yago-knowledge.org/resource/Paula_Abdul>,
+        <http://zitgist.com/music/artist/275d1fca-22e8-46b9-85e6-c3523098a599> .
+
+<http://data.judaicalink.org/data/dbpedia/Pete_Yorn> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135265738> ;
+    jl:hasLabel "Pete Yorn@de",
+        "Pete Yorn@en",
+        "Pete Yorn@es",
+        "Pete Yorn@fr",
+        "Pete Yorn@it",
+        "Pete Yorn@pt",
+        "Йорн, Пит@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Pete_Yorn>,
+        <http://dbpedia.org/resource/Pete_Yorn>,
+        <http://de.dbpedia.org/resource/Pete_Yorn>,
+        <http://es.dbpedia.org/resource/Pete_Yorn>,
+        <http://fr.dbpedia.org/resource/Pete_Yorn>,
+        <http://it.dbpedia.org/resource/Pete_Yorn>,
+        <http://ko.dbpedia.org/resource/피트_욘>,
+        <http://pt.dbpedia.org/resource/Pete_Yorn>,
+        <http://rdf.freebase.com/ns/m.021xxv>,
+        <http://viaf.org/viaf/59285064>,
+        <http://wikidata.dbpedia.org/resource/Q939105>,
+        <http://www.wikidata.org/entity/Q939105>,
+        <http://yago-knowledge.org/resource/Pete_Yorn>,
+        <http://zitgist.com/music/artist/3533dea4-218c-4fc9-ab6e-2e3dc0ffde6e> .
+
+<http://data.judaicalink.org/data/dbpedia/Peter_Green_(musician)> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/123939100> ;
+    jl:hasLabel "Peter Green (musician)@en",
+        "Peter Green (muzikant)@nl",
+        "Peter Green@de",
+        "Peter Green@es",
+        "Peter Green@fr",
+        "Peter Green@it",
+        "Peter Green@pl",
+        "Peter Green@pt",
+        "Грин, Питер (гитарист)@ru",
+        "ピーター・グリーン (ミュージシャン)@ja",
+        "彼得·格林@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Peter_Green>,
+        <http://dbpedia.org/resource/Peter_Green_(musician)>,
+        <http://de.dbpedia.org/resource/Peter_Green>,
+        <http://es.dbpedia.org/resource/Peter_Green>,
+        <http://fr.dbpedia.org/resource/Peter_Green>,
+        <http://it.dbpedia.org/resource/Peter_Green>,
+        <http://ja.dbpedia.org/resource/ピーター・グリーン_(ミュージシャン)>,
+        <http://ko.dbpedia.org/resource/피터_그린_(음악가)>,
+        <http://nl.dbpedia.org/resource/Peter_Green_(muzikant)>,
+        <http://pl.dbpedia.org/resource/Peter_Green>,
+        <http://pt.dbpedia.org/resource/Peter_Green>,
+        <http://rdf.freebase.com/ns/m.01p392l>,
+        <http://sw.cyc.com/concept/Mx4rGPi_ZjTOSpeW4KggWWyTrQ>,
+        <http://wikidata.dbpedia.org/resource/Q315408>,
+        <http://www.wikidata.org/entity/Q315408>,
+        <http://yago-knowledge.org/resource/Peter_Green_(musician)> .
+
+<http://data.judaicalink.org/data/dbpedia/Phoebe_Cates> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/142162825> ;
+    jl:hasLabel "Phoebe Cates@de",
+        "Phoebe Cates@en",
+        "Phoebe Cates@es",
+        "Phoebe Cates@fr",
+        "Phoebe Cates@it",
+        "Phoebe Cates@nl",
+        "Phoebe Cates@pl",
+        "Phoebe Cates@pt",
+        "Кейтс, Фиби@ru",
+        "فيبي كيتس@ar",
+        "フィービー・ケイツ@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Phoebe_Cates>,
+        <http://de.dbpedia.org/resource/Phoebe_Cates>,
+        <http://es.dbpedia.org/resource/Phoebe_Cates>,
+        <http://fr.dbpedia.org/resource/Phoebe_Cates>,
+        <http://id.dbpedia.org/resource/Phoebe_Cates>,
+        <http://it.dbpedia.org/resource/Phoebe_Cates>,
+        <http://ja.dbpedia.org/resource/フィービー・ケイツ>,
+        <http://ko.dbpedia.org/resource/피비_케이츠>,
+        <http://nl.dbpedia.org/resource/Phoebe_Cates>,
+        <http://pl.dbpedia.org/resource/Phoebe_Cates>,
+        <http://pt.dbpedia.org/resource/Phoebe_Cates>,
+        <http://rdf.freebase.com/ns/m.0151fv>,
+        <http://sw.cyc.com/concept/Mx4rwEbYGZwpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q14439>,
+        <http://www.wikidata.org/entity/Q14439>,
+        <http://yago-knowledge.org/resource/Phoebe_Cates> .
+
+<http://data.judaicalink.org/data/dbpedia/Princess_Superstar> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135324122> ;
+    jl:hasLabel "Princess Superstar@de",
+        "Princess Superstar@en",
+        "Princess Superstar@fr",
+        "Princess Superstar@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Princess_Superstar>,
+        <http://de.dbpedia.org/resource/Princess_Superstar>,
+        <http://fr.dbpedia.org/resource/Princess_Superstar>,
+        <http://rdf.freebase.com/ns/m.01vw6sv>,
+        <http://wikidata.dbpedia.org/resource/Q451262>,
+        <http://www.wikidata.org/entity/Q451262>,
+        <http://yago-knowledge.org/resource/Princess_Superstar>,
+        <http://zitgist.com/music/artist/1524122d-ad9d-48e8-9d02-f7eaef15bef9> .
+
+<http://data.judaicalink.org/data/dbpedia/Rachel_Stevens> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135357977> ;
+    jl:hasLabel "Rachel Stevens@de",
+        "Rachel Stevens@en",
+        "Rachel Stevens@es",
+        "Rachel Stevens@fr",
+        "Rachel Stevens@it",
+        "Rachel Stevens@nl",
+        "Rachel Stevens@pl",
+        "Rachel Stevens@pt",
+        "Стивенс, Рэйчел@ru",
+        "レイチェル・スティーヴンス@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Rachel_Stevens>,
+        <http://dbpedia.org/resource/Rachel_Stevens>,
+        <http://de.dbpedia.org/resource/Rachel_Stevens>,
+        <http://es.dbpedia.org/resource/Rachel_Stevens>,
+        <http://fr.dbpedia.org/resource/Rachel_Stevens>,
+        <http://id.dbpedia.org/resource/Rachel_Stevens>,
+        <http://it.dbpedia.org/resource/Rachel_Stevens>,
+        <http://ja.dbpedia.org/resource/レイチェル・スティーヴンス>,
+        <http://nl.dbpedia.org/resource/Rachel_Stevens>,
+        <http://pl.dbpedia.org/resource/Rachel_Stevens>,
+        <http://pt.dbpedia.org/resource/Rachel_Stevens>,
+        <http://rdf.freebase.com/ns/m.033cgt>,
+        <http://sw.cyc.com/concept/Mx4rXPUhTWzzR_urV7hRDOJw6g>,
+        <http://viaf.org/viaf/37160775>,
+        <http://wikidata.dbpedia.org/resource/Q241665>,
+        <http://www.wikidata.org/entity/Q241665>,
+        <http://yago-knowledge.org/resource/Rachel_Stevens>,
+        <http://zitgist.com/music/artist/2585d166-6514-43c3-886f-a92ebddebc81> .
+
+<http://data.judaicalink.org/data/dbpedia/Rebecca_Pidgeon> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/13504958X> ;
+    jl:hasLabel "Rebecca Pidgeon@de",
+        "Rebecca Pidgeon@en",
+        "Rebecca Pidgeon@es",
+        "Rebecca Pidgeon@fr",
+        "Rebecca Pidgeon@it",
+        "Rebecca Pidgeon@pt",
+        "Пиджон, Ребекка@ru",
+        "ريبيكا بيدجون@ar",
+        "レベッカ・ピジョン@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Rebecca_Pidgeon>,
+        <http://de.dbpedia.org/resource/Rebecca_Pidgeon>,
+        <http://es.dbpedia.org/resource/Rebecca_Pidgeon>,
+        <http://fr.dbpedia.org/resource/Rebecca_Pidgeon>,
+        <http://it.dbpedia.org/resource/Rebecca_Pidgeon>,
+        <http://ja.dbpedia.org/resource/レベッカ・ピジョン>,
+        <http://ko.dbpedia.org/resource/리베카_피전>,
+        <http://pt.dbpedia.org/resource/Rebecca_Pidgeon>,
+        <http://rdf.freebase.com/ns/m.01p18m>,
+        <http://viaf.org/viaf/107601209>,
+        <http://wikidata.dbpedia.org/resource/Q287572>,
+        <http://www.wikidata.org/entity/Q287572>,
+        <http://yago-knowledge.org/resource/Rebecca_Pidgeon> .
+
+<http://data.judaicalink.org/data/dbpedia/Regina_Spektor> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135457416> ;
+    jl:hasLabel "Regina Spektor@de",
+        "Regina Spektor@en",
+        "Regina Spektor@es",
+        "Regina Spektor@fr",
+        "Regina Spektor@it",
+        "Regina Spektor@nl",
+        "Regina Spektor@pl",
+        "Regina Spektor@pt",
+        "Спектор, Регина@ru",
+        "レジーナ・スペクター@ja",
+        "蕾吉娜·史派克特@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Regina_Spektor>,
+        <http://data.europa.eu/euodp/jrc-names/Regina_Spector>,
+        <http://data.europa.eu/euodp/jrc-names/Regina_Spektor>,
+        <http://dbpedia.org/resource/Regina_Spektor>,
+        <http://de.dbpedia.org/resource/Regina_Spektor>,
+        <http://es.dbpedia.org/resource/Regina_Spektor>,
+        <http://fr.dbpedia.org/resource/Regina_Spektor>,
+        <http://it.dbpedia.org/resource/Regina_Spektor>,
+        <http://ja.dbpedia.org/resource/レジーナ・スペクター>,
+        <http://ko.dbpedia.org/resource/레지나_스펙터>,
+        <http://nl.dbpedia.org/resource/Regina_Spektor>,
+        <http://pl.dbpedia.org/resource/Regina_Spektor>,
+        <http://pt.dbpedia.org/resource/Regina_Spektor>,
+        <http://rdf.freebase.com/ns/m.083dgs>,
+        <http://wikidata.dbpedia.org/resource/Q229274>,
+        <http://www.wikidata.org/entity/Q229274>,
+        <http://yago-knowledge.org/resource/Regina_Spektor>,
+        <http://zitgist.com/music/artist/fbb375f9-48bb-4635-824e-4120273b3ba7> .
+
+<http://data.judaicalink.org/data/dbpedia/Rita_(Israeli_singer)> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1050794834> ;
+    jl:hasLabel "Rita (Israeli singer)@en",
+        "Rita (Perzisch-Israëlische zangeres)@nl",
+        "Rita (Sängerin)@de",
+        "Rita (chanteuse)@fr",
+        "Rita Kleinstein@es",
+        "Rita Kleinstein@pt",
+        "Rita Yahan-Farouz@it",
+        "丽塔 (以色列歌手)@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Rita_(izraelská_zpěvačka)>,
+        <http://dbpedia.org/resource/Rita_(Israeli_singer)>,
+        <http://de.dbpedia.org/resource/Rita_(Sängerin)>,
+        <http://es.dbpedia.org/resource/Rita_Kleinstein>,
+        <http://fr.dbpedia.org/resource/Rita_(chanteuse)>,
+        <http://it.dbpedia.org/resource/Rita_Yahan-Farouz>,
+        <http://nl.dbpedia.org/resource/Rita_(Perzisch-Israëlische_zangeres)>,
+        <http://pt.dbpedia.org/resource/Rita_Kleinstein>,
+        <http://rdf.freebase.com/ns/m.05x766>,
+        <http://wikidata.dbpedia.org/resource/Q298205>,
+        <http://www.wikidata.org/entity/Q298205>,
+        <http://yago-knowledge.org/resource/Rita_(Israeli_singer)> .
+
+<http://data.judaicalink.org/data/dbpedia/Roni_Dalumi> a foaf:Person ;
+    jl:hasLabel "Roni Dalumi@en",
+        "Roni Dalumi@es" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Roni_Dalumi>,
+        <http://es.dbpedia.org/resource/Roni_Dalumi>,
+        <http://rdf.freebase.com/ns/m.07k80sz>,
+        <http://wikidata.dbpedia.org/resource/Q2898233>,
+        <http://www.wikidata.org/entity/Q2898233>,
+        <http://yago-knowledge.org/resource/Roni_Dalumi> .
+
+<http://data.judaicalink.org/data/dbpedia/Roslyn_Kind> a foaf:Person ;
+    jl:hasLabel "Roslyn Kind@en",
+        "Кайнд, Рослин@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Roslyn_Kind>,
+        <http://rdf.freebase.com/ns/m.0bc1q7p>,
+        <http://wikidata.dbpedia.org/resource/Q4208690>,
+        <http://www.wikidata.org/entity/Q4208690>,
+        <http://yago-knowledge.org/resource/Roslyn_Kind> .
+
+<http://data.judaicalink.org/data/dbpedia/Salima_Pasha> a foaf:Person ;
+    jl:hasLabel "Salima Pasha@en",
+        "سليمة مراد@ar" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Salima_Pasha>,
+        <http://rdf.freebase.com/ns/m.02w11mq>,
+        <http://wikidata.dbpedia.org/resource/Q7404599>,
+        <http://www.wikidata.org/entity/Q7404599>,
+        <http://yago-knowledge.org/resource/Salima_Pasha> .
+
+<http://data.judaicalink.org/data/dbpedia/Scarlett_Johansson> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/129616214> ;
+    jl:hasLabel "Scarlett Johansson@de",
+        "Scarlett Johansson@en",
+        "Scarlett Johansson@es",
+        "Scarlett Johansson@fr",
+        "Scarlett Johansson@it",
+        "Scarlett Johansson@nl",
+        "Scarlett Johansson@pl",
+        "Scarlett Johansson@pt",
+        "Йоханссон, Скарлетт@ru",
+        "سكارليت جوهانسون@ar",
+        "スカーレット・ヨハンソン@ja",
+        "史嘉蕾·喬韓森@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Scarlett_Johanssonová>,
+        <http://data.europa.eu/euodp/jrc-names/Scarlett_Johansson>,
+        <http://data.nytimes.com/76650995037185565553>,
+        <http://dbpedia.org/resource/Scarlett_Johansson>,
+        <http://de.dbpedia.org/resource/Scarlett_Johansson>,
+        <http://el.dbpedia.org/resource/Σκάρλετ_Γιόχανσον>,
+        <http://es.dbpedia.org/resource/Scarlett_Johansson>,
+        <http://eu.dbpedia.org/resource/Scarlett_Johansson>,
+        <http://fr.dbpedia.org/resource/Scarlett_Johansson>,
+        <http://id.dbpedia.org/resource/Scarlett_Johansson>,
+        <http://it.dbpedia.org/resource/Scarlett_Johansson>,
+        <http://ja.dbpedia.org/resource/スカーレット・ヨハンソン>,
+        <http://ko.dbpedia.org/resource/스칼렛_요한슨>,
+        <http://nl.dbpedia.org/resource/Scarlett_Johansson>,
+        <http://pl.dbpedia.org/resource/Scarlett_Johansson>,
+        <http://pt.dbpedia.org/resource/Scarlett_Johansson>,
+        <http://rdf.freebase.com/ns/m.02114t>,
+        <http://sw.cyc.com/concept/Mx4rv1_hbZwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/85521623>,
+        <http://wikidata.dbpedia.org/resource/Q34436>,
+        <http://www.wikidata.org/entity/Q34436>,
+        <http://yago-knowledge.org/resource/Scarlett_Johansson> .
+
+<http://data.judaicalink.org/data/dbpedia/Shlomi_Shabat> a foaf:Person ;
+    jl:hasLabel "Schlomi Schabat@de",
+        "Shlomi Shabat@en",
+        "Shlomi Shabat@es",
+        "Shlomi Shabat@it",
+        "Shlomi Shabat@nl" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Shlomi_Shabat>,
+        <http://de.dbpedia.org/resource/Schlomi_Schabat>,
+        <http://es.dbpedia.org/resource/Shlomi_Shabat>,
+        <http://it.dbpedia.org/resource/Shlomi_Shabat>,
+        <http://nl.dbpedia.org/resource/Shlomi_Shabat>,
+        <http://rdf.freebase.com/ns/m.02pzbc9>,
+        <http://wikidata.dbpedia.org/resource/Q349662>,
+        <http://www.wikidata.org/entity/Q349662>,
+        <http://yago-knowledge.org/resource/Shlomi_Shabat> .
+
+<http://data.judaicalink.org/data/dbpedia/Shuli_Natan> a foaf:Person ;
+    jl:hasLabel "Shuli Natan@en",
+        "Shuli Natan@fr",
+        "Shuli Nathan@nl",
+        "Натан, Шули@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Shuli_Natan>,
+        <http://fr.dbpedia.org/resource/Shuli_Natan>,
+        <http://nl.dbpedia.org/resource/Shuli_Nathan>,
+        <http://rdf.freebase.com/ns/m.0qgxm4j>,
+        <http://wikidata.dbpedia.org/resource/Q2002486>,
+        <http://www.wikidata.org/entity/Q2002486>,
+        <http://yago-knowledge.org/resource/Shuli_Natan> .
+
+<http://data.judaicalink.org/data/dbpedia/Shuli_Rand> a foaf:Person ;
+    jl:hasLabel "Shuli Rand@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Shuli_Rand>,
+        <http://rdf.freebase.com/ns/m.04d2cd5>,
+        <http://viaf.org/viaf/187221534>,
+        <http://wikidata.dbpedia.org/resource/Q2911752>,
+        <http://www.wikidata.org/entity/Q2911752>,
+        <http://yago-knowledge.org/resource/Shuli_Rand> .
+
+<http://data.judaicalink.org/data/dbpedia/Soulfarm> a foaf:Person ;
+    jl:hasLabel "Soulfarm@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Soulfarm>,
+        <http://rdf.freebase.com/ns/m.01w5n2k>,
+        <http://wikidata.dbpedia.org/resource/Q7564468>,
+        <http://www.wikidata.org/entity/Q7564468>,
+        <http://yago-knowledge.org/resource/Soulfarm> .
+
+<http://data.judaicalink.org/data/dbpedia/Stacey_Solomon> a foaf:Person ;
+    jl:hasLabel "Stacey Solomon@de",
+        "Stacey Solomon@en",
+        "Stacey Solomon@es",
+        "Stacey Solomon@fr",
+        "Stacey Solomon@nl" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Stacey_Solomon>,
+        <http://dbpedia.org/resource/Stacey_Solomon>,
+        <http://de.dbpedia.org/resource/Stacey_Solomon>,
+        <http://es.dbpedia.org/resource/Stacey_Solomon>,
+        <http://fr.dbpedia.org/resource/Stacey_Solomon>,
+        <http://ko.dbpedia.org/resource/스테이시_솔로몬>,
+        <http://nl.dbpedia.org/resource/Stacey_Solomon>,
+        <http://rdf.freebase.com/ns/m.09d89pc>,
+        <http://viaf.org/viaf/220680888>,
+        <http://wikidata.dbpedia.org/resource/Q439365>,
+        <http://www.wikidata.org/entity/Q439365>,
+        <http://yago-knowledge.org/resource/Stacey_Solomon> .
+
+<http://data.judaicalink.org/data/dbpedia/Theodore_Bikel> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119262665> ;
+    jl:hasLabel "Theodore Bikel@de",
+        "Theodore Bikel@en",
+        "Theodore Bikel@es",
+        "Theodore Bikel@fr",
+        "Theodore Bikel@it",
+        "Theodore Bikel@nl",
+        "Theodore Bikel@pl",
+        "Theodore Bikel@pt",
+        "Бикель, Теодор@ru",
+        "セオドア・ビケル@ja" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Theodore_Bikel>,
+        <http://de.dbpedia.org/resource/Theodore_Bikel>,
+        <http://es.dbpedia.org/resource/Theodore_Bikel>,
+        <http://fr.dbpedia.org/resource/Theodore_Bikel>,
+        <http://it.dbpedia.org/resource/Theodore_Bikel>,
+        <http://ja.dbpedia.org/resource/セオドア・ビケル>,
+        <http://ko.dbpedia.org/resource/시어도어_비켈>,
+        <http://nl.dbpedia.org/resource/Theodore_Bikel>,
+        <http://pl.dbpedia.org/resource/Theodore_Bikel>,
+        <http://pt.dbpedia.org/resource/Theodore_Bikel>,
+        <http://rdf.freebase.com/ns/m.02gyl0>,
+        <http://sw.cyc.com/concept/Mx4rvhfz_5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/82627937>,
+        <http://wikidata.dbpedia.org/resource/Q215721>,
+        <http://www.wikidata.org/entity/Q215721>,
+        <http://yago-knowledge.org/resource/Theodore_Bikel> .
+
+<http://data.judaicalink.org/data/dbpedia/Yael_Naim> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135511321> ;
+    jl:hasLabel "Yael Naim@de",
+        "Yael Naim@en",
+        "Yael Naim@es",
+        "Yael Naim@fr",
+        "Yael Naim@it",
+        "Yael Naim@pl",
+        "Yael Naim@pt",
+        "Yael Naïm@nl",
+        "Наим, Яэль@ru",
+        "ヤエル・ナイム@ja",
+        "娅埃勒·纳伊姆@zh" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ja'el_Na'im>,
+        <http://data.europa.eu/euodp/jrc-names/Yael_Naim>,
+        <http://dbpedia.org/resource/Yael_Naim>,
+        <http://de.dbpedia.org/resource/Yael_Naim>,
+        <http://es.dbpedia.org/resource/Yael_Naim>,
+        <http://fr.dbpedia.org/resource/Yael_Naim>,
+        <http://it.dbpedia.org/resource/Yael_Naim>,
+        <http://ja.dbpedia.org/resource/ヤエル・ナイム>,
+        <http://ko.dbpedia.org/resource/야엘_나임>,
+        <http://nl.dbpedia.org/resource/Yael_Naïm>,
+        <http://pl.dbpedia.org/resource/Yael_Naim>,
+        <http://pt.dbpedia.org/resource/Yael_Naim>,
+        <http://rdf.freebase.com/ns/m.03hn4sm>,
+        <http://wikidata.dbpedia.org/resource/Q464138>,
+        <http://www.wikidata.org/entity/Q464138>,
+        <http://yago-knowledge.org/resource/Yael_Naim> .
+
+<http://data.judaicalink.org/data/dbpedia/Yehudit_Ravitz> a foaf:Person ;
+    jl:hasLabel "Jehudit Ravitz@de",
+        "Yehudit Ravitz@en" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Yehudit_Ravitz>,
+        <http://de.dbpedia.org/resource/Jehudit_Ravitz>,
+        <http://rdf.freebase.com/ns/m.01wm8b3>,
+        <http://viaf.org/viaf/170680581>,
+        <http://wikidata.dbpedia.org/resource/Q545752>,
+        <http://www.wikidata.org/entity/Q545752>,
+        <http://yago-knowledge.org/resource/Yehudit_Ravitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Yitzhak_Isaac_Levy> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/123022533> ;
+    jl:hasLabel "Yitzhak Isaac Levy@de",
+        "Yitzhak Isaac Levy@en",
+        "Yitzhak Isaac Levy@es" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Yitzhak_Isaac_Levy>,
+        <http://de.dbpedia.org/resource/Yitzhak_Isaac_Levy>,
+        <http://es.dbpedia.org/resource/Yitzhak_Isaac_Levy>,
+        <http://wikidata.dbpedia.org/resource/Q7040772>,
+        <http://www.wikidata.org/entity/Q7040772> .
+
+<http://data.judaicalink.org/data/dbpedia/Youddiph> a foaf:Person ;
+    jl:hasLabel "Youddiph@de",
+        "Youddiph@en",
+        "Youddiph@pt",
+        "Кац, Мария Львовна@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Youddiph>,
+        <http://de.dbpedia.org/resource/Youddiph>,
+        <http://pt.dbpedia.org/resource/Youddiph>,
+        <http://rdf.freebase.com/ns/m.05b34br>,
+        <http://wikidata.dbpedia.org/resource/Q464199>,
+        <http://www.wikidata.org/entity/Q464199>,
+        <http://yago-knowledge.org/resource/Youddiph> .
+
+<http://data.judaicalink.org/data/dbpedia/Zlata_Razdolina> a foaf:Person ;
+    jl:hasLabel "Zlata Razdolina@en",
+        "Раздолина, Злата Абрамовна@ru" ;
+    jl:occupation "Jewish singers" ;
+    owl:sameAs <http://dbpedia.org/resource/Zlata_Razdolina>,
+        <http://rdf.freebase.com/ns/m.0w33t6x>,
+        <http://wikidata.dbpedia.org/resource/Q4388420>,
+        <http://www.wikidata.org/entity/Q4388420>,
+        <http://yago-knowledge.org/resource/Zlata_Razdolina> .
+

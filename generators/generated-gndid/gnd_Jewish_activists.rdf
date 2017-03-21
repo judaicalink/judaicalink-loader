@@ -1,0 +1,1814 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Abbie_Hoffman> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119047438> ;
+    jl:hasLabel "Abbie Hoffman@de",
+        "Abbie Hoffman@en",
+        "Abbie Hoffman@es",
+        "Abbie Hoffman@fr",
+        "Abbie Hoffman@it",
+        "Abbie Hoffman@nl",
+        "Abbie Hoffman@pl",
+        "Хоффман, Эбби@ru",
+        "アビー・ホフマン@ja" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Abbie_Hoffman>,
+        <http://data.europa.eu/euodp/jrc-names/Abbie_Hoffman>,
+        <http://dbpedia.org/resource/Abbie_Hoffman>,
+        <http://de.dbpedia.org/resource/Abbie_Hoffman>,
+        <http://el.dbpedia.org/resource/Άμπι_Χόφμαν>,
+        <http://es.dbpedia.org/resource/Abbie_Hoffman>,
+        <http://fr.dbpedia.org/resource/Abbie_Hoffman>,
+        <http://it.dbpedia.org/resource/Abbie_Hoffman>,
+        <http://ja.dbpedia.org/resource/アビー・ホフマン>,
+        <http://nl.dbpedia.org/resource/Abbie_Hoffman>,
+        <http://pl.dbpedia.org/resource/Abbie_Hoffman>,
+        <http://rdf.freebase.com/ns/m.0d5lk>,
+        <http://viaf.org/viaf/79408884>,
+        <http://wikidata.dbpedia.org/resource/Q306514>,
+        <http://www.wikidata.org/entity/Q306514>,
+        <http://yago-knowledge.org/resource/Abbie_Hoffman> .
+
+<http://data.judaicalink.org/data/dbpedia/Abraham_ben_Samuel_Cohen_of_Lask> a foaf:Person ;
+    jl:hasLabel "Abraham ben Samuel Cohen of Lask@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Abraham_ben_Samuel_Cohen_of_Lask>,
+        <http://rdf.freebase.com/ns/m.027w32w>,
+        <http://wikidata.dbpedia.org/resource/Q4669265>,
+        <http://www.wikidata.org/entity/Q4669265>,
+        <http://yago-knowledge.org/resource/Abraham_ben_Samuel_Cohen_of_Lask> .
+
+<http://data.judaicalink.org/data/dbpedia/Albert_Lucas_(Jewish_activist)> a foaf:Person ;
+    jl:hasLabel "Albert Lucas (Jewish activist)@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Albert_Lucas_(Jewish_activist)>,
+        <http://rdf.freebase.com/ns/m.0134n64v>,
+        <http://wikidata.dbpedia.org/resource/Q19891968>,
+        <http://www.wikidata.org/entity/Q19891968> .
+
+<http://data.judaicalink.org/data/dbpedia/Alexander_Goldfarb_(biologist)> a foaf:Person ;
+    jl:hasLabel "Alexander Goldfarb (biologist)@en",
+        "Гольдфарб, Александр Давыдович@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexander_Goldfarb_(biologist)>,
+        <http://rdf.freebase.com/ns/m.0279cr5>,
+        <http://wikidata.dbpedia.org/resource/Q4142761>,
+        <http://www.wikidata.org/entity/Q4142761> .
+
+<http://data.judaicalink.org/data/dbpedia/Alice_Herz> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118550144> ;
+    jl:hasLabel "Alice Herz@de",
+        "Alice Herz@en",
+        "Alice Herz@es",
+        "アリス・ハーズ@ja" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Alice_Herz>,
+        <http://de.dbpedia.org/resource/Alice_Herz>,
+        <http://es.dbpedia.org/resource/Alice_Herz>,
+        <http://id.dbpedia.org/resource/Alice_Herz>,
+        <http://ja.dbpedia.org/resource/アリス・ハーズ>,
+        <http://rdf.freebase.com/ns/m.02dsp1>,
+        <http://viaf.org/viaf/79397539>,
+        <http://wikidata.dbpedia.org/resource/Q86213>,
+        <http://www.wikidata.org/entity/Q86213>,
+        <http://yago-knowledge.org/resource/Alice_Herz> .
+
+<http://data.judaicalink.org/data/dbpedia/Andres_Spokoiny> a foaf:Person ;
+    jl:hasLabel "Andres Spokoiny@en",
+        "Andrés Spokoiny@fr" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Andres_Spokoiny>,
+        <http://fr.dbpedia.org/resource/Andrés_Spokoiny>,
+        <http://rdf.freebase.com/ns/m.0g58sx2>,
+        <http://wikidata.dbpedia.org/resource/Q2846531>,
+        <http://www.wikidata.org/entity/Q2846531>,
+        <http://yago-knowledge.org/resource/Andres_Spokoiny> .
+
+<http://data.judaicalink.org/data/dbpedia/Andrew_Breitbart> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1124955216> ;
+    jl:hasLabel "Andrew Breitbart@de",
+        "Andrew Breitbart@en",
+        "Andrew Breitbart@pt" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Andrew_Breitbart>,
+        <http://dbpedia.org/resource/Andrew_Breitbart>,
+        <http://de.dbpedia.org/resource/Andrew_Breitbart>,
+        <http://pt.dbpedia.org/resource/Andrew_Breitbart>,
+        <http://rdf.freebase.com/ns/m.05r0nd>,
+        <http://sw.cyc.com/concept/Mx4rJrPHkfDXQ6G4r73g2Lm7AQ>,
+        <http://wikidata.dbpedia.org/resource/Q503917>,
+        <http://www.wikidata.org/entity/Q503917>,
+        <http://yago-knowledge.org/resource/Andrew_Breitbart> .
+
+<http://data.judaicalink.org/data/dbpedia/Anna_Rozental> a foaf:Person ;
+    jl:hasLabel "Anna Rozental@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Anna_Rozental>,
+        <http://rdf.freebase.com/ns/m.010hl27h>,
+        <http://wikidata.dbpedia.org/resource/Q16864239>,
+        <http://www.wikidata.org/entity/Q16864239>,
+        <http://yago-knowledge.org/resource/Anna_Rozental> .
+
+<http://data.judaicalink.org/data/dbpedia/Ari_Lesser> a foaf:Person ;
+    jl:hasLabel "Ari Lesser@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ari_Lesser>,
+        <http://wikidata.dbpedia.org/resource/Q23007853>,
+        <http://www.wikidata.org/entity/Q23007853> .
+
+<http://data.judaicalink.org/data/dbpedia/Arik_Ascherman> a foaf:Person ;
+    jl:hasLabel "Arik Ascherman@en",
+        "Arik Ascherman@nl" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Arik_Ascherman>,
+        <http://dbpedia.org/resource/Arik_Ascherman>,
+        <http://nl.dbpedia.org/resource/Arik_Ascherman>,
+        <http://rdf.freebase.com/ns/m.09ghzn3>,
+        <http://wikidata.dbpedia.org/resource/Q4790609>,
+        <http://www.wikidata.org/entity/Q4790609>,
+        <http://yago-knowledge.org/resource/Arik_Ascherman> .
+
+<http://data.judaicalink.org/data/dbpedia/Artur_Carlos_de_Barros_Basto> a foaf:Person ;
+    jl:hasLabel "Artur Carlos de Barros Basto@en",
+        "Artur Carlos de Barros Basto@fr",
+        "Artur Carlos de Barros Basto@pt" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Artur_Carlos_de_Barros_Basto>,
+        <http://fr.dbpedia.org/resource/Artur_Carlos_de_Barros_Basto>,
+        <http://pt.dbpedia.org/resource/Artur_Carlos_de_Barros_Basto>,
+        <http://rdf.freebase.com/ns/m.03h1s50>,
+        <http://viaf.org/viaf/9161642>,
+        <http://wikidata.dbpedia.org/resource/Q2865911>,
+        <http://www.wikidata.org/entity/Q2865911>,
+        <http://yago-knowledge.org/resource/Artur_Carlos_de_Barros_Basto> .
+
+<http://data.judaicalink.org/data/dbpedia/Aviva_Cantor> a foaf:Person ;
+    jl:hasLabel "Aviva Cantor@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Aviva_Cantor>,
+        <http://rdf.freebase.com/ns/m.02rvpdj>,
+        <http://viaf.org/viaf/93729412>,
+        <http://wikidata.dbpedia.org/resource/Q4829034>,
+        <http://www.wikidata.org/entity/Q4829034>,
+        <http://yago-knowledge.org/resource/Aviva_Cantor> .
+
+<http://data.judaicalink.org/data/dbpedia/Ayelet_Shaked> a foaf:Person ;
+    jl:hasLabel "Ajelet Schaked@de",
+        "Ajelet Szaked@pl",
+        "Ayelet Shaked@en",
+        "Ayelet Shaked@fr",
+        "Ayelet Shaked@nl",
+        "Шакед, Аелет@ru",
+        "أيليت شكد@ar" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Ajelet_Šakedová>,
+        <http://dbpedia.org/resource/Ayelet_Shaked>,
+        <http://de.dbpedia.org/resource/Ajelet_Schaked>,
+        <http://fr.dbpedia.org/resource/Ayelet_Shaked>,
+        <http://nl.dbpedia.org/resource/Ayelet_Shaked>,
+        <http://pl.dbpedia.org/resource/Ajelet_Szaked>,
+        <http://rdf.freebase.com/ns/m.0pk_3m4>,
+        <http://wikidata.dbpedia.org/resource/Q2791686>,
+        <http://www.wikidata.org/entity/Q2791686>,
+        <http://yago-knowledge.org/resource/Ayelet_Shaked> .
+
+<http://data.judaicalink.org/data/dbpedia/Baruch_Zuckerman> a foaf:Person ;
+    jl:hasLabel "Baruch Zuckerman@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Baruch_Zuckerman>,
+        <http://rdf.freebase.com/ns/m.03hkdy_>,
+        <http://viaf.org/viaf/52107488>,
+        <http://wikidata.dbpedia.org/resource/Q4865878>,
+        <http://www.wikidata.org/entity/Q4865878>,
+        <http://yago-knowledge.org/resource/Baruch_Zuckerman> .
+
+<http://data.judaicalink.org/data/dbpedia/Bea_Arthur> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/135140609> ;
+    jl:hasLabel "Bea Arthur@en",
+        "Bea Arthur@es",
+        "Bea Arthur@it",
+        "Bea Arthur@pl",
+        "Beatrice Arthur@de",
+        "Beatrice Arthur@fr",
+        "Beatrice Arthur@nl",
+        "Beatrice Arthur@pt",
+        "Беатрис Артур@ru",
+        "ビアトリス・アーサー@ja",
+        "比特里斯·亚瑟@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Bea_Arthur>,
+        <http://data.europa.eu/euodp/jrc-names/Beatrice_Arthur>,
+        <http://dbpedia.org/resource/Bea_Arthur>,
+        <http://de.dbpedia.org/resource/Beatrice_Arthur>,
+        <http://es.dbpedia.org/resource/Bea_Arthur>,
+        <http://fr.dbpedia.org/resource/Beatrice_Arthur>,
+        <http://it.dbpedia.org/resource/Bea_Arthur>,
+        <http://ja.dbpedia.org/resource/ビアトリス・アーサー>,
+        <http://ko.dbpedia.org/resource/비_아서>,
+        <http://nl.dbpedia.org/resource/Beatrice_Arthur>,
+        <http://pl.dbpedia.org/resource/Bea_Arthur>,
+        <http://pt.dbpedia.org/resource/Beatrice_Arthur>,
+        <http://rdf.freebase.com/ns/m.01fs_4>,
+        <http://viaf.org/viaf/26631328>,
+        <http://wikidata.dbpedia.org/resource/Q138576>,
+        <http://www.wikidata.org/entity/Q138576>,
+        <http://yago-knowledge.org/resource/Bea_Arthur> .
+
+<http://data.judaicalink.org/data/dbpedia/Bernard_Lazare> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/120813874> ;
+    jl:hasLabel "Bernard Lazare@de",
+        "Bernard Lazare@en",
+        "Bernard Lazare@es",
+        "Bernard Lazare@fr",
+        "Bernard Lazare@nl",
+        "Bernard Lazare@pt" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Bernard_Lazare>,
+        <http://de.dbpedia.org/resource/Bernard_Lazare>,
+        <http://es.dbpedia.org/resource/Bernard_Lazare>,
+        <http://fr.dbpedia.org/resource/Bernard_Lazare>,
+        <http://nl.dbpedia.org/resource/Bernard_Lazare>,
+        <http://pt.dbpedia.org/resource/Bernard_Lazare>,
+        <http://rdf.freebase.com/ns/m.0b6rsx>,
+        <http://wikidata.dbpedia.org/resource/Q822562>,
+        <http://www.wikidata.org/entity/Q822562>,
+        <http://yago-knowledge.org/resource/Bernard_Lazare> .
+
+<http://data.judaicalink.org/data/dbpedia/Bess_Myerson> a foaf:Person ;
+    jl:hasLabel "Bess Myerson@en",
+        "Bess Myerson@it",
+        "Майерсон, Бесс@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Bess_Myerson>,
+        <http://dbpedia.org/resource/Bess_Myerson>,
+        <http://it.dbpedia.org/resource/Bess_Myerson>,
+        <http://rdf.freebase.com/ns/m.01x3zd>,
+        <http://viaf.org/viaf/47366978>,
+        <http://wikidata.dbpedia.org/resource/Q3638982>,
+        <http://www.wikidata.org/entity/Q3638982>,
+        <http://yago-knowledge.org/resource/Bess_Myerson> .
+
+<http://data.judaicalink.org/data/dbpedia/Boris_Dorfman> a foaf:Person ;
+    jl:hasLabel "Boris Dorfman@en",
+        "Дорфман, Борис Менделевич@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Boris_Dorfman>,
+        <http://rdf.freebase.com/ns/m.0jwyyjl>,
+        <http://wikidata.dbpedia.org/resource/Q3569679>,
+        <http://www.wikidata.org/entity/Q3569679>,
+        <http://yago-knowledge.org/resource/Boris_Dorfman> .
+
+<http://data.judaicalink.org/data/dbpedia/Brian_Cuban> a foaf:Person ;
+    jl:hasLabel "Brian Cuban@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Brian_Cuban>,
+        <http://rdf.freebase.com/ns/m.0j265g5>,
+        <http://wikidata.dbpedia.org/resource/Q4963479>,
+        <http://www.wikidata.org/entity/Q4963479>,
+        <http://yago-knowledge.org/resource/Brian_Cuban> .
+
+<http://data.judaicalink.org/data/dbpedia/Carl_Icahn> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119373637> ;
+    jl:hasLabel "Carl Icahn@de",
+        "Carl Icahn@en",
+        "Carl Icahn@es",
+        "Carl Icahn@fr",
+        "Carl Icahn@it",
+        "Carl Icahn@pl",
+        "Carl Icahn@pt",
+        "Айкан, Карл@ru",
+        "カール・アイカーン@ja",
+        "卡尔·伊坎@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Carl_C._Icahn>,
+        <http://data.europa.eu/euodp/jrc-names/Carl_Icahn>,
+        <http://data.nytimes.com/85579320575627034213>,
+        <http://dbpedia.org/resource/Carl_Icahn>,
+        <http://de.dbpedia.org/resource/Carl_Icahn>,
+        <http://es.dbpedia.org/resource/Carl_Icahn>,
+        <http://fr.dbpedia.org/resource/Carl_Icahn>,
+        <http://it.dbpedia.org/resource/Carl_Icahn>,
+        <http://ja.dbpedia.org/resource/カール・アイカーン>,
+        <http://pl.dbpedia.org/resource/Carl_Icahn>,
+        <http://pt.dbpedia.org/resource/Carl_Icahn>,
+        <http://rdf.freebase.com/ns/m.01cv_g>,
+        <http://wikidata.dbpedia.org/resource/Q981479>,
+        <http://www.wikidata.org/entity/Q981479>,
+        <http://yago-knowledge.org/resource/Carl_Icahn> .
+
+<http://data.judaicalink.org/data/dbpedia/Carl_Sagan> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/115873937> ;
+    jl:hasLabel "Carl Sagan@de",
+        "Carl Sagan@en",
+        "Carl Sagan@es",
+        "Carl Sagan@fr",
+        "Carl Sagan@it",
+        "Carl Sagan@nl",
+        "Carl Sagan@pl",
+        "Carl Sagan@pt",
+        "Саган, Карл@ru",
+        "كارل ساغان@ar",
+        "カール・セーガン@ja",
+        "卡尔·萨根@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Carl_Sagan>,
+        <http://data.europa.eu/euodp/jrc-names/Carl_Sagan>,
+        <http://dbpedia.org/resource/Carl_Sagan>,
+        <http://de.dbpedia.org/resource/Carl_Sagan>,
+        <http://el.dbpedia.org/resource/Καρλ_Σαγκάν>,
+        <http://es.dbpedia.org/resource/Carl_Sagan>,
+        <http://eu.dbpedia.org/resource/Carl_Sagan>,
+        <http://fr.dbpedia.org/resource/Carl_Sagan>,
+        <http://id.dbpedia.org/resource/Carl_Sagan>,
+        <http://it.dbpedia.org/resource/Carl_Sagan>,
+        <http://ja.dbpedia.org/resource/カール・セーガン>,
+        <http://ko.dbpedia.org/resource/칼_세이건>,
+        <http://nl.dbpedia.org/resource/Carl_Sagan>,
+        <http://pl.dbpedia.org/resource/Carl_Sagan>,
+        <http://pt.dbpedia.org/resource/Carl_Sagan>,
+        <http://rdf.freebase.com/ns/m.01zwy>,
+        <http://sw.cyc.com/concept/Mx4rvifdBJwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/36997809>,
+        <http://wikidata.dbpedia.org/resource/Q410>,
+        <http://www.wikidata.org/entity/Q410>,
+        <http://yago-knowledge.org/resource/Carl_Sagan> .
+
+<http://data.judaicalink.org/data/dbpedia/Christopher_Hitchens> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/124425763> ;
+    jl:hasLabel "Christopher Hitchens@de",
+        "Christopher Hitchens@en",
+        "Christopher Hitchens@es",
+        "Christopher Hitchens@fr",
+        "Christopher Hitchens@it",
+        "Christopher Hitchens@nl",
+        "Christopher Hitchens@pl",
+        "Christopher Hitchens@pt",
+        "Хитченс, Кристофер@ru",
+        "كريستوفر هيتشنز@ar",
+        "クリストファー・ヒッチェンズ@ja",
+        "克里斯托弗·希欽斯@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Christopher_Hitchens>,
+        <http://data.europa.eu/euodp/jrc-names/Christopher_Hitchens>,
+        <http://data.nytimes.com/N51963910597963917633>,
+        <http://dbpedia.org/resource/Christopher_Hitchens>,
+        <http://de.dbpedia.org/resource/Christopher_Hitchens>,
+        <http://el.dbpedia.org/resource/Κρίστοφερ_Χίτσενς>,
+        <http://es.dbpedia.org/resource/Christopher_Hitchens>,
+        <http://fr.dbpedia.org/resource/Christopher_Hitchens>,
+        <http://id.dbpedia.org/resource/Christopher_Hitchens>,
+        <http://it.dbpedia.org/resource/Christopher_Hitchens>,
+        <http://ja.dbpedia.org/resource/クリストファー・ヒッチェンズ>,
+        <http://ko.dbpedia.org/resource/크리스토퍼_히친스>,
+        <http://nl.dbpedia.org/resource/Christopher_Hitchens>,
+        <http://pl.dbpedia.org/resource/Christopher_Hitchens>,
+        <http://pt.dbpedia.org/resource/Christopher_Hitchens>,
+        <http://rdf.freebase.com/ns/m.01hb6v>,
+        <http://sw.cyc.com/concept/Mx4r0b-B5nSIQ5yB43DKQo0E-Q>,
+        <http://viaf.org/viaf/98819926>,
+        <http://wikidata.dbpedia.org/resource/Q49081>,
+        <http://www.wikidata.org/entity/Q49081>,
+        <http://yago-knowledge.org/resource/Christopher_Hitchens> .
+
+<http://data.judaicalink.org/data/dbpedia/Chuck_Schumer> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/171642597> ;
+    jl:hasLabel "Charles Schumer@de",
+        "Charles Schumer@fr",
+        "Charles Schumer@pl",
+        "Charles Schumer@pt",
+        "Chuck Schumer@en",
+        "Chuck Schumer@it",
+        "Chuck Schumer@nl",
+        "Шумер, Чак@ru",
+        "查克·舒默@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Charles_Schumer>,
+        <http://data.europa.eu/euodp/jrc-names/Charles_Schumer>,
+        <http://data.nytimes.com/17179329667450008213>,
+        <http://dbpedia.org/resource/Chuck_Schumer>,
+        <http://de.dbpedia.org/resource/Charles_Schumer>,
+        <http://fr.dbpedia.org/resource/Charles_Schumer>,
+        <http://id.dbpedia.org/resource/Chuck_Schumer>,
+        <http://it.dbpedia.org/resource/Chuck_Schumer>,
+        <http://nl.dbpedia.org/resource/Chuck_Schumer>,
+        <http://pl.dbpedia.org/resource/Charles_Schumer>,
+        <http://pt.dbpedia.org/resource/Charles_Schumer>,
+        <http://rdf.freebase.com/ns/m.01w74d>,
+        <http://wikidata.dbpedia.org/resource/Q380900>,
+        <http://www.wikidata.org/entity/Q380900>,
+        <http://yago-knowledge.org/resource/Chuck_Schumer> .
+
+<http://data.judaicalink.org/data/dbpedia/David_Silberman> a foaf:Person ;
+    jl:hasLabel "David Silberman@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/David_Silberman>,
+        <http://rdf.freebase.com/ns/m.01261p9p>,
+        <http://wikidata.dbpedia.org/resource/Q18388203>,
+        <http://www.wikidata.org/entity/Q18388203> .
+
+<http://data.judaicalink.org/data/dbpedia/Dennie_Moore> a foaf:Person ;
+    jl:hasLabel "Dennie Moore@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Dennie_Moore>,
+        <http://rdf.freebase.com/ns/m.0c03byr>,
+        <http://wikidata.dbpedia.org/resource/Q5258098>,
+        <http://www.wikidata.org/entity/Q5258098>,
+        <http://yago-knowledge.org/resource/Dennie_Moore> .
+
+<http://data.judaicalink.org/data/dbpedia/Dorothy_Pizer> a foaf:Person ;
+    jl:hasLabel "Dorothy Pizer@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Dorothy_Pizer>,
+        <http://rdf.freebase.com/ns/m.0nccygz>,
+        <http://wikidata.dbpedia.org/resource/Q5298593>,
+        <http://www.wikidata.org/entity/Q5298593>,
+        <http://yago-knowledge.org/resource/Dorothy_Pizer> .
+
+<http://data.judaicalink.org/data/dbpedia/Edward_G._Robinson> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119056194> ;
+    jl:hasLabel "Edward G. Robinson@de",
+        "Edward G. Robinson@en",
+        "Edward G. Robinson@es",
+        "Edward G. Robinson@fr",
+        "Edward G. Robinson@it",
+        "Edward G. Robinson@nl",
+        "Edward G. Robinson@pl",
+        "Edward G. Robinson@pt",
+        "Эдвард Г. Робинсон@ru",
+        "إدوارد روبنسون@ar",
+        "エドワード・G・ロビンソン@ja",
+        "爱德华·罗宾逊@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Edward_G._Robinson>,
+        <http://dbpedia.org/resource/Edward_G._Robinson>,
+        <http://de.dbpedia.org/resource/Edward_G._Robinson>,
+        <http://el.dbpedia.org/resource/Έντουαρντ_Τζ._Ρόμπινσον>,
+        <http://es.dbpedia.org/resource/Edward_G._Robinson>,
+        <http://eu.dbpedia.org/resource/Edward_G._Robinson>,
+        <http://fr.dbpedia.org/resource/Edward_G._Robinson>,
+        <http://id.dbpedia.org/resource/Edward_G_Robinson>,
+        <http://it.dbpedia.org/resource/Edward_G._Robinson>,
+        <http://ja.dbpedia.org/resource/エドワード・G・ロビンソン>,
+        <http://ko.dbpedia.org/resource/에드워드_G._로빈슨>,
+        <http://nl.dbpedia.org/resource/Edward_G._Robinson>,
+        <http://pl.dbpedia.org/resource/Edward_G._Robinson>,
+        <http://pt.dbpedia.org/resource/Edward_G._Robinson>,
+        <http://rdf.freebase.com/ns/m.017g2y>,
+        <http://sw.cyc.com/concept/Mx4rvtfCf5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/39505454>,
+        <http://wikidata.dbpedia.org/resource/Q83812>,
+        <http://www.wikidata.org/entity/Q83812>,
+        <http://yago-knowledge.org/resource/Edward_G._Robinson> .
+
+<http://data.judaicalink.org/data/dbpedia/Elizabeth_Taylor> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118621092> ;
+    jl:hasLabel "Elizabeth Taylor@de",
+        "Elizabeth Taylor@en",
+        "Elizabeth Taylor@es",
+        "Elizabeth Taylor@fr",
+        "Elizabeth Taylor@it",
+        "Elizabeth Taylor@nl",
+        "Elizabeth Taylor@pl",
+        "Elizabeth Taylor@pt",
+        "Тейлор, Элизабет@ru",
+        "إليزابيث تايلور@ar",
+        "エリザベス・テイラー@ja",
+        "伊丽莎白·泰勒@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Elizabeth_Taylorová>,
+        <http://data.nytimes.com/N14746882461698588763>,
+        <http://dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://de.dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://el.dbpedia.org/resource/Ελίζαμπεθ_Τέιλορ>,
+        <http://es.dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://eu.dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://fr.dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://id.dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://it.dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://ja.dbpedia.org/resource/エリザベス・テイラー>,
+        <http://ko.dbpedia.org/resource/엘리자베스_테일러>,
+        <http://nl.dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://pl.dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://pt.dbpedia.org/resource/Elizabeth_Taylor>,
+        <http://rdf.freebase.com/ns/m.0bmh4>,
+        <http://sw.cyc.com/concept/Mx4rv7oJ3pwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/24624716>,
+        <http://wikidata.dbpedia.org/resource/Q34851>,
+        <http://www.wikidata.org/entity/Q34851>,
+        <http://yago-knowledge.org/resource/Elizabeth_Taylor> .
+
+<http://data.judaicalink.org/data/dbpedia/Emma_Goldman> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118540475> ;
+    jl:hasLabel "Emma Goldman@de",
+        "Emma Goldman@en",
+        "Emma Goldman@es",
+        "Emma Goldman@fr",
+        "Emma Goldman@it",
+        "Emma Goldman@nl",
+        "Emma Goldman@pl",
+        "Emma Goldman@pt",
+        "Гольдман, Эмма@ru",
+        "إيما جولدمان@ar",
+        "エマ・ゴールドマン@ja",
+        "埃玛·戈尔德曼@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Emma_Goldmanová>,
+        <http://data.europa.eu/euodp/jrc-names/Emma_Goldman>,
+        <http://dbpedia.org/resource/Emma_Goldman>,
+        <http://de.dbpedia.org/resource/Emma_Goldman>,
+        <http://el.dbpedia.org/resource/Έμμα_Γκόλντμαν>,
+        <http://es.dbpedia.org/resource/Emma_Goldman>,
+        <http://eu.dbpedia.org/resource/Emma_Goldman>,
+        <http://fr.dbpedia.org/resource/Emma_Goldman>,
+        <http://id.dbpedia.org/resource/Emma_Goldman>,
+        <http://it.dbpedia.org/resource/Emma_Goldman>,
+        <http://ja.dbpedia.org/resource/エマ・ゴールドマン>,
+        <http://ko.dbpedia.org/resource/옘마_골드만>,
+        <http://nl.dbpedia.org/resource/Emma_Goldman>,
+        <http://pl.dbpedia.org/resource/Emma_Goldman>,
+        <http://pt.dbpedia.org/resource/Emma_Goldman>,
+        <http://rdf.freebase.com/ns/m.02nmr>,
+        <http://sw.cyc.com/concept/Mx4r1tV9IzJTQ4y2uUgc9BRtBg>,
+        <http://viaf.org/viaf/39377930>,
+        <http://wikidata.dbpedia.org/resource/Q79969>,
+        <http://www.wikidata.org/entity/Q79969>,
+        <http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Goldman_Emma_1869-1940>,
+        <http://yago-knowledge.org/resource/Emma_Goldman> .
+
+<http://data.judaicalink.org/data/dbpedia/Ephraim_Kholmyansky> a foaf:Person ;
+    jl:hasLabel "Ephraim Kholmyansky@en",
+        "Холмянский, Эфраим@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ephraim_Kholmyansky>,
+        <http://rdf.freebase.com/ns/m.04088dp>,
+        <http://wikidata.dbpedia.org/resource/Q4499270>,
+        <http://www.wikidata.org/entity/Q4499270>,
+        <http://yago-knowledge.org/resource/Ephraim_Kholmyansky> .
+
+<http://data.judaicalink.org/data/dbpedia/Fran_Drescher> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119474700> ;
+    jl:hasLabel "Fran Drescher@de",
+        "Fran Drescher@en",
+        "Fran Drescher@es",
+        "Fran Drescher@fr",
+        "Fran Drescher@it",
+        "Fran Drescher@nl",
+        "Fran Drescher@pl",
+        "Fran Drescher@pt",
+        "Дрешер, Фрэн@ru",
+        "فران دريشر@ar",
+        "フラン・ドレシャー@ja",
+        "法蘭·卓雪@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Fran_Drescher>,
+        <http://data.europa.eu/euodp/jrc-names/Fran_Drescher>,
+        <http://data.linkedmdb.org/resource/producer/10236>,
+        <http://dbpedia.org/resource/Fran_Drescher>,
+        <http://de.dbpedia.org/resource/Fran_Drescher>,
+        <http://el.dbpedia.org/resource/Φραν_Ντρέσερ>,
+        <http://es.dbpedia.org/resource/Fran_Drescher>,
+        <http://fr.dbpedia.org/resource/Fran_Drescher>,
+        <http://it.dbpedia.org/resource/Fran_Drescher>,
+        <http://ja.dbpedia.org/resource/フラン・ドレシャー>,
+        <http://ko.dbpedia.org/resource/프랜_드레셔>,
+        <http://nl.dbpedia.org/resource/Fran_Drescher>,
+        <http://pl.dbpedia.org/resource/Fran_Drescher>,
+        <http://pt.dbpedia.org/resource/Fran_Drescher>,
+        <http://rdf.freebase.com/ns/m.01s3kv>,
+        <http://sw.cyc.com/concept/Mx4rwA8_J5wpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q230632>,
+        <http://www.wikidata.org/entity/Q230632>,
+        <http://yago-knowledge.org/resource/Fran_Drescher> .
+
+<http://data.judaicalink.org/data/dbpedia/Gary_Yourofsky> a foaf:Person ;
+    jl:hasLabel "Gary Yourofsky@en",
+        "Gary Yourofsky@fr",
+        "Gary Yourofsky@it",
+        "Юрофски, Гэри@ru",
+        "غاري يوروفسكي@ar" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Gary_Yourofsky>,
+        <http://fr.dbpedia.org/resource/Gary_Yourofsky>,
+        <http://it.dbpedia.org/resource/Gary_Yourofsky>,
+        <http://rdf.freebase.com/ns/m.0gvtsrk>,
+        <http://wikidata.dbpedia.org/resource/Q2614585>,
+        <http://www.wikidata.org/entity/Q2614585>,
+        <http://yago-knowledge.org/resource/Gary_Yourofsky> .
+
+<http://data.judaicalink.org/data/dbpedia/George_Soros> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119160382> ;
+    jl:hasLabel "George Soros@de",
+        "George Soros@en",
+        "George Soros@es",
+        "George Soros@fr",
+        "George Soros@it",
+        "George Soros@nl",
+        "George Soros@pl",
+        "George Soros@pt",
+        "Сорос, Джордж@ru",
+        "جورج سوروس@ar",
+        "ジョージ・ソロス@ja",
+        "乔治·索罗斯@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/George_Soros>,
+        <http://data.europa.eu/euodp/jrc-names/George_Soros>,
+        <http://data.nytimes.com/68556556454387482213>,
+        <http://dbpedia.org/resource/George_Soros>,
+        <http://de.dbpedia.org/resource/George_Soros>,
+        <http://el.dbpedia.org/resource/Τζωρτζ_Σόρος>,
+        <http://es.dbpedia.org/resource/George_Soros>,
+        <http://fr.dbpedia.org/resource/George_Soros>,
+        <http://id.dbpedia.org/resource/George_Soros>,
+        <http://it.dbpedia.org/resource/George_Soros>,
+        <http://ja.dbpedia.org/resource/ジョージ・ソロス>,
+        <http://ko.dbpedia.org/resource/조지_소로스>,
+        <http://nl.dbpedia.org/resource/George_Soros>,
+        <http://pl.dbpedia.org/resource/George_Soros>,
+        <http://pt.dbpedia.org/resource/George_Soros>,
+        <http://rdf.freebase.com/ns/m.0gyk6w>,
+        <http://sw.cyc.com/concept/Mx4r1dbTsCXyQdiYvNvACDK_Dg>,
+        <http://viaf.org/viaf/102383784>,
+        <http://wikidata.dbpedia.org/resource/Q12908>,
+        <http://www.wikidata.org/entity/Q12908>,
+        <http://yago-knowledge.org/resource/George_Soros> .
+
+<http://data.judaicalink.org/data/dbpedia/Gisèle_Halimi> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118894552> ;
+    jl:hasLabel "Gisèle Halimi@de",
+        "Gisèle Halimi@en",
+        "Gisèle Halimi@es",
+        "Gisèle Halimi@fr",
+        "جيزيل حليمي@ar" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Gis%C3%A8le_Halimi>,
+        <http://dbpedia.org/resource/Gisèle_Halimi>,
+        <http://de.dbpedia.org/resource/Gisèle_Halimi>,
+        <http://es.dbpedia.org/resource/Gisèle_Halimi>,
+        <http://eu.dbpedia.org/resource/Gisèle_Halimi>,
+        <http://fr.dbpedia.org/resource/Gisèle_Halimi>,
+        <http://rdf.freebase.com/ns/m.05ts_n>,
+        <http://wikidata.dbpedia.org/resource/Q457705>,
+        <http://www.wikidata.org/entity/Q457705>,
+        <http://yago-knowledge.org/resource/Gisèle_Halimi> .
+
+<http://data.judaicalink.org/data/dbpedia/Gustav_Metzger> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/120023989> ;
+    jl:hasLabel "Arte autodestructivo@es",
+        "Gustav Metzger@de",
+        "Gustav Metzger@en",
+        "Gustav Metzger@it",
+        "Gustav Metzger@pt" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Gustav_Metzger>,
+        <http://dbpedia.org/resource/Gustav_Metzger>,
+        <http://de.dbpedia.org/resource/Gustav_Metzger>,
+        <http://es.dbpedia.org/resource/Arte_autodestructivo>,
+        <http://it.dbpedia.org/resource/Gustav_Metzger>,
+        <http://pt.dbpedia.org/resource/Gustav_Metzger>,
+        <http://rdf.freebase.com/ns/m.01j76z>,
+        <http://wikidata.dbpedia.org/resource/Q214312>,
+        <http://www.wikidata.org/entity/Q214312>,
+        <http://yago-knowledge.org/resource/Gustav_Metzger> .
+
+<http://data.judaicalink.org/data/dbpedia/Harold_Pinter> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118594494> ;
+    jl:hasLabel "Harold Pinter@de",
+        "Harold Pinter@en",
+        "Harold Pinter@es",
+        "Harold Pinter@fr",
+        "Harold Pinter@it",
+        "Harold Pinter@nl",
+        "Harold Pinter@pl",
+        "Harold Pinter@pt",
+        "Пинтер, Гарольд@ru",
+        "هارولد بنتر@ar",
+        "ハロルド・ピンター@ja",
+        "哈罗德·品特@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Harold_Pinter>,
+        <http://data.europa.eu/euodp/jrc-names/Harold_Pinter>,
+        <http://data.nytimes.com/69059291890797543013>,
+        <http://dbpedia.org/resource/Harold_Pinter>,
+        <http://de.dbpedia.org/resource/Harold_Pinter>,
+        <http://el.dbpedia.org/resource/Χάρολντ_Πίντερ>,
+        <http://es.dbpedia.org/resource/Harold_Pinter>,
+        <http://eu.dbpedia.org/resource/Harold_Pinter>,
+        <http://fr.dbpedia.org/resource/Harold_Pinter>,
+        <http://id.dbpedia.org/resource/Harold_Pinter>,
+        <http://it.dbpedia.org/resource/Harold_Pinter>,
+        <http://ja.dbpedia.org/resource/ハロルド・ピンター>,
+        <http://ko.dbpedia.org/resource/해럴드_핀터>,
+        <http://nl.dbpedia.org/resource/Harold_Pinter>,
+        <http://pl.dbpedia.org/resource/Harold_Pinter>,
+        <http://pt.dbpedia.org/resource/Harold_Pinter>,
+        <http://rdf.freebase.com/ns/m.0mb5x>,
+        <http://sw.cyc.com/concept/Mx4rwTbpaZwpEbGdrcN5Y29ycA>,
+        <http://wikidata.dbpedia.org/resource/Q41042>,
+        <http://www.wikidata.org/entity/Q41042>,
+        <http://yago-knowledge.org/resource/Harold_Pinter> .
+
+<http://data.judaicalink.org/data/dbpedia/I._F._Stone> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119122065> ;
+    jl:hasLabel "I. F. Stone@en",
+        "I. F. Stone@es",
+        "Isador Feinstein Stone@fr",
+        "Izzy Stone@pt",
+        "إيزيدور فينشتاين ستون@ar",
+        "以撒多·史東@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/I._F._Stone>,
+        <http://es.dbpedia.org/resource/I._F._Stone>,
+        <http://fr.dbpedia.org/resource/Isador_Feinstein_Stone>,
+        <http://pt.dbpedia.org/resource/Izzy_Stone>,
+        <http://rdf.freebase.com/ns/m.022k_h>,
+        <http://viaf.org/viaf/109581920>,
+        <http://wikidata.dbpedia.org/resource/Q2916247>,
+        <http://www.wikidata.org/entity/Q2916247>,
+        <http://yago-knowledge.org/resource/I._F._Stone>,
+        <http://yago-knowledge.org/resource/I._F._Stone's_Weekly> .
+
+<http://data.judaicalink.org/data/dbpedia/Igal_Roodenko> a foaf:Person ;
+    jl:hasLabel "Igal Roodenko@de",
+        "Igal Roodenko@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Igal_Roodenko>,
+        <http://de.dbpedia.org/resource/Igal_Roodenko>,
+        <http://rdf.freebase.com/ns/m.02qvj5h>,
+        <http://wikidata.dbpedia.org/resource/Q1652452>,
+        <http://www.wikidata.org/entity/Q1652452>,
+        <http://yago-knowledge.org/resource/Igal_Roodenko> .
+
+<http://data.judaicalink.org/data/dbpedia/Ilan_Halevi> a foaf:Person ;
+    jl:hasLabel "Ilan Halevi@en",
+        "Ilan Halevi@es",
+        "Ilan Halevi@fr",
+        "إيلان هاليفي@ar",
+        "イラン・ハレヴィ@ja" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ilan_Halevi>,
+        <http://es.dbpedia.org/resource/Ilan_Halevi>,
+        <http://fr.dbpedia.org/resource/Ilan_Halevi>,
+        <http://ja.dbpedia.org/resource/イラン・ハレヴィ>,
+        <http://rdf.freebase.com/ns/m.09vb0j>,
+        <http://wikidata.dbpedia.org/resource/Q2373345>,
+        <http://www.wikidata.org/entity/Q2373345>,
+        <http://yago-knowledge.org/resource/Ilan_Halevi> .
+
+<http://data.judaicalink.org/data/dbpedia/Ira_Glasser> a foaf:Person ;
+    jl:hasLabel "Ira Glasser@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.nytimes.com/N72806806172455246853>,
+        <http://dbpedia.org/resource/Ira_Glasser>,
+        <http://rdf.freebase.com/ns/m.07mx_9>,
+        <http://viaf.org/viaf/56754448>,
+        <http://wikidata.dbpedia.org/resource/Q6066070>,
+        <http://www.wikidata.org/entity/Q6066070>,
+        <http://yago-knowledge.org/resource/Ira_Glasser> .
+
+<http://data.judaicalink.org/data/dbpedia/Irving_Stowe> a foaf:Person ;
+    jl:hasLabel "Irving Stowe@en",
+        "Irving Stowe@fr" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Irving_Stowe>,
+        <http://fr.dbpedia.org/resource/Irving_Stowe>,
+        <http://rdf.freebase.com/ns/m.04mxby_>,
+        <http://wikidata.dbpedia.org/resource/Q16007715>,
+        <http://www.wikidata.org/entity/Q16007715>,
+        <http://yago-knowledge.org/resource/Irving_Stowe> .
+
+<http://data.judaicalink.org/data/dbpedia/James_Harris_Simons> a foaf:Person ;
+    jl:hasLabel "James Harris Simons@en",
+        "James Harris Simons@it",
+        "James Harris Simons@pt",
+        "James Simons@de",
+        "James Simons@fr",
+        "Jim Simons@es",
+        "Саймонс, Джеймс Харрис@ru",
+        "詹姆斯·西蒙斯@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/James_Harris_Simons>,
+        <http://de.dbpedia.org/resource/James_Simons>,
+        <http://es.dbpedia.org/resource/Jim_Simons>,
+        <http://fr.dbpedia.org/resource/James_Simons>,
+        <http://it.dbpedia.org/resource/James_Harris_Simons>,
+        <http://ko.dbpedia.org/resource/제임스_해리스_사이먼스>,
+        <http://pt.dbpedia.org/resource/James_Harris_Simons>,
+        <http://rdf.freebase.com/ns/m.07cjwm>,
+        <http://wikidata.dbpedia.org/resource/Q560847>,
+        <http://www.wikidata.org/entity/Q560847>,
+        <http://yago-knowledge.org/resource/James_Harris_Simons> .
+
+<http://data.judaicalink.org/data/dbpedia/Jerry_Lewis> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118572474> ;
+    jl:hasLabel "Jerry Lewis@de",
+        "Jerry Lewis@en",
+        "Jerry Lewis@es",
+        "Jerry Lewis@fr",
+        "Jerry Lewis@it",
+        "Jerry Lewis@nl",
+        "Jerry Lewis@pl",
+        "Jerry Lewis@pt",
+        "Джерри Льюис@ru",
+        "جيري لويس@ar",
+        "ジェリー・ルイス@ja",
+        "傑利·路易斯@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jerry_Lewis>,
+        <http://data.linkedmdb.org/resource/producer/9705>,
+        <http://data.nytimes.com/N80287341572874411493>,
+        <http://dbpedia.org/resource/Jerry_Lewis>,
+        <http://de.dbpedia.org/resource/Jerry_Lewis>,
+        <http://el.dbpedia.org/resource/Τζέρι_Λιούις>,
+        <http://es.dbpedia.org/resource/Jerry_Lewis>,
+        <http://fr.dbpedia.org/resource/Jerry_Lewis>,
+        <http://id.dbpedia.org/resource/Jerry_Lewis>,
+        <http://it.dbpedia.org/resource/Jerry_Lewis>,
+        <http://ja.dbpedia.org/resource/ジェリー・ルイス>,
+        <http://ko.dbpedia.org/resource/제리_루이스>,
+        <http://nl.dbpedia.org/resource/Jerry_Lewis>,
+        <http://pl.dbpedia.org/resource/Jerry_Lewis>,
+        <http://pt.dbpedia.org/resource/Jerry_Lewis>,
+        <http://rdf.freebase.com/ns/m.0427y>,
+        <http://sw.cyc.com/concept/Mx4rz9-1sjkERuSR1fHmXcKAAA>,
+        <http://wikidata.dbpedia.org/resource/Q294927>,
+        <http://www.wikidata.org/entity/Q294927>,
+        <http://yago-knowledge.org/resource/Jerry_Lewis> .
+
+<http://data.judaicalink.org/data/dbpedia/Jill_Stein> a foaf:Person ;
+    jl:hasLabel "Jill Stein@de",
+        "Jill Stein@en",
+        "Jill Stein@es",
+        "Jill Stein@fr",
+        "Jill Stein@pl",
+        "Jill Stein@pt",
+        "Стайн, Джилл@ru",
+        "جيل ستاين@ar",
+        "吉爾·史坦@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Jill_Steinová>,
+        <http://data.europa.eu/euodp/jrc-names/Jill_Stein>,
+        <http://dbpedia.org/resource/Jill_Stein>,
+        <http://de.dbpedia.org/resource/Jill_Stein>,
+        <http://es.dbpedia.org/resource/Jill_Stein>,
+        <http://fr.dbpedia.org/resource/Jill_Stein>,
+        <http://pl.dbpedia.org/resource/Jill_Stein>,
+        <http://pt.dbpedia.org/resource/Jill_Stein>,
+        <http://rdf.freebase.com/ns/m.05st_r>,
+        <http://wikidata.dbpedia.org/resource/Q235321>,
+        <http://www.wikidata.org/entity/Q235321>,
+        <http://yago-knowledge.org/resource/Jill_Stein> .
+
+<http://data.judaicalink.org/data/dbpedia/Joan_Rivers> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/134020820> ;
+    jl:hasLabel "Joan Rivers@de",
+        "Joan Rivers@en",
+        "Joan Rivers@es",
+        "Joan Rivers@fr",
+        "Joan Rivers@it",
+        "Joan Rivers@nl",
+        "Joan Rivers@pl",
+        "Joan Rivers@pt",
+        "Риверз, Джоан@ru",
+        "جوان ريفرز@ar",
+        "ジョーン・リバーズ@ja",
+        "瓊·瑞佛斯@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Joan_Rivers>,
+        <http://data.europa.eu/euodp/jrc-names/Joan_Rivers>,
+        <http://data.nytimes.com/84759847472294142903>,
+        <http://dbpedia.org/resource/Joan_Rivers>,
+        <http://de.dbpedia.org/resource/Joan_Rivers>,
+        <http://es.dbpedia.org/resource/Joan_Rivers>,
+        <http://fr.dbpedia.org/resource/Joan_Rivers>,
+        <http://id.dbpedia.org/resource/Joan_Rivers>,
+        <http://it.dbpedia.org/resource/Joan_Rivers>,
+        <http://ja.dbpedia.org/resource/ジョーン・リバーズ>,
+        <http://ko.dbpedia.org/resource/조앤_리버스>,
+        <http://nl.dbpedia.org/resource/Joan_Rivers>,
+        <http://pl.dbpedia.org/resource/Joan_Rivers>,
+        <http://pt.dbpedia.org/resource/Joan_Rivers>,
+        <http://rdf.freebase.com/ns/m.01nczg>,
+        <http://sw.cyc.com/concept/Mx4rvsLPs5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/72783623>,
+        <http://wikidata.dbpedia.org/resource/Q240933>,
+        <http://www.wikidata.org/entity/Q240933>,
+        <http://yago-knowledge.org/resource/Joan_Rivers> .
+
+<http://data.judaicalink.org/data/dbpedia/John_Garfield> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/11912307X> ;
+    jl:hasLabel "John Garfield@de",
+        "John Garfield@en",
+        "John Garfield@es",
+        "John Garfield@fr",
+        "John Garfield@it",
+        "John Garfield@nl",
+        "John Garfield@pl",
+        "John Garfield@pt",
+        "Джон Гарфилд@ru",
+        "ジョン・ガーフィールド@ja" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/John_Garfield>,
+        <http://dbpedia.org/resource/John_Garfield>,
+        <http://de.dbpedia.org/resource/John_Garfield>,
+        <http://el.dbpedia.org/resource/Τζον_Γκάρφιλντ>,
+        <http://es.dbpedia.org/resource/John_Garfield>,
+        <http://fr.dbpedia.org/resource/John_Garfield>,
+        <http://id.dbpedia.org/resource/John_Garfield>,
+        <http://it.dbpedia.org/resource/John_Garfield>,
+        <http://ja.dbpedia.org/resource/ジョン・ガーフィールド>,
+        <http://ko.dbpedia.org/resource/존_가필드>,
+        <http://nl.dbpedia.org/resource/John_Garfield>,
+        <http://pl.dbpedia.org/resource/John_Garfield>,
+        <http://pt.dbpedia.org/resource/John_Garfield>,
+        <http://rdf.freebase.com/ns/m.013846>,
+        <http://sw.cyc.com/concept/Mx4rvVkeZ5wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/76516960>,
+        <http://wikidata.dbpedia.org/resource/Q367053>,
+        <http://www.wikidata.org/entity/Q367053>,
+        <http://yago-knowledge.org/resource/John_Garfield> .
+
+<http://data.judaicalink.org/data/dbpedia/Judy_Gold> a foaf:Person ;
+    jl:hasLabel "Judy Gold@en",
+        "Judy Gold@fr",
+        "جودي غولد@ar" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Judy_Gold>,
+        <http://fr.dbpedia.org/resource/Judy_Gold>,
+        <http://rdf.freebase.com/ns/m.01vd0vf>,
+        <http://wikidata.dbpedia.org/resource/Q3188035>,
+        <http://www.wikidata.org/entity/Q3188035>,
+        <http://yago-knowledge.org/resource/Judy_Gold> .
+
+<http://data.judaicalink.org/data/dbpedia/Julius_Steinfeld> a foaf:Person ;
+    jl:hasLabel "Julius Steinfeld@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Julius_Steinfeld>,
+        <http://rdf.freebase.com/ns/m.04zy6xd>,
+        <http://wikidata.dbpedia.org/resource/Q6310085>,
+        <http://www.wikidata.org/entity/Q6310085>,
+        <http://yago-knowledge.org/resource/Julius_Steinfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Kalmen_Kaplansky> a foaf:Person ;
+    jl:hasLabel "Kalmen Kaplansky@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Kalmen_Kaplansky>,
+        <http://dbpedia.org/resource/Kalmen_Kaplansky>,
+        <http://rdf.freebase.com/ns/m.03mf0bt>,
+        <http://wikidata.dbpedia.org/resource/Q6354074>,
+        <http://www.wikidata.org/entity/Q6354074>,
+        <http://yago-knowledge.org/resource/Kalmen_Kaplansky> .
+
+<http://data.judaicalink.org/data/dbpedia/Lavoslav_Kadelburg> a foaf:Person ;
+    jl:hasLabel "Lavoslav Kadelburg@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Lavoslav_Kadelburg>,
+        <http://rdf.freebase.com/ns/m.05q58d_>,
+        <http://viaf.org/viaf/6285948>,
+        <http://wikidata.dbpedia.org/resource/Q6502802>,
+        <http://www.wikidata.org/entity/Q6502802>,
+        <http://yago-knowledge.org/resource/Lavoslav_Kadelburg> .
+
+<http://data.judaicalink.org/data/dbpedia/Leon_Bramson> a foaf:Person ;
+    jl:hasLabel "Leon Bramson@de",
+        "Leon Bramson@en",
+        "Брамсон, Леонтий Моисеевич@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Leon_Bramson>,
+        <http://de.dbpedia.org/resource/Leon_Bramson>,
+        <http://rdf.freebase.com/ns/m.09ghn1h>,
+        <http://wikidata.dbpedia.org/resource/Q4095787>,
+        <http://www.wikidata.org/entity/Q4095787>,
+        <http://yago-knowledge.org/resource/Leon_Bramson> .
+
+<http://data.judaicalink.org/data/dbpedia/Leslie_Alexander_(businessman)> a foaf:Person ;
+    jl:hasLabel "Leslie Alexander (businessman)@en",
+        "Александр, Лесли@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Leslie_Alexander_(businessman)>,
+        <http://rdf.freebase.com/ns/m.02qpcbt>,
+        <http://wikidata.dbpedia.org/resource/Q4060849>,
+        <http://www.wikidata.org/entity/Q4060849>,
+        <http://yago-knowledge.org/resource/Leslie_Alexander_(businessman)> .
+
+<http://data.judaicalink.org/data/dbpedia/Leslie_Feinberg> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/129631442> ;
+    jl:hasLabel "Leslie Feinberg@de",
+        "Leslie Feinberg@en",
+        "Leslie Feinberg@it",
+        "費雷思@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Leslie_Feinberg>,
+        <http://de.dbpedia.org/resource/Leslie_Feinberg>,
+        <http://it.dbpedia.org/resource/Leslie_Feinberg>,
+        <http://rdf.freebase.com/ns/m.036dtq>,
+        <http://wikidata.dbpedia.org/resource/Q929268>,
+        <http://www.wikidata.org/entity/Q929268>,
+        <http://yago-knowledge.org/resource/Leslie_Feinberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Lewis_Gompertz> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1053592868> ;
+    jl:hasLabel "Lewis Gompertz@de",
+        "Lewis Gompertz@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Lewis_Gompertz>,
+        <http://de.dbpedia.org/resource/Lewis_Gompertz>,
+        <http://rdf.freebase.com/ns/m.07khtvw>,
+        <http://wikidata.dbpedia.org/resource/Q1661815>,
+        <http://www.wikidata.org/entity/Q1661815>,
+        <http://yago-knowledge.org/resource/Lewis_Gompertz> .
+
+<http://data.judaicalink.org/data/dbpedia/Luis_Favre> a foaf:Person ;
+    jl:hasLabel "Luis Favre@en",
+        "Luis Favre@es",
+        "Luis Favre@pt" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Luis_Favre>,
+        <http://dbpedia.org/resource/Luis_Favre>,
+        <http://es.dbpedia.org/resource/Luis_Favre>,
+        <http://pt.dbpedia.org/resource/Luis_Favre>,
+        <http://rdf.freebase.com/ns/m.098_0b>,
+        <http://viaf.org/viaf/190775249>,
+        <http://wikidata.dbpedia.org/resource/Q6700545>,
+        <http://www.wikidata.org/entity/Q6700545>,
+        <http://yago-knowledge.org/resource/Luis_Favre> .
+
+<http://data.judaicalink.org/data/dbpedia/Macarena_Gelman> a foaf:Person ;
+    jl:hasLabel "Macarena Gelman@en",
+        "Macarena Gelman@es" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Macarena_Gelman>,
+        <http://es.dbpedia.org/resource/Macarena_Gelman>,
+        <http://rdf.freebase.com/ns/m.0113k6ln>,
+        <http://wikidata.dbpedia.org/resource/Q16596518>,
+        <http://www.wikidata.org/entity/Q16596518> .
+
+<http://data.judaicalink.org/data/dbpedia/Manny_Waks> a foaf:Person ;
+    jl:hasLabel "Manny Waks@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Manny_Waks>,
+        <http://rdf.freebase.com/ns/m.010pd_pf>,
+        <http://wikidata.dbpedia.org/resource/Q16935105>,
+        <http://www.wikidata.org/entity/Q16935105>,
+        <http://yago-knowledge.org/resource/Manny_Waks> .
+
+<http://data.judaicalink.org/data/dbpedia/Marion_Kozak> a foaf:Person ;
+    jl:hasLabel "Marion Kozak@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Marion_Kozak>,
+        <http://rdf.freebase.com/ns/m.02_51fb>,
+        <http://wikidata.dbpedia.org/resource/Q6765270>,
+        <http://www.wikidata.org/entity/Q6765270>,
+        <http://yago-knowledge.org/resource/Marion_Kozak> .
+
+<http://data.judaicalink.org/data/dbpedia/Mark_Cuban> a foaf:Person ;
+    jl:hasLabel "Mark Cuban@de",
+        "Mark Cuban@en",
+        "Mark Cuban@es",
+        "Mark Cuban@fr",
+        "Mark Cuban@it",
+        "Mark Cuban@pl",
+        "Mark Cuban@pt",
+        "Кьюбан, Марк@ru",
+        "マーク・キューバン@ja",
+        "马克·库班@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Mark_Cuban>,
+        <http://data.linkedmdb.org/resource/producer/10365>,
+        <http://data.nytimes.com/N26611959856398944053>,
+        <http://dbpedia.org/resource/Mark_Cuban>,
+        <http://de.dbpedia.org/resource/Mark_Cuban>,
+        <http://es.dbpedia.org/resource/Mark_Cuban>,
+        <http://fr.dbpedia.org/resource/Mark_Cuban>,
+        <http://it.dbpedia.org/resource/Mark_Cuban>,
+        <http://ja.dbpedia.org/resource/マーク・キューバン>,
+        <http://ko.dbpedia.org/resource/마크_큐번>,
+        <http://pl.dbpedia.org/resource/Mark_Cuban>,
+        <http://pt.dbpedia.org/resource/Mark_Cuban>,
+        <http://rdf.freebase.com/ns/m.024t0y>,
+        <http://sw.cyc.com/concept/Mx4r2Yn_fUkYRIaNG0QisiZQbg>,
+        <http://wikidata.dbpedia.org/resource/Q318503>,
+        <http://www.wikidata.org/entity/Q318503>,
+        <http://yago-knowledge.org/resource/Mark_Cuban> .
+
+<http://data.judaicalink.org/data/dbpedia/Mark_Dratch> a foaf:Person ;
+    jl:hasLabel "Mark Dratch@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Dratch>,
+        <http://rdf.freebase.com/ns/m.026828v>,
+        <http://wikidata.dbpedia.org/resource/Q6767409>,
+        <http://www.wikidata.org/entity/Q6767409>,
+        <http://yago-knowledge.org/resource/Mark_Dratch> .
+
+<http://data.judaicalink.org/data/dbpedia/Maurice_Frankel> a foaf:Person ;
+    jl:hasLabel "Maurice Frankel@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Maurice_Frankel>,
+        <http://dbpedia.org/resource/Maurice_Frankel>,
+        <http://rdf.freebase.com/ns/m.02ppvhy>,
+        <http://wikidata.dbpedia.org/resource/Q6793124>,
+        <http://www.wikidata.org/entity/Q6793124>,
+        <http://yago-knowledge.org/resource/Maurice_Frankel> .
+
+<http://data.judaicalink.org/data/dbpedia/Maxim_Ghilan> a foaf:Person ;
+    jl:hasLabel "Maxim Ghilan@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Maxim_Ghilan>,
+        <http://rdf.freebase.com/ns/m.04dg95>,
+        <http://viaf.org/viaf/14349158>,
+        <http://wikidata.dbpedia.org/resource/Q6795583>,
+        <http://www.wikidata.org/entity/Q6795583>,
+        <http://yago-knowledge.org/resource/Maxim_Ghilan> .
+
+<http://data.judaicalink.org/data/dbpedia/Menachem_Froman> a foaf:Person ;
+    jl:hasLabel "Menachem Froman@en",
+        "ميناخم فرومان@ar" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Menachem_Froman>,
+        <http://dbpedia.org/resource/Menachem_Froman>,
+        <http://rdf.freebase.com/ns/m.02x09wv>,
+        <http://viaf.org/viaf/1716696>,
+        <http://wikidata.dbpedia.org/resource/Q2911233>,
+        <http://www.wikidata.org/entity/Q2911233>,
+        <http://yago-knowledge.org/resource/Menachem_Froman> .
+
+<http://data.judaicalink.org/data/dbpedia/Mia_Kirshner> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/143650491> ;
+    jl:hasLabel "Mia Kirshner@de",
+        "Mia Kirshner@en",
+        "Mia Kirshner@es",
+        "Mia Kirshner@fr",
+        "Mia Kirshner@it",
+        "Mia Kirshner@nl",
+        "Mia Kirshner@pl",
+        "Mia Kirshner@pt",
+        "Киршнер, Миа@ru",
+        "ميا كيرشنر@ar",
+        "ミア・カーシュナー@ja",
+        "米雅·柯許納@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Mia_Kirshnerová>,
+        <http://dbpedia.org/resource/Mia_Kirshner>,
+        <http://de.dbpedia.org/resource/Mia_Kirshner>,
+        <http://es.dbpedia.org/resource/Mia_Kirshner>,
+        <http://fr.dbpedia.org/resource/Mia_Kirshner>,
+        <http://it.dbpedia.org/resource/Mia_Kirshner>,
+        <http://ja.dbpedia.org/resource/ミア・カーシュナー>,
+        <http://ko.dbpedia.org/resource/미아_커시너>,
+        <http://nl.dbpedia.org/resource/Mia_Kirshner>,
+        <http://pl.dbpedia.org/resource/Mia_Kirshner>,
+        <http://pt.dbpedia.org/resource/Mia_Kirshner>,
+        <http://rdf.freebase.com/ns/m.02994d>,
+        <http://wikidata.dbpedia.org/resource/Q231660>,
+        <http://www.wikidata.org/entity/Q231660>,
+        <http://yago-knowledge.org/resource/Mia_Kirshner> .
+
+<http://data.judaicalink.org/data/dbpedia/Michael_Savage> a foaf:Person ;
+    jl:hasLabel "Michael Savage (commentateur)@fr",
+        "Michael Savage@en",
+        "مايكل سافيج@ar" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Savage>,
+        <http://fr.dbpedia.org/resource/Michael_Savage_(commentateur)>,
+        <http://rdf.freebase.com/ns/m.028c2zj>,
+        <http://viaf.org/viaf/70755085>,
+        <http://wikidata.dbpedia.org/resource/Q1292044>,
+        <http://www.wikidata.org/entity/Q1292044>,
+        <http://yago-knowledge.org/resource/Michael_Savage> .
+
+<http://data.judaicalink.org/data/dbpedia/Mikhail_Isaakovich_Sheftel> a foaf:Person ;
+    jl:hasLabel "Mikhail Isaakovich Sheftel@en",
+        "Шефтель, Михаил Исаакович@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Mikhail_Isaakovich_Sheftel>,
+        <http://rdf.freebase.com/ns/m.09gc2gx>,
+        <http://wikidata.dbpedia.org/resource/Q4523484>,
+        <http://www.wikidata.org/entity/Q4523484>,
+        <http://yago-knowledge.org/resource/Mikhail_Isaakovich_Sheftel> .
+
+<http://data.judaicalink.org/data/dbpedia/Milton_Friedman> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118535625> ;
+    jl:hasLabel "Milton Friedman@de",
+        "Milton Friedman@en",
+        "Milton Friedman@es",
+        "Milton Friedman@fr",
+        "Milton Friedman@it",
+        "Milton Friedman@nl",
+        "Milton Friedman@pl",
+        "Milton Friedman@pt",
+        "Фридман, Милтон@ru",
+        "ميلتون فريدمان@ar",
+        "ミルトン・フリードマン@ja",
+        "米爾頓·佛利民@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Milton_Friedman>,
+        <http://data.europa.eu/euodp/jrc-names/Milton_Friedman>,
+        <http://data.nytimes.com/N13339039161801020633>,
+        <http://dbpedia.org/resource/Milton_Friedman>,
+        <http://de.dbpedia.org/resource/Milton_Friedman>,
+        <http://el.dbpedia.org/resource/Μίλτον_Φρίντμαν>,
+        <http://es.dbpedia.org/resource/Milton_Friedman>,
+        <http://eu.dbpedia.org/resource/Milton_Friedman>,
+        <http://fr.dbpedia.org/resource/Milton_Friedman>,
+        <http://id.dbpedia.org/resource/Milton_Friedman>,
+        <http://it.dbpedia.org/resource/Milton_Friedman>,
+        <http://ja.dbpedia.org/resource/ミルトン・フリードマン>,
+        <http://ko.dbpedia.org/resource/밀턴_프리드먼>,
+        <http://nl.dbpedia.org/resource/Milton_Friedman>,
+        <http://pl.dbpedia.org/resource/Milton_Friedman>,
+        <http://pt.dbpedia.org/resource/Milton_Friedman>,
+        <http://rdf.freebase.com/ns/m.04z0g>,
+        <http://sw.cyc.com/concept/Mx4rvbnkJpwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/46761275>,
+        <http://wikidata.dbpedia.org/resource/Q47426>,
+        <http://www.wikidata.org/entity/Q47426>,
+        <http://yago-knowledge.org/resource/Milton_Friedman> .
+
+<http://data.judaicalink.org/data/dbpedia/Moishe_Lewis> a foaf:Person ;
+    jl:hasLabel "Moishe Lewis@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Moishe_Lewis>,
+        <http://rdf.freebase.com/ns/m.03mdsqc>,
+        <http://wikidata.dbpedia.org/resource/Q6894810>,
+        <http://www.wikidata.org/entity/Q6894810>,
+        <http://yago-knowledge.org/resource/Moishe_Lewis> .
+
+<http://data.judaicalink.org/data/dbpedia/Mordechai_Tokarsky> a foaf:Person ;
+    jl:hasLabel "Mordechai Tokarsky@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Mordechai_Tokarsky>,
+        <http://rdf.freebase.com/ns/m.013ccx4s>,
+        <http://wikidata.dbpedia.org/resource/Q21063149>,
+        <http://www.wikidata.org/entity/Q21063149> .
+
+<http://data.judaicalink.org/data/dbpedia/Morton_Klein> a foaf:Person ;
+    jl:hasLabel "Morton Klein@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Morton_Klein>,
+        <http://dbpedia.org/resource/Morton_Klein>,
+        <http://rdf.freebase.com/ns/m.06w70hb>,
+        <http://wikidata.dbpedia.org/resource/Q6914898>,
+        <http://www.wikidata.org/entity/Q6914898>,
+        <http://yago-knowledge.org/resource/Morton_Klein> .
+
+<http://data.judaicalink.org/data/dbpedia/Nadine_Gordimer> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118718169> ;
+    jl:hasLabel "Nadine Gordimer@de",
+        "Nadine Gordimer@en",
+        "Nadine Gordimer@es",
+        "Nadine Gordimer@fr",
+        "Nadine Gordimer@it",
+        "Nadine Gordimer@nl",
+        "Nadine Gordimer@pl",
+        "Nadine Gordimer@pt",
+        "Гордимер, Надин@ru",
+        "نادين غورديمير@ar",
+        "ナディン・ゴーディマー@ja",
+        "納丁·戈迪默@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Nadine_Gordimerová>,
+        <http://data.europa.eu/euodp/jrc-names/Nadine_Gordimer>,
+        <http://data.nytimes.com/N79112230747557495113>,
+        <http://dbpedia.org/resource/Nadine_Gordimer>,
+        <http://de.dbpedia.org/resource/Nadine_Gordimer>,
+        <http://el.dbpedia.org/resource/Ναντίν_Γκόρντιμερ>,
+        <http://es.dbpedia.org/resource/Nadine_Gordimer>,
+        <http://eu.dbpedia.org/resource/Nadine_Gordimer>,
+        <http://fr.dbpedia.org/resource/Nadine_Gordimer>,
+        <http://id.dbpedia.org/resource/Nadine_Gordimer>,
+        <http://it.dbpedia.org/resource/Nadine_Gordimer>,
+        <http://ja.dbpedia.org/resource/ナディン・ゴーディマー>,
+        <http://ko.dbpedia.org/resource/네이딘_고디머>,
+        <http://nl.dbpedia.org/resource/Nadine_Gordimer>,
+        <http://pl.dbpedia.org/resource/Nadine_Gordimer>,
+        <http://pt.dbpedia.org/resource/Nadine_Gordimer>,
+        <http://rdf.freebase.com/ns/m.018hxy>,
+        <http://sw.cyc.com/concept/Mx4rvhkaKpwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/86692340>,
+        <http://wikidata.dbpedia.org/resource/Q47619>,
+        <http://www.wikidata.org/entity/Q47619>,
+        <http://yago-knowledge.org/resource/Nadine_Gordimer> .
+
+<http://data.judaicalink.org/data/dbpedia/Nahum_Gergel> a foaf:Person ;
+    jl:hasLabel "Nahum Gergel@en",
+        "Гергель, Нахум@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Nahum_Gergel>,
+        <http://rdf.freebase.com/ns/m.03ydnvc>,
+        <http://wikidata.dbpedia.org/resource/Q4137142>,
+        <http://www.wikidata.org/entity/Q4137142>,
+        <http://yago-knowledge.org/resource/Nahum_Gergel> .
+
+<http://data.judaicalink.org/data/dbpedia/Nahum_Sokolow> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/172405653> ;
+    jl:hasLabel "Nachum Sokolow@de",
+        "Nahum Sokolow@en",
+        "Nahum Sokolow@es",
+        "Nahum Sokolow@fr",
+        "Nahum Sokołow@pl",
+        "Соколов, Нахум@ru",
+        "ناحوم سوكولوف@ar" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Nachum_Sokolov>,
+        <http://dbpedia.org/resource/Nahum_Sokolow>,
+        <http://de.dbpedia.org/resource/Nachum_Sokolow>,
+        <http://es.dbpedia.org/resource/Nahum_Sokolow>,
+        <http://fr.dbpedia.org/resource/Nahum_Sokolow>,
+        <http://pl.dbpedia.org/resource/Nahum_Sokołow>,
+        <http://rdf.freebase.com/ns/m.069566>,
+        <http://viaf.org/viaf/35295112>,
+        <http://wikidata.dbpedia.org/resource/Q918966>,
+        <http://www.wikidata.org/entity/Q918966>,
+        <http://yago-knowledge.org/resource/Nahum_Sokolow> .
+
+<http://data.judaicalink.org/data/dbpedia/Natalie_Portman> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/123844509> ;
+    jl:hasLabel "Natalie Portman@de",
+        "Natalie Portman@en",
+        "Natalie Portman@es",
+        "Natalie Portman@fr",
+        "Natalie Portman@it",
+        "Natalie Portman@nl",
+        "Natalie Portman@pl",
+        "Natalie Portman@pt",
+        "Портман, Натали@ru",
+        "ناتالي بورتمان@ar",
+        "ナタリー・ポートマン@ja",
+        "娜塔莉·波特曼@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Natalie_Portmanová>,
+        <http://data.europa.eu/euodp/jrc-names/Natalie_Portman>,
+        <http://data.europa.eu/euodp/jrc-names/Nathalie_Portman>,
+        <http://data.linkedmdb.org/resource/producer/9794>,
+        <http://dbpedia.org/resource/Natalie_Portman>,
+        <http://de.dbpedia.org/resource/Natalie_Portman>,
+        <http://el.dbpedia.org/resource/Νάταλι_Πόρτμαν>,
+        <http://es.dbpedia.org/resource/Natalie_Portman>,
+        <http://eu.dbpedia.org/resource/Natalie_Portman>,
+        <http://fr.dbpedia.org/resource/Natalie_Portman>,
+        <http://id.dbpedia.org/resource/Natalie_Portman>,
+        <http://it.dbpedia.org/resource/Natalie_Portman>,
+        <http://ja.dbpedia.org/resource/ナタリー・ポートマン>,
+        <http://ko.dbpedia.org/resource/나탈리_포트만>,
+        <http://nl.dbpedia.org/resource/Natalie_Portman>,
+        <http://pl.dbpedia.org/resource/Natalie_Portman>,
+        <http://pt.dbpedia.org/resource/Natalie_Portman>,
+        <http://rdf.freebase.com/ns/m.09l3p>,
+        <http://sw.cyc.com/concept/Mx4rwUPntJwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/61746048>,
+        <http://wikidata.dbpedia.org/resource/Q37876>,
+        <http://www.wikidata.org/entity/Q37876>,
+        <http://yago-knowledge.org/resource/Natalie_Portman> .
+
+<http://data.judaicalink.org/data/dbpedia/Nathan_Kleinman> a foaf:Person ;
+    jl:hasLabel "Nathan Kleinman@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Nathan_Kleinman>,
+        <http://rdf.freebase.com/ns/m.02wy7_0>,
+        <http://wikidata.dbpedia.org/resource/Q6969182>,
+        <http://www.wikidata.org/entity/Q6969182>,
+        <http://yago-knowledge.org/resource/Nathan_Kleinman> .
+
+<http://data.judaicalink.org/data/dbpedia/Nissan_Katzenelson> a foaf:Person ;
+    jl:hasLabel "Nissan Katzenelson@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Nissan_Katzenelson>,
+        <http://rdf.freebase.com/ns/m.09gls2j>,
+        <http://wikidata.dbpedia.org/resource/Q7040988>,
+        <http://www.wikidata.org/entity/Q7040988>,
+        <http://yago-knowledge.org/resource/Nissan_Katzenelson> .
+
+<http://data.judaicalink.org/data/dbpedia/Norma_Kitson> a foaf:Person ;
+    jl:hasLabel "Norma Kitson@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Norma_Kitson>,
+        <http://rdf.freebase.com/ns/m.05w6dqh>,
+        <http://wikidata.dbpedia.org/resource/Q7051688>,
+        <http://www.wikidata.org/entity/Q7051688>,
+        <http://yago-knowledge.org/resource/Norma_Kitson> .
+
+<http://data.judaicalink.org/data/dbpedia/Patri_Friedman> a foaf:Person ;
+    jl:hasLabel "Patri Friedman@de",
+        "Patri Friedman@en",
+        "Patri Friedman@es",
+        "Patri Friedman@fr",
+        "Patri Friedman@nl",
+        "Patri Friedman@pl",
+        "Patri Friedman@pt",
+        "Пэтри Фридман@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Patri_Friedman>,
+        <http://de.dbpedia.org/resource/Patri_Friedman>,
+        <http://es.dbpedia.org/resource/Patri_Friedman>,
+        <http://fr.dbpedia.org/resource/Patri_Friedman>,
+        <http://nl.dbpedia.org/resource/Patri_Friedman>,
+        <http://pl.dbpedia.org/resource/Patri_Friedman>,
+        <http://pt.dbpedia.org/resource/Patri_Friedman>,
+        <http://rdf.freebase.com/ns/m.04cqxy4>,
+        <http://wikidata.dbpedia.org/resource/Q1367942>,
+        <http://www.wikidata.org/entity/Q1367942>,
+        <http://yago-knowledge.org/resource/Patri_Friedman> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Muni> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/117182052> ;
+    jl:hasLabel "Paul Muni@de",
+        "Paul Muni@en",
+        "Paul Muni@es",
+        "Paul Muni@fr",
+        "Paul Muni@it",
+        "Paul Muni@nl",
+        "Paul Muni@pl",
+        "Paul Muni@pt",
+        "Пол Муни@ru",
+        "بول ميوني@ar",
+        "ポール・ムニ@ja",
+        "保羅·穆尼@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Paul_Muni>,
+        <http://dbpedia.org/resource/Paul_Muni>,
+        <http://de.dbpedia.org/resource/Paul_Muni>,
+        <http://el.dbpedia.org/resource/Πολ_Μιούνι>,
+        <http://es.dbpedia.org/resource/Paul_Muni>,
+        <http://fr.dbpedia.org/resource/Paul_Muni>,
+        <http://id.dbpedia.org/resource/Paul_Muni>,
+        <http://it.dbpedia.org/resource/Paul_Muni>,
+        <http://ja.dbpedia.org/resource/ポール・ムニ>,
+        <http://nl.dbpedia.org/resource/Paul_Muni>,
+        <http://pl.dbpedia.org/resource/Paul_Muni>,
+        <http://pt.dbpedia.org/resource/Paul_Muni>,
+        <http://rdf.freebase.com/ns/m.0c92y>,
+        <http://viaf.org/viaf/42041090>,
+        <http://wikidata.dbpedia.org/resource/Q182292>,
+        <http://www.wikidata.org/entity/Q182292>,
+        <http://yago-knowledge.org/resource/Paul_Muni> .
+
+<http://data.judaicalink.org/data/dbpedia/Paul_Singer_(businessman)> a foaf:Person ;
+    jl:hasLabel "Paul Singer (Geschäftsmann)@de",
+        "Paul Singer (businessman)@en",
+        "Paul Singer (homme d'affaires)@fr" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Paul_Singer_(businessman)>,
+        <http://de.dbpedia.org/resource/Paul_Singer_(Geschäftsmann)>,
+        <http://fr.dbpedia.org/resource/Paul_Singer_(homme_d'affaires)>,
+        <http://rdf.freebase.com/ns/m.02pkmry>,
+        <http://wikidata.dbpedia.org/resource/Q6511841>,
+        <http://www.wikidata.org/entity/Q6511841>,
+        <http://yago-knowledge.org/resource/Paul_Singer_(businessman)> .
+
+<http://data.judaicalink.org/data/dbpedia/Paweł_Finder> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/103630258X> ;
+    jl:hasLabel "Paweł Finder@de",
+        "Paweł Finder@en",
+        "Paweł Finder@pl",
+        "Финдер, Павел@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Paweł_Finder>,
+        <http://de.dbpedia.org/resource/Paweł_Finder>,
+        <http://pl.dbpedia.org/resource/Paweł_Finder>,
+        <http://rdf.freebase.com/ns/m.0dkl6l>,
+        <http://wikidata.dbpedia.org/resource/Q320116>,
+        <http://www.wikidata.org/entity/Q320116>,
+        <http://yago-knowledge.org/resource/Paweł_Finder> .
+
+<http://data.judaicalink.org/data/dbpedia/Richard_Benkin> a foaf:Person ;
+    jl:hasLabel "Richard Benkin@de",
+        "Richard Benkin@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Richard_Benkin>,
+        <http://de.dbpedia.org/resource/Richard_Benkin>,
+        <http://rdf.freebase.com/ns/m.0cp0fdy>,
+        <http://wikidata.dbpedia.org/resource/Q7324102>,
+        <http://www.wikidata.org/entity/Q7324102>,
+        <http://yago-knowledge.org/resource/Richard_Benkin> .
+
+<http://data.judaicalink.org/data/dbpedia/Robert_Roth_(activist)> a foaf:Person ;
+    jl:hasLabel "Robert Roth (activist)@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Robert_Roth_(activist)>,
+        <http://rdf.freebase.com/ns/m.04y9mxk>,
+        <http://wikidata.dbpedia.org/resource/Q7349400>,
+        <http://www.wikidata.org/entity/Q7349400>,
+        <http://yago-knowledge.org/resource/Robert_Roth_(activist)> .
+
+<http://data.judaicalink.org/data/dbpedia/Ruth_Dayan> a foaf:Person ;
+    jl:hasLabel "Ruth Dajan@de",
+        "Ruth Dajan@pl",
+        "Ruth Dayan@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Ruth_Dayan>,
+        <http://de.dbpedia.org/resource/Ruth_Dajan>,
+        <http://pl.dbpedia.org/resource/Ruth_Dajan>,
+        <http://rdf.freebase.com/ns/m.05b0_fp>,
+        <http://wikidata.dbpedia.org/resource/Q6158229>,
+        <http://www.wikidata.org/entity/Q6158229>,
+        <http://yago-knowledge.org/resource/Ruth_Dayan> .
+
+<http://data.judaicalink.org/data/dbpedia/Samuel_Polyakov> a foaf:Person ;
+    jl:hasLabel "Samuel Polyakov@en",
+        "Samuil Solmonowitsch Poljakow@de",
+        "Поляков, Самуил Соломонович@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Samuel_Polyakov>,
+        <http://de.dbpedia.org/resource/Samuil_Solmonowitsch_Poljakow>,
+        <http://rdf.freebase.com/ns/m.05zqm_v>,
+        <http://wikidata.dbpedia.org/resource/Q1861824>,
+        <http://www.wikidata.org/entity/Q1861824>,
+        <http://yago-knowledge.org/resource/Samuel_Polyakov> .
+
+<http://data.judaicalink.org/data/dbpedia/Sandra_Feldman> a foaf:Person ;
+    jl:hasLabel "Sandra Feldman@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.nytimes.com/48900454944701158113>,
+        <http://dbpedia.org/resource/Sandra_Feldman>,
+        <http://rdf.freebase.com/ns/m.0chvxl>,
+        <http://wikidata.dbpedia.org/resource/Q7416605>,
+        <http://www.wikidata.org/entity/Q7416605>,
+        <http://yago-knowledge.org/resource/Sandra_Feldman> .
+
+<http://data.judaicalink.org/data/dbpedia/Selma_James> a foaf:Person ;
+    jl:hasLabel "Selma James@en",
+        "Джеймс, Сельма@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Selma_James>,
+        <http://rdf.freebase.com/ns/m.03d07t4>,
+        <http://viaf.org/viaf/50500400>,
+        <http://wikidata.dbpedia.org/resource/Q4160071>,
+        <http://www.wikidata.org/entity/Q4160071>,
+        <http://yago-knowledge.org/resource/Selma_James> .
+
+<http://data.judaicalink.org/data/dbpedia/Sheldon_Beren> a foaf:Person ;
+    jl:hasLabel "Sheldon Beren@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Sheldon_Beren>,
+        <http://rdf.freebase.com/ns/m.0gvtmqf>,
+        <http://wikidata.dbpedia.org/resource/Q7493463>,
+        <http://www.wikidata.org/entity/Q7493463>,
+        <http://yago-knowledge.org/resource/Sheldon_Beren> .
+
+<http://data.judaicalink.org/data/dbpedia/Shelley_Rubin> a foaf:Person ;
+    jl:hasLabel "Shelley Rubin@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Shelley_Rubin>,
+        <http://rdf.freebase.com/ns/m.02q8_5y>,
+        <http://wikidata.dbpedia.org/resource/Q7493823>,
+        <http://www.wikidata.org/entity/Q7493823>,
+        <http://yago-knowledge.org/resource/Shelley_Rubin> .
+
+<http://data.judaicalink.org/data/dbpedia/Shelley_Winters> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/118910272> ;
+    jl:hasLabel "Shelley Winters@de",
+        "Shelley Winters@en",
+        "Shelley Winters@es",
+        "Shelley Winters@fr",
+        "Shelley Winters@it",
+        "Shelley Winters@nl",
+        "Shelley Winters@pl",
+        "Shelley Winters@pt",
+        "Уинтерс, Шелли@ru",
+        "شيلي وينترز@ar",
+        "シェリー・ウィンタース@ja" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Shelley_Wintersová>,
+        <http://data.europa.eu/euodp/jrc-names/Shelley_Winters>,
+        <http://dbpedia.org/resource/Shelley_Winters>,
+        <http://de.dbpedia.org/resource/Shelley_Winters>,
+        <http://el.dbpedia.org/resource/Σέλλεϊ_Γουίντερς>,
+        <http://es.dbpedia.org/resource/Shelley_Winters>,
+        <http://eu.dbpedia.org/resource/Shelley_Winters>,
+        <http://fr.dbpedia.org/resource/Shelley_Winters>,
+        <http://id.dbpedia.org/resource/Shelley_Winters>,
+        <http://it.dbpedia.org/resource/Shelley_Winters>,
+        <http://ja.dbpedia.org/resource/シェリー・ウィンタース>,
+        <http://ko.dbpedia.org/resource/셸리_윈터스>,
+        <http://nl.dbpedia.org/resource/Shelley_Winters>,
+        <http://pl.dbpedia.org/resource/Shelley_Winters>,
+        <http://pt.dbpedia.org/resource/Shelley_Winters>,
+        <http://rdf.freebase.com/ns/m.019l68>,
+        <http://sw.cyc.com/concept/Mx4rvoonOJwpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/10035147>,
+        <http://wikidata.dbpedia.org/resource/Q202144>,
+        <http://www.wikidata.org/entity/Q202144>,
+        <http://yago-knowledge.org/resource/Shelley_Winters> .
+
+<http://data.judaicalink.org/data/dbpedia/Sheryl_Sandberg> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1033331341> ;
+    jl:hasLabel "Sheryl Sandberg@de",
+        "Sheryl Sandberg@en",
+        "Sheryl Sandberg@es",
+        "Sheryl Sandberg@fr",
+        "Sheryl Sandberg@it",
+        "Sheryl Sandberg@nl",
+        "Sheryl Sandberg@pl",
+        "Sheryl Sandberg@pt",
+        "Сэндберг, Шерил Кара@ru",
+        "شيرل ساندبيرج@ar",
+        "シェリル・サンドバーグ@ja",
+        "雪莉·桑德伯格@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Sheryl_Sandbergová>,
+        <http://data.europa.eu/euodp/jrc-names/Sheryl_Sandberg>,
+        <http://dbpedia.org/resource/Sheryl_Sandberg>,
+        <http://de.dbpedia.org/resource/Sheryl_Sandberg>,
+        <http://es.dbpedia.org/resource/Sheryl_Sandberg>,
+        <http://fr.dbpedia.org/resource/Sheryl_Sandberg>,
+        <http://id.dbpedia.org/resource/Sheryl_Sandberg>,
+        <http://it.dbpedia.org/resource/Sheryl_Sandberg>,
+        <http://ja.dbpedia.org/resource/シェリル・サンドバーグ>,
+        <http://ko.dbpedia.org/resource/셰릴_샌드버그>,
+        <http://nl.dbpedia.org/resource/Sheryl_Sandberg>,
+        <http://pl.dbpedia.org/resource/Sheryl_Sandberg>,
+        <http://pt.dbpedia.org/resource/Sheryl_Sandberg>,
+        <http://rdf.freebase.com/ns/m.05hjzw>,
+        <http://sw.cyc.com/concept/Mx4rP9SbaANkQX6xQLYtvkoN6A>,
+        <http://viaf.org/viaf/298171473>,
+        <http://wikidata.dbpedia.org/resource/Q234653>,
+        <http://www.wikidata.org/entity/Q234653>,
+        <http://yago-knowledge.org/resource/Sheryl_Sandberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Shmaryahu_Levin> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/124752748> ;
+    jl:hasLabel "Schemarjahu Levin@de",
+        "Shmaryahu Levin@en",
+        "Левин, Шмария Хаимович@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Shmaryahu_Levin>,
+        <http://de.dbpedia.org/resource/Schemarjahu_Levin>,
+        <http://rdf.freebase.com/ns/m.09g8xgx>,
+        <http://wikidata.dbpedia.org/resource/Q119618>,
+        <http://www.wikidata.org/entity/Q119618>,
+        <http://yago-knowledge.org/resource/Shmaryahu_Levin> .
+
+<http://data.judaicalink.org/data/dbpedia/Sidney_Blumenthal> a foaf:Person ;
+    jl:hasLabel "Sidney Blumenthal@en",
+        "Sidney Blumenthal@fr" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Sidney_Blumenthal>,
+        <http://data.nytimes.com/N80679543819732170753>,
+        <http://dbpedia.org/resource/Sidney_Blumenthal>,
+        <http://fr.dbpedia.org/resource/Sidney_Blumenthal>,
+        <http://rdf.freebase.com/ns/m.05vktp>,
+        <http://viaf.org/viaf/84474836>,
+        <http://wikidata.dbpedia.org/resource/Q3483318>,
+        <http://www.wikidata.org/entity/Q3483318>,
+        <http://yago-knowledge.org/resource/Sidney_Blumenthal> .
+
+<http://data.judaicalink.org/data/dbpedia/Simon_Yakovlevich_Rosenbaum> a foaf:Person ;
+    jl:hasLabel "Simon Yakovlevich Rosenbaum@en",
+        "Simonas Rozenbaumas@pl",
+        "Розенбаум, Семён Яковлевич@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Simon_Yakovlevich_Rosenbaum>,
+        <http://pl.dbpedia.org/resource/Simonas_Rozenbaumas>,
+        <http://rdf.freebase.com/ns/m.09g84p_>,
+        <http://viaf.org/viaf/235307498>,
+        <http://wikidata.dbpedia.org/resource/Q2617748>,
+        <http://www.wikidata.org/entity/Q2617748>,
+        <http://yago-knowledge.org/resource/Simon_Yakovlevich_Rosenbaum> .
+
+<http://data.judaicalink.org/data/dbpedia/Stanley_Aronowitz> a foaf:Person ;
+    jl:hasLabel "Stanley Aronowitz@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Stanley_Aronowitz>,
+        <http://rdf.freebase.com/ns/m.05xk36g>,
+        <http://viaf.org/viaf/30678409>,
+        <http://wikidata.dbpedia.org/resource/Q7599437>,
+        <http://www.wikidata.org/entity/Q7599437>,
+        <http://yago-knowledge.org/resource/Stanley_Aronowitz> .
+
+<http://data.judaicalink.org/data/dbpedia/Tom_Lantos> a foaf:Person ;
+    jl:hasLabel "Tom Lantos@de",
+        "Tom Lantos@en",
+        "Tom Lantos@es",
+        "Tom Lantos@fr",
+        "Tom Lantos@it",
+        "Tom Lantos@pl",
+        "Tom Lantos@pt",
+        "Лантос, Том@ru",
+        "توم لانتوس@ar",
+        "トム・ラントス@ja",
+        "湯姆·蘭托斯@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Tom_Lantos>,
+        <http://data.nytimes.com/N80307333795002767773>,
+        <http://dbpedia.org/resource/Tom_Lantos>,
+        <http://de.dbpedia.org/resource/Tom_Lantos>,
+        <http://es.dbpedia.org/resource/Tom_Lantos>,
+        <http://fr.dbpedia.org/resource/Tom_Lantos>,
+        <http://it.dbpedia.org/resource/Tom_Lantos>,
+        <http://ja.dbpedia.org/resource/トム・ラントス>,
+        <http://ko.dbpedia.org/resource/톰_랜토스>,
+        <http://pl.dbpedia.org/resource/Tom_Lantos>,
+        <http://pt.dbpedia.org/resource/Tom_Lantos>,
+        <http://rdf.freebase.com/ns/m.024sld>,
+        <http://viaf.org/viaf/22218762>,
+        <http://wikidata.dbpedia.org/resource/Q160717>,
+        <http://www.wikidata.org/entity/Q160717>,
+        <http://yago-knowledge.org/resource/Tom_Lantos> .
+
+<http://data.judaicalink.org/data/dbpedia/Tony_Curtis> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/119184206> ;
+    jl:hasLabel "Tony Curtis@de",
+        "Tony Curtis@en",
+        "Tony Curtis@es",
+        "Tony Curtis@fr",
+        "Tony Curtis@it",
+        "Tony Curtis@nl",
+        "Tony Curtis@pl",
+        "Tony Curtis@pt",
+        "Тони Кёртис@ru",
+        "توني كرتيس@ar",
+        "トニー・カーティス@ja",
+        "托尼·柯蒂斯@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Tony_Curtis>,
+        <http://dbpedia.org/resource/Tony_Curtis>,
+        <http://de.dbpedia.org/resource/Tony_Curtis>,
+        <http://el.dbpedia.org/resource/Τόνι_Κέρτις>,
+        <http://es.dbpedia.org/resource/Tony_Curtis>,
+        <http://eu.dbpedia.org/resource/Tony_Curtis>,
+        <http://fr.dbpedia.org/resource/Tony_Curtis>,
+        <http://id.dbpedia.org/resource/Tony_Curtis>,
+        <http://it.dbpedia.org/resource/Tony_Curtis>,
+        <http://ja.dbpedia.org/resource/トニー・カーティス>,
+        <http://ko.dbpedia.org/resource/토니_커티스>,
+        <http://nl.dbpedia.org/resource/Tony_Curtis>,
+        <http://pl.dbpedia.org/resource/Tony_Curtis>,
+        <http://pt.dbpedia.org/resource/Tony_Curtis>,
+        <http://rdf.freebase.com/ns/m.0hwqg>,
+        <http://sw.cyc.com/concept/Mx4rv2vm05wpEbGdrcN5Y29ycA>,
+        <http://viaf.org/viaf/84973434>,
+        <http://wikidata.dbpedia.org/resource/Q162389>,
+        <http://www.wikidata.org/entity/Q162389>,
+        <http://yago-knowledge.org/resource/Tony_Curtis> .
+
+<http://data.judaicalink.org/data/dbpedia/Tony_Kushner> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/11954105X> ;
+    jl:hasLabel "Tony Kushner@de",
+        "Tony Kushner@en",
+        "Tony Kushner@es",
+        "Tony Kushner@fr",
+        "Tony Kushner@it",
+        "Tony Kushner@pl",
+        "Tony Kushner@pt",
+        "Кушнер, Тони@ru",
+        "トニー・クシュナー@ja",
+        "東尼·庫許納@zh" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Tony_Kushner>,
+        <http://data.nytimes.com/86671312660669404773>,
+        <http://dbpedia.org/resource/Tony_Kushner>,
+        <http://de.dbpedia.org/resource/Tony_Kushner>,
+        <http://es.dbpedia.org/resource/Tony_Kushner>,
+        <http://fr.dbpedia.org/resource/Tony_Kushner>,
+        <http://it.dbpedia.org/resource/Tony_Kushner>,
+        <http://ja.dbpedia.org/resource/トニー・クシュナー>,
+        <http://ko.dbpedia.org/resource/토니_커시너>,
+        <http://pl.dbpedia.org/resource/Tony_Kushner>,
+        <http://pt.dbpedia.org/resource/Tony_Kushner>,
+        <http://rdf.freebase.com/ns/m.01_6dw>,
+        <http://viaf.org/viaf/85608678>,
+        <http://wikidata.dbpedia.org/resource/Q704433>,
+        <http://www.wikidata.org/entity/Q704433>,
+        <http://yago-knowledge.org/resource/Tony_Kushner> .
+
+<http://data.judaicalink.org/data/dbpedia/Walter_Wolfgang> a foaf:Person ;
+    jl:hasLabel "Walter Wolfgang@en" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Walter_Wolfgang>,
+        <http://dbpedia.org/resource/Walter_Wolfgang>,
+        <http://rdf.freebase.com/ns/m.082qvv>,
+        <http://wikidata.dbpedia.org/resource/Q7966443>,
+        <http://www.wikidata.org/entity/Q7966443>,
+        <http://yago-knowledge.org/resource/Walter_Wolfgang> .
+
+<http://data.judaicalink.org/data/dbpedia/Yehuda_Glick> a foaf:Person ;
+    jl:hasLabel "Jehuda Glick@de",
+        "Yehuda Glick@en",
+        "Yehuda Glick@fr",
+        "Yehuda Glick@pt",
+        "يهودا غليك@ar" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Yehuda_Glick>,
+        <http://de.dbpedia.org/resource/Jehuda_Glick>,
+        <http://fr.dbpedia.org/resource/Yehuda_Glick>,
+        <http://pt.dbpedia.org/resource/Yehuda_Glick>,
+        <http://rdf.freebase.com/ns/m.01265198>,
+        <http://wikidata.dbpedia.org/resource/Q18368428>,
+        <http://www.wikidata.org/entity/Q18368428> .
+
+<http://data.judaicalink.org/data/dbpedia/Zeev_Latsky> a foaf:Person ;
+    jl:hasLabel "Zeev Latsky@en",
+        "Лацкий-Бертольди, Вульф Ильич@ru" ;
+    jl:occupation "Jewish activists" ;
+    owl:sameAs <http://dbpedia.org/resource/Zeev_Latsky>,
+        <http://rdf.freebase.com/ns/m.09ghnsp>,
+        <http://wikidata.dbpedia.org/resource/Q8068483>,
+        <http://www.wikidata.org/entity/Q8068483>,
+        <http://yago-knowledge.org/resource/Zeev_Latsky> .
+

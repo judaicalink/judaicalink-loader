@@ -1,0 +1,143 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Ezra_Dangoor> a foaf:Person ;
+    jl:hasLabel "Ezra Dangoor@en" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://dbpedia.org/resource/Ezra_Dangoor>,
+        <http://wikidata.dbpedia.org/resource/Q21540398>,
+        <http://www.wikidata.org/entity/Q21540398> .
+
+<http://data.judaicalink.org/data/dbpedia/Jacob_Snowman> a foaf:Person ;
+    jl:hasLabel "Jacob Snowman@en" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacob_Snowman>,
+        <http://wikidata.dbpedia.org/resource/Q22019426>,
+        <http://www.wikidata.org/entity/Q22019426> .
+
+<http://data.judaicalink.org/data/dbpedia/Meir_Brandsdorfer> a foaf:Person ;
+    jl:hasLabel "Meir Brandsdorfer@en" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://dbpedia.org/resource/Meir_Brandsdorfer>,
+        <http://rdf.freebase.com/ns/m.0dhqjl>,
+        <http://wikidata.dbpedia.org/resource/Q2898985>,
+        <http://www.wikidata.org/entity/Q2898985>,
+        <http://yago-knowledge.org/resource/Meir_Brandsdorfer> .
+
+<http://data.judaicalink.org/data/dbpedia/Mohel> a foaf:Person ;
+    jl:hasLabel "Moheel@nl",
+        "Mohel@de",
+        "Mohel@en",
+        "Mohel@fr",
+        "Mohel@it",
+        "Mohel@pl",
+        "モーヘール@ja" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Mohel>,
+        <http://dbpedia.org/resource/Mohel>,
+        <http://de.dbpedia.org/resource/Mohel>,
+        <http://fr.dbpedia.org/resource/Mohel>,
+        <http://it.dbpedia.org/resource/Mohel>,
+        <http://ja.dbpedia.org/resource/モーヘール>,
+        <http://nl.dbpedia.org/resource/Moheel>,
+        <http://pl.dbpedia.org/resource/Mohel>,
+        <http://rdf.freebase.com/ns/m.02v26w>,
+        <http://wikidata.dbpedia.org/resource/Q1853585>,
+        <http://www.wikidata.org/entity/Q1853585>,
+        <http://yago-knowledge.org/resource/Mohel> .
+
+<http://data.judaicalink.org/data/dbpedia/Moses_Sofer> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/120148552> ;
+    jl:hasLabel "Hatam Sofer@fr",
+        "Moses Sofer@de",
+        "Moses Sofer@en",
+        "Хатам Софер@ru" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Chatam_Sofer>,
+        <http://dbpedia.org/resource/Moses_Sofer>,
+        <http://de.dbpedia.org/resource/Moses_Sofer>,
+        <http://fr.dbpedia.org/resource/Hatam_Sofer>,
+        <http://rdf.freebase.com/ns/m.03nj0y>,
+        <http://viaf.org/viaf/34556776>,
+        <http://wikidata.dbpedia.org/resource/Q707498>,
+        <http://www.wikidata.org/entity/Q707498>,
+        <http://yago-knowledge.org/resource/Moses_Sofer> .
+
+<http://data.judaicalink.org/data/dbpedia/Moshe_Leib_Rabinovich> a foaf:Person ;
+    jl:hasLabel "Moshe Leib Rabinovich@en" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://dbpedia.org/resource/Moshe_Leib_Rabinovich>,
+        <http://rdf.freebase.com/ns/m.026dp25>,
+        <http://wikidata.dbpedia.org/resource/Q2905180>,
+        <http://www.wikidata.org/entity/Q2905180>,
+        <http://yago-knowledge.org/resource/Moshe_Leib_Rabinovich> .
+
+<http://data.judaicalink.org/data/dbpedia/Moshe_Wallach> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1054728151> ;
+    jl:hasLabel "Moshe Wallach@en" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://dbpedia.org/resource/Moshe_Wallach>,
+        <http://rdf.freebase.com/ns/m.0n_j1c7>,
+        <http://wikidata.dbpedia.org/resource/Q7053346>,
+        <http://www.wikidata.org/entity/Q7053346>,
+        <http://yago-knowledge.org/resource/Moshe_Wallach> .
+
+<http://data.judaicalink.org/data/dbpedia/Nissim_Ze'ev> a foaf:Person ;
+    jl:hasLabel "Nissim Ze'ev@en",
+        "Nissim Ze'ev@fr",
+        "Nissim Ze’ew@pl",
+        "Зеэв, Нисим@ru" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Nissim_Ze'ev>,
+        <http://dbpedia.org/resource/Nissim_Ze'ev>,
+        <http://fr.dbpedia.org/resource/Nissim_Ze'ev>,
+        <http://pl.dbpedia.org/resource/Nissim_Ze’ew>,
+        <http://rdf.freebase.com/ns/m.04pkfj>,
+        <http://wikidata.dbpedia.org/resource/Q2612867>,
+        <http://www.wikidata.org/entity/Q2612867>,
+        <http://yago-knowledge.org/resource/Nissim_Ze'ev> .
+
+<http://data.judaicalink.org/data/dbpedia/Paysach_Krohn> a foaf:Person ;
+    jl:hasLabel "Paysach Krohn@en" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://dbpedia.org/resource/Paysach_Krohn>,
+        <http://rdf.freebase.com/ns/m.0gd2qx>,
+        <http://viaf.org/viaf/12355342>,
+        <http://wikidata.dbpedia.org/resource/Q7156894>,
+        <http://www.wikidata.org/entity/Q7156894>,
+        <http://yago-knowledge.org/resource/Paysach_Krohn> .
+
+<http://data.judaicalink.org/data/dbpedia/Yosef_Chaim_Sonnenfeld> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/130300551> ;
+    jl:hasLabel "Joseph Chaim Sonnenfeld@de",
+        "Yosef Chaim Sonnenfeld@en",
+        "Yosef Chaim Sonnenfeld@fr",
+        "Yosef Chaim Sonnenfeld@nl",
+        "Зоненфельд, Йосеф Хаим@ru" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Josef_Chaim_Sonnenfeld>,
+        <http://dbpedia.org/resource/Yosef_Chaim_Sonnenfeld>,
+        <http://de.dbpedia.org/resource/Joseph_Chaim_Sonnenfeld>,
+        <http://fr.dbpedia.org/resource/Yosef_Chaim_Sonnenfeld>,
+        <http://nl.dbpedia.org/resource/Yosef_Chaim_Sonnenfeld>,
+        <http://rdf.freebase.com/ns/m.0ds67p>,
+        <http://viaf.org/viaf/55250855>,
+        <http://wikidata.dbpedia.org/resource/Q1706746>,
+        <http://www.wikidata.org/entity/Q1706746>,
+        <http://yago-knowledge.org/resource/Yosef_Chaim_Sonnenfeld> .
+
+<http://data.judaicalink.org/data/dbpedia/Zion_Levy> a foaf:Person ;
+    jl:hasLabel "Zion Levy@en" ;
+    jl:occupation "Mohel" ;
+    owl:sameAs <http://dbpedia.org/resource/Zion_Levy>,
+        <http://rdf.freebase.com/ns/m.051_4tz>,
+        <http://wikidata.dbpedia.org/resource/Q8072529>,
+        <http://www.wikidata.org/entity/Q8072529>,
+        <http://yago-knowledge.org/resource/Zion_Levy> .
+

@@ -1,0 +1,124 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.judaicalink.org/data/dbpedia/Batsheva_Kanievsky> a foaf:Person ;
+    jl:hasLabel "Batsheva Kanievsky@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Batsheva_Kanievsky>,
+        <http://rdf.freebase.com/ns/m.0h95p9p>,
+        <http://wikidata.dbpedia.org/resource/Q2895810>,
+        <http://www.wikidata.org/entity/Q2895810>,
+        <http://yago-knowledge.org/resource/Batsheva_Kanievsky> .
+
+<http://data.judaicalink.org/data/dbpedia/Bruria_David> a foaf:Person ;
+    jl:hasLabel "Bruria David@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Bruria_David>,
+        <http://rdf.freebase.com/ns/m.037rfv>,
+        <http://wikidata.dbpedia.org/resource/Q2899388>,
+        <http://www.wikidata.org/entity/Q2899388>,
+        <http://yago-knowledge.org/resource/Bruria_David> .
+
+<http://data.judaicalink.org/data/dbpedia/Bruriah> a foaf:Person ;
+    jl:hasLabel "Berurja@de",
+        "Brouria@fr",
+        "Bruriah@en",
+        "Bruriah@it" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Bruriah>,
+        <http://de.dbpedia.org/resource/Berurja>,
+        <http://fr.dbpedia.org/resource/Brouria>,
+        <http://it.dbpedia.org/resource/Bruriah>,
+        <http://rdf.freebase.com/ns/m.06v_ng>,
+        <http://wikidata.dbpedia.org/resource/Q469428>,
+        <http://www.wikidata.org/entity/Q469428>,
+        <http://yago-knowledge.org/resource/Bruriah> .
+
+<http://data.judaicalink.org/data/dbpedia/Denah_Weinberg> a foaf:Person ;
+    jl:hasLabel "Denah Weinberg@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Denah_Weinberg>,
+        <http://rdf.freebase.com/ns/m.05mwg7j>,
+        <http://wikidata.dbpedia.org/resource/Q5256560>,
+        <http://www.wikidata.org/entity/Q5256560>,
+        <http://yago-knowledge.org/resource/Denah_Weinberg> .
+
+<http://data.judaicalink.org/data/dbpedia/Esther_Jungreis> a foaf:Person ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/1081227818> ;
+    jl:hasLabel "Esther Jungreis@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Esther_Jungreis>,
+        <http://rdf.freebase.com/ns/m.026ht58>,
+        <http://wikidata.dbpedia.org/resource/Q5401216>,
+        <http://www.wikidata.org/entity/Q5401216>,
+        <http://yago-knowledge.org/resource/Esther_Jungreis> .
+
+<http://data.judaicalink.org/data/dbpedia/Lori_Palatnik> a foaf:Person ;
+    jl:hasLabel "Lori Palatnik@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Lori_Palatnik>,
+        <http://rdf.freebase.com/ns/m.0fqqyqv>,
+        <http://wikidata.dbpedia.org/resource/Q6681116>,
+        <http://www.wikidata.org/entity/Q6681116>,
+        <http://yago-knowledge.org/resource/Lori_Palatnik> .
+
+<http://data.judaicalink.org/data/dbpedia/Malka_Rokeach> a foaf:Person ;
+    jl:hasLabel "Malka Rokeach@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Malka_Rokeach>,
+        <http://rdf.freebase.com/ns/m.010hq_cr>,
+        <http://wikidata.dbpedia.org/resource/Q6659193>,
+        <http://www.wikidata.org/entity/Q6659193>,
+        <http://yago-knowledge.org/resource/Malka_Rokeach> .
+
+<http://data.judaicalink.org/data/dbpedia/Menucha_Rochel_Slonim> a foaf:Person ;
+    jl:hasLabel "Menucha Rochel Slonim@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Menucha_Rochel_Slonim>,
+        <http://rdf.freebase.com/ns/m.03d1g7q>,
+        <http://wikidata.dbpedia.org/resource/Q6263204>,
+        <http://www.wikidata.org/entity/Q6263204>,
+        <http://yago-knowledge.org/resource/Menucha_Rochel_Slonim> .
+
+<http://data.judaicalink.org/data/dbpedia/Rebbetzin> a foaf:Person ;
+    jl:hasLabel "Rebbetzin@en",
+        "Rebbetzin@fr" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Rebbetzin>,
+        <http://fr.dbpedia.org/resource/Rebbetzin>,
+        <http://rdf.freebase.com/ns/m.09449b>,
+        <http://wikidata.dbpedia.org/resource/Q3421679>,
+        <http://www.wikidata.org/entity/Q3421679>,
+        <http://yago-knowledge.org/resource/Rebbetzin> .
+
+<http://data.judaicalink.org/data/dbpedia/Rechel_Shapiro> a foaf:Person ;
+    jl:hasLabel "Rechel Shapiro@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Rechel_Shapiro>,
+        <http://rdf.freebase.com/ns/m.02w426s>,
+        <http://wikidata.dbpedia.org/resource/Q7302410>,
+        <http://www.wikidata.org/entity/Q7302410>,
+        <http://yago-knowledge.org/resource/Rechel_Shapiro> .
+
+<http://data.judaicalink.org/data/dbpedia/Tziporah_Heller> a foaf:Person ;
+    jl:hasLabel "Tziporah Heller@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Tziporah_Heller>,
+        <http://wikidata.dbpedia.org/resource/Q22278169>,
+        <http://www.wikidata.org/entity/Q22278169> .
+
+<http://data.judaicalink.org/data/dbpedia/Vichna_Kaplan> a foaf:Person ;
+    jl:hasLabel "Vichna Kaplan@en" ;
+    jl:occupation "Rebbetzins" ;
+    owl:sameAs <http://dbpedia.org/resource/Vichna_Kaplan>,
+        <http://rdf.freebase.com/ns/m.0ql48xk>,
+        <http://wikidata.dbpedia.org/resource/Q7925261>,
+        <http://www.wikidata.org/entity/Q7925261>,
+        <http://yago-knowledge.org/resource/Vichna_Kaplan> .
+

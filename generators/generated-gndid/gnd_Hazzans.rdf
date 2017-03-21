@@ -17,26 +17,6 @@
         <http://www.wikidata.org/entity/Q4662084>,
         <http://yago-knowledge.org/resource/Aaron_Hazzan> .
 
-<http://data.judaicalink.org/data/dbpedia/Aaron_Markovich_of_Wilna> a foaf:Person ;
-    jl:hasLabel "Aaron Markovich of Wilna@en",
-        "Aaron Markowicz z Wilna@pl" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Aaron_Markovich_of_Wilna>,
-        <http://pl.dbpedia.org/resource/Aaron_Markowicz_z_Wilna>,
-        <http://rdf.freebase.com/ns/m.0jkzj_8>,
-        <http://wikidata.dbpedia.org/resource/Q16147912>,
-        <http://www.wikidata.org/entity/Q16147912>,
-        <http://yago-knowledge.org/resource/Aaron_Markovich_of_Wilna> .
-
-<http://data.judaicalink.org/data/dbpedia/Aaron_of_Lincoln> a foaf:Person ;
-    jl:hasLabel "Aaron of Lincoln@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Aaron_of_Lincoln>,
-        <http://rdf.freebase.com/ns/m.05p9pb>,
-        <http://wikidata.dbpedia.org/resource/Q4662608>,
-        <http://www.wikidata.org/entity/Q4662608>,
-        <http://yago-knowledge.org/resource/Aaron_of_Lincoln> .
-
 <http://data.judaicalink.org/data/dbpedia/Abbe_Lyons> a foaf:Person ;
     jl:hasLabel "Abbe Lyons@en" ;
     jl:occupation "Hazzans" ;
@@ -99,45 +79,6 @@
         <http://www.wikidata.org/entity/Q4669063>,
         <http://yago-knowledge.org/resource/Abraham_Lubin> .
 
-<http://data.judaicalink.org/data/dbpedia/Abraham_Oppenheim> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/117742147> ;
-    jl:hasLabel "Abraham Oppenheim@de",
-        "Abraham Oppenheim@en",
-        "Abraham Oppenheim@fr" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Abraham_Oppenheim>,
-        <http://de.dbpedia.org/resource/Abraham_Oppenheim>,
-        <http://fr.dbpedia.org/resource/Abraham_Oppenheim>,
-        <http://rdf.freebase.com/ns/m.0j9p196>,
-        <http://viaf.org/viaf/42622798>,
-        <http://wikidata.dbpedia.org/resource/Q101542>,
-        <http://www.wikidata.org/entity/Q101542>,
-        <http://yago-knowledge.org/resource/Abraham_Oppenheim> .
-
-<http://data.judaicalink.org/data/dbpedia/Abraham_Zacuto> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/100967280> ;
-    jl:hasLabel "Abraham Zacuto@de",
-        "Abraham Zacuto@en",
-        "Abraham Zacuto@es",
-        "Abraham Zacuto@fr",
-        "Abraham Zacuto@it",
-        "Abraão Zacuto@pt",
-        "Закуто, Авраам@ru",
-        "أبراهام زاكوتو@ar" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://cs.dbpedia.org/resource/Abraham_Zacuto>,
-        <http://dbpedia.org/resource/Abraham_Zacuto>,
-        <http://de.dbpedia.org/resource/Abraham_Zacuto>,
-        <http://es.dbpedia.org/resource/Abraham_Zacuto>,
-        <http://eu.dbpedia.org/resource/Abraham_Zacuto>,
-        <http://fr.dbpedia.org/resource/Abraham_Zacuto>,
-        <http://it.dbpedia.org/resource/Abraham_Zacuto>,
-        <http://pt.dbpedia.org/resource/Abraão_Zacuto>,
-        <http://rdf.freebase.com/ns/m.05_1px>,
-        <http://wikidata.dbpedia.org/resource/Q330740>,
-        <http://www.wikidata.org/entity/Q330740>,
-        <http://yago-knowledge.org/resource/Abraham_Zacuto> .
-
 <http://data.judaicalink.org/data/dbpedia/Abraham_Zevi_Idelsohn> a foaf:Person ;
     gndo:gndIdentifier <http://d-nb.info/gnd/124698778> ;
     jl:hasLabel "Abraham Zevi Idelsohn@en",
@@ -161,20 +102,6 @@
         <http://www.wikidata.org/entity/Q330741>,
         <http://yago-knowledge.org/resource/Abraham_Zevi_Idelsohn> .
 
-<http://data.judaicalink.org/data/dbpedia/Alois_Dessauer> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/133481875> ;
-    jl:hasLabel "Alois Dessauer@de",
-        "Alois Dessauer@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://cs.dbpedia.org/resource/Alois_Dessauer>,
-        <http://dbpedia.org/resource/Alois_Dessauer>,
-        <http://de.dbpedia.org/resource/Alois_Dessauer>,
-        <http://rdf.freebase.com/ns/m.0ff6t6>,
-        <http://viaf.org/viaf/3663739>,
-        <http://wikidata.dbpedia.org/resource/Q91606>,
-        <http://www.wikidata.org/entity/Q91606>,
-        <http://yago-knowledge.org/resource/Alois_Dessauer> .
-
 <http://data.judaicalink.org/data/dbpedia/Angela_Warnick_Buchdahl> a foaf:Person ;
     jl:hasLabel "Angela Warnick Buchdahl@en" ;
     jl:occupation "Hazzans" ;
@@ -183,20 +110,6 @@
         <http://wikidata.dbpedia.org/resource/Q4762582>,
         <http://www.wikidata.org/entity/Q4762582>,
         <http://yago-knowledge.org/resource/Angela_Warnick_Buchdahl> .
-
-<http://data.judaicalink.org/data/dbpedia/Aron_Elias_Seligmann> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/12337166X> ;
-    jl:hasLabel "Aron Elias Seligmann@de",
-        "Aron Elias Seligmann@en",
-        "Aron Elias Seligmann@fr" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Aron_Elias_Seligmann>,
-        <http://de.dbpedia.org/resource/Aron_Elias_Seligmann>,
-        <http://fr.dbpedia.org/resource/Aron_Elias_Seligmann>,
-        <http://rdf.freebase.com/ns/m.0w5b8ws>,
-        <http://wikidata.dbpedia.org/resource/Q698136>,
-        <http://www.wikidata.org/entity/Q698136>,
-        <http://yago-knowledge.org/resource/Aron_Elias_Seligmann> .
 
 <http://data.judaicalink.org/data/dbpedia/Avitall_Gerstetter> a foaf:Person ;
     gndo:gndIdentifier <http://d-nb.info/gnd/106698266X> ;
@@ -290,49 +203,6 @@
         <http://www.wikidata.org/entity/Q5067802>,
         <http://yago-knowledge.org/resource/Chaim_David_Lippe> .
 
-<http://data.judaicalink.org/data/dbpedia/Chajim_Fürst> a foaf:Person ;
-    jl:hasLabel "Chajim Fürst@de",
-        "Chajim Fürst@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Chajim_Fürst>,
-        <http://de.dbpedia.org/resource/Chajim_Fürst>,
-        <http://rdf.freebase.com/ns/m.08r2vp>,
-        <http://wikidata.dbpedia.org/resource/Q112300>,
-        <http://www.wikidata.org/entity/Q112300>,
-        <http://yago-knowledge.org/resource/Chajim_Fürst> .
-
-<http://data.judaicalink.org/data/dbpedia/Court_Jew> a foaf:Person ;
-    jl:hasLabel "Court Jew@en",
-        "Hoffaktor@de",
-        "Juif de cour@fr",
-        "宮廷ユダヤ人@ja" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Court_Jew>,
-        <http://de.dbpedia.org/resource/Hoffaktor>,
-        <http://fr.dbpedia.org/resource/Juif_de_cour>,
-        <http://ja.dbpedia.org/resource/宮廷ユダヤ人>,
-        <http://ko.dbpedia.org/resource/궁정_유대인>,
-        <http://rdf.freebase.com/ns/m.03rc3j>,
-        <http://wikidata.dbpedia.org/resource/Q730551>,
-        <http://www.wikidata.org/entity/Q730551>,
-        <http://yago-knowledge.org/resource/Court_Jew> .
-
-<http://data.judaicalink.org/data/dbpedia/Daniel_Itzig> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/117212822> ;
-    jl:hasLabel "Daniel Itzig@de",
-        "Daniel Itzig@en",
-        "Daniel Itzig@fr" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://cs.dbpedia.org/resource/Daniel_Itzig>,
-        <http://dbpedia.org/resource/Daniel_Itzig>,
-        <http://de.dbpedia.org/resource/Daniel_Itzig>,
-        <http://fr.dbpedia.org/resource/Daniel_Itzig>,
-        <http://rdf.freebase.com/ns/m.09mfft>,
-        <http://viaf.org/viaf/13079120>,
-        <http://wikidata.dbpedia.org/resource/Q72600>,
-        <http://www.wikidata.org/entity/Q72600>,
-        <http://yago-knowledge.org/resource/Daniel_Itzig> .
-
 <http://data.judaicalink.org/data/dbpedia/David_Pardo_(Dutch_rabbi,_born_at_Salonica)> a foaf:Person ;
     jl:hasLabel "David Pardo (Dutch rabbi, born at Salonica)@en" ;
     jl:occupation "Hazzans" ;
@@ -358,15 +228,6 @@
         <http://wikidata.dbpedia.org/resource/Q5240971>,
         <http://www.wikidata.org/entity/Q5240971>,
         <http://yago-knowledge.org/resource/David_Werdyger> .
-
-<http://data.judaicalink.org/data/dbpedia/Elias_of_London> a foaf:Person ;
-    jl:hasLabel "Elias of London@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Elias_of_London>,
-        <http://rdf.freebase.com/ns/m.0d9ytj>,
-        <http://wikidata.dbpedia.org/resource/Q5360657>,
-        <http://www.wikidata.org/entity/Q5360657>,
-        <http://yago-knowledge.org/resource/Elias_of_London> .
 
 <http://data.judaicalink.org/data/dbpedia/Erica_Lippitz> a foaf:Person ;
     jl:hasLabel "Erica Lippitz@en" ;
@@ -429,27 +290,6 @@
         <http://www.wikidata.org/entity/Q2915432>,
         <http://yago-knowledge.org/resource/Gershon_Sirota> .
 
-<http://data.judaicalink.org/data/dbpedia/Gerson_von_Bleichröder> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/11851167X> ;
-    jl:hasLabel "Gerson Bleichröder@de",
-        "Gerson Bleichröder@pt",
-        "Gerson von Bleichröder@en",
-        "Gerson von Bleichröder@es",
-        "Gerson von Bleichröder@fr",
-        "Бляйхрёдер, Герсон фон@ru",
-        "ゲルゾーン・フォン・ブライヒレーダー@ja" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Gerson_von_Bleichröder>,
-        <http://de.dbpedia.org/resource/Gerson_Bleichröder>,
-        <http://es.dbpedia.org/resource/Gerson_von_Bleichröder>,
-        <http://fr.dbpedia.org/resource/Gerson_von_Bleichröder>,
-        <http://ja.dbpedia.org/resource/ゲルゾーン・フォン・ブライヒレーダー>,
-        <http://pt.dbpedia.org/resource/Gerson_Bleichröder>,
-        <http://rdf.freebase.com/ns/m.099skq>,
-        <http://wikidata.dbpedia.org/resource/Q65160>,
-        <http://www.wikidata.org/entity/Q65160>,
-        <http://yago-knowledge.org/resource/Gerson_von_Bleichröder> .
-
 <http://data.judaicalink.org/data/dbpedia/Gustavus_Poznanski> a foaf:Person ;
     jl:hasLabel "Gustavus Poznanski@en" ;
     jl:occupation "Hazzans" ;
@@ -458,17 +298,6 @@
         <http://wikidata.dbpedia.org/resource/Q16737238>,
         <http://www.wikidata.org/entity/Q16737238>,
         <http://yago-knowledge.org/resource/Gustavus_Poznanski> .
-
-<http://data.judaicalink.org/data/dbpedia/Hanna_van_Recklinghausen> a foaf:Person ;
-    jl:hasLabel "Hanna van Recklinghausen@en",
-        "Hanna van Recklinghausen@fr" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Hanna_van_Recklinghausen>,
-        <http://fr.dbpedia.org/resource/Hanna_van_Recklinghausen>,
-        <http://rdf.freebase.com/ns/m.0gfgnt5>,
-        <http://wikidata.dbpedia.org/resource/Q385227>,
-        <http://www.wikidata.org/entity/Q385227>,
-        <http://yago-knowledge.org/resource/Hanna_van_Recklinghausen> .
 
 <http://data.judaicalink.org/data/dbpedia/Hazzan> a foaf:Person ;
     jl:hasLabel "Chasan (Kantor)@de",
@@ -547,35 +376,6 @@
         <http://www.wikidata.org/entity/Q216734>,
         <http://yago-knowledge.org/resource/Hugo_Chaim_Adler> .
 
-<http://data.judaicalink.org/data/dbpedia/Isaac_Abravanel> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/118500244> ;
-    jl:hasLabel "Abrabanel@pl",
-        "Isaac Abrabanel@it",
-        "Isaac Abravanel@en",
-        "Isaac Abravanel@es",
-        "Isaac Abravanel@fr",
-        "Isaac Abravanel@pt",
-        "Isaak Abrabanel@de",
-        "Jitschak Abarbanel@nl",
-        "Абрабанель, Ицхак@ru",
-        "阿巴伯內爾@zh" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://cs.dbpedia.org/resource/Izák_Abrabanel>,
-        <http://dbpedia.org/resource/Isaac_Abravanel>,
-        <http://de.dbpedia.org/resource/Isaak_Abrabanel>,
-        <http://es.dbpedia.org/resource/Isaac_Abravanel>,
-        <http://fr.dbpedia.org/resource/Isaac_Abravanel>,
-        <http://id.dbpedia.org/resource/Isaac_Abravanel>,
-        <http://it.dbpedia.org/resource/Isaac_Abrabanel>,
-        <http://nl.dbpedia.org/resource/Jitschak_Abarbanel>,
-        <http://pl.dbpedia.org/resource/Abrabanel>,
-        <http://pt.dbpedia.org/resource/Isaac_Abravanel>,
-        <http://rdf.freebase.com/ns/m.0406hk>,
-        <http://viaf.org/viaf/36986982>,
-        <http://wikidata.dbpedia.org/resource/Q319902>,
-        <http://www.wikidata.org/entity/Q319902>,
-        <http://yago-knowledge.org/resource/Isaac_Abrabanel> .
-
 <http://data.judaicalink.org/data/dbpedia/Isaac_Leucht> a foaf:Person ;
     jl:hasLabel "Isaac Leucht@en" ;
     jl:occupation "Hazzans" ;
@@ -606,22 +406,6 @@
         <http://www.wikidata.org/entity/Q15668839>,
         <http://yago-knowledge.org/resource/Israel_Alter> .
 
-<http://data.judaicalink.org/data/dbpedia/Israel_Jacobson> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/11704783X> ;
-    jl:hasLabel "Israel Jacobson@de",
-        "Israel Jacobson@en",
-        "Israel Jacobson@fr",
-        "イスラエル・ヤーコプゾーン@ja" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Israel_Jacobson>,
-        <http://de.dbpedia.org/resource/Israel_Jacobson>,
-        <http://fr.dbpedia.org/resource/Israel_Jacobson>,
-        <http://ja.dbpedia.org/resource/イスラエル・ヤーコプゾーン>,
-        <http://rdf.freebase.com/ns/m.05bd20>,
-        <http://wikidata.dbpedia.org/resource/Q66435>,
-        <http://www.wikidata.org/entity/Q66435>,
-        <http://yago-knowledge.org/resource/Israel_Jacobson> .
-
 <http://data.judaicalink.org/data/dbpedia/Israel_Meyer_Japhet> a foaf:Person ;
     gndo:gndIdentifier <http://d-nb.info/gnd/128822481> ;
     jl:hasLabel "Israel Meyer Japhet@en" ;
@@ -643,21 +427,6 @@
         <http://www.wikidata.org/entity/Q2919542>,
         <http://yago-knowledge.org/resource/Israel_Schorr> .
 
-<http://data.judaicalink.org/data/dbpedia/Issachar_Berend_Lehmann> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/118960881> ;
-    jl:hasLabel "Issachar Berend Lehmann@de",
-        "Issachar Berend Lehmann@en",
-        "Issachar Berend Lehmann@pl" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Issachar_Berend_Lehmann>,
-        <http://de.dbpedia.org/resource/Issachar_Berend_Lehmann>,
-        <http://pl.dbpedia.org/resource/Issachar_Berend_Lehmann>,
-        <http://rdf.freebase.com/ns/m.0574tq>,
-        <http://viaf.org/viaf/30336631>,
-        <http://wikidata.dbpedia.org/resource/Q75614>,
-        <http://www.wikidata.org/entity/Q75614>,
-        <http://yago-knowledge.org/resource/Issachar_Berend_Lehmann> .
-
 <http://data.judaicalink.org/data/dbpedia/Izidor_Gross> a foaf:Person ;
     jl:hasLabel "Izidor Gross@en" ;
     jl:occupation "Hazzans" ;
@@ -667,22 +436,6 @@
         <http://www.wikidata.org/entity/Q13638700>,
         <http://yago-knowledge.org/resource/Izidor_Gross> .
 
-<http://data.judaicalink.org/data/dbpedia/Jacob_Bassevi> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/135862779> ;
-    jl:hasLabel "Jacob Bassevi@de",
-        "Jacob Bassevi@en",
-        "ヤーコプ・バセヴィ@ja" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://cs.dbpedia.org/resource/Jakub_Baševi_z_Treuenburka>,
-        <http://dbpedia.org/resource/Jacob_Bassevi>,
-        <http://de.dbpedia.org/resource/Jacob_Bassevi>,
-        <http://ja.dbpedia.org/resource/ヤーコプ・バセヴィ>,
-        <http://rdf.freebase.com/ns/m.05bd7f>,
-        <http://viaf.org/viaf/80307420>,
-        <http://wikidata.dbpedia.org/resource/Q322578>,
-        <http://www.wikidata.org/entity/Q322578>,
-        <http://yago-knowledge.org/resource/Jacob_Bassevi> .
-
 <http://data.judaicalink.org/data/dbpedia/Jacob_Raphael_Cohen> a foaf:Person ;
     jl:hasLabel "Jacob Raphael Cohen@en" ;
     jl:occupation "Hazzans" ;
@@ -690,15 +443,6 @@
         <http://rdf.freebase.com/ns/m.05zzrk2>,
         <http://wikidata.dbpedia.org/resource/Q16208063>,
         <http://www.wikidata.org/entity/Q16208063> .
-
-<http://data.judaicalink.org/data/dbpedia/Jacob_of_London> a foaf:Person ;
-    jl:hasLabel "Jacob of London@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Jacob_of_London>,
-        <http://rdf.freebase.com/ns/m.0d9ykf>,
-        <http://wikidata.dbpedia.org/resource/Q6119558>,
-        <http://www.wikidata.org/entity/Q6119558>,
-        <http://yago-knowledge.org/resource/Jacob_of_London> .
 
 <http://data.judaicalink.org/data/dbpedia/Jalda_Rebling> a foaf:Person ;
     gndo:gndIdentifier <http://d-nb.info/gnd/134939166> ;
@@ -757,32 +501,6 @@
         <http://www.wikidata.org/entity/Q6170773>,
         <http://yago-knowledge.org/resource/Jean_Gornish> .
 
-<http://data.judaicalink.org/data/dbpedia/Joachim_Edler_von_Popper> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/101126420X> ;
-    jl:hasLabel "Joachim Edler von Popper@en",
-        "Joachim Popper@de" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Joachim_Edler_von_Popper>,
-        <http://de.dbpedia.org/resource/Joachim_Popper>,
-        <http://rdf.freebase.com/ns/m.03cp2tm>,
-        <http://wikidata.dbpedia.org/resource/Q1690374>,
-        <http://www.wikidata.org/entity/Q1690374>,
-        <http://yago-knowledge.org/resource/Joachim_Edler_von_Popper> .
-
-<http://data.judaicalink.org/data/dbpedia/Josel_of_Rosheim> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/118713094> ;
-    jl:hasLabel "Josel de Rosheim@fr",
-        "Josel of Rosheim@en",
-        "Josel von Rosheim@de" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Josel_of_Rosheim>,
-        <http://de.dbpedia.org/resource/Josel_von_Rosheim>,
-        <http://fr.dbpedia.org/resource/Josel_de_Rosheim>,
-        <http://rdf.freebase.com/ns/m.05bdq1>,
-        <http://wikidata.dbpedia.org/resource/Q317517>,
-        <http://www.wikidata.org/entity/Q317517>,
-        <http://yago-knowledge.org/resource/Josel_of_Rosheim> .
-
 <http://data.judaicalink.org/data/dbpedia/Joseph_Malovany> a foaf:Person ;
     jl:hasLabel "Joseph Malovany@en" ;
     jl:occupation "Hazzans" ;
@@ -791,31 +509,6 @@
         <http://wikidata.dbpedia.org/resource/Q2900479>,
         <http://www.wikidata.org/entity/Q2900479>,
         <http://yago-knowledge.org/resource/Joseph_Malovany> .
-
-<http://data.judaicalink.org/data/dbpedia/Joseph_Nasi> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/119183668> ;
-    jl:hasLabel "Giuseppe Nasi@it",
-        "Josef Nasi@nl",
-        "Joseph Nasi@de",
-        "Joseph Nasi@en",
-        "Joseph Nassi@fr",
-        "José Nasi@es",
-        "João Miquez@pt",
-        "Józef Nasi@pl" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Joseph_Nasi>,
-        <http://de.dbpedia.org/resource/Joseph_Nasi>,
-        <http://el.dbpedia.org/resource/Ιωσήφ_Νάζη>,
-        <http://es.dbpedia.org/resource/José_Nasi>,
-        <http://fr.dbpedia.org/resource/Joseph_Nassi>,
-        <http://it.dbpedia.org/resource/Giuseppe_Nasi>,
-        <http://nl.dbpedia.org/resource/Josef_Nasi>,
-        <http://pl.dbpedia.org/resource/Józef_Nasi>,
-        <http://pt.dbpedia.org/resource/João_Miquez>,
-        <http://rdf.freebase.com/ns/m.050gj_>,
-        <http://wikidata.dbpedia.org/resource/Q472202>,
-        <http://www.wikidata.org/entity/Q472202>,
-        <http://yago-knowledge.org/resource/Joseph_Nasi> .
 
 <http://data.judaicalink.org/data/dbpedia/Joseph_Pardo_(hazzan)> a foaf:Person ;
     jl:hasLabel "Joseph Pardo (hazzan)@en" ;
@@ -852,31 +545,6 @@
         <http://yago-knowledge.org/resource/Joseph_Schmidt>,
         <http://zitgist.com/music/artist/0764f317-5b19-4c96-b7ce-2fb408eb3c2a> .
 
-<http://data.judaicalink.org/data/dbpedia/Joseph_Süß_Oppenheimer> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/118757733> ;
-    jl:hasLabel "Joseph Süss Oppenheimer@fr",
-        "Joseph Süß Oppenheimer@de",
-        "Joseph Süß Oppenheimer@en",
-        "Joseph Süß Oppenheimer@es",
-        "Joseph Süß Oppenheimer@it",
-        "Joseph Süß Oppenheimer@nl",
-        "Joseph Süß Oppenheimer@pl",
-        "Joseph Süß Oppenheimer@pt",
-        "Оппенгеймер, Зюсс@ru" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Joseph_Süß_Oppenheimer>,
-        <http://de.dbpedia.org/resource/Joseph_Süß_Oppenheimer>,
-        <http://es.dbpedia.org/resource/Joseph_Süß_Oppenheimer>,
-        <http://fr.dbpedia.org/resource/Joseph_Süss_Oppenheimer>,
-        <http://it.dbpedia.org/resource/Joseph_Süß_Oppenheimer>,
-        <http://nl.dbpedia.org/resource/Joseph_Süß_Oppenheimer>,
-        <http://pl.dbpedia.org/resource/Joseph_Süß_Oppenheimer>,
-        <http://pt.dbpedia.org/resource/Joseph_Süß_Oppenheimer>,
-        <http://rdf.freebase.com/ns/m.03rc4_>,
-        <http://wikidata.dbpedia.org/resource/Q60535>,
-        <http://www.wikidata.org/entity/Q60535>,
-        <http://yago-knowledge.org/resource/Joseph_Süß_Oppenheimer> .
-
 <http://data.judaicalink.org/data/dbpedia/Judah_Cassuto> a foaf:Person ;
     jl:hasLabel "Judah Cassuto@en" ;
     jl:occupation "Hazzans" ;
@@ -895,20 +563,6 @@
         <http://www.wikidata.org/entity/Q6309969>,
         <http://yago-knowledge.org/resource/Julius_Mombach> .
 
-<http://data.judaicalink.org/data/dbpedia/Karoline_Kaulla> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/132530244> ;
-    jl:hasLabel "Karoline Kaulla@de",
-        "Karoline Kaulla@en",
-        "Karoline Kaulla@fr" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Karoline_Kaulla>,
-        <http://de.dbpedia.org/resource/Karoline_Kaulla>,
-        <http://fr.dbpedia.org/resource/Karoline_Kaulla>,
-        <http://rdf.freebase.com/ns/m.07pn71>,
-        <http://wikidata.dbpedia.org/resource/Q74410>,
-        <http://www.wikidata.org/entity/Q74410>,
-        <http://yago-knowledge.org/resource/Karoline_Kaulla> .
-
 <http://data.judaicalink.org/data/dbpedia/Lawrence_Dermer> a foaf:Person ;
     jl:hasLabel "Lawrence Dermer@en" ;
     jl:occupation "Hazzans" ;
@@ -917,17 +571,6 @@
         <http://wikidata.dbpedia.org/resource/Q6503989>,
         <http://www.wikidata.org/entity/Q6503989>,
         <http://yago-knowledge.org/resource/Lawrence_Dermer> .
-
-<http://data.judaicalink.org/data/dbpedia/Leffmann_Behrends> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/118653156> ;
-    jl:hasLabel "Leffmann Behrends@en",
-        "Leffmann Behrens@de" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Leffmann_Behrends>,
-        <http://de.dbpedia.org/resource/Leffmann_Behrens>,
-        <http://rdf.freebase.com/ns/m.05bd58>,
-        <http://wikidata.dbpedia.org/resource/Q1678546>,
-        <http://www.wikidata.org/entity/Q1678546> .
 
 <http://data.judaicalink.org/data/dbpedia/Leib_Glantz> a foaf:Person ;
     jl:hasLabel "Leib Glantz@en",
@@ -1101,26 +744,6 @@
         <http://www.wikidata.org/entity/Q1981308>,
         <http://yago-knowledge.org/resource/Moishe_Oysher> .
 
-<http://data.judaicalink.org/data/dbpedia/Mordecai_Meisel> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/136773370> ;
-    jl:hasLabel "Mordecai Maisel@es",
-        "Mordecai Meisel@en",
-        "Mordecai Meisel@pt",
-        "Mordechai Meisel@de",
-        "Mordekhaï Maisel@fr" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://cs.dbpedia.org/resource/Mordechaj_Maisel>,
-        <http://dbpedia.org/resource/Mordecai_Meisel>,
-        <http://de.dbpedia.org/resource/Mordechai_Meisel>,
-        <http://es.dbpedia.org/resource/Mordecai_Maisel>,
-        <http://fr.dbpedia.org/resource/Mordekhaï_Maisel>,
-        <http://pt.dbpedia.org/resource/Mordecai_Meisel>,
-        <http://rdf.freebase.com/ns/m.05bdkw>,
-        <http://viaf.org/viaf/54036427>,
-        <http://wikidata.dbpedia.org/resource/Q721293>,
-        <http://www.wikidata.org/entity/Q721293>,
-        <http://yago-knowledge.org/resource/Mordecai_Meisel> .
-
 <http://data.judaicalink.org/data/dbpedia/Mordechai_Hershman> a foaf:Person ;
     jl:hasLabel "Mordechai Hershman@en" ;
     jl:occupation "Hazzans" ;
@@ -1142,29 +765,6 @@
         <http://wikidata.dbpedia.org/resource/Q1419456>,
         <http://www.wikidata.org/entity/Q1419456>,
         <http://yago-knowledge.org/resource/Moritz_Henle> .
-
-<http://data.judaicalink.org/data/dbpedia/Moritz_von_Cohn> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/12988085X> ;
-    jl:hasLabel "Moritz von Cohn@de",
-        "Moritz von Cohn@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Moritz_von_Cohn>,
-        <http://de.dbpedia.org/resource/Moritz_von_Cohn>,
-        <http://rdf.freebase.com/ns/m.04cs3md>,
-        <http://wikidata.dbpedia.org/resource/Q119389>,
-        <http://www.wikidata.org/entity/Q119389>,
-        <http://yago-knowledge.org/resource/Moritz_von_Cohn> .
-
-<http://data.judaicalink.org/data/dbpedia/Moses_Israel_Fürst> a foaf:Person ;
-    jl:hasLabel "Moses Israel Fürst@de",
-        "Moses Israel Fürst@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Moses_Israel_Fürst>,
-        <http://de.dbpedia.org/resource/Moses_Israel_Fürst>,
-        <http://rdf.freebase.com/ns/m.08kg2k>,
-        <http://wikidata.dbpedia.org/resource/Q98532>,
-        <http://www.wikidata.org/entity/Q98532>,
-        <http://yago-knowledge.org/resource/Moses_Israel_Fürst> .
 
 <http://data.judaicalink.org/data/dbpedia/Moshe_Koussevitzky> a foaf:Person ;
     jl:hasLabel "Moshe Koussevitzky@en",
@@ -1245,14 +845,6 @@
         <http://www.wikidata.org/entity/Q7181684>,
         <http://yago-knowledge.org/resource/Phil_Baron> .
 
-<http://data.judaicalink.org/data/dbpedia/Raphael_Kaulla> a foaf:Person ;
-    jl:hasLabel "Raphael Kaulla@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Raphael_Kaulla>,
-        <http://rdf.freebase.com/ns/m.05bd3w>,
-        <http://wikidata.dbpedia.org/resource/Q7293978>,
-        <http://www.wikidata.org/entity/Q7293978> .
-
 <http://data.judaicalink.org/data/dbpedia/Ray_Smolover> a foaf:Person ;
     jl:hasLabel "Ray Smolover@en" ;
     jl:occupation "Hazzans" ;
@@ -1325,34 +917,6 @@
         <http://www.wikidata.org/entity/Q7408371>,
         <http://yago-knowledge.org/resource/Sam_Yuchtman> .
 
-<http://data.judaicalink.org/data/dbpedia/Samson_Wertheimer> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/130548677> ;
-    jl:hasLabel "Samson Wertheimer@de",
-        "Samson Wertheimer@en",
-        "Samson Wertheimer@fr",
-        "ザムゾン・ヴェルトハイマー@ja" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Samson_Wertheimer>,
-        <http://de.dbpedia.org/resource/Samson_Wertheimer>,
-        <http://fr.dbpedia.org/resource/Samson_Wertheimer>,
-        <http://ja.dbpedia.org/resource/ザムゾン・ヴェルトハイマー>,
-        <http://rdf.freebase.com/ns/m.0gt010>,
-        <http://wikidata.dbpedia.org/resource/Q466309>,
-        <http://www.wikidata.org/entity/Q466309>,
-        <http://yago-knowledge.org/resource/Samson_Wertheimer> .
-
-<http://data.judaicalink.org/data/dbpedia/Samuel_Bleichröder> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/13554940X> ;
-    jl:hasLabel "Samuel Bleichröder@de",
-        "Samuel Bleichröder@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Samuel_Bleichröder>,
-        <http://de.dbpedia.org/resource/Samuel_Bleichröder>,
-        <http://rdf.freebase.com/ns/m.0w4yxg6>,
-        <http://wikidata.dbpedia.org/resource/Q969397>,
-        <http://www.wikidata.org/entity/Q969397>,
-        <http://yago-knowledge.org/resource/Samuel_Bleichröder> .
-
 <http://data.judaicalink.org/data/dbpedia/Samuel_E._Goldfarb> a foaf:Person ;
     jl:hasLabel "Samuel E. Goldfarb@en" ;
     jl:occupation "Hazzans" ;
@@ -1375,22 +939,6 @@
         <http://wikidata.dbpedia.org/resource/Q2218699>,
         <http://www.wikidata.org/entity/Q2218699>,
         <http://yago-knowledge.org/resource/Samuel_Naumbourg> .
-
-<http://data.judaicalink.org/data/dbpedia/Samuel_Oppenheimer> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/119272229> ;
-    jl:hasLabel "Samuel Oppenheimer@de",
-        "Samuel Oppenheimer@en",
-        "Samuel Oppenheimer@fr",
-        "ザームエル・オッペンハイマー@ja" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Samuel_Oppenheimer>,
-        <http://de.dbpedia.org/resource/Samuel_Oppenheimer>,
-        <http://fr.dbpedia.org/resource/Samuel_Oppenheimer>,
-        <http://ja.dbpedia.org/resource/ザームエル・オッペンハイマー>,
-        <http://rdf.freebase.com/ns/m.04ccwh>,
-        <http://wikidata.dbpedia.org/resource/Q318776>,
-        <http://www.wikidata.org/entity/Q318776>,
-        <http://yago-knowledge.org/resource/Samuel_Oppenheimer> .
 
 <http://data.judaicalink.org/data/dbpedia/Seymour_Schwartzman> a foaf:Person ;
     jl:hasLabel "Seymour Schwartzman@en" ;
@@ -1454,29 +1002,6 @@
         <http://wikidata.dbpedia.org/resource/Q2230623>,
         <http://www.wikidata.org/entity/Q2230623>,
         <http://yago-knowledge.org/resource/Sholom_Schwadron> .
-
-<http://data.judaicalink.org/data/dbpedia/Shtadlan> a foaf:Person ;
-    jl:hasLabel "Schtadlan@de",
-        "Shtadlan@en",
-        "Shtadlan@fr" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Shtadlan>,
-        <http://de.dbpedia.org/resource/Schtadlan>,
-        <http://fr.dbpedia.org/resource/Shtadlan>,
-        <http://rdf.freebase.com/ns/m.02nxjl>,
-        <http://wikidata.dbpedia.org/resource/Q2038339>,
-        <http://www.wikidata.org/entity/Q2038339> .
-
-<http://data.judaicalink.org/data/dbpedia/Simon_Wolf_Oppenheimer> a foaf:Person ;
-    jl:hasLabel "Simon Wolf Oppenheimer@en",
-        "Simon Wolf Oppenheimer@fr" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Simon_Wolf_Oppenheimer>,
-        <http://fr.dbpedia.org/resource/Simon_Wolf_Oppenheimer>,
-        <http://rdf.freebase.com/ns/m.0w2_hx6>,
-        <http://wikidata.dbpedia.org/resource/Q15735710>,
-        <http://www.wikidata.org/entity/Q15735710>,
-        <http://yago-knowledge.org/resource/Simon_Wolf_Oppenheimer> .
 
 <http://data.judaicalink.org/data/dbpedia/Solomon_Rosowsky> a foaf:Person ;
     jl:hasLabel "Solomon Rosowsky@en",
@@ -1573,15 +1098,6 @@
         <http://wikidata.dbpedia.org/resource/Q2110194>,
         <http://www.wikidata.org/entity/Q2110194>,
         <http://yago-knowledge.org/resource/Turetsky_Choir_Art_Group> .
-
-<http://data.judaicalink.org/data/dbpedia/Vivelin_of_Strasbourg> a foaf:Person ;
-    gndo:gndIdentifier <http://d-nb.info/gnd/1070608483> ;
-    jl:hasLabel "Vivelin of Strasbourg@en" ;
-    jl:occupation "Court Jews" ;
-    owl:sameAs <http://dbpedia.org/resource/Vivelin_of_Strasbourg>,
-        <http://rdf.freebase.com/ns/m.0w5vvng>,
-        <http://wikidata.dbpedia.org/resource/Q16206507>,
-        <http://www.wikidata.org/entity/Q16206507> .
 
 <http://data.judaicalink.org/data/dbpedia/Weiser_Fulop> a foaf:Person ;
     jl:hasLabel "Weiser Fulop@en" ;
