@@ -1,31 +1,38 @@
 #Maral Dadvar
-#14/03/2017
-#This scrips reads a list of Occupations URIs extracted from DBPedia and extracts the Persons label and sameAs links from each URI.
-#Each occupation is stored in a separate rdf file.
+#21/03/2017
+#This scrips reads a list of occupation URIs extracted from DBPedia and extracts the Persons label and sameAs links from each URI.
+#The occpuation ontology rdf file is used for the occupation URI's.
 
 import unicodedata
 import os , glob
+import rdflib
 from rdflib import Namespace, URIRef, Graph , Literal , OWL, RDFS , RDF
 from SPARQLWrapper import SPARQLWrapper2, XML  , JSON , TURTLE
 import re
+import pprint
 
-
-os.chdir('C:\Users\Maral\Desktop\generated_person') #adapted to the list file path
+os.chdir('C:\Users\Maral\Desktop\generated_person')
 
 sparql = SPARQLWrapper2("http://dbpedia.org/sparql")
+
+path = 'C:\Users\Maral\Desktop\generated_person' #adapted to the list file path
+
+graph = Graph()
 
 foaf = Namespace("http://xmlns.com/foaf/0.1/")
 rdf = Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
 jl = Namespace("http://data.judaicalink.org/ontology/")
+gndo = Namespace("http://d-nb.info/standards/elementset/gnd#")
+dct = Namespace("http://purl.org/dc/terms/")
 
-def PersonGenerator (URI,filename):
+def generator_person (URI ,OccURI):
 
     "This function generates a rdf file of the person based on their occupation."
 
-    graph = Graph()
-
     print URI
-    print filename
+    print OccURI
+    newURI = '<'+URI+'>'
+    print newURI
 
     spar= """
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -38,14 +45,13 @@ def PersonGenerator (URI,filename):
     PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
     PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
     PREFIX dblp: <http://dblp.org/rdf/schema-2015-01-26#>
-    PREFIX dcterms: <http://purl.org/dc/terms/>
+    PREFIX dct: <http://purl.org/dc/terms/>
     PREFIX dbpedia: <http://dbpedia.org/resource/>
 
-    SELECT ?occ ?x ?name ?lan ?same
+    SELECT  ?x ?name ?lan ?same
 
     where {{
 
-      {0} rdfs:label ?occ.
       ?x dct:subject {0}.
       ?x rdfs:label ?name.
       bind(lang(?name) as ?lan).
@@ -54,7 +60,7 @@ def PersonGenerator (URI,filename):
     }}
 
 
-    """.format(URI)
+    """.format(newURI)
 
     sparql.setQuery(spar)
     sparql.setReturnFormat(TURTLE)
@@ -64,41 +70,67 @@ def PersonGenerator (URI,filename):
     graph.bind('owl',OWL)
     graph.bind('rdfs',RDFS)
     graph.bind('foaf',foaf)
+    graph.bind('dct',dct)
 
 
-    if (u"x",u"name",u"occ",u"lan",u"same") in results:
-        bindings = results[u"x",u"name",u"occ",u"lan","same"]
+    if (u"x",u"name",u"lan",u"same") in results:
+        bindings = results[u"x",u"name",u"lan","same"]
         for b in bindings:
             print b
 
             jlend = b[u"x"].value.rsplit('/',1)[1]
             jlid = 'http://data.judaicalink.org/data/dbpedia/' + jlend #change to Judaicalink URI
 
-            names = b[u"name"].value + '@' + b[u"lan"].value #add the language tag of each label
-
             graph.add( (URIRef(jlid), RDF.type , foaf.Person ) )
             graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"x"].value) ) )
-            graph.add( (URIRef(jlid), jl.occupation , Literal(b[u"occ"].value) ) )
-            graph.add( (URIRef(jlid), jl.hasLabel, Literal(names) ) )
+            graph.add( (URIRef(jlid), jl.occupation , URIRef(OccURI) ) )
+            graph.add( (URIRef(jlid), jl.hasLabel, Literal(b[u"name"].value) ) )
             graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"same"].value) ) )
+            graph.add( (URIRef(jlid), dct.subject , URIRef(URI) ) )
 
-            graph.serialize(destination= filename , format="turtle")
-
-        return
-
-
-URIs = []
-URIlist = open ('C:\Users\Maral\Desktop\generated_person\Occ_URI.txt' , 'r') #read the list of occupation URIs
-URIs = URIlist.readlines()
-for URI in URIs:
-
-    filename = URI.rsplit(':',1)[1].strip()
-    filename = filename.replace('>','') + '.rdf' #generate a name for the output rdf file based on the occupation
-    print filename
-    PersonGenerator(URI,filename) # send to the function the occupation URI and the generated file name
+    return
 
 
+g = Graph()
+g.parse('C:\Users\Maral\Desktop\generated_person\occ_ontology.rdf', format="turtle")
 
 
+spar= """
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX pro: <http://purl.org/hpi/patchr#>
+    PREFIX owl: <http://www.w3.org/2002/07/owl#>
+    PREFIX dc: <http://purl.org/dc/elements/1.1/>
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX dbpedia: <http://dbpedia.org/resource/>
 
+
+    SELECT ?y ?subject ?oc
+
+    where {
+
+      ?y a jl:Occupation.
+      ?y jl:hasLabel ?oc.
+      ?y jl:relatedSubject ?subject
+
+      }
+
+"""
+
+result = g.query(spar)
+
+for item in result:
+
+   print item
+
+   URI = str(item[1])
+   print URI
+   OccURI = str(item[0])
+   print OccURI
+
+   generator_person(URI , OccURI)
+
+
+graph.serialize(destination= 'generated_person.rdf' , format="turtle")
 
