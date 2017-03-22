@@ -84,7 +84,7 @@ def generator_person (URI ,OccURI):
             graph.add( (URIRef(jlid), RDF.type , foaf.Person ) )
             graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"x"].value) ) )
             graph.add( (URIRef(jlid), jl.occupation , URIRef(OccURI) ) )
-            graph.add( (URIRef(jlid), jl.hasLabel, Literal(b[u"name"].value) ) )
+            graph.add( (URIRef(jlid), jl.hasLabel, Literal(b[u"name"].value, lang = b[u"lan"].value) ) )
             graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"same"].value) ) )
             graph.add( (URIRef(jlid), dct.subject , URIRef(URI) ) )
 
