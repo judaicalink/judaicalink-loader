@@ -1,4 +1,5 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
 @prefix jl: <http://data.judaicalink.org/ontology/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -8,11 +9,33 @@
 
 <http://data.judaicalink.org/data/occupation/Court_Jew> a jl:Occupation ;
     jl:hasLabel "Court_Jew" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Court_Jews> .
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Court_Jews> ;
+    owl:sameAs <http://de.dbpedia.org/resource/Hoffaktor>,
+        <http://fr.dbpedia.org/resource/Juif_de_cour>,
+        <http://ja.dbpedia.org/resource/宮廷ユダヤ人>,
+        <http://ko.dbpedia.org/resource/궁정_유대인>,
+        <http://rdf.freebase.com/ns/m.03rc3j>,
+        <http://wikidata.dbpedia.org/resource/Q730551>,
+        <http://www.wikidata.org/entity/Q730551>,
+        <http://yago-knowledge.org/resource/Court_Jew> .
 
 <http://data.judaicalink.org/data/occupation/Hazzan> a jl:Occupation ;
     jl:hasLabel "Hazzan" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Hazzans> .
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Hazzans> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Chazan>,
+        <http://de.dbpedia.org/resource/Chasan_(Kantor)>,
+        <http://es.dbpedia.org/resource/Jazán>,
+        <http://fr.dbpedia.org/resource/Hazzan>,
+        <http://it.dbpedia.org/resource/Chazzan>,
+        <http://ja.dbpedia.org/resource/ハッザーン>,
+        <http://nl.dbpedia.org/resource/Chazan>,
+        <http://pl.dbpedia.org/resource/Chazan>,
+        <http://pt.dbpedia.org/resource/Chazan>,
+        <http://rdf.freebase.com/ns/m.014t8y>,
+        <http://sw.cyc.com/concept/Mx4rLzVDoPFzQdiXpZCsf2OZ9w>,
+        <http://wikidata.dbpedia.org/resource/Q1067977>,
+        <http://www.wikidata.org/entity/Q1067977>,
+        <http://yago-knowledge.org/resource/Hazzan> .
 
 <http://data.judaicalink.org/data/occupation/Hebrew_Bible_people> a jl:Occupation ;
     jl:hasLabel "Hebrew_Bible_people" ;
@@ -24,125 +47,25 @@
 
 <http://data.judaicalink.org/data/occupation/Mohel> a jl:Occupation ;
     jl:hasLabel "Mohel" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Mohel> .
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Mohel> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Mohel>,
+        <http://de.dbpedia.org/resource/Mohel>,
+        <http://fr.dbpedia.org/resource/Mohel>,
+        <http://it.dbpedia.org/resource/Mohel>,
+        <http://ja.dbpedia.org/resource/モーヘール>,
+        <http://nl.dbpedia.org/resource/Moheel>,
+        <http://pl.dbpedia.org/resource/Mohel>,
+        <http://rdf.freebase.com/ns/m.02v26w>,
+        <http://wikidata.dbpedia.org/resource/Q1853585>,
+        <http://www.wikidata.org/entity/Q1853585>,
+        <http://yago-knowledge.org/resource/Mohel> .
 
 <http://data.judaicalink.org/data/occupation/Prophets_in_Judaism> a jl:Occupation ;
     jl:hasLabel "Prophets_in_Judaism" ;
     jl:relatedSubject <http://dbpedia.org/resource/Category:Prophets_in_Judaism> .
 
-<http://data.judaicalink.org/data/occupation/Rebbetzin> a jl:Occupation ;
-    jl:hasLabel "Rebbetzin" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Rebbetzins> .
-
-<http://data.judaicalink.org/data/occupation/activist> a jl:Occupation ;
-    jl:hasLabel "activist" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_activists> .
-
-<http://data.judaicalink.org/data/occupation/architect> a jl:Occupation ;
-    jl:hasLabel "architect" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_architects> .
-
-<http://data.judaicalink.org/data/occupation/art_collector> a jl:Occupation ;
-    jl:hasLabel "art_collector" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_art_collectors> .
-
-<http://data.judaicalink.org/data/occupation/artist> a jl:Occupation ;
-    jl:hasLabel "artist" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_artists> .
-
-<http://data.judaicalink.org/data/occupation/chess_player> a jl:Occupation ;
-    jl:hasLabel "chess_player" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_chess_players> .
-
-<http://data.judaicalink.org/data/occupation/composer> a jl:Occupation ;
-    jl:hasLabel "composer" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_composers> .
-
-<http://data.judaicalink.org/data/occupation/educator> a jl:Occupation ;
-    jl:hasLabel "educator" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_educators> .
-
-<http://data.judaicalink.org/data/occupation/engineer> a jl:Occupation ;
-    jl:hasLabel "engineer" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_engineers> .
-
-<http://data.judaicalink.org/data/occupation/explorer> a jl:Occupation ;
-    jl:hasLabel "explorer" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_explorers> .
-
-<http://data.judaicalink.org/data/occupation/fashion_designer> a jl:Occupation ;
-    jl:hasLabel "fashion_designer" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_fashion_designers> .
-
-<http://data.judaicalink.org/data/occupation/historian> a jl:Occupation ;
-    jl:hasLabel "historian" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_historians> .
-
-<http://data.judaicalink.org/data/occupation/inventor> a jl:Occupation ;
-    jl:hasLabel "inventor" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_inventors> .
-
-<http://data.judaicalink.org/data/occupation/military_personnel> a jl:Occupation ;
-    jl:hasLabel "military_personnel" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_military_personnel> .
-
-<http://data.judaicalink.org/data/occupation/musician> a jl:Occupation ;
-    jl:hasLabel "musician" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_musicians> .
-
-<http://data.judaicalink.org/data/occupation/philanthropist> a jl:Occupation ;
-    jl:hasLabel "philanthropist" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_philanthropists> .
-
-<http://data.judaicalink.org/data/occupation/philosopher> a jl:Occupation ;
-    jl:hasLabel "philosopher" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_philosophers> .
-
-<http://data.judaicalink.org/data/occupation/physician> a jl:Occupation ;
-    jl:hasLabel "physician" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_physicians> .
-
-<http://data.judaicalink.org/data/occupation/poet> a jl:Occupation ;
-    jl:hasLabel "poet" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_poets> .
-
-<http://data.judaicalink.org/data/occupation/politician> a jl:Occupation ;
-    jl:hasLabel "politician" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_politicians> .
-
-<http://data.judaicalink.org/data/occupation/priest> a jl:Occupation ;
-    jl:hasLabel "priest" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_priests> .
-
-<http://data.judaicalink.org/data/occupation/psychiatrist> a jl:Occupation ;
-    jl:hasLabel "psychiatrist" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_psychiatrists> .
-
-<http://data.judaicalink.org/data/occupation/religious_leader> a jl:Occupation ;
-    jl:hasLabel "religious_leader" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_religious_leaders> .
-
-<http://data.judaicalink.org/data/occupation/scholar> a jl:Occupation ;
-    jl:hasLabel "scholar" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_scholars> .
-
-<http://data.judaicalink.org/data/occupation/scientist> a jl:Occupation ;
-    jl:hasLabel "scientist" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_scientists> .
-
-<http://data.judaicalink.org/data/occupation/singer> a jl:Occupation ;
-    jl:hasLabel "singer" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_singers> .
-
-<http://data.judaicalink.org/data/occupation/sportspeople> a jl:Occupation ;
-    jl:hasLabel "sportspeople" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_sportspeople> .
-
-<http://data.judaicalink.org/data/occupation/writer> a jl:Occupation ;
-    jl:hasLabel "writer" ;
-    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_writers> .
-	
 <http://data.judaicalink.org/data/occupation/Rabbi> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4176751-2> ;
     jl:hasLabel "Rabbi" ;
     jl:relatedSubject <http://dbpedia.org/resource/Category:10th-century_rabbis>,
         <http://dbpedia.org/resource/Category:11th-century_rabbis>,
@@ -240,5 +163,349 @@
         <http://dbpedia.org/resource/Category:Ukrainian_rabbis>,
         <http://dbpedia.org/resource/Category:Uruguayan_rabbis>,
         <http://dbpedia.org/resource/Category:Venezuelan_rabbis>,
-        <http://dbpedia.org/resource/Category:Yemenite_rabbis> .
+        <http://dbpedia.org/resource/Category:Yemenite_rabbis> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Rabín>,
+        <http://de.dbpedia.org/resource/Rabbiner>,
+        <http://el.dbpedia.org/resource/Ραββίνος>,
+        <http://es.dbpedia.org/resource/Rabino>,
+        <http://eu.dbpedia.org/resource/Errabino>,
+        <http://fr.dbpedia.org/resource/Rabbin>,
+        <http://id.dbpedia.org/resource/Rabi>,
+        <http://it.dbpedia.org/resource/Rabbino>,
+        <http://ja.dbpedia.org/resource/ラビ>,
+        <http://ko.dbpedia.org/resource/랍비>,
+        <http://nl.dbpedia.org/resource/Rabbijn>,
+        <http://pl.dbpedia.org/resource/Rabin>,
+        <http://pt.dbpedia.org/resource/Rabino>,
+        <http://rdf.freebase.com/ns/m.0djbw>,
+        <http://wikidata.dbpedia.org/resource/Q133485>,
+        <http://www.wikidata.org/entity/Q133485>,
+        <http://yago-knowledge.org/resource/Mara_d'atra> .
+
+<http://data.judaicalink.org/data/occupation/Rebbetzin> a jl:Occupation ;
+    jl:hasLabel "Rebbetzin" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Rebbetzins> ;
+    owl:sameAs <http://fr.dbpedia.org/resource/Rebbetzin>,
+        <http://rdf.freebase.com/ns/m.09449b>,
+        <http://wikidata.dbpedia.org/resource/Q3421679>,
+        <http://www.wikidata.org/entity/Q3421679>,
+        <http://yago-knowledge.org/resource/Rebbetzin> .
+
+<http://data.judaicalink.org/data/occupation/activist> a jl:Occupation ;
+    jl:hasLabel "activist" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_activists> .
+
+<http://data.judaicalink.org/data/occupation/architect> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4002844-6> ;
+    jl:hasLabel "architect" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_architects> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Architekt>,
+        <http://de.dbpedia.org/resource/Architekt>,
+        <http://es.dbpedia.org/resource/Arquitecto>,
+        <http://fr.dbpedia.org/resource/Architecte>,
+        <http://id.dbpedia.org/resource/Arsitek>,
+        <http://it.dbpedia.org/resource/Architetto>,
+        <http://ja.dbpedia.org/resource/建築家>,
+        <http://ko.dbpedia.org/resource/건축가>,
+        <http://nl.dbpedia.org/resource/Architect>,
+        <http://pl.dbpedia.org/resource/Architekt>,
+        <http://pt.dbpedia.org/resource/Arquiteto>,
+        <http://rdf.freebase.com/ns/m.0mn6>,
+        <http://wikidata.dbpedia.org/resource/Q42973>,
+        <http://www.wikidata.org/entity/Q42973> .
+
+<http://data.judaicalink.org/data/occupation/art_collector> a jl:Occupation ;
+    jl:hasLabel "art_collector" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_art_collectors> .
+
+<http://data.judaicalink.org/data/occupation/artist> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4033423-5> ;
+    jl:hasLabel "artist" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_artists> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Umělec>,
+        <http://de.dbpedia.org/resource/Künstler>,
+        <http://es.dbpedia.org/resource/Artista>,
+        <http://fr.dbpedia.org/resource/Artiste>,
+        <http://id.dbpedia.org/resource/Seniman>,
+        <http://it.dbpedia.org/resource/Artista>,
+        <http://ja.dbpedia.org/resource/美術家>,
+        <http://ko.dbpedia.org/resource/예술가>,
+        <http://nl.dbpedia.org/resource/Kunstenaar>,
+        <http://pl.dbpedia.org/resource/Artysta>,
+        <http://pt.dbpedia.org/resource/Artista>,
+        <http://rdf.freebase.com/ns/m.0n1h>,
+        <http://wikidata.dbpedia.org/resource/Q483501>,
+        <http://www.wikidata.org/entity/Q483501> .
+
+<http://data.judaicalink.org/data/occupation/chess_player> a jl:Occupation ;
+    jl:hasLabel "chess_player" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_chess_players> .
+
+<http://data.judaicalink.org/data/occupation/composer> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4032009-1> ;
+    jl:hasLabel "composer" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_composers> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Hudební_skladatel>,
+        <http://de.dbpedia.org/resource/Komponist>,
+        <http://el.dbpedia.org/resource/Συνθέτης>,
+        <http://es.dbpedia.org/resource/Compositor>,
+        <http://eu.dbpedia.org/resource/Musikagile>,
+        <http://fr.dbpedia.org/resource/Compositeur>,
+        <http://id.dbpedia.org/resource/Komponis>,
+        <http://it.dbpedia.org/resource/Compositore>,
+        <http://ja.dbpedia.org/resource/作曲家>,
+        <http://ko.dbpedia.org/resource/작곡가>,
+        <http://nl.dbpedia.org/resource/Componist>,
+        <http://pl.dbpedia.org/resource/Kompozytor>,
+        <http://pt.dbpedia.org/resource/Compositor>,
+        <http://rdf.freebase.com/ns/m.01c72t>,
+        <http://wikidata.dbpedia.org/resource/Q36834>,
+        <http://www.wikidata.org/entity/Q36834>,
+        <http://yago-knowledge.org/resource/Author_(music)> .
+
+<http://data.judaicalink.org/data/occupation/educator> a jl:Occupation ;
+    jl:hasLabel "educator" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_educators> .
+
+<http://data.judaicalink.org/data/occupation/engineer> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4026955-3> ;
+    jl:hasLabel "engineer" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_engineers> ;
+    owl:sameAs <http://de.dbpedia.org/resource/Ingenieur>,
+        <http://fr.dbpedia.org/resource/Ingénieur>,
+        <http://id.dbpedia.org/resource/Insinyur>,
+        <http://it.dbpedia.org/resource/Ingegnere>,
+        <http://ja.dbpedia.org/resource/技術者>,
+        <http://ko.dbpedia.org/resource/공학자>,
+        <http://nl.dbpedia.org/resource/Ingenieur>,
+        <http://pt.dbpedia.org/resource/Engenheiro>,
+        <http://rdf.freebase.com/ns/m.09j9h>,
+        <http://wikidata.dbpedia.org/resource/Q81096>,
+        <http://www.wikidata.org/entity/Q81096> .
+
+<http://data.judaicalink.org/data/occupation/explorer> a jl:Occupation ;
+    jl:hasLabel "explorer" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_explorers> .
+
+<http://data.judaicalink.org/data/occupation/fashion_designer> a jl:Occupation ;
+    jl:hasLabel "fashion_designer" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_fashion_designers> .
+
+<http://data.judaicalink.org/data/occupation/historian> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4155430-9> ;
+    jl:hasLabel "historian" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_historians> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Historik>,
+        <http://de.dbpedia.org/resource/Historiker>,
+        <http://fr.dbpedia.org/resource/Historien>,
+        <http://ja.dbpedia.org/resource/歴史家>,
+        <http://nl.dbpedia.org/resource/Historicus>,
+        <http://pt.dbpedia.org/resource/Historiador>,
+        <http://rdf.freebase.com/ns/m.03jgz>,
+        <http://wikidata.dbpedia.org/resource/Q201788>,
+        <http://www.wikidata.org/entity/Q201788> .
+
+<http://data.judaicalink.org/data/occupation/inventor> a jl:Occupation ;
+    jl:hasLabel "inventor" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_inventors> .
+
+<http://data.judaicalink.org/data/occupation/military_personnel> a jl:Occupation ;
+    jl:hasLabel "military_personnel" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_military_personnel> .
+
+<http://data.judaicalink.org/data/occupation/musician> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4040841-3> ;
+    jl:hasLabel "musician" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_musicians> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Hudebník>,
+        <http://de.dbpedia.org/resource/Musiker>,
+        <http://el.dbpedia.org/resource/Μουσικός>,
+        <http://es.dbpedia.org/resource/Músico>,
+        <http://fr.dbpedia.org/resource/Musicien>,
+        <http://id.dbpedia.org/resource/Musikus>,
+        <http://it.dbpedia.org/resource/Musicista>,
+        <http://ja.dbpedia.org/resource/音楽家>,
+        <http://ko.dbpedia.org/resource/음악가>,
+        <http://nl.dbpedia.org/resource/Muzikant>,
+        <http://pl.dbpedia.org/resource/Muzyk>,
+        <http://pt.dbpedia.org/resource/Músico>,
+        <http://rdf.freebase.com/ns/m.09jwl>,
+        <http://wikidata.dbpedia.org/resource/Q639669>,
+        <http://www.wikidata.org/entity/Q639669> .
+
+<http://data.judaicalink.org/data/occupation/philanthropist> a jl:Occupation ;
+    jl:hasLabel "philanthropist" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_philanthropists> .
+
+<http://data.judaicalink.org/data/occupation/philosopher> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4045790-4> ;
+    jl:hasLabel "philosopher" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_philosophers> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Filosof>,
+        <http://de.dbpedia.org/resource/Philosoph>,
+        <http://eu.dbpedia.org/resource/Filosofo>,
+        <http://fr.dbpedia.org/resource/Philosophe>,
+        <http://ja.dbpedia.org/resource/哲学者>,
+        <http://ko.dbpedia.org/resource/철학자>,
+        <http://nl.dbpedia.org/resource/Filosoof>,
+        <http://rdf.freebase.com/ns/m.02h6fbs>,
+        <http://wikidata.dbpedia.org/resource/Q4964182>,
+        <http://www.wikidata.org/entity/Q4964182> .
+
+<http://data.judaicalink.org/data/occupation/physician> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4003157-3> ;
+    jl:hasLabel "physician" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_physicians> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Lékař>,
+        <http://de.dbpedia.org/resource/Arzt>,
+        <http://el.dbpedia.org/resource/Ιατρός>,
+        <http://es.dbpedia.org/resource/Médico>,
+        <http://eu.dbpedia.org/resource/Mediku>,
+        <http://fr.dbpedia.org/resource/Médecin>,
+        <http://id.dbpedia.org/resource/Dokter>,
+        <http://it.dbpedia.org/resource/Medico>,
+        <http://ja.dbpedia.org/resource/医師>,
+        <http://ko.dbpedia.org/resource/의사>,
+        <http://nl.dbpedia.org/resource/Arts>,
+        <http://pl.dbpedia.org/resource/Lekarz>,
+        <http://pt.dbpedia.org/resource/Médico>,
+        <http://rdf.freebase.com/ns/m.05t4q>,
+        <http://wikidata.dbpedia.org/resource/Q39631>,
+        <http://www.wikidata.org/entity/Q39631>,
+        <http://yago-knowledge.org/resource/Medical_doctor> .
+
+<http://data.judaicalink.org/data/occupation/poet> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4436441-6> ;
+    jl:hasLabel "poet" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_poets> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Básník>,
+        <http://de.dbpedia.org/resource/Poet>,
+        <http://el.dbpedia.org/resource/Ποιητής>,
+        <http://es.dbpedia.org/resource/Poeta>,
+        <http://fr.dbpedia.org/resource/Poète>,
+        <http://id.dbpedia.org/resource/Penyair>,
+        <http://it.dbpedia.org/resource/Poeta>,
+        <http://ja.dbpedia.org/resource/詩人>,
+        <http://ko.dbpedia.org/resource/시인>,
+        <http://nl.dbpedia.org/resource/Dichter>,
+        <http://rdf.freebase.com/ns/m.05z96>,
+        <http://wikidata.dbpedia.org/resource/Q49757>,
+        <http://www.wikidata.org/entity/Q49757> .
+
+<http://data.judaicalink.org/data/occupation/politician> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4046517-2> ;
+    jl:hasLabel "politician" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_politicians> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Politik>,
+        <http://de.dbpedia.org/resource/Politiker>,
+        <http://el.dbpedia.org/resource/Πολιτικός>,
+        <http://es.dbpedia.org/resource/Político>,
+        <http://eu.dbpedia.org/resource/Politikari>,
+        <http://fr.dbpedia.org/resource/Personnalité_politique>,
+        <http://id.dbpedia.org/resource/Politikus>,
+        <http://it.dbpedia.org/resource/Politico>,
+        <http://ja.dbpedia.org/resource/政治家>,
+        <http://ko.dbpedia.org/resource/정치가>,
+        <http://nl.dbpedia.org/resource/Politicus>,
+        <http://pl.dbpedia.org/resource/Polityk>,
+        <http://pt.dbpedia.org/resource/Político>,
+        <http://rdf.freebase.com/ns/m.0fj9f>,
+        <http://wikidata.dbpedia.org/resource/Q82955>,
+        <http://www.wikidata.org/entity/Q82955> .
+
+<http://data.judaicalink.org/data/occupation/priest> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4047233-4> ;
+    jl:hasLabel "priest" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_priests> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Kněz>,
+        <http://data.nytimes.com/48705061642831193600>,
+        <http://de.dbpedia.org/resource/Priester>,
+        <http://el.dbpedia.org/resource/Ιερέας>,
+        <http://es.dbpedia.org/resource/Sacerdote>,
+        <http://eu.dbpedia.org/resource/Apaiz>,
+        <http://fr.dbpedia.org/resource/Prêtre>,
+        <http://id.dbpedia.org/resource/Imam>,
+        <http://it.dbpedia.org/resource/Sacerdote>,
+        <http://ja.dbpedia.org/resource/司祭>,
+        <http://ko.dbpedia.org/resource/사제>,
+        <http://nl.dbpedia.org/resource/Priester>,
+        <http://pl.dbpedia.org/resource/Kapłan>,
+        <http://pt.dbpedia.org/resource/Sacerdote>,
+        <http://rdf.freebase.com/ns/m.05xjb>,
+        <http://wikidata.dbpedia.org/resource/Q42603>,
+        <http://www.wikidata.org/entity/Q42603> .
+
+<http://data.judaicalink.org/data/occupation/psychiatrist> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4047666-2> ;
+    jl:hasLabel "psychiatrist" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_psychiatrists> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Psychiatr>,
+        <http://de.dbpedia.org/resource/Psychiater>,
+        <http://el.dbpedia.org/resource/Ψυχίατρος>,
+        <http://fr.dbpedia.org/resource/Psychiatre>,
+        <http://id.dbpedia.org/resource/Psikiater>,
+        <http://ja.dbpedia.org/resource/精神科医>,
+        <http://ko.dbpedia.org/resource/정신과의>,
+        <http://nl.dbpedia.org/resource/Psychiater>,
+        <http://rdf.freebase.com/ns/m.02p0s5r>,
+        <http://wikidata.dbpedia.org/resource/Q211346>,
+        <http://www.wikidata.org/entity/Q211346> .
+
+<http://data.judaicalink.org/data/occupation/religious_leader> a jl:Occupation ;
+    jl:hasLabel "religious_leader" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_religious_leaders> .
+
+<http://data.judaicalink.org/data/occupation/scholar> a jl:Occupation ;
+    jl:hasLabel "scholar" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_scholars> .
+
+<http://data.judaicalink.org/data/occupation/scientist> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4066567-7> ;
+    jl:hasLabel "scientist" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_scientists> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Vědec>,
+        <http://de.dbpedia.org/resource/Wissenschaftler>,
+        <http://el.dbpedia.org/resource/Επιστήμονας>,
+        <http://es.dbpedia.org/resource/Científico>,
+        <http://eu.dbpedia.org/resource/Zientzialari>,
+        <http://fr.dbpedia.org/resource/Scientifique>,
+        <http://id.dbpedia.org/resource/Ilmuwan>,
+        <http://it.dbpedia.org/resource/Scienziato>,
+        <http://ja.dbpedia.org/resource/科学者>,
+        <http://ko.dbpedia.org/resource/과학자>,
+        <http://nl.dbpedia.org/resource/Wetenschapper>,
+        <http://pl.dbpedia.org/resource/Naukowiec>,
+        <http://pt.dbpedia.org/resource/Cientista>,
+        <http://rdf.freebase.com/ns/m.06q2q>,
+        <http://wikidata.dbpedia.org/resource/Q901>,
+        <http://www.wikidata.org/entity/Q901> .
+
+<http://data.judaicalink.org/data/occupation/singer> a jl:Occupation ;
+    jl:hasLabel "singer" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_singers> .
+
+<http://data.judaicalink.org/data/occupation/sportspeople> a jl:Occupation ;
+    jl:hasLabel "sportspeople" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_sportspeople> .
+
+<http://data.judaicalink.org/data/occupation/writer> a jl:Occupation ;
+    gndo:gndIdentifier <http://d-nb.info/gnd/4053309-8> ;
+    jl:hasLabel "writer" ;
+    jl:relatedSubject <http://dbpedia.org/resource/Category:Jewish_writers> ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Spisovatel>,
+        <http://data.nytimes.com/N76957389576482837090>,
+        <http://de.dbpedia.org/resource/Schriftsteller>,
+        <http://el.dbpedia.org/resource/Συγγραφέας>,
+        <http://es.dbpedia.org/resource/Escritor>,
+        <http://eu.dbpedia.org/resource/Idazle>,
+        <http://fr.dbpedia.org/resource/Écrivain>,
+        <http://it.dbpedia.org/resource/Scrittore>,
+        <http://ja.dbpedia.org/resource/著作家>,
+        <http://ko.dbpedia.org/resource/저술가>,
+        <http://nl.dbpedia.org/resource/Schrijver>,
+        <http://pl.dbpedia.org/resource/Pisarz>,
+        <http://pt.dbpedia.org/resource/Escritor>,
+        <http://rdf.freebase.com/ns/m.0cbd2>,
+        <http://wikidata.dbpedia.org/resource/Q36180>,
+        <http://www.wikidata.org/entity/Q36180> .
 
