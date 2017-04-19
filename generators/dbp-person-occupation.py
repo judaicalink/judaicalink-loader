@@ -1,5 +1,5 @@
 #Maral Dadvar
-#21/03/2017
+#19/04/2017
 #This scrips reads a list of occupation URIs extracted from DBPedia and extracts the Persons label and sameAs links from each URI.
 #The occpuation ontology rdf file is used for the occupation URI's.
 
@@ -11,11 +11,11 @@ from SPARQLWrapper import SPARQLWrapper2, XML  , JSON , TURTLE
 import re
 import pprint
 
-os.chdir('C:\Users\Maral\Desktop\generated_person')
+os.chdir('C:\Users\Maral\Desktop\generated_persons')
 
 sparql = SPARQLWrapper2("http://dbpedia.org/sparql")
 
-path = 'C:\Users\Maral\Desktop\generated_person' #adapted to the list file path
+path = 'C:\Users\Maral\Desktop' #adapted to the list file path
 
 graph = Graph()
 
@@ -24,6 +24,7 @@ rdf = Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
 jl = Namespace("http://data.judaicalink.org/ontology/")
 gndo = Namespace("http://d-nb.info/standards/elementset/gnd#")
 dct = Namespace("http://purl.org/dc/terms/")
+skos = Namespace("http://www.w3.org/2004/02/skos/core#")
 
 def generator_person (URI ,OccURI):
 
@@ -71,6 +72,7 @@ def generator_person (URI ,OccURI):
     graph.bind('rdfs',RDFS)
     graph.bind('foaf',foaf)
     graph.bind('dct',dct)
+    graph.bind('skos',skos)
 
 
     if (u"x",u"name",u"lan",u"same") in results:
@@ -78,21 +80,28 @@ def generator_person (URI ,OccURI):
         for b in bindings:
             print b
 
-            jlend = b[u"x"].value.rsplit('/',1)[1]
-            jlid = 'http://data.judaicalink.org/data/dbpedia/' + jlend #change to Judaicalink URI
+            jlURI = b[u"x"].value.lower()
 
-            graph.add( (URIRef(jlid), RDF.type , foaf.Person ) )
-            graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"x"].value) ) )
-            graph.add( (URIRef(jlid), jl.occupation , URIRef(OccURI) ) )
-            graph.add( (URIRef(jlid), jl.hasLabel, Literal(b[u"name"].value, lang = b[u"lan"].value) ) )
-            graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"same"].value) ) )
-            graph.add( (URIRef(jlid), dct.subject , URIRef(URI) ) )
+            if 'list' not in jlURI: #to eliminate irrelevant lists extracted from dbpedia
+
+                jlend = b[u"x"].value.rsplit('/',1)[1]
+                jlid = 'http://data.judaicalink.org/data/dbpedia/' + jlend #change to Judaicalink URI
+
+                graph.add( (URIRef(jlid), RDF.type , foaf.Person ) )
+                graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"x"].value) ) )
+                graph.add( (URIRef(jlid), jl.occupation , URIRef(OccURI) ) )
+                graph.add( (URIRef(jlid), skos.altLabel, Literal(b[u"name"].value, lang = b[u"lan"].value) ) )
+                graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"same"].value) ) )
+                graph.add( (URIRef(jlid), dct.subject , URIRef(URI) ) )
+                if b[u"lan"].value =='en':
+                    b[u"name"].value = b[u"name"].value.replace(' ','_')
+                    graph.add( (URIRef(jlid), skos.prefLabel , Literal(b[u"name"].value) ) )
 
     return
 
 
 g = Graph()
-g.parse('C:\Users\Maral\Desktop\generated_person\occ_ontology.rdf', format="turtle")
+g.parse('C:\Users\Maral\Desktop\generated_persons\occ_ontology.rdf', format="turtle")
 
 
 spar= """
