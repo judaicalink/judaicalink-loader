@@ -1,5 +1,5 @@
 #Maral Dadvar
-#19/04/2017
+#21/04/2017
 #This scrips reads a list of occupation URIs extracted from DBPedia and extracts the Persons label and sameAs links from each URI.
 #The occpuation ontology rdf file is used for the occupation URI's.
 
@@ -76,29 +76,30 @@ def generator_person (URI ,OccURI):
 
 
     if (u"x",u"name",u"lan",u"same") in results:
+
         bindings = results[u"x",u"name",u"lan","same"]
+
         for b in bindings:
+
             print b
 
             jlURI = b[u"x"].value.lower()
+
 
             if 'list' not in jlURI: #to eliminate irrelevant lists extracted from dbpedia
 
                 jlend = b[u"x"].value.rsplit('/',1)[1]
                 jlid = 'http://data.judaicalink.org/data/dbpedia/' + jlend #change to Judaicalink URI
 
+
                 graph.add( (URIRef(jlid), RDF.type , foaf.Person ) )
                 graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"x"].value) ) )
                 graph.add( (URIRef(jlid), jl.occupation , URIRef(OccURI) ) )
-                graph.add( (URIRef(jlid), skos.altLabel, Literal(b[u"name"].value, lang = b[u"lan"].value) ) )
+                graph.add( (URIRef(jlid), skos.prefLabel, Literal(b[u"name"].value, lang = b[u"lan"].value) ) )
                 graph.add( (URIRef(jlid), OWL.sameAs , URIRef(b[u"same"].value) ) )
                 graph.add( (URIRef(jlid), dct.subject , URIRef(URI) ) )
-                if b[u"lan"].value =='en':
-                    b[u"name"].value = b[u"name"].value.replace(' ','_')
-                    graph.add( (URIRef(jlid), skos.prefLabel , Literal(b[u"name"].value) ) )
 
     return
-
 
 g = Graph()
 g.parse('C:\Users\Maral\Desktop\generated_persons\occ_ontology.rdf', format="turtle")
@@ -141,5 +142,5 @@ for item in result:
    generator_person(URI , OccURI)
 
 
-graph.serialize(destination= 'generated_person.rdf' , format="turtle")
+graph.serialize(destination= 'generated_person_dbpedia.ttl' , format="turtle")
 
