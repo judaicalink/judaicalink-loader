@@ -9,4 +9,4 @@ as explained in ontology folder.
 In this script, the GND dump which is already loaded on our fuskei triple store, is accessed through connecting to the sparql endpoint. 
 The current directory (chdir) can be modified and set locally.  
 
-The RDF output file is stored in output folder in Turtle format. 
+The RDF output file, generated_persons_GND.ttl, is stored in output folder in Turtle format. 
