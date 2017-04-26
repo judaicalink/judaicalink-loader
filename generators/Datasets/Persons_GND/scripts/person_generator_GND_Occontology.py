@@ -1,6 +1,6 @@
 #Maral Dadvar
-#25/04/2017
-#This script generates persons from GND, based on the land set to Israel. The occupation of the persons is also extracted from GND.
+#21/04/2017
+#This script generates persons from GND, based on the land set to Israel. The occupation of the persons are also extracted and maaped to Occ_ontology
 
 import unicodedata
 import os , glob
@@ -50,7 +50,7 @@ spar1= """
     PREFIX jl: <http://data.judaicalink.org/ontology/>
     PREFIX gnd: <http://d-nb.info/gnd/>
 
-select ?person ?occ ?name ?label
+select ?person ?occ ?name ?occname ?occont ?label
 
 		WHERE{
 
@@ -60,7 +60,13 @@ select ?person ?occ ?name ?label
    ?person gndo:professionOrOccupation ?occ.
     ?person gndo:preferredNameForThePerson ?name.
     ?person gndo:variantNameForThePerson ?label.
+    ?occ gndo:preferredNameForTheSubjectHeading ?occname
 
+ GRAPH <http://maral.wisslab.org/graphs/occ_ontology> {
+    	?occont a jl:Occupation.
+        ?occont owl:sameAs ?occ
+
+  }
 
 
   }     }
@@ -73,8 +79,8 @@ sparql.setReturnFormat(TURTLE)
 results = sparql.query().convert()
 
 
-if (u"person",u"occ",u"name",u"label") in results:
-    bindings = results[u"person",u"occ",u"name",u"label"]
+if (u"person",u"occ",u"name",u"occname",u"occont",u"label") in results:
+    bindings = results[u"person",u"occ",u"name",u"occname",u"occont",u"label"]
     for b in bindings:
        print b
 
@@ -118,7 +124,7 @@ if (u"person",u"occ",u"name",u"label") in results:
        g.add( (URIRef(jlURI), skos.prefLabel , Literal(b[u"name"].value) ) )
        g.add( (URIRef(jlURI), skos.altLabel , Literal(altname) ) )
        g.add( (URIRef(jlURI), gndo.gndIdentifier , URIRef(b[u"person"].value) ) )
-       g.add( (URIRef(jlURI), gndo.preferredNameForTheSubjectHeading , URIRef(b[u"occ"].value) ) )
+       g.add( (URIRef(jlURI), jl.occupation , URIRef(b[u"occont"].value) ) )
 
-g.serialize(destination = 'generated_persons_GND.ttl' , format="turtle")
+g.serialize(destination = 'generated_person_GND_Occontology.ttl' , format="turtle") 
 
