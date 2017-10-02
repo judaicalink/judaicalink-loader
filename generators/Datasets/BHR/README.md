@@ -13,7 +13,12 @@ The BHR-ID.csv file is generated using the Scrapping_Persons_01.py script. It is
 
 The EncycBHR-ID.rdf file is generated using the Encyc-to-RDF-ID.py script. THis is the rdf file created from the BHR-ID.csv.
 
-The EncycBHR-ID-GND.rdf is the final file in which the GND-IDs and sameAs linkes from EncycBHR-ID.rdf are assigned to the persons in Encyc.rdf 
+The EncycBHR-ID-GND.ttl is the final file in which the GND-IDs and sameAs linkes from EncycBHR-ID.rdf are assigned to the persons in Encyc.rdf 
 using the BHR-GND.py scripte.
+
+The file EncycBHR-ID-GND-JL.ttl is the output of BHR-vs-JudaicaLink-01.py script using EncycBHR-ID-GND.ttl file. This scripts looks into JudaicaLink exsiting datasets and interlinks the common concepts between
+BHR and those datasets as sameAs links. 
+This file also contains the birthlocation and deathlocation of the persona who had a GNDID. The locations are extarcted from GND using the script: BHR-vs-GND-01.
+
 
 All the output files can be found in output folder and all the scripts can be found in scripts folder. 
