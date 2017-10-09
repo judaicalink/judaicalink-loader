@@ -108,6 +108,7 @@ for row in data:
     graph.add((URIRef(uri), jl.deathDate,(Literal(gest)) ))
    # graph.add((URIRef(uri), jl.describedAt ,(Literal(bhr)) ))
     graph.add((URIRef(uri), skos.prefLabel ,(Literal(name)) ))
+    graph.add((URIRef(uri), jl.occpation ,(URIRef('http://data.judaicalink.org/data/occupation/Rabbi')) ))
 
 graph.serialize(destination='Encyc.rdf', format="turtle")
 
