@@ -12,4 +12,9 @@ The output RDF file, generated_person_dbpedia.ttl,  is stored in output folder i
 For the generated persons who also had a link to Wikidata, we generated their gndid, by extrating the id from Wikidata when availabe. To do so we used the gndid_generator.py script.
 The script would pars the generated_person_dbpedia.ttl file, and extract the wikidata URIs and then by accessing wikidara sparql endpoint (https://query.wikidata.org/sparql) , would extract the corresponding gndid
 of that person. 
-The RDF output file, generated_gndid.ttl, is stored in output folder in Turtle format. 
+
+
+
+After generating other datasets for JudaicaLink, we realized that the attributes' formats are not unified and consistent among all datasets. To resolve this issue we had to make some modifications in the above mentioned files to adapt our data to the other datasets. 
+The files generated_person_dbpedia_modified.ttl and generated_person_dbpedia_modified_gnd.ttl were generated using the person_generator_DBPedia_modify.py and person_generator_DBPedia_modify_gnd.py scripts respectively. In the first file the prefLabel is generated based on the other dataset’s formats.  And in the second generated file the gndid of the persons are integrated into the dataset using the persons-gndid.ttl file. 
+All the generated files are in the output folder and the scripts are in scripts folder. 
