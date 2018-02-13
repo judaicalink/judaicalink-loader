@@ -21,3 +21,8 @@ generated_persons_GND_Occontology_02.ttl which is stored in output folder. This 
 In these scripts, the GND dump which is already loaded on our fuskei triple store, is accessed by connecting to the sparql endpoint. 
 The current directory (chdir) can be modified and set locally.  
 
+
+The file Freimann-GND-enriched-05.ttl is generated using Freimann-GND-enrich.py script (in scripts folder) and Freimann-GND-03.rdf file (in sources folder). This file contains all the authors from the Freimann collection of University Library of Frankfurt who were enriched with their GND-ID information. 
+
+
+Using the scrip and the Freimann-GND-03.rdf file, the final file is generated in 5 stages as can be seen in the script: Freimann-GND-enriched-01.ttl , 02, 03, 04 and 05. In each stage a different query is used inorder to enrich the data with as much further information as possible from GND.    
