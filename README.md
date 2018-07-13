@@ -4,7 +4,9 @@
 
 
 The folder ‘generators’ contains the description and materials regarding the content generated for JudaicaLink knowledge base.  Inside this folder: 
+
 •	The folder ‘Datasets’ contains all the datasets created for the JudaicaLink as well as the source code and description of the process. 
+
 •	The folder ‘Ontology’ contains the JudaicaLink ontology description.  
 
 The folder ‘loader’ contains Python source codes for Hugo-based dataset loader. 
