@@ -11,4 +11,12 @@ The folder ‘generators’ contains the description and materials regarding the
 
 The folder ‘loader’ contains Python source codes for Hugo-based dataset loader. 
 
+The main JudaicaLink website is driven by the static site generator Hugo. We use the metadata of the web pages (Hugo frontmatter) to control the data publication process which is fully automated. On every push to the master branch, Github triggers an update script on our server that pulls the latest changes, rebuilds the website using Hugo and updates the data in the triple store according to the page metadata.
+This way we ensure that the dataset descriptions on the web site, the data dumps and the data loaded in JudaicaLink are always consistent. The Hugo sources are collaboratively maintained using GitHub. 
+ 
+Every dataset corresponds to a name graph that can later on be accessed in the triple store. Datasets may consist of more than one data file since they might have been further expanded over time or may content different data components. 
+
+Users can download JudaicaLink datasets from the webpage of JudaicaLink . The datasets can also be browsed as Linked Open Data using Pubby (with DM2E extensions) as Web Frontend. Furthermore, a public SPARQL endpoint is available.
+
+
 
