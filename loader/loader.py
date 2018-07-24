@@ -29,9 +29,3 @@ for file in os.listdir(hugo_dir):
                 else:
                     print("Unloading graph: {}".format(d["graph"]))
                     s.unload(endpoint, d["graph"])
-
-
-
-
-
-
