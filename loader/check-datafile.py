@@ -24,7 +24,7 @@ data.parse(DATAFILE, format="turtle")
 
 result = ont.query("SELECT ?p WHERE {?p a rdf:Property}")
 
-properties = [b["p"] for b in result.bindings]
+properties = [str(b["p"]) for b in result.bindings]
 
 print("Checking all properties in our ontology:")
 for p in properties:
