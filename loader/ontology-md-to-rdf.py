@@ -9,7 +9,7 @@ import os
 files = sys.argv[1] #insert the file name from the commant line
 f = open(files, 'r')
 
-output = open('judaicalink-ontology.rdf','w')
+output = open('judaicalink-ontology.ttl','w')
 
 incode = False
 for line in f:
