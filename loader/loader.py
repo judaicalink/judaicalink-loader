@@ -23,7 +23,7 @@ for file in os.listdir(hugo_dir):
                         s.unload(endpoint, d["graph"])
                         for f in d["files"]:
                             if f["url"].endswith(".ttl.gz") or f["url"].endswith(".ttl")
-                            f["url"].endswith(".nt.gz") or f["url"].endswith(".nt"):
+                            or f["url"].endswith(".nt.gz") or f["url"].endswith(".nt"):
                                 s.load(f["url"].replace(global_dir, local_dir), endpoint, d["graph"])
                     else:
                         print("No files found to be loaded!")
