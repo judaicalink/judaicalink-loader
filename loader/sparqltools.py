@@ -1,6 +1,7 @@
 import gzip
 from SPARQLWrapper import SPARQLWrapper, JSON
 import time
+import io
 
 def insert(sparql, prefixes, graph, data):
     query = "%s INSERT { GRAPH <%s> { %s } } WHERE {}" % (prefixes, graph, data)
@@ -112,9 +113,9 @@ def load(file, endpoint, graph):
     with openfunc(file, "rt", encoding="utf8") as f:
         r = Reader(f)
         resources = 0
-        start = time.clock()
+        start = time.time()
         while True:
-            cycle = time.clock()
+            cycle = time.time()
             last = r.linecount
             data, chunks = r.read_until_fullstop(10000)
             resources += chunks
@@ -131,9 +132,9 @@ def load(file, endpoint, graph):
                   (resources,
                    r.linecount-last,
                    r.linecount,
-                   time.clock() - cycle,
-                   (r.linecount-last) / (time.clock()-cycle),
-                   time.clock()-start,
-                   (r.linecount) / (time.clock()-start)))
+                   (time.time() - cycle)/1000,
+                   (r.linecount-last) / ((time.time()-cycle)/1000),
+                   (time.time()-start)/1000,
+                   (r.linecount) / ((time.time()-start)/1000)))
 
         print("Finished!")
