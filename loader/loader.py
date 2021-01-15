@@ -1,8 +1,9 @@
 import hugotools as h
 import os
 import sparqltools as s
+import io
 
-hugo_dir = "/data/judaicalink/judaicalink-site/content/datasets/"
+hugo_dir = "/data/judaicalink/web.judaicalink.org/hugo/judaicalink-site/content/datasets"
 local_dir = "/data/judaicalink/dumps/"
 global_dir = "http://data.judaicalink.org/dumps/"
 endpoint = "http://localhost:8080/fuseki/judaicalink/update"
@@ -22,7 +23,8 @@ for file in os.listdir(hugo_dir):
                         print(d["files"])
                         s.unload(endpoint, d["graph"])
                         for f in d["files"]:
-                            s.load(f["url"].replace(global_dir, local_dir), endpoint, d["graph"])
+                            if f["url"].endswith(".ttl.gz") or f["url"].endswith(".ttl"):
+                                s.load(f["url"].replace(global_dir, local_dir), endpoint, d["graph"])
                     else:
                         print("No files found to be loaded!")
 
