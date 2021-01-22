@@ -11,6 +11,7 @@ endpoint = "http://localhost:8080/fuseki/judaicalink/update"
 
 for file in os.listdir(hugo_dir):
     if file.endswith(".md"):
+        print(f"Parsing: {file}")
         d = h.get_data("{}{}{}".format(hugo_dir, os.sep, file))
         print("Dataset found: {}".format(file))
         if "graph" in d:
