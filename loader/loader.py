@@ -6,7 +6,7 @@ import io
 hugo_dir = "/data/judaicalink/web.judaicalink.org/hugo/judaicalink-site/content/datasets/"
 local_dir = "/data/judaicalink/dumps/"
 global_dir = "http://data.judaicalink.org/dumps/"
-endpoint = "http://localhost:8080/fuseki/judaicalink/update"
+endpoint = "http://localhost:3030/judaicalink/update"
 
 
 for file in os.listdir(hugo_dir):
