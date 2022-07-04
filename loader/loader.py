@@ -1,6 +1,7 @@
 import hugotools as h
 import os
 import sparqltools as s
+import io
 
 hugo_dir = "/data/judaicalink/web.judaicalink.org/hugo/judaicalink-site/content/datasets/"
 local_dir = "/data/judaicalink/dumps/"

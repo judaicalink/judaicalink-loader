@@ -1,6 +1,7 @@
 import toml
 import json
 import yaml
+import io
 
 def get_toml(file, encoding="utf-8"):
     in_toml = False
