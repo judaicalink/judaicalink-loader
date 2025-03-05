@@ -6,9 +6,12 @@ import io
 hugo_dir = "/data/judaicalink/web.judaicalink.org/hugo/judaicalink-site/content/datasets/"
 local_dir = "/data/judaicalink/dumps/"
 global_dir = "http://data.judaicalink.org/dumps/"
-endpoint = "http://localhost:3030/judaicalink/update"
+endpoint = "http://fuseki:3030/judaicalink/update"
 
+# create the datasets
+s.create_dataset("judaicalink")
 
+# iterate over the files in the hugo directory
 for file in os.listdir(hugo_dir):
     if file.endswith(".md"):
         print(f"Parsing: {file}")
@@ -22,6 +25,7 @@ for file in os.listdir(hugo_dir):
                     if "files" in d:
                         print("Files in dataset:")
                         print(d["files"])
+                        s.create(endpoint, d["graph"])
                         s.unload(endpoint, d["graph"])
                         for f in d["files"]:
                             try:
