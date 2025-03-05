@@ -25,7 +25,7 @@ def create_dataset(url, dataset):
         return False
     # create the dataset
     else:
-        requests.post("http://fuseki:3030/$/datasets", data={"dbName": dataset, "dbType": "tdb2"})
+        requests.post(url+"/$/datasets", data={"dbName": dataset, "dbType": "tdb2"})
         return True
 
 

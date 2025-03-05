@@ -9,7 +9,7 @@ load_dotenv()
 hugo_dir = "/data/judaicalink/web.judaicalink.org/hugo/judaicalink-site/content/datasets/"
 local_dir = "/data/judaicalink/dumps/"
 global_dir = "http://data.judaicalink.org/dumps/"
-url = os.getenv("FUSEKI_URL")
+url = os.getenv("FUSEKI_SERVER")
 endpoint = url + "/judaicalink/update"
 
 # create the datasets
