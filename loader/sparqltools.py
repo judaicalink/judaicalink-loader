@@ -10,7 +10,7 @@ def create_dataset(url, dataset):
     if res.status_code != 200:
         return False
     # check if the dataset exists in datasets, ds.name
-    if dataset in res.json()["datasets"]["ds.name"]:
+    if dataset in res.text:
         return False
     # create the dataset
     else:
