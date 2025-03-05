@@ -6,10 +6,11 @@ import io
 hugo_dir = "/data/judaicalink/web.judaicalink.org/hugo/judaicalink-site/content/datasets/"
 local_dir = "/data/judaicalink/dumps/"
 global_dir = "http://data.judaicalink.org/dumps/"
-endpoint = "http://fuseki:3030/judaicalink/update"
+url = "http://fuseki:3030"
+endpoint = url + "/judaicalink/update"
 
 # create the datasets
-s.create_dataset("judaicalink")
+s.create_dataset(url, "judaicalink")
 
 # iterate over the files in the hugo directory
 for file in os.listdir(hugo_dir):

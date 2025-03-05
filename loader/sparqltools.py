@@ -4,11 +4,13 @@ import time
 import requests
 
 
-def create_dataset(dataset):
+def create_dataset(url, dataset):
     # requests get the datasets
-    res = requests.get("http://fuseki:3030/$/datasets")
-    # check if the dataset exists
-    if dataset in res.json():
+    res = requests.get(url)
+    if res.status_code != 200:
+        return False
+    # check if the dataset exists in datasets, ds.name
+    if dataset in res.json()["datasets"]["ds.name"]:
         return False
     # create the dataset
     else:
