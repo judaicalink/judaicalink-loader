@@ -4,4 +4,4 @@ rdflib
 hugo
 sparqlwrapper
 requests
-environ
+dotenv

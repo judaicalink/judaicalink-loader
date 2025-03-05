@@ -4,12 +4,17 @@ import os
 from SPARQLWrapper import SPARQLWrapper, JSON
 import time
 import requests
-import environ
+from dotenv import load_dotenv
+
+load_dotenv()
+
+FUSEKI_USER = os.getenv('FUSEKI_USER')
+FUSEKI_PASSWORD = os.getenv('FUSEKI_PASSWORD')
 
 
 def create_dataset(url, dataset):
     # requests get the datasets
-    res = requests.get(url+'/$/datasets', data={"user": environ.get("FUSEKI_USER"), "password": environ.get("FUSEKI_PASSWORD")})
+    res = requests.get(url+'/$/datasets', data={"user": FUSEKI_USER, "password": FUSEKI_PASSWORD})
     print(res.status_code)
     if res.status_code != 200:
         return False
