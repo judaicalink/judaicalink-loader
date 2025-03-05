@@ -7,9 +7,11 @@ import requests
 def create_dataset(url, dataset):
     # requests get the datasets
     res = requests.get(url)
+    print(res.status_code)
     if res.status_code != 200:
         return False
     # check if the dataset exists in datasets, ds.name
+    print(res.text)
     print(res.json())
     if dataset in res.json():
         return False
