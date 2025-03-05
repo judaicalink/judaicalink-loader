@@ -9,7 +9,7 @@ import environ
 
 def create_dataset(url, dataset):
     # requests get the datasets
-    res = requests.get(url+'/$/datasets', data={"user": os.environ.get("FUSEKI_USER"), "password": os.environ.get("FUSEKI_PASSWORD")})
+    res = requests.get(url+'/$/datasets', data={"user": environ.get("FUSEKI_USER"), "password": environ.get("FUSEKI_PASSWORD")})
     print(res.status_code)
     if res.status_code != 200:
         return False

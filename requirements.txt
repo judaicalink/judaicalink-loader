@@ -1,0 +1,7 @@
+toml
+pyyaml
+rdflib
+hugo
+sparqlwrapper
+requests
+environ
