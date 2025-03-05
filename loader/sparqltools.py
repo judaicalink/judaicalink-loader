@@ -6,7 +6,7 @@ import requests
 
 def create_dataset(url, dataset):
     # requests get the datasets
-    res = requests.get(url)
+    res = requests.get(url+'/$/datasets')
     print(res.status_code)
     if res.status_code != 200:
         return False
