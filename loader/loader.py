@@ -2,11 +2,14 @@ import hugotools as h
 import os
 import sparqltools as s
 import io
+from dotenv import load_dotenv
+
+load_dotenv()
 
 hugo_dir = "/data/judaicalink/web.judaicalink.org/hugo/judaicalink-site/content/datasets/"
 local_dir = "/data/judaicalink/dumps/"
 global_dir = "http://data.judaicalink.org/dumps/"
-url = "http://fuseki:3030"
+url = os.getenv("FUSEKI_URL")
 endpoint = url + "/judaicalink/update"
 
 # create the datasets
