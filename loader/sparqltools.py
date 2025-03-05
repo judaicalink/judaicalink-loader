@@ -1,12 +1,15 @@
 import gzip
+import os
+
 from SPARQLWrapper import SPARQLWrapper, JSON
 import time
 import requests
+import environ
 
 
 def create_dataset(url, dataset):
     # requests get the datasets
-    res = requests.get(url+'/$/datasets')
+    res = requests.get(url+'/$/datasets', data={"user": os.environ.get("FUSEKI_USER"), "password": os.environ.get("FUSEKI_PASSWORD")})
     print(res.status_code)
     if res.status_code != 200:
         return False
