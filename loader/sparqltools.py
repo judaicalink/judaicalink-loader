@@ -155,10 +155,7 @@ def load(file, endpoint, graph):
             try:
                 insert(sparql, r.prefixes, graph, data)
             except Exception as e:
-                print("ERROR. More info in loader.log.")
-                log("Error occured at line %d:" % r.linecount)
-                log(e)
-                log("Data: " + data)
+                log(f"Error {e} occurred at line: {r.linecount}")
             print("%d: %d lines (%d) -- Time: %.2f seconds (%.2f lines/s), total: %.2f seconds (%.2f lines/s)" %
                   (resources,
                    r.linecount-last,
