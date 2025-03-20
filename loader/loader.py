@@ -33,6 +33,17 @@ def drop_graph(graph):
     else:
         logger.info(f"Graph {graph} does not exist, nothing to drop.")
 
+def load_file_into_graph(file_path, graph):
+    try:
+        if not os.path.exists(file_path):
+            logger.error(f"Specified file {file_path} does not exist.")
+            sys.exit(1)
+        logger.info(f"Loading file {file_path} into graph {graph} ...")
+        s.load(file_path, endpoint + '/update', graph)
+        logger.info(f"File {file_path} successfully loaded into graph {graph}.")
+    except Exception as e:
+        logger.error(f"Error loading file {file_path} into graph {graph}: {e}")
+
 def create_graph(graph):
     update = f'CREATE GRAPH <{graph}>'
     if not graph_exists(graph):
@@ -113,17 +124,9 @@ if args.file and args.dataset:
         d = h.get_data(md_path)
         if "graph" in d:
             graph = d["graph"]
-            logger.info(f"Loading custom file {args.file} into graph {graph} ...")
-            if not os.path.exists(args.file):
-                logger.error(f"Specified file {args.file} does not exist.")
-                sys.exit(1)
+            logger.info(f"Preparing graph {graph} for custom file load...")
             drop_graph(graph)
-            create_graph(graph)
-            try:
-                s.load(args.file, endpoint + '/update', graph)
-                logger.info(f"File {args.file} successfully loaded into graph {graph}.")
-            except Exception as e:
-                logger.error(f"Error loading file {args.file} into graph {graph}: {e}")
+            load_file_into_graph(args.file, graph)
         else:
             logger.error(f"No 'graph' key found in {dataset_file}.")
     else:
