@@ -20,7 +20,7 @@ def drop(sparql, graph):
     return sparql.query()
 
 def log(message):
-    f = open("log.txt", mode="a", encoding="utf8")
+    f = open("loader.log", mode="a", encoding="utf8")
     f.write(str(message))
 
 class Reader:
@@ -124,7 +124,7 @@ def load(file, endpoint, graph):
             try:
                 insert(sparql, r.prefixes, graph, data)
             except Exception as e:
-                print("ERROR. More info in log.txt.")
+                print("ERROR. More info in loader.log.")
                 log("Error occured at line %d:" % r.linecount)
                 log(e)
                 log("Data: " + data)
