@@ -2,37 +2,81 @@ import hugotools as h
 import os
 import sparqltools as s
 import io
+import argparse
+import logging
 
+# Directories and SPARQL endpoint
 hugo_dir = "/data/web.judaicalink.org/judaicalink-site/content/datasets/"
 local_dir = "/data/dumps/"
 global_dir = "http://data.judaicalink.org/dumps/"
 endpoint = "http://localhost:3030/judaicalink/update"
 
+# Argument parser
+parser = argparse.ArgumentParser(
+    description='Load and manage named graphs for JudaicaLink datasets.'
+)
+parser.add_argument('--dataset', type=str, help='Dataset acronym to load a specific dataset only.')
+parser.add_argument('--file', type=str, help='Specify a file to use for graph creation.')
+parser.add_argument('--drop-only', action='store_true', help='Only drop the graph without reloading.')
+args = parser.parse_args()
 
-for file in os.listdir(hugo_dir):
-    if file.endswith(".md"):
-        print(f"Parsing: {file}")
-        d = h.get_data("{}{}{}".format(hugo_dir, os.sep, file))
-        print("Dataset found: {}".format(file))
+# Logging setup
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger()
+
+# Function to load a single dataset
+def load_dataset(dataset_file):
+    try:
+        d = h.get_data(os.path.join(hugo_dir, dataset_file))
         if "graph" in d:
-            print("Target named graph:")
-            print(d["graph"])
-            if "loaded" in d:
-                if d["loaded"]:
-                    if "files" in d:
-                        print("Files in dataset:")
-                        print(d["files"])
-                        s.unload(endpoint, d["graph"])
-                        for f in d["files"]:
-                            try:
-                                if f["url"].endswith(".ttl.gz") or f["url"].endswith(".ttl") or \
-                                f["url"].endswith(".nt.gz") or f["url"].endswith(".nt"):
-                                    s.load(f["url"].replace(global_dir, local_dir), endpoint, d["graph"])
-                            except Exception as e:
-                                print(f"Error loading file: {f['url']}, Error: {e}")
-                    else:
-                        print("No files found to be loaded!")
-
+            graph = d["graph"]
+            logger.info(f"Target graph: {graph}")
+            if args.drop_only:
+                s.unload(endpoint, graph)
+                logger.info(f"Graph {graph} dropped successfully.")
+                return
+            if "loaded" in d and d["loaded"]:
+                if "files" in d:
+                    files = d["files"]
+                    logger.info(f"Files in dataset: {files}")
+                    s.unload(endpoint, graph)
+                    for f in files:
+                        try:
+                            file_url = f["url"].replace(global_dir, local_dir)
+                            if file_url.endswith((".ttl.gz", ".ttl", ".nt.gz", ".nt")):
+                                s.load(file_url, endpoint, graph)
+                                logger.info(f"File {file_url} successfully loaded into graph {graph}.")
+                        except Exception as e:
+                            logger.error(f"Error loading file {file_url} into graph {graph}: {e}")
                 else:
-                    print("Unloading graph: {}".format(d["graph"]))
-                    s.unload(endpoint, d["graph"])
+                    logger.warning(f"No files found to load in dataset {dataset_file}.")
+            else:
+                logger.info(f"Dropping graph: {graph}")
+                s.unload(endpoint, graph)
+                logger.info(f"Graph {graph} dropped successfully.")
+        else:
+            logger.warning(f"No 'graph' key found in dataset {dataset_file}. Skipping.")
+    except Exception as e:
+        logger.error(f"Error processing dataset {dataset_file}: {e}")
+
+# Main logic
+if args.file:
+    # Load dataset using a specific file
+    dataset_file = os.path.basename(args.file)
+    if os.path.exists(args.file):
+        load_dataset(dataset_file)
+    else:
+        logger.error(f"The specified file {args.file} does not exist.")
+elif args.dataset:
+    # Load a specific dataset by acronym
+    dataset_file = f"{args.dataset}.md"
+    if os.path.exists(os.path.join(hugo_dir, dataset_file)):
+        load_dataset(dataset_file)
+    else:
+        logger.error(f"Dataset {args.dataset} not found in {hugo_dir}.")
+else:
+    # Default: Load all datasets
+    for file in os.listdir(hugo_dir):
+        if file.endswith(".md"):
+            logger.info(f"Processing dataset file: {file}")
+            load_dataset(file)
