@@ -7,7 +7,7 @@ import sys
 from SPARQLWrapper import SPARQLWrapper2, XML , RDF , JSON , TURTLE
 
 
-def ontolgoy_checker(ontology,datafile):
+def ontology_checker(ontology,datafile):
 
     ont = Graph()
     ont.parse(ontology, format="turtle")
@@ -52,7 +52,7 @@ datafile = sys.argv[2]
 #ontology = 'C:\Users\Maral\Desktop\judaicalink-ontology.ttl'
 #datafile = 'C:\\Users\\Maral\\Desktop\\bhr-final-05.ttl'
 
-ontolgoy_checker(ontology,datafile)
+ontology_checker(ontology,datafile)
 
 
 

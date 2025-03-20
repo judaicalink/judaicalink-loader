@@ -27,7 +27,7 @@ def ontology_rdf(ontologyfile ):
 
 
 #insert the file name directly
-ontologyfile ='C:\Users\Maral\Desktop\judaicalink-ontology.md'
+ontologyfile ='/data/dumps/judaicalink-ontology/judaicalink-ontology.md'
 
 #insert the file name from the commant line
 #ontologyfile = sys.argv[1]

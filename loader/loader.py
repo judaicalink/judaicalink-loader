@@ -24,9 +24,12 @@ for file in os.listdir(hugo_dir):
                         print(d["files"])
                         s.unload(endpoint, d["graph"])
                         for f in d["files"]:
-                            if f["url"].endswith(".ttl.gz") or f["url"].endswith(".ttl") or \
-                            f["url"].endswith(".nt.gz") or f["url"].endswith(".nt"):
-                                s.load(f["url"].replace(global_dir, local_dir), endpoint, d["graph"])
+                            try:
+                                if f["url"].endswith(".ttl.gz") or f["url"].endswith(".ttl") or \
+                                f["url"].endswith(".nt.gz") or f["url"].endswith(".nt"):
+                                    s.load(f["url"].replace(global_dir, local_dir), endpoint, d["graph"])
+                            except Exception as e:
+                                print(f"Error loading file: {f['url']}, Error: {e}")
                     else:
                         print("No files found to be loaded!")
 
