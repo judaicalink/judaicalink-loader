@@ -91,14 +91,8 @@ if args.drop_only:
         logger.error(f"Dataset {args.dataset} not found in {hugo_dir}.")
     sys.exit(0)
 
-# Normal dataset loading logic
-if args.file:
-    dataset_file = os.path.basename(args.file)
-    if os.path.exists(args.file):
-        load_dataset(dataset_file)
-    else:
-        logger.error(f"The specified file {args.file} does not exist.")
-elif args.dataset:
+# Load only a specific dataset
+if args.dataset:
     dataset_file = f"{args.dataset}.md"
     if os.path.exists(os.path.join(hugo_dir, dataset_file)):
         load_dataset(dataset_file)
@@ -109,3 +103,29 @@ else:
         if file.endswith(".md"):
             logger.info(f"Processing dataset file: {file}")
             load_dataset(file)
+
+# Normal dataset loading logic
+if args.file and args.dataset:
+    # Use the dataset to locate the graph definition from its .md file
+    dataset_file = f"{args.dataset}.md"
+    md_path = os.path.join(hugo_dir, dataset_file)
+    if os.path.exists(md_path):
+        d = h.get_data(md_path)
+        if "graph" in d:
+            graph = d["graph"]
+            logger.info(f"Loading custom file {args.file} into graph {graph} ...")
+            if not os.path.exists(args.file):
+                logger.error(f"Specified file {args.file} does not exist.")
+                sys.exit(1)
+            drop_graph(graph)
+            create_graph(graph)
+            try:
+                s.load(args.file, endpoint + '/update', graph)
+                logger.info(f"File {args.file} successfully loaded into graph {graph}.")
+            except Exception as e:
+                logger.error(f"Error loading file {args.file} into graph {graph}: {e}")
+        else:
+            logger.error(f"No 'graph' key found in {dataset_file}.")
+    else:
+        logger.error(f"Dataset {args.dataset} not found in {hugo_dir}.")
+    sys.exit(0)
