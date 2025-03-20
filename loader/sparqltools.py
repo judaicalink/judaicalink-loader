@@ -23,6 +23,22 @@ def log(message):
     f = open("loader.log", mode="a", encoding="utf8")
     f.write(str(message))
 
+def ask(endpoint, query, requests=None):
+    headers = {'Accept': 'application/sparql-results+json'}
+    response = requests.post(endpoint, data={'query': query}, headers=headers)
+    response.raise_for_status()
+    data = response.json()
+    return data.get('boolean', False)
+
+def graph_exists(endpoint, graph_uri):
+    query = f'ASK WHERE {{ GRAPH <{graph_uri}> {{ ?s ?p ?o }} }}'
+    try:
+        exists = ask(endpoint, query)
+        return exists
+    except Exception as e:
+        print(f"Error checking if graph {graph_uri} exists: {e}")
+        return False
+
 class Reader:
     linecount = 0
     _file = None
