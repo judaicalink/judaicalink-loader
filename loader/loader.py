@@ -9,7 +9,7 @@ import sys
 hugo_dir = "/data/web.judaicalink.org/judaicalink-site/content/datasets/"
 local_dir = "/data/dumps/"
 global_dir = "http://data.judaicalink.org/dumps/"
-endpoint = "http://localhost:3030/judaicalink"
+endpoint = "http://localhost:3030/judaicalink/update"
 
 parser = argparse.ArgumentParser(
     description='Load and manage named graphs for JudaicaLink datasets.'

@@ -1,4 +1,5 @@
 import gzip
+import requests
 from SPARQLWrapper import SPARQLWrapper, JSON
 import time
 import io
@@ -23,31 +24,35 @@ def log(message):
     f = open("loader.log", mode="a", encoding="utf8")
     f.write(str(message))
 
-def ask(endpoint, query, requests=None):
+def ask(endpoint, query):
+    if not endpoint:
+        raise ValueError("SPARQL endpoint URL is missing.")
     headers = {'Accept': 'application/sparql-results+json'}
-    response = requests.post(endpoint, data={'query': query}, headers=headers)
-    response.raise_for_status()
-    data = response.json()
-    return data.get('boolean', False)
-
-def graph_exists(endpoint, graph_uri):
-    query = f'ASK WHERE {{ GRAPH <{graph_uri}> {{ ?s ?p ?o }} }}'
     try:
-        exists = ask(endpoint, query)
-        return exists
-    except Exception as e:
-        print(f"Error checking if graph {graph_uri} exists: {e}")
+        response = requests.post(endpoint, data={'query': query}, headers=headers)
+        response.raise_for_status()
+        data = response.json()
+        return data.get('boolean', False)
+    except requests.exceptions.RequestException as e:
+        print(f"SPARQL ASK query error: {e}")
         return False
 
-def update(endpoint, query, requests=None):
+def update(endpoint, query):
+    if not endpoint:
+        raise ValueError("SPARQL endpoint URL is missing.")
     headers = {'Content-Type': 'application/sparql-update'}
     try:
         response = requests.post(endpoint, data=query.encode('utf-8'), headers=headers)
         response.raise_for_status()
         return True
     except requests.exceptions.RequestException as e:
-        print(f"SPARQL Update error: {e}")
+        print(f"SPARQL UPDATE query error: {e}")
         return False
+
+def graph_exists(endpoint, graph_uri):
+    query = f'ASK WHERE {{ GRAPH <{graph_uri}> {{ ?s ?p ?o }} }}'
+    return ask(endpoint, query)
+
 
 class Reader:
     linecount = 0
