@@ -39,6 +39,16 @@ def graph_exists(endpoint, graph_uri):
         print(f"Error checking if graph {graph_uri} exists: {e}")
         return False
 
+def update(endpoint, query, requests=None):
+    headers = {'Content-Type': 'application/sparql-update'}
+    try:
+        response = requests.post(endpoint, data=query.encode('utf-8'), headers=headers)
+        response.raise_for_status()
+        return True
+    except requests.exceptions.RequestException as e:
+        print(f"SPARQL Update error: {e}")
+        return False
+
 class Reader:
     linecount = 0
     _file = None
